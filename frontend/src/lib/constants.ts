@@ -9,6 +9,8 @@ export const STORAGE_KEY_SOURCE = "vsp:source";
 export const SAVE_FILE_NAME = "SaveData";
 /** Largest file the reader accepts, to fail fast on a wrong file. */
 export const MAX_SAVE_BYTES = 16 * 1024 * 1024;
+/** The stripped sample save that ships with the app, relative to the base path. */
+export const SAMPLE_SAVE_PATH = "sample-save.json";
 
 /** Query key that carries the selected character on the characters page. */
 export const QUERY = {

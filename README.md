@@ -106,6 +106,15 @@ The generator writes only identifiers, derived labels, and add-on names. For a
 secret or an achievement it also writes the identifiers of what it unlocks and
 what it needs. It never writes game text, art, or decompiled code.
 
+### Refresh the sample save
+
+The "Load a sample" button loads `frontend/static/sample-save.json`. The script
+keeps only the fields that the app reads and replaces the save name.
+
+```bash
+pnpm sample /path/to/SaveData
+```
+
 ## Deployment
 
 A push to `main` builds the site and publishes it to GitHub Pages. The workflow

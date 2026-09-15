@@ -8,7 +8,9 @@
       "!.svelte-kit",
       "!pnpm-lock.yaml",
       // Generated from the game enums by tools/build-catalog.ts.
-      "!frontend/src/lib/generated"
+      "!frontend/src/lib/generated",
+      // Generated from a real save by tools/make-sample-save.ts. Kept compact, so it stays small.
+      "!frontend/static/sample-save.json"
     ]
   },
   "vcs": { "enabled": true, "clientKind": "git", "useIgnoreFile": true },

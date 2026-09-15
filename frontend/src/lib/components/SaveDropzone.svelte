@@ -1,6 +1,8 @@
 <script lang="ts">
-  import { SAVE_FILE_NAME } from "../constants.ts";
-  import { readSaveFile, SaveParseError } from "../save/parse.ts";
+  import { base } from "$app/paths";
+  import { SAMPLE_SAVE_PATH, SAVE_FILE_NAME } from "../constants.ts";
+  import { SAMPLE_SAVE_NAME } from "../save/fields.ts";
+  import { parseSave, readSaveFile, SaveParseError } from "../save/parse.ts";
   import { load } from "../save/store.svelte.ts";
 
   let dragging = $state(false);
@@ -15,6 +17,18 @@
       load(await readSaveFile(file), file.name);
     } catch (cause) {
       error = cause instanceof SaveParseError ? cause.message : "The file could not be read.";
+    }
+  }
+
+  /** Loads the stripped sample save that ships with the app. */
+  async function loadSample(): Promise<void> {
+    error = null;
+    try {
+      const response = await fetch(`${base}/${SAMPLE_SAVE_PATH}`);
+      if (!response.ok) throw new Error(String(response.status));
+      load(parseSave(await response.text()), SAMPLE_SAVE_NAME);
+    } catch {
+      error = "The sample save could not be loaded.";
     }
   }
 
@@ -42,11 +56,12 @@
   <h2>Load your save</h2>
   <p class="muted">
     Drop your <code>{SAVE_FILE_NAME}</code> file here, or pick it below. The file stays in your browser. Nothing is
-    uploaded.
+    uploaded. No save at hand? Load the sample to see what the app shows.
   </p>
 
   <div class="actions">
     <button type="button" class="primary" onclick={() => input?.click()}>Choose file</button>
+    <button type="button" onclick={() => void loadSample()}>Load a sample</button>
     <input
       bind:this={input}
       type="file"

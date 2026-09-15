@@ -17,7 +17,8 @@
     "lint": "biome ci .",
     "format": "biome check --write .",
     "test": "node --test --experimental-transform-types 'test/**/*.test.ts'",
-    "catalog": "node --experimental-transform-types tools/build-catalog.ts"
+    "catalog": "node --experimental-transform-types tools/build-catalog.ts",
+    "sample": "node --experimental-transform-types tools/make-sample-save.ts"
   },
   "devDependencies": {
     "@biomejs/biome": "2.5.13",

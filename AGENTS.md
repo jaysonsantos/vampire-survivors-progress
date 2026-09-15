@@ -23,6 +23,9 @@ This file records only what those skills do not cover.
 - The save stores arcanas as enum numbers. Every other identifier is a string.
 - Never commit a real save file. A real save holds personal play data. Use the
   synthetic fixture in `test/fixture.ts`.
+- `frontend/static/sample-save.json` is the one exception. `pnpm sample <path>`
+  derives it from a real save and keeps only the fields in
+  `frontend/src/lib/save/fields.ts`, with a fixed save name. A test checks that.
 
 ## The identifier catalog
 
