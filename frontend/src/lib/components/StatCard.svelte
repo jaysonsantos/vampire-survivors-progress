@@ -19,13 +19,14 @@
 <style>
   .stat {
     display: grid;
-    gap: 0.15rem;
+    gap: 0.2rem;
     align-content: start;
   }
 
   .value {
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     font-weight: 700;
     font-variant-numeric: tabular-nums;
+    line-height: 1.1;
   }
 </style>

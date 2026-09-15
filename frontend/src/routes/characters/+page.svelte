@@ -1,9 +1,12 @@
 <script lang="ts">
   import SaveDropzone from "$lib/components/SaveDropzone.svelte";
+  import SectionHeading from "$lib/components/SectionHeading.svelte";
+  import WikiLink from "$lib/components/WikiLink.svelte";
   import { MIN_SEARCH_LENGTH } from "$lib/constants.ts";
   import { formatCount, formatMinutes } from "$lib/save/format.ts";
   import { characterRows } from "$lib/save/stats.ts";
   import { saveStore } from "$lib/save/store.svelte.ts";
+  import { wikiSearchUrl } from "$lib/wiki.ts";
 
   let search = $state("");
   let onlyUnlocked = $state(true);
@@ -24,7 +27,7 @@
 {#if save === null}
   <SaveDropzone />
 {:else}
-  <h1>Characters</h1>
+  <SectionHeading title="Characters" level="h1" wiki="characters" wikiLabel="All characters and unlocks" />
 
   <div class="toolbar">
     <input type="search" placeholder="Filter characters" bind:value={search} aria-label="Filter characters" />
@@ -45,12 +48,15 @@
           <th class="num">Egg bonus</th>
           <th class="num">Skins</th>
           <th>State</th>
+          <th>Wiki</th>
         </tr>
       </thead>
       <tbody>
         {#each shown as row (row.id)}
-          <tr>
-            <td>{row.label}</td>
+          <tr class:locked={!row.unlocked}>
+            <td class="name">
+              <a href={wikiSearchUrl(row.label)} target="_blank" rel="noopener noreferrer" title={row.id}>{row.label}</a>
+            </td>
             <td class="num">{formatMinutes(row.survivedMinutes)}</td>
             <td class="num">{formatCount(row.enemiesKilled)}</td>
             <td class="num">{row.stagesCompleted}</td>
@@ -58,8 +64,13 @@
             <td class="num">{row.hasEgg ? formatCount(row.eggTotal) : "—"}</td>
             <td class="num">{row.skins > 0 ? row.skins : "—"}</td>
             <td>
-              <span class="tag" class:off={!row.unlocked}>{row.unlocked ? "Unlocked" : "Locked"}</span>
-              {#if row.bought}<span class="tag">Bought</span>{/if}
+              <span class="tag" class:good={row.unlocked} class:off={!row.unlocked}>
+                {row.unlocked ? "Unlocked" : "Locked"}
+              </span>
+              {#if row.bought}<span class="tag gold">Bought</span>{/if}
+            </td>
+            <td>
+              <WikiLink href={wikiSearchUrl(row.label)} label={row.unlocked ? "Details" : "How to unlock"} kind="pill" />
             </td>
           </tr>
         {/each}
@@ -71,3 +82,9 @@
     <p class="muted">No character matches that filter.</p>
   {/if}
 {/if}
+
+<style>
+  tr.locked td.name a {
+    color: var(--text-muted);
+  }
+</style>

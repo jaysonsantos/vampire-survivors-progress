@@ -1,10 +1,13 @@
 <script lang="ts">
   import { labelFor } from "$lib/catalog.ts";
   import SaveDropzone from "$lib/components/SaveDropzone.svelte";
+  import SectionHeading from "$lib/components/SectionHeading.svelte";
+  import WikiLink from "$lib/components/WikiLink.svelte";
   import { COMPLETE_THRESHOLD } from "$lib/constants.ts";
   import { formatCount, formatMinutes } from "$lib/save/format.ts";
   import { completionMatrix, stageRows } from "$lib/save/stats.ts";
   import { saveStore } from "$lib/save/store.svelte.ts";
+  import { wikiSearchUrl } from "$lib/wiki.ts";
 
   let showMatrix = $state(false);
 
@@ -18,7 +21,7 @@
 {#if save === null}
   <SaveDropzone />
 {:else}
-  <h1>Stages</h1>
+  <SectionHeading title="Stages" level="h1" wiki="stages" wikiLabel="All stages and unlocks" />
 
   <div class="toolbar">
     <label class="small"><input type="checkbox" bind:checked={showMatrix} /> Show the character grid</label>
@@ -28,7 +31,7 @@
 
   {#if showMatrix}
     <p class="small muted legend">
-      <span class="tag">✓ cleared</span>
+      <span class="tag good">✓ cleared</span>
       <span class="tag">· played, not cleared</span>
       <span class="tag off">blank: never started</span>
     </p>
@@ -45,7 +48,7 @@
         <tbody>
           {#each matrix.rows as row (row.character)}
             <tr>
-              <td class="sticky-col">{row.label}</td>
+              <td class="sticky-col name">{row.label}</td>
               {#each row.cells as cell, index (matrix.stages[index])}
                 <td class="cell" class:done={(cell?.complete ?? 0) >= COMPLETE_THRESHOLD}>
                   {#if cell === undefined}
@@ -73,19 +76,33 @@
             <th class="num">Best survived</th>
             <th class="num">Runs</th>
             <th>State</th>
+            <th>Wiki</th>
           </tr>
         </thead>
         <tbody>
           {#each rows as row (row.id)}
             <tr>
-              <td>{row.label}</td>
+              <td class="name">
+                <a href={wikiSearchUrl(row.label)} target="_blank" rel="noopener noreferrer" title={row.id}>
+                  {row.label}
+                </a>
+              </td>
               <td class="num">{row.charactersCompleted}</td>
               <td class="num">{row.charactersPlayed}</td>
               <td class="num">{formatMinutes(row.bestSurvivedMinutes)}</td>
               <td class="num">{formatCount(row.totalRuns)}</td>
               <td>
-                <span class="tag" class:off={!row.unlocked}>{row.unlocked ? "Unlocked" : "Locked"}</span>
-                {#if row.hyperUnlocked}<span class="tag">Hyper</span>{/if}
+                <span class="tag" class:good={row.unlocked} class:off={!row.unlocked}>
+                  {row.unlocked ? "Unlocked" : "Locked"}
+                </span>
+                {#if row.hyperUnlocked}<span class="tag gold">Hyper</span>{/if}
+              </td>
+              <td>
+                <WikiLink
+                  href={wikiSearchUrl(row.label)}
+                  label={row.unlocked && row.hyperUnlocked ? "Details" : "How to unlock"}
+                  kind="pill"
+                />
               </td>
             </tr>
           {/each}
@@ -116,6 +133,8 @@
 
   th.tight {
     font-size: 0.72rem;
+    text-transform: none;
+    letter-spacing: 0;
     writing-mode: vertical-rl;
     transform: rotate(180deg);
     height: 8.5rem;

@@ -46,7 +46,7 @@
   </p>
 
   <div class="actions">
-    <button type="button" onclick={() => input?.click()}>Choose file</button>
+    <button type="button" class="primary" onclick={() => input?.click()}>Choose file</button>
     <input
       bind:this={input}
       type="file"

@@ -2,7 +2,9 @@
   import { base } from "$app/paths";
   import { page } from "$app/state";
   import "../app.css";
+  import WikiLink from "$lib/components/WikiLink.svelte";
   import { clear, restore, saveStore } from "$lib/save/store.svelte.ts";
+  import { wikiPageUrl } from "$lib/wiki.ts";
 
   interface Props {
     children: import("svelte").Snippet;
@@ -29,10 +31,10 @@
 
 <div class="shell">
   <header class="masthead">
-    <div class="brand">
+    <a class="brand" href="{base}/">
       <img src="{base}/favicon.svg" alt="" />
-      <span>Vampire Survivors Progress</span>
-    </div>
+      <span>Vampire Survivors <span class="brand-accent">Progress</span></span>
+    </a>
 
     <nav class="tabs" aria-label="Sections">
       {#each TABS as tab (tab.href)}
@@ -40,12 +42,13 @@
       {/each}
     </nav>
 
-    {#if saveStore.loaded}
-      <div class="loaded small">
-        <span class="muted">{saveStore.source ?? "save"}</span>
+    <div class="side small">
+      <WikiLink href={wikiPageUrl("home")} label="Wiki" kind="pill" />
+      {#if saveStore.loaded}
+        <span class="source muted" title={saveStore.source ?? "save"}>{saveStore.source ?? "save"}</span>
         <button type="button" onclick={clear}>Unload</button>
-      </div>
-    {/if}
+      {/if}
+    </div>
   </header>
 
   <main>
@@ -55,19 +58,32 @@
   <footer class="small muted">
     <p>
       Everything runs in your browser. Your save is never uploaded. This is a fan tool and is not connected to poncle.
+      Unlock guides link to the community
+      <a href={wikiPageUrl("home")} target="_blank" rel="noopener noreferrer">Vampire Survivors Wiki</a>.
     </p>
   </footer>
 </div>
 
 <style>
-  .loaded {
+  .brand-accent {
+    color: var(--accent-soft);
+  }
+
+  .side {
     display: flex;
     align-items: center;
     gap: 0.5rem;
   }
 
+  .source {
+    max-width: 14ch;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
   footer {
-    margin-top: 2.5rem;
+    margin-top: 3rem;
     border-top: 1px solid var(--border);
     padding-top: 0.75rem;
   }
