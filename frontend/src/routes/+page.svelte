@@ -29,9 +29,7 @@
   <p class="muted small">Platform: {save.Platform ?? "unknown"}</p>
 
   <h2 class="section">Completion</h2>
-  <p class="small muted lead">
-    These four compare your save against a fixed list, so the percentage is exact.
-  </p>
+  <p class="small muted lead">Each number below compares your save against a fixed list, so the percentage is exact.</p>
   <section class="grid">
     <TallyCard label="Arcanas" tally={summary.standardArcanas} />
     <TallyCard label="Darkanas" tally={summary.darkanas} />
