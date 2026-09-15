@@ -3,6 +3,10 @@
 A single-page app that reads a Vampire Survivors save file and shows your
 progress. The app runs fully in your browser. It never uploads your save.
 
+**[Open the app](https://jaysonsantos.github.io/vampire-survivors-progress/)**
+
+[![The overview page with the sample save loaded](./docs/screenshot.png)](https://jaysonsantos.github.io/vampire-survivors-progress/)
+
 ## What it shows
 
 - **Overview**: exact completion for arcanas, darkanas, power-up types, and
