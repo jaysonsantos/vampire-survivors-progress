@@ -10,6 +10,7 @@ import { ARCANA_PREFIX_DARKANA, ARCANA_PREFIX_STANDARD } from "./constants.ts";
 import achievementType from "./generated/catalog/achievement-type.json" with { type: "json" };
 import arcanaType from "./generated/catalog/arcana-type.json" with { type: "json" };
 import characterType from "./generated/catalog/character-type.json" with { type: "json" };
+import enemyType from "./generated/catalog/enemy-type.json" with { type: "json" };
 import itemType from "./generated/catalog/item-type.json" with { type: "json" };
 import powerUpType from "./generated/catalog/power-up-type.json" with { type: "json" };
 import secretType from "./generated/catalog/secret-type.json" with { type: "json" };
@@ -23,6 +24,7 @@ export const CATALOG = {
   achievements: achievementType as CatalogEntry[],
   arcanas: arcanaType as CatalogEntry[],
   characters: characterType as CatalogEntry[],
+  enemies: enemyType as CatalogEntry[],
   items: itemType as CatalogEntry[],
   powerUps: powerUpType as CatalogEntry[],
   secrets: secretType as CatalogEntry[],

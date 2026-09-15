@@ -11,6 +11,8 @@ This file records only what those skills do not cover.
 - `frontend/` holds every `.ts` and `.svelte` source file.
 - Manifests and tool configuration stay at the repository root.
 - `tools/` holds the catalog generator. It is TypeScript and runs on Node.
+- `tools/extract-game-data.py` is the one Python file. It needs UnityPy, which
+  nixpkgs does not package, so it runs from a local `.venv/` (ignored).
 - `test/` holds Node test runner tests.
 
 ## The save file
@@ -25,7 +27,11 @@ This file records only what those skills do not cover.
 ## The identifier catalog
 
 - `frontend/src/lib/generated/catalog/*.json` is generated. Do not edit it.
-- Regenerate it with `pnpm catalog <path-to-VampireSurvivors.Data>`.
+- Regenerate it with `pnpm catalog <path-to-VampireSurvivors.Data> <game-data-dir>`.
+  The second directory is the output of `tools/extract-game-data.py`. It holds
+  game text, so it stays outside this repository.
+- Secrets and achievements keep only the enum members that the game data tables
+  define. Each carries `rewards` and `requires` as identifiers.
 - The input is a decompiled game assembly. That input is not redistributable, so
   it stays outside this repository.
 - Write only identifiers, derived labels, and add-on names to the catalog. Never

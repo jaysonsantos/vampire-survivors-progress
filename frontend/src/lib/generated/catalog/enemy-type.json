@@ -1,0 +1,7466 @@
+[
+  {
+    "id": "BAT1",
+    "label": "Bat 1",
+    "value": 0,
+    "group": null
+  },
+  {
+    "id": "BAT2",
+    "label": "Bat 2",
+    "value": 1,
+    "group": null
+  },
+  {
+    "id": "BAT3",
+    "label": "Bat 3",
+    "value": 2,
+    "group": null
+  },
+  {
+    "id": "BAT4",
+    "label": "Bat 4",
+    "value": 3,
+    "group": null
+  },
+  {
+    "id": "BAT5",
+    "label": "Bat 5",
+    "value": 4,
+    "group": null
+  },
+  {
+    "id": "BAT6",
+    "label": "Bat 6",
+    "value": 5,
+    "group": null
+  },
+  {
+    "id": "BATSWARM",
+    "label": "Batswarm",
+    "value": 6,
+    "group": null
+  },
+  {
+    "id": "ZOMBIE",
+    "label": "Zombie",
+    "value": 7,
+    "group": null
+  },
+  {
+    "id": "SKELETON",
+    "label": "Skeleton",
+    "value": 8,
+    "group": null
+  },
+  {
+    "id": "SKELETON2",
+    "label": "Skeleton 2",
+    "value": 9,
+    "group": null
+  },
+  {
+    "id": "SKELETON3",
+    "label": "Skeleton 3",
+    "value": 10,
+    "group": null
+  },
+  {
+    "id": "SKELETON4",
+    "label": "Skeleton 4",
+    "value": 11,
+    "group": null
+  },
+  {
+    "id": "WEREWOLF",
+    "label": "Werewolf",
+    "value": 12,
+    "group": null
+  },
+  {
+    "id": "GHOST",
+    "label": "Ghost",
+    "value": 13,
+    "group": null
+  },
+  {
+    "id": "GHOST2",
+    "label": "Ghost 2",
+    "value": 14,
+    "group": null
+  },
+  {
+    "id": "GHOSTSWARM",
+    "label": "Ghostswarm",
+    "value": 15,
+    "group": null
+  },
+  {
+    "id": "FLOWER",
+    "label": "Flower",
+    "value": 16,
+    "group": null
+  },
+  {
+    "id": "MUDMAN1",
+    "label": "Mudman 1",
+    "value": 17,
+    "group": null
+  },
+  {
+    "id": "MUDMAN2",
+    "label": "Mudman 2",
+    "value": 18,
+    "group": null
+  },
+  {
+    "id": "TRINACRIA",
+    "label": "Trinacria",
+    "value": 19,
+    "group": null
+  },
+  {
+    "id": "BOSS_WEREWOLF",
+    "label": "Boss Werewolf",
+    "value": 20,
+    "group": null
+  },
+  {
+    "id": "MUD",
+    "label": "Mud",
+    "value": 21,
+    "group": null
+  },
+  {
+    "id": "BUER",
+    "label": "Buer",
+    "value": 22,
+    "group": null
+  },
+  {
+    "id": "MUMMY",
+    "label": "Mummy",
+    "value": 23,
+    "group": null
+  },
+  {
+    "id": "ECTO1",
+    "label": "Ecto 1",
+    "value": 24,
+    "group": null
+  },
+  {
+    "id": "ECTO2",
+    "label": "Ecto 2",
+    "value": 25,
+    "group": null
+  },
+  {
+    "id": "WITCH1",
+    "label": "Witch 1",
+    "value": 26,
+    "group": null
+  },
+  {
+    "id": "WITCH2",
+    "label": "Witch 2",
+    "value": 27,
+    "group": null
+  },
+  {
+    "id": "MEDUSA1",
+    "label": "Medusa 1",
+    "value": 28,
+    "group": null
+  },
+  {
+    "id": "MEDUSA2",
+    "label": "Medusa 2",
+    "value": 29,
+    "group": null
+  },
+  {
+    "id": "MEDUSA2_AGGRO",
+    "label": "Medusa 2 Aggro",
+    "value": 30,
+    "group": null
+  },
+  {
+    "id": "DULL0",
+    "label": "Dull 0",
+    "value": 31,
+    "group": null
+  },
+  {
+    "id": "DULL1",
+    "label": "Dull 1",
+    "value": 32,
+    "group": null
+  },
+  {
+    "id": "DULL2",
+    "label": "Dull 2",
+    "value": 33,
+    "group": null
+  },
+  {
+    "id": "SKULL2_SCALING",
+    "label": "Skull 2 Scaling",
+    "value": 34,
+    "group": null
+  },
+  {
+    "id": "SKULL2_EASY",
+    "label": "Skull 2 Easy",
+    "value": 35,
+    "group": null
+  },
+  {
+    "id": "SKULL2_SWARM",
+    "label": "Skull 2 Swarm",
+    "value": 36,
+    "group": null
+  },
+  {
+    "id": "BOSS_SKULL2",
+    "label": "Boss Skull 2",
+    "value": 37,
+    "group": null
+  },
+  {
+    "id": "SHADEBLUE",
+    "label": "Shadeblue",
+    "value": 38,
+    "group": null
+  },
+  {
+    "id": "SHADERED",
+    "label": "Shadered",
+    "value": 39,
+    "group": null
+  },
+  {
+    "id": "SKULLNOAURA",
+    "label": "Skullnoaura",
+    "value": 40,
+    "group": null
+  },
+  {
+    "id": "PILE4",
+    "label": "Pile 4",
+    "value": 41,
+    "group": null
+  },
+  {
+    "id": "PILE4_SCALED",
+    "label": "Pile 4 Scaled",
+    "value": 42,
+    "group": null
+  },
+  {
+    "id": "XLSKELETON",
+    "label": "XL Skeleton",
+    "value": 43,
+    "group": null
+  },
+  {
+    "id": "BOSS_XLSKELETON",
+    "label": "Boss XL Skeleton",
+    "value": 44,
+    "group": null
+  },
+  {
+    "id": "SKELEPANTHER",
+    "label": "Skelepanther",
+    "value": 45,
+    "group": null
+  },
+  {
+    "id": "SKELEGLOW",
+    "label": "Skeleglow",
+    "value": 46,
+    "group": null
+  },
+  {
+    "id": "SKELETONE",
+    "label": "Skeletone",
+    "value": 47,
+    "group": null
+  },
+  {
+    "id": "SKELEWING_ZONE",
+    "label": "Skelewing Zone",
+    "value": 48,
+    "group": null
+  },
+  {
+    "id": "SKELENIN_ZONE",
+    "label": "Skelenin Zone",
+    "value": 49,
+    "group": null
+  },
+  {
+    "id": "XLMAGIO",
+    "label": "XL Magio",
+    "value": 50,
+    "group": null
+  },
+  {
+    "id": "XLBAT",
+    "label": "XL Bat",
+    "value": 51,
+    "group": null
+  },
+  {
+    "id": "XLMUMMY",
+    "label": "XL Mummy",
+    "value": 52,
+    "group": null
+  },
+  {
+    "id": "XLMANTIS",
+    "label": "XL Mantis",
+    "value": 53,
+    "group": null
+  },
+  {
+    "id": "XLFLOWER",
+    "label": "XL Flower",
+    "value": 54,
+    "group": null
+  },
+  {
+    "id": "XLMEDUSA",
+    "label": "XL Medusa",
+    "value": 55,
+    "group": null
+  },
+  {
+    "id": "BOSS_XLMUMMY",
+    "label": "Boss XL Mummy",
+    "value": 56,
+    "group": null
+  },
+  {
+    "id": "BOSS_XLBAT",
+    "label": "Boss XL Bat",
+    "value": 57,
+    "group": null
+  },
+  {
+    "id": "BOSS_XLMANTIS",
+    "label": "Boss XL Mantis",
+    "value": 58,
+    "group": null
+  },
+  {
+    "id": "BOSS_XLFLOWER",
+    "label": "Boss XL Flower",
+    "value": 59,
+    "group": null
+  },
+  {
+    "id": "BOSS_XLDEATH",
+    "label": "Boss XL Death",
+    "value": 60,
+    "group": null
+  },
+  {
+    "id": "BOSS_XLSTALKER",
+    "label": "Boss XL Stalker",
+    "value": 61,
+    "group": null
+  },
+  {
+    "id": "BOSS_XLDROWNER",
+    "label": "Boss XL Drowner",
+    "value": 62,
+    "group": null
+  },
+  {
+    "id": "BOSS_ECTO",
+    "label": "Boss Ecto",
+    "value": 63,
+    "group": null
+  },
+  {
+    "id": "BOSS_MUD",
+    "label": "Boss Mud",
+    "value": 64,
+    "group": null
+  },
+  {
+    "id": "BOSS_BUER",
+    "label": "Boss Buer",
+    "value": 65,
+    "group": null
+  },
+  {
+    "id": "BOSS_XLMEDUSA",
+    "label": "Boss XL Medusa",
+    "value": 66,
+    "group": null
+  },
+  {
+    "id": "BOSS_COUNT1",
+    "label": "Boss Count 1",
+    "value": 67,
+    "group": null
+  },
+  {
+    "id": "BOSS_COUNT2",
+    "label": "Boss Count 2",
+    "value": 68,
+    "group": null
+  },
+  {
+    "id": "BOSS_MEDUSA1",
+    "label": "Boss Medusa 1",
+    "value": 69,
+    "group": null
+  },
+  {
+    "id": "BOSS_WITCH2",
+    "label": "Boss Witch 2",
+    "value": 70,
+    "group": null
+  },
+  {
+    "id": "BOSS_XLLEDA",
+    "label": "Boss XL Leda",
+    "value": 71,
+    "group": null
+  },
+  {
+    "id": "SKULLINO",
+    "label": "Skullino",
+    "value": 72,
+    "group": null
+  },
+  {
+    "id": "SKULOROSSO",
+    "label": "Skulorosso",
+    "value": 73,
+    "group": null
+  },
+  {
+    "id": "SKELANGUE",
+    "label": "Skelangue",
+    "value": 74,
+    "group": null
+  },
+  {
+    "id": "DEVIL1",
+    "label": "Devil 1",
+    "value": 75,
+    "group": null
+  },
+  {
+    "id": "DEVIL3",
+    "label": "Devil 3",
+    "value": 76,
+    "group": null
+  },
+  {
+    "id": "ARMOR1",
+    "label": "Armor 1",
+    "value": 77,
+    "group": null
+  },
+  {
+    "id": "ARMOR2",
+    "label": "Armor 2",
+    "value": 78,
+    "group": null
+  },
+  {
+    "id": "SKELEWING_INO",
+    "label": "Skelewing Ino",
+    "value": 79,
+    "group": null
+  },
+  {
+    "id": "BOSS_HARPY",
+    "label": "Boss Harpy",
+    "value": 80,
+    "group": null
+  },
+  {
+    "id": "IMP",
+    "label": "Imp",
+    "value": 81,
+    "group": null
+  },
+  {
+    "id": "HARPY",
+    "label": "Harpy",
+    "value": 82,
+    "group": null
+  },
+  {
+    "id": "HARPYV",
+    "label": "Harpyv",
+    "value": 83,
+    "group": null
+  },
+  {
+    "id": "PANTHER",
+    "label": "Panther",
+    "value": 84,
+    "group": null
+  },
+  {
+    "id": "POLTER_DEST",
+    "label": "Polter Dest",
+    "value": 85,
+    "group": null
+  },
+  {
+    "id": "POLTER",
+    "label": "Polter",
+    "value": 86,
+    "group": null
+  },
+  {
+    "id": "BOSS_PANTHER",
+    "label": "Boss Panther",
+    "value": 87,
+    "group": null
+  },
+  {
+    "id": "XLDRAGON1",
+    "label": "Xldragon 1",
+    "value": 88,
+    "group": null
+  },
+  {
+    "id": "XLDRAGON2",
+    "label": "Xldragon 2",
+    "value": 89,
+    "group": null
+  },
+  {
+    "id": "XLDRAGON1_FLAG",
+    "label": "Xldragon 1 Flag",
+    "value": 90,
+    "group": null
+  },
+  {
+    "id": "XLDRAGON2_FLAG",
+    "label": "Xldragon 2 Flag",
+    "value": 91,
+    "group": null
+  },
+  {
+    "id": "XLDRAGON3_FLAG",
+    "label": "Xldragon 3 Flag",
+    "value": 92,
+    "group": null
+  },
+  {
+    "id": "BOSS_XLDRAGON1",
+    "label": "Boss Xldragon 1",
+    "value": 93,
+    "group": null
+  },
+  {
+    "id": "BOSS_XLDRAGON2",
+    "label": "Boss Xldragon 2",
+    "value": 94,
+    "group": null
+  },
+  {
+    "id": "BOSS_XLARMOR1",
+    "label": "Boss Xlarmor 1",
+    "value": 95,
+    "group": null
+  },
+  {
+    "id": "BOSS_XLARMOR2",
+    "label": "Boss Xlarmor 2",
+    "value": 96,
+    "group": null
+  },
+  {
+    "id": "XLARMOR1",
+    "label": "Xlarmor 1",
+    "value": 97,
+    "group": null
+  },
+  {
+    "id": "XLARMOR2",
+    "label": "Xlarmor 2",
+    "value": 98,
+    "group": null
+  },
+  {
+    "id": "BOSS_XLCRAB",
+    "label": "Boss XL Crab",
+    "value": 99,
+    "group": null
+  },
+  {
+    "id": "BOSS_XLPINCER",
+    "label": "Boss XL Pincer",
+    "value": 100,
+    "group": null
+  },
+  {
+    "id": "BOSS_GALLO",
+    "label": "Boss Gallo",
+    "value": 101,
+    "group": null
+  },
+  {
+    "id": "MILK",
+    "label": "Milk",
+    "value": 102,
+    "group": null
+  },
+  {
+    "id": "FISHMAN_1",
+    "label": "Fishman 1",
+    "value": 103,
+    "group": null
+  },
+  {
+    "id": "LIZARD1_2",
+    "label": "Lizard 1 2",
+    "value": 104,
+    "group": null
+  },
+  {
+    "id": "LIZARD2_3",
+    "label": "Lizard 2 3",
+    "value": 105,
+    "group": null
+  },
+  {
+    "id": "ARMOR_6",
+    "label": "Armor 6",
+    "value": 106,
+    "group": null
+  },
+  {
+    "id": "ARMORSPEAR_6",
+    "label": "Armorspear 6",
+    "value": 107,
+    "group": null
+  },
+  {
+    "id": "MERMA1_3",
+    "label": "Merma 1 3",
+    "value": 108,
+    "group": null
+  },
+  {
+    "id": "MERMA2_4",
+    "label": "Merma 2 4",
+    "value": 109,
+    "group": null
+  },
+  {
+    "id": "BOSS_MERMAN",
+    "label": "Boss Merman",
+    "value": 110,
+    "group": null
+  },
+  {
+    "id": "MIGNO1_5",
+    "label": "Migno 1 5",
+    "value": 111,
+    "group": null
+  },
+  {
+    "id": "MIGNO3_5",
+    "label": "Migno 3 5",
+    "value": 112,
+    "group": null
+  },
+  {
+    "id": "MIGNO_3_5SWARM",
+    "label": "Migno 3 5swarm",
+    "value": 113,
+    "group": null
+  },
+  {
+    "id": "JELLYFISH",
+    "label": "Jellyfish",
+    "value": 114,
+    "group": null
+  },
+  {
+    "id": "JELLYFISH2",
+    "label": "Jellyfish 2",
+    "value": 115,
+    "group": null
+  },
+  {
+    "id": "JELLYFISH2_SWARM",
+    "label": "Jellyfish 2 Swarm",
+    "value": 116,
+    "group": null
+  },
+  {
+    "id": "PILE1",
+    "label": "Pile 1",
+    "value": 117,
+    "group": null
+  },
+  {
+    "id": "PILE2",
+    "label": "Pile 2",
+    "value": 118,
+    "group": null
+  },
+  {
+    "id": "PILE3",
+    "label": "Pile 3",
+    "value": 119,
+    "group": null
+  },
+  {
+    "id": "SKELENIN1",
+    "label": "Skelenin 1",
+    "value": 120,
+    "group": null
+  },
+  {
+    "id": "SKELENIN2",
+    "label": "Skelenin 2",
+    "value": 121,
+    "group": null
+  },
+  {
+    "id": "SKELEWING",
+    "label": "Skelewing",
+    "value": 122,
+    "group": null
+  },
+  {
+    "id": "XLARMOR_SWORD",
+    "label": "XL Armor Sword",
+    "value": 123,
+    "group": null
+  },
+  {
+    "id": "XLTRITON",
+    "label": "XL Triton",
+    "value": 124,
+    "group": null
+  },
+  {
+    "id": "BULLET_1",
+    "label": "Bullet 1",
+    "value": 125,
+    "group": null
+  },
+  {
+    "id": "BULLET_2",
+    "label": "Bullet 2",
+    "value": 126,
+    "group": null
+  },
+  {
+    "id": "BULLET_3",
+    "label": "Bullet 3",
+    "value": 127,
+    "group": null
+  },
+  {
+    "id": "BULLET_W",
+    "label": "Bullet W",
+    "value": 128,
+    "group": null
+  },
+  {
+    "id": "BULLET_Z",
+    "label": "Bullet Z",
+    "value": 129,
+    "group": null
+  },
+  {
+    "id": "PATROL_XLARMOR_SWORD",
+    "label": "Patrol XL Armor Sword",
+    "value": 130,
+    "group": null
+  },
+  {
+    "id": "PATROL_XLARMOR_1",
+    "label": "Patrol XL Armor 1",
+    "value": 131,
+    "group": null
+  },
+  {
+    "id": "PATROL_SKELEWING",
+    "label": "Patrol Skelewing",
+    "value": 132,
+    "group": null
+  },
+  {
+    "id": "PATROL_MIGNO_3_5SWARM",
+    "label": "Patrol Migno 3 5swarm",
+    "value": 133,
+    "group": null
+  },
+  {
+    "id": "PATROL_ARMOR_6",
+    "label": "Patrol Armor 6",
+    "value": 134,
+    "group": null
+  },
+  {
+    "id": "PATROL_SKELEWING_BIG",
+    "label": "Patrol Skelewing Big",
+    "value": 135,
+    "group": null
+  },
+  {
+    "id": "PATROL_WITCH",
+    "label": "Patrol Witch",
+    "value": 136,
+    "group": null
+  },
+  {
+    "id": "GOLEM1",
+    "label": "Golem 1",
+    "value": 137,
+    "group": null
+  },
+  {
+    "id": "XLCHIMERA",
+    "label": "XL Chimera",
+    "value": 138,
+    "group": null
+  },
+  {
+    "id": "XLCOCKATRICE",
+    "label": "XL Cockatrice",
+    "value": 139,
+    "group": null
+  },
+  {
+    "id": "XLGOLEM1",
+    "label": "Xlgolem 1",
+    "value": 140,
+    "group": null
+  },
+  {
+    "id": "XLGOLEM2",
+    "label": "Xlgolem 2",
+    "value": 141,
+    "group": null
+  },
+  {
+    "id": "XLGOLEM3",
+    "label": "Xlgolem 3",
+    "value": 142,
+    "group": null
+  },
+  {
+    "id": "XLGOLEM4",
+    "label": "Xlgolem 4",
+    "value": 143,
+    "group": null
+  },
+  {
+    "id": "BOSS_XLTRITON",
+    "label": "Boss XL Triton",
+    "value": 144,
+    "group": null
+  },
+  {
+    "id": "BOSS_PILE3",
+    "label": "Boss Pile 3",
+    "value": 145,
+    "group": null
+  },
+  {
+    "id": "BOSS_MIGNO2_5",
+    "label": "Boss Migno 2 5",
+    "value": 146,
+    "group": null
+  },
+  {
+    "id": "BOSS_MIGNO2_5_L",
+    "label": "Boss Migno 2 5 L",
+    "value": 147,
+    "group": null
+  },
+  {
+    "id": "BOSS_ARMOR1",
+    "label": "Boss Armor 1",
+    "value": 148,
+    "group": null
+  },
+  {
+    "id": "BOSS_XLCOCKATRICE",
+    "label": "Boss XL Cockatrice",
+    "value": 149,
+    "group": null
+  },
+  {
+    "id": "BOSS_XLGOLEM1",
+    "label": "Boss Xlgolem 1",
+    "value": 150,
+    "group": null
+  },
+  {
+    "id": "BOSS_XLGOLEM2",
+    "label": "Boss Xlgolem 2",
+    "value": 151,
+    "group": null
+  },
+  {
+    "id": "BOSS_XLARMOR",
+    "label": "Boss XL Armor",
+    "value": 152,
+    "group": null
+  },
+  {
+    "id": "BOSS_XLGOLEM1_29",
+    "label": "Boss Xlgolem 1 29",
+    "value": 153,
+    "group": null
+  },
+  {
+    "id": "BOSS_XLGOLEM2_29",
+    "label": "Boss Xlgolem 2 29",
+    "value": 154,
+    "group": null
+  },
+  {
+    "id": "MOLISANO_BASE",
+    "label": "Molisano Base",
+    "value": 155,
+    "group": null
+  },
+  {
+    "id": "MOLISANO_SECCO",
+    "label": "Molisano Secco",
+    "value": 156,
+    "group": null
+  },
+  {
+    "id": "MOLISANO_BELLO",
+    "label": "Molisano Bello",
+    "value": 157,
+    "group": null
+  },
+  {
+    "id": "MOLISANO_GROSSO",
+    "label": "Molisano Grosso",
+    "value": 158,
+    "group": null
+  },
+  {
+    "id": "MOLISANO_GIALLO",
+    "label": "Molisano Giallo",
+    "value": 159,
+    "group": null
+  },
+  {
+    "id": "MOLISANO_ROSSO",
+    "label": "Molisano Rosso",
+    "value": 160,
+    "group": null
+  },
+  {
+    "id": "MOLISANO_FAGIOLO",
+    "label": "Molisano Fagiolo",
+    "value": 161,
+    "group": null
+  },
+  {
+    "id": "MOLISANO_COLONNA",
+    "label": "Molisano Colonna",
+    "value": 162,
+    "group": null
+  },
+  {
+    "id": "MOLISANO_VECCHIO",
+    "label": "Molisano Vecchio",
+    "value": 163,
+    "group": null
+  },
+  {
+    "id": "MOLISANO_ANFORA",
+    "label": "Molisano Anfora",
+    "value": 164,
+    "group": null
+  },
+  {
+    "id": "MOON_ANFORA",
+    "label": "Moon Anfora",
+    "value": 165,
+    "group": null
+  },
+  {
+    "id": "MOON_JELLYFISH",
+    "label": "Moon Jellyfish",
+    "value": 166,
+    "group": null
+  },
+  {
+    "id": "MOON_CRABBINO",
+    "label": "Moon Crabbino",
+    "value": 167,
+    "group": null
+  },
+  {
+    "id": "MOON_BOSS_CRABBINO",
+    "label": "Moon Boss Crabbino",
+    "value": 168,
+    "group": null
+  },
+  {
+    "id": "MOON_SNEK",
+    "label": "Moon Snek",
+    "value": 169,
+    "group": null
+  },
+  {
+    "id": "MOON_SNEK_GREEN",
+    "label": "Moon Snek Green",
+    "value": 170,
+    "group": null
+  },
+  {
+    "id": "MOON_SNEK_RED",
+    "label": "Moon Snek Red",
+    "value": 171,
+    "group": null
+  },
+  {
+    "id": "MOON_GHOST",
+    "label": "Moon Ghost",
+    "value": 172,
+    "group": null
+  },
+  {
+    "id": "MOON_SHADEBLUE",
+    "label": "Moon Shadeblue",
+    "value": 173,
+    "group": null
+  },
+  {
+    "id": "MOON_FISHMAN",
+    "label": "Moon Fishman",
+    "value": 174,
+    "group": null
+  },
+  {
+    "id": "MOON_XLTRITON",
+    "label": "Moon XL Triton",
+    "value": 175,
+    "group": null
+  },
+  {
+    "id": "MOON_MEDUSA1",
+    "label": "Moon Medusa 1",
+    "value": 176,
+    "group": null
+  },
+  {
+    "id": "MOON_MEDUSA2",
+    "label": "Moon Medusa 2",
+    "value": 177,
+    "group": null
+  },
+  {
+    "id": "MOON_NIGHTSHADE",
+    "label": "Moon Nightshade",
+    "value": 178,
+    "group": null
+  },
+  {
+    "id": "MOON_GARLIC",
+    "label": "Moon Garlic",
+    "value": 179,
+    "group": null
+  },
+  {
+    "id": "MOON_BOSS_NIGHTSHADE",
+    "label": "Moon Boss Nightshade",
+    "value": 180,
+    "group": null
+  },
+  {
+    "id": "MOON_BOSS_GARLIC",
+    "label": "Moon Boss Garlic",
+    "value": 181,
+    "group": null
+  },
+  {
+    "id": "MOON_EYE1",
+    "label": "Moon Eye 1",
+    "value": 182,
+    "group": null
+  },
+  {
+    "id": "MOON_EYE2",
+    "label": "Moon Eye 2",
+    "value": 183,
+    "group": null
+  },
+  {
+    "id": "MOON_EYE3",
+    "label": "Moon Eye 3",
+    "value": 184,
+    "group": null
+  },
+  {
+    "id": "MOON_EYE1S",
+    "label": "Moon Eye 1s",
+    "value": 185,
+    "group": null
+  },
+  {
+    "id": "MOON_EYE2S",
+    "label": "Moon Eye 2s",
+    "value": 186,
+    "group": null
+  },
+  {
+    "id": "MOON_EYE3S",
+    "label": "Moon Eye 3s",
+    "value": 187,
+    "group": null
+  },
+  {
+    "id": "MOON_TRINACRIA",
+    "label": "Moon Trinacria",
+    "value": 188,
+    "group": null
+  },
+  {
+    "id": "MOON_TRINACRIA_X",
+    "label": "Moon Trinacria X",
+    "value": 189,
+    "group": null
+  },
+  {
+    "id": "MOON_MASK1",
+    "label": "Moon Mask 1",
+    "value": 190,
+    "group": null
+  },
+  {
+    "id": "MOON_MASK2",
+    "label": "Moon Mask 2",
+    "value": 191,
+    "group": null
+  },
+  {
+    "id": "MOON_MASK3",
+    "label": "Moon Mask 3",
+    "value": 192,
+    "group": null
+  },
+  {
+    "id": "MOON_MASK4",
+    "label": "Moon Mask 4",
+    "value": 193,
+    "group": null
+  },
+  {
+    "id": "MOON_MASK5",
+    "label": "Moon Mask 5",
+    "value": 194,
+    "group": null
+  },
+  {
+    "id": "MOON_BAT",
+    "label": "Moon Bat",
+    "value": 195,
+    "group": null
+  },
+  {
+    "id": "MOON_BAT_PROJECTILE",
+    "label": "Moon Bat Projectile",
+    "value": 196,
+    "group": null
+  },
+  {
+    "id": "MOON_SHADE",
+    "label": "Moon Shade",
+    "value": 197,
+    "group": null
+  },
+  {
+    "id": "BOSS_XLMADDENER",
+    "label": "Boss XL Maddener",
+    "value": 198,
+    "group": null
+  },
+  {
+    "id": "MASK_GOLD",
+    "label": "Mask Gold",
+    "value": 199,
+    "group": null
+  },
+  {
+    "id": "MASK_SILVER",
+    "label": "Mask Silver",
+    "value": 200,
+    "group": null
+  },
+  {
+    "id": "MASK_LEFT",
+    "label": "Mask Left",
+    "value": 201,
+    "group": null
+  },
+  {
+    "id": "MASK_RIGHT",
+    "label": "Mask Right",
+    "value": 202,
+    "group": null
+  },
+  {
+    "id": "BOSS_NOOB",
+    "label": "Boss Noob",
+    "value": 203,
+    "group": null
+  },
+  {
+    "id": "BOSS_WEREWOLF2",
+    "label": "Boss Werewolf 2",
+    "value": 204,
+    "group": null
+  },
+  {
+    "id": "BOSS_MADDENER_NORMAL",
+    "label": "Boss Maddener Normal",
+    "value": 205,
+    "group": null
+  },
+  {
+    "id": "TRAINEE_Y",
+    "label": "Trainee Y",
+    "value": 206,
+    "group": null
+  },
+  {
+    "id": "FANGEL1",
+    "label": "Fangel 1",
+    "value": 207,
+    "group": null
+  },
+  {
+    "id": "FANGEL2",
+    "label": "Fangel 2",
+    "value": 208,
+    "group": null
+  },
+  {
+    "id": "FANGEL3",
+    "label": "Fangel 3",
+    "value": 209,
+    "group": null
+  },
+  {
+    "id": "BOSS_FANGEL3",
+    "label": "Boss Fangel 3",
+    "value": 210,
+    "group": null
+  },
+  {
+    "id": "BOSS_DROWNER_NORMAL",
+    "label": "Boss Drowner Normal",
+    "value": 211,
+    "group": null
+  },
+  {
+    "id": "TRAINEE_B",
+    "label": "Trainee B",
+    "value": 212,
+    "group": null
+  },
+  {
+    "id": "KALI1",
+    "label": "Kali 1",
+    "value": 213,
+    "group": null
+  },
+  {
+    "id": "KALI2",
+    "label": "Kali 2",
+    "value": 214,
+    "group": null
+  },
+  {
+    "id": "KALI2_FAST",
+    "label": "Kali 2 Fast",
+    "value": 215,
+    "group": null
+  },
+  {
+    "id": "SUCCUBUS",
+    "label": "Succubus",
+    "value": 216,
+    "group": null
+  },
+  {
+    "id": "BOSS_SUCCUBUS",
+    "label": "Boss Succubus",
+    "value": 217,
+    "group": null
+  },
+  {
+    "id": "BOSS_STALKER_NORMAL",
+    "label": "Boss Stalker Normal",
+    "value": 218,
+    "group": null
+  },
+  {
+    "id": "TRAINEE_G",
+    "label": "Trainee G",
+    "value": 219,
+    "group": null
+  },
+  {
+    "id": "ARMOR_FIRE",
+    "label": "Armor Fire",
+    "value": 220,
+    "group": null
+  },
+  {
+    "id": "ARMOR_SWORD",
+    "label": "Armor Sword",
+    "value": 221,
+    "group": null
+  },
+  {
+    "id": "XLARMOR_GOLD",
+    "label": "XL Armor Gold",
+    "value": 222,
+    "group": null
+  },
+  {
+    "id": "XLARMOR_GREEN",
+    "label": "XL Armor Green",
+    "value": 223,
+    "group": null
+  },
+  {
+    "id": "BOSS_XLARMOR_GREEN",
+    "label": "Boss XL Armor Green",
+    "value": 224,
+    "group": null
+  },
+  {
+    "id": "BOSS_TRICKSTER_NORMAL",
+    "label": "Boss Trickster Normal",
+    "value": 225,
+    "group": null
+  },
+  {
+    "id": "TRAINEE_P",
+    "label": "Trainee P",
+    "value": 226,
+    "group": null
+  },
+  {
+    "id": "DEMON",
+    "label": "Demon",
+    "value": 227,
+    "group": null
+  },
+  {
+    "id": "DEMON_FAST",
+    "label": "Demon Fast",
+    "value": 228,
+    "group": null
+  },
+  {
+    "id": "XLDEMON",
+    "label": "XL Demon",
+    "value": 229,
+    "group": null
+  },
+  {
+    "id": "XLDEMON2",
+    "label": "Xldemon 2",
+    "value": 230,
+    "group": null
+  },
+  {
+    "id": "XLARCHDEMON",
+    "label": "XL Archdemon",
+    "value": 231,
+    "group": null
+  },
+  {
+    "id": "BOSS_XLARCHDEMON",
+    "label": "Boss XL Archdemon",
+    "value": 232,
+    "group": null
+  },
+  {
+    "id": "POLTER_GEM",
+    "label": "Polter Gem",
+    "value": 233,
+    "group": null
+  },
+  {
+    "id": "POLTER_GEM_STATIC",
+    "label": "Polter Gem Static",
+    "value": 234,
+    "group": null
+  },
+  {
+    "id": "STAGEKILLER",
+    "label": "Stagekiller",
+    "value": 235,
+    "group": null
+  },
+  {
+    "id": "STAGEKILLER2",
+    "label": "Stagekiller 2",
+    "value": 236,
+    "group": null
+  },
+  {
+    "id": "TRAINEE",
+    "label": "Trainee",
+    "value": 237,
+    "group": null
+  },
+  {
+    "id": "TRAINEE_R",
+    "label": "Trainee R",
+    "value": 238,
+    "group": null
+  },
+  {
+    "id": "BOSS_TRINACRIA",
+    "label": "Boss Trinacria",
+    "value": 239,
+    "group": null
+  },
+  {
+    "id": "ANGEL1",
+    "label": "Angel 1",
+    "value": 240,
+    "group": null
+  },
+  {
+    "id": "ANGEL2",
+    "label": "Angel 2",
+    "value": 241,
+    "group": null
+  },
+  {
+    "id": "ANGEL3",
+    "label": "Angel 3",
+    "value": 242,
+    "group": null
+  },
+  {
+    "id": "BOSS_EYE2",
+    "label": "Boss Eye 2",
+    "value": 243,
+    "group": null
+  },
+  {
+    "id": "TRAINEE_ANY",
+    "label": "Trainee Any",
+    "value": 244,
+    "group": null
+  },
+  {
+    "id": "BOSS_XLDEATH2",
+    "label": "Boss Xldeath 2",
+    "value": 245,
+    "group": null
+  },
+  {
+    "id": "test",
+    "label": "Test",
+    "value": 246,
+    "group": null
+  },
+  {
+    "id": "BOSS_ENDER",
+    "label": "Boss Ender",
+    "value": 247,
+    "group": null
+  },
+  {
+    "id": "BULLET_SCYTHE",
+    "label": "Bullet Scythe",
+    "value": 248,
+    "group": null
+  },
+  {
+    "id": "BOSS_XLTRICKSTER",
+    "label": "Boss XL Trickster",
+    "value": 249,
+    "group": null
+  },
+  {
+    "id": "BOSS_XLCHIMERA",
+    "label": "Boss XL Chimera",
+    "value": 250,
+    "group": null
+  },
+  {
+    "id": "BOSS_ENDER_RASH",
+    "label": "Boss Ender Rash",
+    "value": 251,
+    "group": null
+  },
+  {
+    "id": "BOSS_DROWNER_RASH",
+    "label": "Boss Drowner Rash",
+    "value": 252,
+    "group": null
+  },
+  {
+    "id": "BOSS_DRAGOGION",
+    "label": "Boss Dragogion",
+    "value": 253,
+    "group": null
+  },
+  {
+    "id": "BOSS_XLCRAB_RASH",
+    "label": "Boss XL Crab Rash",
+    "value": 254,
+    "group": null
+  },
+  {
+    "id": "SKETAMARI",
+    "label": "Sketamari",
+    "value": 255,
+    "group": null
+  },
+  {
+    "id": "BOSS_XLDETH",
+    "label": "Boss XL Deth",
+    "value": 256,
+    "group": null
+  },
+  {
+    "id": "BOSS_GIANT_MIMIC1",
+    "label": "Boss Giant Mimic 1",
+    "value": 257,
+    "group": null
+  },
+  {
+    "id": "BOSS_GIANT_MIMIC2",
+    "label": "Boss Giant Mimic 2",
+    "value": 258,
+    "group": null
+  },
+  {
+    "id": "BOSS_GIANT_MIMIC3",
+    "label": "Boss Giant Mimic 3",
+    "value": 259,
+    "group": null
+  },
+  {
+    "id": "XXLBAT",
+    "label": "XXL Bat",
+    "value": 260,
+    "group": null
+  },
+  {
+    "id": "UNDEADHEAD",
+    "label": "Undeadhead",
+    "value": 261,
+    "group": null
+  },
+  {
+    "id": "UNDEADEYES",
+    "label": "Undeadeyes",
+    "value": 262,
+    "group": null
+  },
+  {
+    "id": "D_CLUSTER_COINS",
+    "label": "D Cluster Coins",
+    "value": 263,
+    "group": null
+  },
+  {
+    "id": "D_CLUSTER_GEMS",
+    "label": "D Cluster Gems",
+    "value": 264,
+    "group": null
+  },
+  {
+    "id": "D_MASK_SUN",
+    "label": "D Mask Sun",
+    "value": 265,
+    "group": null
+  },
+  {
+    "id": "D_MASK_MOON",
+    "label": "D Mask Moon",
+    "value": 266,
+    "group": null
+  },
+  {
+    "id": "D_MASK_CITY",
+    "label": "D Mask City",
+    "value": 267,
+    "group": null
+  },
+  {
+    "id": "D_MASK_VOLCANO",
+    "label": "D Mask Volcano",
+    "value": 268,
+    "group": null
+  },
+  {
+    "id": "D_MASK_WINDS",
+    "label": "D Mask Winds",
+    "value": 269,
+    "group": null
+  },
+  {
+    "id": "D_MASK_GREED",
+    "label": "D Mask Greed",
+    "value": 270,
+    "group": null
+  },
+  {
+    "id": "D_MASK_VOID",
+    "label": "D Mask Void",
+    "value": 271,
+    "group": null
+  },
+  {
+    "id": "D_SKULL",
+    "label": "D Skull",
+    "value": 272,
+    "group": null
+  },
+  {
+    "id": "DIRECTER",
+    "label": "Directer",
+    "value": 273,
+    "group": null
+  },
+  {
+    "id": "BULLET_EGG",
+    "label": "Bullet Egg",
+    "value": 274,
+    "group": null
+  },
+  {
+    "id": "BULLET_EYE",
+    "label": "Bullet Eye",
+    "value": 275,
+    "group": null
+  },
+  {
+    "id": "D_WEAK_REAPER_A",
+    "label": "D Weak Reaper A",
+    "value": 276,
+    "group": null
+  },
+  {
+    "id": "D_WEAK_REAPER_B",
+    "label": "D Weak Reaper B",
+    "value": 277,
+    "group": null
+  },
+  {
+    "id": "D_WEAK_REAPER_C",
+    "label": "D Weak Reaper C",
+    "value": 278,
+    "group": null
+  },
+  {
+    "id": "D_WEAK_REAPER_D",
+    "label": "D Weak Reaper D",
+    "value": 279,
+    "group": null
+  },
+  {
+    "id": "D_WEAK_REAPER_E",
+    "label": "D Weak Reaper E",
+    "value": 280,
+    "group": null
+  },
+  {
+    "id": "D_EYE",
+    "label": "D Eye",
+    "value": 281,
+    "group": null
+  },
+  {
+    "id": "D_WEAK_EYE",
+    "label": "D Weak Eye",
+    "value": 282,
+    "group": null
+  },
+  {
+    "id": "BOSS_SHARD_INFERNAS",
+    "label": "Boss Shard Infernas",
+    "value": 283,
+    "group": null
+  },
+  {
+    "id": "MILK2",
+    "label": "Milk 2",
+    "value": 284,
+    "group": null
+  },
+  {
+    "id": "XLCOCKATRICE_GOLD",
+    "label": "XL Cockatrice Gold",
+    "value": 285,
+    "group": null
+  },
+  {
+    "id": "XLSWORDIAN_V",
+    "label": "XL Swordian V",
+    "value": 286,
+    "group": null
+  },
+  {
+    "id": "XLSWORDIAN_AGGRO",
+    "label": "XL Swordian Aggro",
+    "value": 287,
+    "group": null
+  },
+  {
+    "id": "BRIDGE_MINION",
+    "label": "Bridge Minion",
+    "value": 288,
+    "group": null
+  },
+  {
+    "id": "BRIDGE_TETRA",
+    "label": "Bridge Tetra",
+    "value": 289,
+    "group": null
+  },
+  {
+    "id": "BRIDGE_ARMOR",
+    "label": "Bridge Armor",
+    "value": 290,
+    "group": null
+  },
+  {
+    "id": "BRIDGE_TRAINEE",
+    "label": "Bridge Trainee",
+    "value": 291,
+    "group": null
+  },
+  {
+    "id": "BRIDGE_BOSS",
+    "label": "Bridge Boss",
+    "value": 292,
+    "group": null
+  },
+  {
+    "id": "BOSS_XLSWORDIAN",
+    "label": "Boss XL Swordian",
+    "value": 293,
+    "group": null
+  },
+  {
+    "id": "BOSS_XLSWORDIAN_2",
+    "label": "Boss XL Swordian 2",
+    "value": 294,
+    "group": null
+  },
+  {
+    "id": "MEDUSA1_FAST",
+    "label": "Medusa 1 Fast",
+    "value": 295,
+    "group": null
+  },
+  {
+    "id": "MEDUSA2_FAST",
+    "label": "Medusa 2 Fast",
+    "value": 296,
+    "group": null
+  },
+  {
+    "id": "MS_HITOT",
+    "label": "Ms Hitot",
+    "value": 297,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_KAPPA",
+    "label": "Ms Kappa",
+    "value": 298,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_MIKOS",
+    "label": "Ms Mikos",
+    "value": 299,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_ONI1",
+    "label": "Ms Oni 1",
+    "value": 300,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_ONI2",
+    "label": "Ms Oni 2",
+    "value": 301,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_ONIWIND",
+    "label": "Ms Oniwind",
+    "value": 302,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_ONITHUNDER",
+    "label": "Ms Onithunder",
+    "value": 303,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_SPIRIT1",
+    "label": "Ms Spirit 1",
+    "value": 304,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_SPIRIT2",
+    "label": "Ms Spirit 2",
+    "value": 305,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_TANUKI",
+    "label": "Ms Tanuki",
+    "value": 306,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_TENGU",
+    "label": "Ms Tengu",
+    "value": 307,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_TSUCHIGUMO",
+    "label": "Ms Tsuchigumo",
+    "value": 308,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_TSUCHINOKO",
+    "label": "Ms Tsuchinoko",
+    "value": 309,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_YAMAMBA1",
+    "label": "Ms Yamamba 1",
+    "value": 310,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_YAMAMBA2",
+    "label": "Ms Yamamba 2",
+    "value": 311,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_KAMAITACHI",
+    "label": "Ms Kamaitachi",
+    "value": 312,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_RAIJU",
+    "label": "Ms Raiju",
+    "value": 313,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_OROCHIMARIO",
+    "label": "Ms Orochimario",
+    "value": 314,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_NINETYNINE",
+    "label": "Ms Ninetynine",
+    "value": 315,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_GOSHADOKURO",
+    "label": "Ms Goshadokuro",
+    "value": 316,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_BOSS_SPIRIT",
+    "label": "Ms Boss Spirit",
+    "value": 317,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_BOSS_SPIRIT2",
+    "label": "Ms Boss Spirit 2",
+    "value": 318,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_BOSS_RAIJU",
+    "label": "Ms Boss Raiju",
+    "value": 319,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_BOSS_KAMAITACHI",
+    "label": "Ms Boss Kamaitachi",
+    "value": 320,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_BOSS_TENGU",
+    "label": "Ms Boss Tengu",
+    "value": 321,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_BOSS_TANUKI",
+    "label": "Ms Boss Tanuki",
+    "value": 322,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_BOSS_ONIWIND",
+    "label": "Ms Boss Oniwind",
+    "value": 323,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_BOSS_ONITHUNDER",
+    "label": "Ms Boss Onithunder",
+    "value": 324,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_BOSS_TSUCHIGUMO",
+    "label": "Ms Boss Tsuchigumo",
+    "value": 325,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_FLOWER1",
+    "label": "Ms Flower 1",
+    "value": 326,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_FLOWER2",
+    "label": "Ms Flower 2",
+    "value": 327,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_SPIRIT1_SWARM",
+    "label": "Ms Spirit 1 Swarm",
+    "value": 328,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_SPIRIT2_SWARM",
+    "label": "Ms Spirit 2 Swarm",
+    "value": 329,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_EVILSPIRIT",
+    "label": "Ms Evilspirit",
+    "value": 330,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_OROCHIHEAD",
+    "label": "Ms Orochihead",
+    "value": 331,
+    "group": "Moonspell"
+  },
+  {
+    "id": "EX_SCALING_BAT1",
+    "label": "Scaling Bat 1",
+    "value": 332,
+    "group": null
+  },
+  {
+    "id": "EX_SCALING_BAT2",
+    "label": "Scaling Bat 2",
+    "value": 333,
+    "group": null
+  },
+  {
+    "id": "EX_SCALING_BAT3",
+    "label": "Scaling Bat 3",
+    "value": 334,
+    "group": null
+  },
+  {
+    "id": "EX_AXE_BAT3",
+    "label": "Axe Bat 3",
+    "value": 335,
+    "group": null
+  },
+  {
+    "id": "EX_DIAMOND_AXE",
+    "label": "Diamond Axe",
+    "value": 336,
+    "group": null
+  },
+  {
+    "id": "EX_DIAMOND",
+    "label": "Diamond",
+    "value": 337,
+    "group": null
+  },
+  {
+    "id": "EX_SCALING_BAT3_YELLOW",
+    "label": "Scaling Bat 3 Yellow",
+    "value": 338,
+    "group": null
+  },
+  {
+    "id": "EX_SCALING_BAT3_GREEN",
+    "label": "Scaling Bat 3 Green",
+    "value": 339,
+    "group": null
+  },
+  {
+    "id": "EX_SCALING_BAT3_PURPLE",
+    "label": "Scaling Bat 3 Purple",
+    "value": 340,
+    "group": null
+  },
+  {
+    "id": "EX_SCALING_XLBAT",
+    "label": "Scaling XL Bat",
+    "value": 341,
+    "group": null
+  },
+  {
+    "id": "EX_SCALING_XXLBAT",
+    "label": "Scaling XXL Bat",
+    "value": 342,
+    "group": null
+  },
+  {
+    "id": "FS_GOBLIN",
+    "label": "Fs Goblin",
+    "value": 343,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_GEF",
+    "label": "Fs Gef",
+    "value": 344,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_SALMON",
+    "label": "Fs Salmon",
+    "value": 345,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_WULVER",
+    "label": "Fs Wulver",
+    "value": 346,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_LAMB",
+    "label": "Fs Lamb",
+    "value": 347,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_HTROW",
+    "label": "Fs Htrow",
+    "value": 348,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_STROW",
+    "label": "Fs Strow",
+    "value": 349,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_CLOWN",
+    "label": "Fs Clown",
+    "value": 350,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_BROWN",
+    "label": "Fs Brown",
+    "value": 351,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_GREEN",
+    "label": "Fs Green",
+    "value": 352,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_CAKE",
+    "label": "Fs Cake",
+    "value": 353,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_MARI",
+    "label": "Fs Mari",
+    "value": 354,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_AILLEN",
+    "label": "Fs Aillen",
+    "value": 355,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_BALOR",
+    "label": "Fs Balor",
+    "value": 356,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_AGAEA",
+    "label": "Fs Agaea",
+    "value": 357,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_DUERG",
+    "label": "Fs Duerg",
+    "value": 358,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_NJUGG",
+    "label": "Fs Njugg",
+    "value": 359,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_CAULD",
+    "label": "Fs Cauld",
+    "value": 360,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_GLORY",
+    "label": "Fs Glory",
+    "value": 361,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_WORM",
+    "label": "Fs Worm",
+    "value": 362,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_HAG",
+    "label": "Fs Hag",
+    "value": 363,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_HORAILLEN",
+    "label": "Fs Horaillen",
+    "value": 364,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_HORDUERG",
+    "label": "Fs Horduerg",
+    "value": 365,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_HORNJUGG",
+    "label": "Fs Hornjugg",
+    "value": 366,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_HORMARI",
+    "label": "Fs Hormari",
+    "value": 367,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_HORCAULD",
+    "label": "Fs Horcauld",
+    "value": 368,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_HORGLORY",
+    "label": "Fs Horglory",
+    "value": 369,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_HORWORM",
+    "label": "Fs Horworm",
+    "value": 370,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_EDNA",
+    "label": "Fs Edna",
+    "value": 371,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_FSKULL",
+    "label": "Fs Fskull",
+    "value": 372,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_UGUL",
+    "label": "Fs Ugul",
+    "value": 373,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_HEMO",
+    "label": "Fs Hemo",
+    "value": 374,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_MEAT",
+    "label": "Fs Meat",
+    "value": 375,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_USKULL",
+    "label": "Fs Uskull",
+    "value": 376,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_NJUGGB",
+    "label": "Fs Njuggb",
+    "value": 377,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_WORMB",
+    "label": "Fs Wormb",
+    "value": 378,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_GOBLIN_RED",
+    "label": "Fs Goblin Red",
+    "value": 379,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_SALMON2",
+    "label": "Fs Salmon 2",
+    "value": 380,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_SALMON_PINK",
+    "label": "Fs Salmon Pink",
+    "value": 381,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_GREEN_RED",
+    "label": "Fs Green Red",
+    "value": 382,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_SELKIE",
+    "label": "Fs Selkie",
+    "value": 383,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_BOSS_SELKIE",
+    "label": "Fs Boss Selkie",
+    "value": 384,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_BOSS_NJUGGLES",
+    "label": "Fs Boss Njuggles",
+    "value": 385,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_BOSS_CLOWN",
+    "label": "Fs Boss Clown",
+    "value": 386,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_BOSS_WULVER",
+    "label": "Fs Boss Wulver",
+    "value": 387,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_BOSS_LAMB",
+    "label": "Fs Boss Lamb",
+    "value": 388,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_BOSS_WORM",
+    "label": "Fs Boss Worm",
+    "value": 389,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_BOSS_WORMB",
+    "label": "Fs Boss Wormb",
+    "value": 390,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_BOSS_GREEN_GREEN",
+    "label": "Fs Boss Green Green",
+    "value": 391,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_BOSS_GREEN_28",
+    "label": "Fs Boss Green 28",
+    "value": 392,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_BOSS_GREEN_GREEN_28",
+    "label": "Fs Boss Green Green 28",
+    "value": 393,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_BOSS_GREEN_RED_28",
+    "label": "Fs Boss Green Red 28",
+    "value": 394,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_BOSS_AGAEA",
+    "label": "Fs Boss Agaea",
+    "value": 395,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_BOSS_JENEVIV",
+    "label": "Fs Boss Jeneviv",
+    "value": 396,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_WORM2",
+    "label": "Fs Worm 2",
+    "value": 397,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_SNAK1",
+    "label": "Fs Snak 1",
+    "value": 398,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_SNAK2",
+    "label": "Fs Snak 2",
+    "value": 399,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_SNAK3",
+    "label": "Fs Snak 3",
+    "value": 400,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_SNAK4",
+    "label": "Fs Snak 4",
+    "value": 401,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_FMBALOR",
+    "label": "Fs Fmbalor",
+    "value": 402,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_FLAMINGSKULL",
+    "label": "Fs Flamingskull",
+    "value": 403,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_ROTGHOUL",
+    "label": "Fs Rotghoul",
+    "value": 404,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_MEATY",
+    "label": "Fs Meaty",
+    "value": 405,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_MEATBALL",
+    "label": "Fs Meatball",
+    "value": 406,
+    "group": "Foscari"
+  },
+  {
+    "id": "BOSS_XLBLINDER",
+    "label": "Boss XL Blinder",
+    "value": 407,
+    "group": null
+  },
+  {
+    "id": "FS_SHOOTER1",
+    "label": "Fs Shooter 1",
+    "value": 408,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_SHOOTER2",
+    "label": "Fs Shooter 2",
+    "value": 409,
+    "group": "Foscari"
+  },
+  {
+    "id": "HEMO",
+    "label": "Hemo",
+    "value": 410,
+    "group": null
+  },
+  {
+    "id": "HEMO2",
+    "label": "Hemo 2",
+    "value": 411,
+    "group": null
+  },
+  {
+    "id": "REDUSA",
+    "label": "Redusa",
+    "value": 412,
+    "group": null
+  },
+  {
+    "id": "FS_FMCETHLENN",
+    "label": "Fs Fmcethlenn",
+    "value": 413,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_FMINDECH",
+    "label": "Fs Fmindech",
+    "value": 414,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_FMCONAND",
+    "label": "Fs Fmconand",
+    "value": 415,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_FMELATHA",
+    "label": "Fs Fmelatha",
+    "value": 416,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_SALMON_DUSA",
+    "label": "Fs Salmon Dusa",
+    "value": 417,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_CLOWN_SWARM",
+    "label": "Fs Clown Swarm",
+    "value": 418,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_MUSH_PATROL",
+    "label": "Fs Mush Patrol",
+    "value": 419,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_BROWN_HP",
+    "label": "Fs Brown Hp",
+    "value": 420,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_SALMON_HP",
+    "label": "Fs Salmon Hp",
+    "value": 421,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_MUSH_HP",
+    "label": "Fs Mush Hp",
+    "value": 422,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_NJUGGB_HP",
+    "label": "Fs Njuggb Hp",
+    "value": 423,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_STROW_HP",
+    "label": "Fs Strow Hp",
+    "value": 424,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_HTROW_HP",
+    "label": "Fs Htrow Hp",
+    "value": 425,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_SNAK_SWARM",
+    "label": "Fs Snak Swarm",
+    "value": 426,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_GGHOST",
+    "label": "Fs Gghost",
+    "value": 427,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_GGGHOST",
+    "label": "Fs Ggghost",
+    "value": 428,
+    "group": "Foscari"
+  },
+  {
+    "id": "RELLYFISH",
+    "label": "Rellyfish",
+    "value": 429,
+    "group": null
+  },
+  {
+    "id": "FS_SNAKBOMB",
+    "label": "Fs Snakbomb",
+    "value": 430,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_SNAKSHIELD",
+    "label": "Fs Snakshield",
+    "value": 431,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_COCKATRICE_BOSS1",
+    "label": "Fs Cockatrice Boss 1",
+    "value": 432,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_COCKATRICE_BOSS2",
+    "label": "Fs Cockatrice Boss 2",
+    "value": 433,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_COCKATRICE_BOSS3",
+    "label": "Fs Cockatrice Boss 3",
+    "value": 434,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_XLMANTIS_HP",
+    "label": "Fs XL Mantis Hp",
+    "value": 435,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_XLFLOWER_HP",
+    "label": "Fs XL Flower Hp",
+    "value": 436,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_CRATE_HP",
+    "label": "Fs Crate Hp",
+    "value": 437,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_POT_HP",
+    "label": "Fs Pot Hp",
+    "value": 438,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_FLOWER",
+    "label": "Fs Flower",
+    "value": 439,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_ROTGHOUL_SWARM",
+    "label": "Fs Rotghoul Swarm",
+    "value": 440,
+    "group": "Foscari"
+  },
+  {
+    "id": "RELLYFISH_SWARM",
+    "label": "Rellyfish Swarm",
+    "value": 441,
+    "group": null
+  },
+  {
+    "id": "FS_BLINDER_PATROL",
+    "label": "Fs Blinder Patrol",
+    "value": 442,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_BOSS_REDUSA",
+    "label": "Fs Boss Redusa",
+    "value": 443,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_BOSS_FLAMINGSKULL",
+    "label": "Fs Boss Flamingskull",
+    "value": 444,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_BOSS_MEATY",
+    "label": "Fs Boss Meaty",
+    "value": 445,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_BOSS_MEATBALL",
+    "label": "Fs Boss Meatball",
+    "value": 446,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_BOSS_EDNA",
+    "label": "Fs Boss Edna",
+    "value": 447,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_BOSS_HORWORM",
+    "label": "Fs Boss Horworm",
+    "value": 448,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_BOSS_HORMARI",
+    "label": "Fs Boss Hormari",
+    "value": 449,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_BOSS_HORCAULD",
+    "label": "Fs Boss Horcauld",
+    "value": 450,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_BOSS_MEATY_29",
+    "label": "Fs Boss Meaty 29",
+    "value": 451,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_BOSS_MEATBALL_29",
+    "label": "Fs Boss Meatball 29",
+    "value": 452,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_ANFORA_HP",
+    "label": "Fs Anfora Hp",
+    "value": 453,
+    "group": "Foscari"
+  },
+  {
+    "id": "STARDUST_ELEMENTAL",
+    "label": "Stardust Elemental",
+    "value": 454,
+    "group": null
+  },
+  {
+    "id": "STARDUST_SKULL",
+    "label": "Stardust Skull",
+    "value": 455,
+    "group": null
+  },
+  {
+    "id": "STARDUST_GHOUL",
+    "label": "Stardust Ghoul",
+    "value": 456,
+    "group": null
+  },
+  {
+    "id": "STARDUST_GOLEM",
+    "label": "Stardust Golem",
+    "value": 457,
+    "group": null
+  },
+  {
+    "id": "STARDUST_MUMMY",
+    "label": "Stardust Mummy",
+    "value": 458,
+    "group": null
+  },
+  {
+    "id": "STARDUST_JOE",
+    "label": "Stardust Joe",
+    "value": 459,
+    "group": null
+  },
+  {
+    "id": "STARDUST_CHAIR",
+    "label": "Stardust Chair",
+    "value": 460,
+    "group": null
+  },
+  {
+    "id": "STARDUST_HEAD",
+    "label": "Stardust Head",
+    "value": 461,
+    "group": null
+  },
+  {
+    "id": "STARDUST_EYES",
+    "label": "Stardust Eyes",
+    "value": 462,
+    "group": null
+  },
+  {
+    "id": "STARDUST_EYES2",
+    "label": "Stardust Eyes 2",
+    "value": 463,
+    "group": null
+  },
+  {
+    "id": "STARDUST_PORTRAIT_A",
+    "label": "Stardust Portrait A",
+    "value": 464,
+    "group": null
+  },
+  {
+    "id": "STARDUST_PORTRAIT_B",
+    "label": "Stardust Portrait B",
+    "value": 465,
+    "group": null
+  },
+  {
+    "id": "STARDUST_PORTRAIT_C",
+    "label": "Stardust Portrait C",
+    "value": 466,
+    "group": null
+  },
+  {
+    "id": "STARDUST_GHOST",
+    "label": "Stardust Ghost",
+    "value": 467,
+    "group": null
+  },
+  {
+    "id": "COSMIC_EGG",
+    "label": "Cosmic Egg",
+    "value": 468,
+    "group": null
+  },
+  {
+    "id": "STARDUST_GHOST_R",
+    "label": "Stardust Ghost R",
+    "value": 469,
+    "group": null
+  },
+  {
+    "id": "STARDUST_GHOST_B",
+    "label": "Stardust Ghost B",
+    "value": 470,
+    "group": null
+  },
+  {
+    "id": "STARDUST_XLMUMMY",
+    "label": "Stardust XL Mummy",
+    "value": 471,
+    "group": null
+  },
+  {
+    "id": "STARDUST_MUD",
+    "label": "Stardust Mud",
+    "value": 472,
+    "group": null
+  },
+  {
+    "id": "STARDUST_CLOAK",
+    "label": "Stardust Cloak",
+    "value": 473,
+    "group": null
+  },
+  {
+    "id": "STARDUST_BLINDER_PATROL",
+    "label": "Stardust Blinder Patrol",
+    "value": 474,
+    "group": null
+  },
+  {
+    "id": "STARDUST_HEMO",
+    "label": "Stardust Hemo",
+    "value": 475,
+    "group": null
+  },
+  {
+    "id": "STARDUST_RELLYFISH",
+    "label": "Stardust Rellyfish",
+    "value": 476,
+    "group": null
+  },
+  {
+    "id": "STARDUST_REDUSA",
+    "label": "Stardust Redusa",
+    "value": 477,
+    "group": null
+  },
+  {
+    "id": "STARDUST_RELLYFISH_SWARM",
+    "label": "Stardust Rellyfish Swarm",
+    "value": 478,
+    "group": null
+  },
+  {
+    "id": "BOSS_STARDUST_XLMUMMY",
+    "label": "Boss Stardust XL Mummy",
+    "value": 479,
+    "group": null
+  },
+  {
+    "id": "EX_SPIRIT1",
+    "label": "Spirit 1",
+    "value": 480,
+    "group": null
+  },
+  {
+    "id": "EX_SNOWMAN",
+    "label": "Snowman",
+    "value": 481,
+    "group": null
+  },
+  {
+    "id": "EX_SNOWMAN_HAUNTED",
+    "label": "Snowman Haunted",
+    "value": 482,
+    "group": null
+  },
+  {
+    "id": "EX_SNOWMAN_HAUNTED2",
+    "label": "Snowman Haunted 2",
+    "value": 483,
+    "group": null
+  },
+  {
+    "id": "EX_SNOWMAN_HAUNTED3",
+    "label": "Snowman Haunted 3",
+    "value": 484,
+    "group": null
+  },
+  {
+    "id": "EX_SNOWELEM",
+    "label": "Snowelem",
+    "value": 485,
+    "group": null
+  },
+  {
+    "id": "EX_SNOWELEM2",
+    "label": "Snowelem 2",
+    "value": 486,
+    "group": null
+  },
+  {
+    "id": "EX_FROST",
+    "label": "Frost",
+    "value": 487,
+    "group": null
+  },
+  {
+    "id": "EX_ILLUSION",
+    "label": "Illusion",
+    "value": 488,
+    "group": null
+  },
+  {
+    "id": "EX_ILLUSION2",
+    "label": "Illusion 2",
+    "value": 489,
+    "group": null
+  },
+  {
+    "id": "EX_GOLEM_SNOW",
+    "label": "Golem Snow",
+    "value": 490,
+    "group": null
+  },
+  {
+    "id": "EX_GOLEM_ICE",
+    "label": "Golem Ice",
+    "value": 491,
+    "group": null
+  },
+  {
+    "id": "EX_BOSS_KITSUNE",
+    "label": "Boss Kitsune",
+    "value": 492,
+    "group": null
+  },
+  {
+    "id": "EX_BOSS_KITSUNE_TAIL",
+    "label": "Boss Kitsune Tail",
+    "value": 493,
+    "group": null
+  },
+  {
+    "id": "EX_FOXFIRE",
+    "label": "Foxfire",
+    "value": 494,
+    "group": null
+  },
+  {
+    "id": "COOP_CHICKEN",
+    "label": "Coop Chicken",
+    "value": 495,
+    "group": null
+  },
+  {
+    "id": "COOP_COCK",
+    "label": "Coop Cock",
+    "value": 496,
+    "group": null
+  },
+  {
+    "id": "COOP_CHIK",
+    "label": "Coop Chik",
+    "value": 497,
+    "group": null
+  },
+  {
+    "id": "COOP_EGG",
+    "label": "Coop Egg",
+    "value": 498,
+    "group": null
+  },
+  {
+    "id": "COOP_SPICYCHICKEN",
+    "label": "Coop Spicychicken",
+    "value": 499,
+    "group": null
+  },
+  {
+    "id": "COOP_COCKATRICE",
+    "label": "Coop Cockatrice",
+    "value": 500,
+    "group": null
+  },
+  {
+    "id": "COOP_EGG_H",
+    "label": "Coop Egg H",
+    "value": 501,
+    "group": null
+  },
+  {
+    "id": "SPACE_ANT",
+    "label": "Space Ant",
+    "value": 502,
+    "group": null
+  },
+  {
+    "id": "SPACE_ANT_2",
+    "label": "Space Ant 2",
+    "value": 503,
+    "group": null
+  },
+  {
+    "id": "SPACE_ANTBRAIN",
+    "label": "Space Antbrain",
+    "value": 504,
+    "group": null
+  },
+  {
+    "id": "SPACE_PICKLE",
+    "label": "Space Pickle",
+    "value": 505,
+    "group": null
+  },
+  {
+    "id": "SPACE_RABBIT",
+    "label": "Space Rabbit",
+    "value": 506,
+    "group": null
+  },
+  {
+    "id": "SPACE_ANTBRAIN_BOSS",
+    "label": "Space Antbrain Boss",
+    "value": 507,
+    "group": null
+  },
+  {
+    "id": "SPACE_PICKLE_BOSS",
+    "label": "Space Pickle Boss",
+    "value": 508,
+    "group": null
+  },
+  {
+    "id": "SPACE_RABBIT_BOSS",
+    "label": "Space Rabbit Boss",
+    "value": 509,
+    "group": null
+  },
+  {
+    "id": "SPACE_BATT_A",
+    "label": "Space Batt A",
+    "value": 510,
+    "group": null
+  },
+  {
+    "id": "SPACE_BATT_B",
+    "label": "Space Batt B",
+    "value": 511,
+    "group": null
+  },
+  {
+    "id": "SPACE_BATT_C",
+    "label": "Space Batt C",
+    "value": 512,
+    "group": null
+  },
+  {
+    "id": "SPACE_BATT_D",
+    "label": "Space Batt D",
+    "value": 513,
+    "group": null
+  },
+  {
+    "id": "SPACE_DUCK",
+    "label": "Space Duck",
+    "value": 514,
+    "group": null
+  },
+  {
+    "id": "CHAL_MOLO",
+    "label": "Chal Molo",
+    "value": 515,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "CHAL_BRIA",
+    "label": "Chal Bria",
+    "value": 516,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "CHAL_FRIGGI",
+    "label": "Chal Friggi",
+    "value": 517,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "CHAL_MARTIA",
+    "label": "Chal Martia",
+    "value": 518,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "CHAL_OTTERR",
+    "label": "Chal Otterr",
+    "value": 519,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "CHAL_ROBOTT",
+    "label": "Chal Robott",
+    "value": 520,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "CHAL_NDROID",
+    "label": "Chal Ndroid",
+    "value": 521,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "CHAL_MONKEY",
+    "label": "Chal Monkey",
+    "value": 522,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "CHAL_CREATU",
+    "label": "Chal Creatu",
+    "value": 523,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "CHAL_TRIPOD",
+    "label": "Chal Tripod",
+    "value": 524,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "CHAL_BINNN",
+    "label": "Chal Binnn",
+    "value": 525,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "CHAL_BRICK",
+    "label": "Chal Brick",
+    "value": 526,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "CHAL_NUGGE",
+    "label": "Chal Nugge",
+    "value": 527,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "CHAL_GHOST",
+    "label": "Chal Ghost",
+    "value": 528,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "CHAL_LAVAA",
+    "label": "Chal Lavaa",
+    "value": 529,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "CHAL_MEATT",
+    "label": "Chal Meatt",
+    "value": 530,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "CHAL_SNOWW",
+    "label": "Chal Snoww",
+    "value": 532,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "CHAL_SHIFT",
+    "label": "Chal Shift",
+    "value": 533,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "CHAL_ANIMEXXL",
+    "label": "Chal Animexxl",
+    "value": 534,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "CHAL_ANIMEXXL_TENTACLE_LEFT",
+    "label": "Chal Animexxl Tentacle Left",
+    "value": 535,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "CHAL_ANIMEXXL_TENTACLE_RIGHT",
+    "label": "Chal Animexxl Tentacle Right",
+    "value": 536,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "CHAL_MOLO1",
+    "label": "Chal Molo 1",
+    "value": 537,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "CHAL_MOLO2",
+    "label": "Chal Molo 2",
+    "value": 538,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "BOSS_CHAL_MARTIA",
+    "label": "Boss Chal Martia",
+    "value": 539,
+    "group": null
+  },
+  {
+    "id": "BOSS_CHAL_TRIPOD",
+    "label": "Boss Chal Tripod",
+    "value": 540,
+    "group": null
+  },
+  {
+    "id": "BOSS_CHAL_NDROID",
+    "label": "Boss Chal Ndroid",
+    "value": 541,
+    "group": null
+  },
+  {
+    "id": "BOSS_CHAL_CREATU",
+    "label": "Boss Chal Creatu",
+    "value": 542,
+    "group": null
+  },
+  {
+    "id": "CHAL_GHOSTSWARM",
+    "label": "Chal Ghostswarm",
+    "value": 543,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "CHAL_BRIASWARM",
+    "label": "Chal Briaswarm",
+    "value": 544,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "CHAL_BATS",
+    "label": "Chal Bats",
+    "value": 545,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "CHAL_BRICK_SUS",
+    "label": "Chal Brick Sus",
+    "value": 546,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "CHAL_NUGGE_SUS",
+    "label": "Chal Nugge Sus",
+    "value": 547,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "CHAL_BINNN_SUS",
+    "label": "Chal Binnn Sus",
+    "value": 548,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "SPACE_DUCKSWARM",
+    "label": "Space Duckswarm",
+    "value": 549,
+    "group": null
+  },
+  {
+    "id": "SPACE_RABBITSWARM",
+    "label": "Space Rabbitswarm",
+    "value": 550,
+    "group": null
+  },
+  {
+    "id": "CHAL_ROBOTT2",
+    "label": "Chal Robott 2",
+    "value": 551,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "CHAL_BATSSWARM",
+    "label": "Chal Batsswarm",
+    "value": 552,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "CHAL_GHOST_EXP",
+    "label": "Chal Ghost Exp",
+    "value": 553,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "CHAL_SUS_COUNTER",
+    "label": "Chal Sus Counter",
+    "value": 554,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "ADV_BIG_IMPOSTOR",
+    "label": "Adv Big Impostor",
+    "value": 555,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_BIG_SHIFT",
+    "label": "Adv Big Shift",
+    "value": 556,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_CHAL_NUGGE_SUS_GOLEM",
+    "label": "Adv Chal Nugge Sus Golem",
+    "value": 557,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_CHAL_NUGGE_SUS_GOLEM_ARM",
+    "label": "Adv Chal Nugge Sus Golem Arm",
+    "value": 558,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_TRIPOD_GUN",
+    "label": "Adv Tripod Gun",
+    "value": 559,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_NDROID_GUN",
+    "label": "Adv Ndroid Gun",
+    "value": 560,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_BIG_TRIPOD",
+    "label": "Adv Big Tripod",
+    "value": 561,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_SPACE_DUCK",
+    "label": "Adv Space Duck",
+    "value": 562,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_SPACE_RABBIT",
+    "label": "Adv Space Rabbit",
+    "value": 563,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_BIG_SPACE_DUCK",
+    "label": "Adv Big Space Duck",
+    "value": 564,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_MINI_SPACE_RABBIT",
+    "label": "Adv Mini Space Rabbit",
+    "value": 565,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_MINI_SPACE_ANT",
+    "label": "Adv Mini Space Ant",
+    "value": 566,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_SPACE_ANTBRAIN_SWORDIAN",
+    "label": "Adv Space Antbrain Swordian",
+    "value": 567,
+    "group": "Adventures"
+  },
+  {
+    "id": "CHAL_ANIMEXXL_TENTACLE_LEFT2",
+    "label": "Chal Animexxl Tentacle Left 2",
+    "value": 568,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "CHAL_ANIMEXXL_TENTACLE_RIGHT2",
+    "label": "Chal Animexxl Tentacle Right 2",
+    "value": 569,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "CHAL_SNOWW_SUS",
+    "label": "Chal Snoww Sus",
+    "value": 570,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "BOSS_IMPOSTOR_PATROL",
+    "label": "Boss Impostor Patrol",
+    "value": 571,
+    "group": null
+  },
+  {
+    "id": "CHAL_IMPOSTOR_SMALL",
+    "label": "Chal Impostor Small",
+    "value": 572,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "ADV_IMPOSTOR",
+    "label": "Adv Impostor",
+    "value": 573,
+    "group": "Adventures"
+  },
+  {
+    "id": "CHAL_BRICK_AGGRO",
+    "label": "Chal Brick Aggro",
+    "value": 574,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "CHAL_NUGGE_AGGRO",
+    "label": "Chal Nugge Aggro",
+    "value": 575,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "CHAL_BINNN_AGGRO",
+    "label": "Chal Binnn Aggro",
+    "value": 576,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "SPACE_PICKLE_AGGRO",
+    "label": "Space Pickle Aggro",
+    "value": 577,
+    "group": null
+  },
+  {
+    "id": "CHAL_PICKLE_CIRCLE",
+    "label": "Chal Pickle Circle",
+    "value": 578,
+    "group": "Emergency Meeting"
+  },
+  {
+    "id": "SPACE_DUCKSWARM_H",
+    "label": "Space Duckswarm H",
+    "value": 579,
+    "group": null
+  },
+  {
+    "id": "SPACE_CUBE",
+    "label": "Space Cube",
+    "value": 580,
+    "group": null
+  },
+  {
+    "id": "EX_BATS_COUNTER",
+    "label": "Bats Counter",
+    "value": 581,
+    "group": null
+  },
+  {
+    "id": "EX_BATSPACE_ALL4",
+    "label": "Batspace All 4",
+    "value": 582,
+    "group": null
+  },
+  {
+    "id": "EX_BATSPACE_A",
+    "label": "Batspace A",
+    "value": 583,
+    "group": null
+  },
+  {
+    "id": "EX_BATSPACE_B",
+    "label": "Batspace B",
+    "value": 584,
+    "group": null
+  },
+  {
+    "id": "EX_BATSPACE_C",
+    "label": "Batspace C",
+    "value": 585,
+    "group": null
+  },
+  {
+    "id": "EX_BATSPACE_D",
+    "label": "Batspace D",
+    "value": 586,
+    "group": null
+  },
+  {
+    "id": "EX_BATSPACE_SWARM",
+    "label": "Batspace Swarm",
+    "value": 587,
+    "group": null
+  },
+  {
+    "id": "EX_RABBIT_SWARM",
+    "label": "Rabbit Swarm",
+    "value": 588,
+    "group": null
+  },
+  {
+    "id": "EX_RABBIT_SWARM_H",
+    "label": "Rabbit Swarm H",
+    "value": 589,
+    "group": null
+  },
+  {
+    "id": "EX_DUCK_SWARM",
+    "label": "Duck Swarm",
+    "value": 590,
+    "group": null
+  },
+  {
+    "id": "EX_DUCK_SWARM_H",
+    "label": "Duck Swarm H",
+    "value": 591,
+    "group": null
+  },
+  {
+    "id": "EX_BROCCOLI_SCALE",
+    "label": "Broccoli Scale",
+    "value": 592,
+    "group": null
+  },
+  {
+    "id": "EX_ANT",
+    "label": "Ant",
+    "value": 593,
+    "group": null
+  },
+  {
+    "id": "EX_ANT_SCALE",
+    "label": "Ant Scale",
+    "value": 594,
+    "group": null
+  },
+  {
+    "id": "EX_ANTBRAIN",
+    "label": "Antbrain",
+    "value": 595,
+    "group": null
+  },
+  {
+    "id": "EX_ANTBRAIN_SCALE",
+    "label": "Antbrain Scale",
+    "value": 596,
+    "group": null
+  },
+  {
+    "id": "EX_PICKLE",
+    "label": "Pickle",
+    "value": 597,
+    "group": null
+  },
+  {
+    "id": "EX_PICKLE_SCALE",
+    "label": "Pickle Scale",
+    "value": 598,
+    "group": null
+  },
+  {
+    "id": "EX_CUBE_HITS_STATIC",
+    "label": "Cube Hits Static",
+    "value": 599,
+    "group": null
+  },
+  {
+    "id": "BOSS_MEGASYUUTO",
+    "label": "Boss Megasyuuto",
+    "value": 600,
+    "group": null
+  },
+  {
+    "id": "MS_OROCHIMARIO_INVUL",
+    "label": "Ms Orochimario Invul",
+    "value": 601,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_ADV_MADDONNAS1",
+    "label": "Ms Adv Maddonnas 1",
+    "value": 602,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_ADV_MADDONNAS2",
+    "label": "Ms Adv Maddonnas 2",
+    "value": 603,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_ADV_MADDONNAS3",
+    "label": "Ms Adv Maddonnas 3",
+    "value": 604,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_ADV_TANUKIS1",
+    "label": "Ms Adv Tanukis 1",
+    "value": 605,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_ADV_TANUKIS2",
+    "label": "Ms Adv Tanukis 2",
+    "value": 606,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_ADV_TANUKIS3",
+    "label": "Ms Adv Tanukis 3",
+    "value": 607,
+    "group": "Moonspell"
+  },
+  {
+    "id": "BOSS_THICKTREE",
+    "label": "Boss Thicktree",
+    "value": 608,
+    "group": null
+  },
+  {
+    "id": "ADV_MOLISANI",
+    "label": "Adv Molisani",
+    "value": 609,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_MOLISANI_MOVING",
+    "label": "Adv Molisani Moving",
+    "value": 610,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_MOLISANI_SWARM",
+    "label": "Adv Molisani Swarm",
+    "value": 611,
+    "group": "Adventures"
+  },
+  {
+    "id": "MS_OROCHIHEAD_INVUL",
+    "label": "Ms Orochihead Invul",
+    "value": 612,
+    "group": "Moonspell"
+  },
+  {
+    "id": "ADV_XLFLOWER_SMALL",
+    "label": "Adv XL Flower Small",
+    "value": 613,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_MOON_GARLIC_SMALL",
+    "label": "Adv Moon Garlic Small",
+    "value": 614,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_MOLISANI_MOVING2",
+    "label": "Adv Molisani Moving 2",
+    "value": 615,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_MOLISANI_MOVING3",
+    "label": "Adv Molisani Moving 3",
+    "value": 616,
+    "group": "Adventures"
+  },
+  {
+    "id": "EX_CUBE_HITS_AXE",
+    "label": "Cube Hits Axe",
+    "value": 617,
+    "group": null
+  },
+  {
+    "id": "EX_CUBE_HITS_AGGRO",
+    "label": "Cube Hits Aggro",
+    "value": 618,
+    "group": null
+  },
+  {
+    "id": "EX_CUBE_HITS_MEDUSA",
+    "label": "Cube Hits Medusa",
+    "value": 619,
+    "group": null
+  },
+  {
+    "id": "EX_CUBE_HITS_FACING",
+    "label": "Cube Hits Facing",
+    "value": 620,
+    "group": null
+  },
+  {
+    "id": "EX_PHALIEN_XL",
+    "label": "Phalien XL",
+    "value": 621,
+    "group": null
+  },
+  {
+    "id": "EX_PHALIEN_L",
+    "label": "Phalien L",
+    "value": 622,
+    "group": null
+  },
+  {
+    "id": "EX_PHALIEN",
+    "label": "Phalien",
+    "value": 623,
+    "group": null
+  },
+  {
+    "id": "EX_CUBE_HITS_STERILE",
+    "label": "Cube Hits Sterile",
+    "value": 624,
+    "group": null
+  },
+  {
+    "id": "EX_PHALIEN_XL_BOSS",
+    "label": "Phalien XL Boss",
+    "value": 625,
+    "group": null
+  },
+  {
+    "id": "EX_PHALIEN_L_BOSS",
+    "label": "Phalien L Boss",
+    "value": 626,
+    "group": null
+  },
+  {
+    "id": "EX_PHALIEN_BOSS",
+    "label": "Phalien Boss",
+    "value": 627,
+    "group": null
+  },
+  {
+    "id": "EX_CUBE_HITS_PATH",
+    "label": "Cube Hits Path",
+    "value": 628,
+    "group": null
+  },
+  {
+    "id": "EX_BATSPACE_HP",
+    "label": "Batspace Hp",
+    "value": 629,
+    "group": null
+  },
+  {
+    "id": "DEVIL_HP_1",
+    "label": "Devil Hp 1",
+    "value": 630,
+    "group": null
+  },
+  {
+    "id": "DEVIL_HP_2",
+    "label": "Devil Hp 2",
+    "value": 631,
+    "group": null
+  },
+  {
+    "id": "DEVIL_HP_3",
+    "label": "Devil Hp 3",
+    "value": 632,
+    "group": null
+  },
+  {
+    "id": "DEVIL_HP_4",
+    "label": "Devil Hp 4",
+    "value": 633,
+    "group": null
+  },
+  {
+    "id": "DEVIL_HP_5",
+    "label": "Devil Hp 5",
+    "value": 634,
+    "group": null
+  },
+  {
+    "id": "DEVIL_HP_6",
+    "label": "Devil Hp 6",
+    "value": 635,
+    "group": null
+  },
+  {
+    "id": "DEVIL_HP_7",
+    "label": "Devil Hp 7",
+    "value": 636,
+    "group": null
+  },
+  {
+    "id": "DEVIL_HP_8",
+    "label": "Devil Hp 8",
+    "value": 637,
+    "group": null
+  },
+  {
+    "id": "DEVIL_HP_9",
+    "label": "Devil Hp 9",
+    "value": 638,
+    "group": null
+  },
+  {
+    "id": "DEVIL_HP_10",
+    "label": "Devil Hp 10",
+    "value": 639,
+    "group": null
+  },
+  {
+    "id": "DEVIL_HP_11",
+    "label": "Devil Hp 11",
+    "value": 640,
+    "group": null
+  },
+  {
+    "id": "DEVIL_HP_12",
+    "label": "Devil Hp 12",
+    "value": 641,
+    "group": null
+  },
+  {
+    "id": "DEVIL_HP_13",
+    "label": "Devil Hp 13",
+    "value": 642,
+    "group": null
+  },
+  {
+    "id": "DEVIL_HP_14",
+    "label": "Devil Hp 14",
+    "value": 643,
+    "group": null
+  },
+  {
+    "id": "DEVIL_HP_15",
+    "label": "Devil Hp 15",
+    "value": 644,
+    "group": null
+  },
+  {
+    "id": "COOP_ABRAXAS",
+    "label": "Coop Abraxas",
+    "value": 645,
+    "group": null
+  },
+  {
+    "id": "COOP_ABRAXASCROWN",
+    "label": "Coop Abraxascrown",
+    "value": 646,
+    "group": null
+  },
+  {
+    "id": "COOP_ABRAXASHALO",
+    "label": "Coop Abraxashalo",
+    "value": 647,
+    "group": null
+  },
+  {
+    "id": "EX_HELLPUP",
+    "label": "Hellpup",
+    "value": 648,
+    "group": null
+  },
+  {
+    "id": "EX_ER2000",
+    "label": "Er 2000",
+    "value": 649,
+    "group": null
+  },
+  {
+    "id": "EX_RETROBOT",
+    "label": "Retrobot",
+    "value": 650,
+    "group": null
+  },
+  {
+    "id": "EX_BOUNTYHUNTER",
+    "label": "Bountyhunter",
+    "value": 651,
+    "group": null
+  },
+  {
+    "id": "EX_CONSTABLEBOT",
+    "label": "Constablebot",
+    "value": 652,
+    "group": null
+  },
+  {
+    "id": "EX_TDCCC",
+    "label": "Tdccc",
+    "value": 653,
+    "group": null
+  },
+  {
+    "id": "EX_IMPERIALPULP",
+    "label": "Imperialpulp",
+    "value": 654,
+    "group": null
+  },
+  {
+    "id": "EX_APEX",
+    "label": "Apex",
+    "value": 655,
+    "group": null
+  },
+  {
+    "id": "FB_BUGGER",
+    "label": "Fb Bugger",
+    "value": 656,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_HUMANFACEDDOG",
+    "label": "Fb Humanfaceddog",
+    "value": 657,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_LEDDER",
+    "label": "Fb Ledder",
+    "value": 658,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_POISONOUSINSECTGEL",
+    "label": "Fb Poisonousinsectgel",
+    "value": 659,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_GREEDER",
+    "label": "Fb Greeder",
+    "value": 660,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_BUNDLE",
+    "label": "Fb Bundle",
+    "value": 661,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_WARLORD",
+    "label": "Fb Warlord",
+    "value": 662,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_GARTH",
+    "label": "Fb Garth",
+    "value": 663,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_ZAKOALIEN",
+    "label": "Fb Zakoalien",
+    "value": 664,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_HELLRIDER",
+    "label": "Fb Hellrider",
+    "value": 665,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_JUNKYARDCAR",
+    "label": "Fb Junkyardcar",
+    "value": 666,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_FLIGHTZAKO",
+    "label": "Fb Flightzako",
+    "value": 667,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_KIMKOH",
+    "label": "Fb Kimkoh",
+    "value": 668,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_CHICKEN",
+    "label": "Fb Chicken",
+    "value": 669,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_M78",
+    "label": "Fb M 78",
+    "value": 670,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_METALALIEN",
+    "label": "Fb Metalalien",
+    "value": 671,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "BOSS_FB_WARLORD",
+    "label": "Boss Fb Warlord",
+    "value": 672,
+    "group": null
+  },
+  {
+    "id": "BOSS_FB_RETROBOT",
+    "label": "Boss Fb Retrobot",
+    "value": 673,
+    "group": null
+  },
+  {
+    "id": "BOSS_FB_JUNKYARDCAR",
+    "label": "Boss Fb Junkyardcar",
+    "value": 674,
+    "group": null
+  },
+  {
+    "id": "BOSS_FB_KIMKOH",
+    "label": "Boss Fb Kimkoh",
+    "value": 675,
+    "group": null
+  },
+  {
+    "id": "BOSS_FB_HELLPUP",
+    "label": "Boss Fb Hellpup",
+    "value": 676,
+    "group": null
+  },
+  {
+    "id": "BOSS_FB_CHICKEN",
+    "label": "Boss Fb Chicken",
+    "value": 677,
+    "group": null
+  },
+  {
+    "id": "BOSS_FB_M78",
+    "label": "Boss Fb M 78",
+    "value": 678,
+    "group": null
+  },
+  {
+    "id": "BOSS_FB_METALALIEN",
+    "label": "Boss Fb Metalalien",
+    "value": 679,
+    "group": null
+  },
+  {
+    "id": "BOSS_FB_TAKA",
+    "label": "Boss Fb Taka",
+    "value": 680,
+    "group": null
+  },
+  {
+    "id": "FB_BUGGER_SWARM",
+    "label": "Fb Bugger Swarm",
+    "value": 681,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_FB_POISONOUSINSECTGEL_SWARM",
+    "label": "Fb Fb Poisonousinsectgel Swarm",
+    "value": 682,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_MUTANTCRAWLER",
+    "label": "Fb Mutantcrawler",
+    "value": 683,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_MOSQUITO",
+    "label": "Fb Mosquito",
+    "value": 684,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_WALKINGBALL",
+    "label": "Fb Walkingball",
+    "value": 685,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_GORDEA",
+    "label": "Fb Gordea",
+    "value": 686,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "BOSS_FB_BIGFUZZ",
+    "label": "Boss Fb Bigfuzz",
+    "value": 687,
+    "group": null
+  },
+  {
+    "id": "FB_BULLET_FIREBALL",
+    "label": "Fb Bullet Fireball",
+    "value": 688,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_BULLET_EYELASER",
+    "label": "Fb Bullet Eyelaser",
+    "value": 689,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_BULLET_BOMB",
+    "label": "Fb Bullet Bomb",
+    "value": 690,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_GIGAFLY_SWARM",
+    "label": "Fb Gigafly Swarm",
+    "value": 691,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_BULLET",
+    "label": "Fb Bullet",
+    "value": 692,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_ALIENCENTIPEDE",
+    "label": "Fb Aliencentipede",
+    "value": 693,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_EVILSNOWMAN",
+    "label": "Fb Evilsnowman",
+    "value": 694,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "BOSS_FB_FLIGHTZAKO",
+    "label": "Boss Fb Flightzako",
+    "value": 695,
+    "group": null
+  },
+  {
+    "id": "FB_HELLRIDER_SWARM",
+    "label": "Fb Hellrider Swarm",
+    "value": 696,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_WINGLIZARD_FLYING",
+    "label": "Fb Winglizard Flying",
+    "value": 697,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_BUNDLE_FLYING",
+    "label": "Fb Bundle Flying",
+    "value": 698,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_MOSQUITO_FLYING",
+    "label": "Fb Mosquito Flying",
+    "value": 699,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_FLIGHTZAKO_FLYING",
+    "label": "Fb Flightzako Flying",
+    "value": 700,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "BOSS_FB_FLIGHTZAKO_FLYING",
+    "label": "Boss Fb Flightzako Flying",
+    "value": 701,
+    "group": null
+  },
+  {
+    "id": "FB_METALALIEN_FLYING",
+    "label": "Fb Metalalien Flying",
+    "value": 702,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "BOSS_FB_METALALIEN_FLYING",
+    "label": "Boss Fb Metalalien Flying",
+    "value": 703,
+    "group": null
+  },
+  {
+    "id": "FB_ALIENCENTIPEDE_FLYING",
+    "label": "Fb Aliencentipede Flying",
+    "value": 704,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_HELLRIDER_RACING",
+    "label": "Fb Hellrider Racing",
+    "value": 705,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_MUTANTCRAWLER_RACING",
+    "label": "Fb Mutantcrawler Racing",
+    "value": 706,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_WALKINGBALL_RACING",
+    "label": "Fb Walkingball Racing",
+    "value": 707,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "BOSS_FB_WALKINGBALL_RACING",
+    "label": "Boss Fb Walkingball Racing",
+    "value": 708,
+    "group": null
+  },
+  {
+    "id": "FB_EVILSNOWMAN_RACING",
+    "label": "Fb Evilsnowman Racing",
+    "value": 709,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_JUNKYARDCAR_RACING",
+    "label": "Fb Junkyardcar Racing",
+    "value": 710,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "BOSS_FB_JUNKYARDCAR_RACING",
+    "label": "Boss Fb Junkyardcar Racing",
+    "value": 711,
+    "group": null
+  },
+  {
+    "id": "FB_CHICKEN_RACING",
+    "label": "Fb Chicken Racing",
+    "value": 712,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "BOSS_FB_CHICKEN_RACING",
+    "label": "Boss Fb Chicken Racing",
+    "value": 713,
+    "group": null
+  },
+  {
+    "id": "FB_M78_RACING",
+    "label": "Fb M 78 Racing",
+    "value": 714,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "BOSS_FB_M78_RACING",
+    "label": "Boss Fb M 78 Racing",
+    "value": 715,
+    "group": null
+  },
+  {
+    "id": "FB_GORDEA_RACING",
+    "label": "Fb Gordea Racing",
+    "value": 716,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "BOSS_FB_TAKA_RACING",
+    "label": "Boss Fb Taka Racing",
+    "value": 717,
+    "group": null
+  },
+  {
+    "id": "FB_HELLRIDER2_RACING",
+    "label": "Fb Hellrider 2 Racing",
+    "value": 718,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_LEDDER_UNARMED",
+    "label": "Fb Ledder Unarmed",
+    "value": 719,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_GIGAFLY",
+    "label": "Fb Gigafly",
+    "value": 720,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "BOSS_FB_MUTANTCRAWLER",
+    "label": "Boss Fb Mutantcrawler",
+    "value": 721,
+    "group": null
+  },
+  {
+    "id": "FB_SIMONDO",
+    "label": "Fb Simondo",
+    "value": 722,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_PATROL_WARLORD",
+    "label": "Fb Patrol Warlord",
+    "value": 723,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_PATROL_FLIGHTZAKO",
+    "label": "Fb Patrol Flightzako",
+    "value": 724,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_PATROL_GIGAFLY",
+    "label": "Fb Patrol Gigafly",
+    "value": 725,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "BOSS_DIVANO",
+    "label": "Boss Divano",
+    "value": 800,
+    "group": null
+  },
+  {
+    "id": "BOSS_MILKMAG",
+    "label": "Boss Milkmag",
+    "value": 801,
+    "group": null
+  },
+  {
+    "id": "EX_COSMICEYE",
+    "label": "Cosmiceye",
+    "value": 802,
+    "group": null
+  },
+  {
+    "id": "EX_CART_REAPER",
+    "label": "Cart Reaper",
+    "value": 803,
+    "group": null
+  },
+  {
+    "id": "EX_CART_TRICKSTER",
+    "label": "Cart Trickster",
+    "value": 804,
+    "group": null
+  },
+  {
+    "id": "EX_CART_STALKER",
+    "label": "Cart Stalker",
+    "value": 805,
+    "group": null
+  },
+  {
+    "id": "EX_CART_DROWNER",
+    "label": "Cart Drowner",
+    "value": 806,
+    "group": null
+  },
+  {
+    "id": "EX_CART_MADDENER",
+    "label": "Cart Maddener",
+    "value": 807,
+    "group": null
+  },
+  {
+    "id": "EX_GYORUNTIN",
+    "label": "Gyoruntin",
+    "value": 808,
+    "group": null
+  },
+  {
+    "id": "EX_BOSSGYORUNTIN",
+    "label": "Bossgyoruntin",
+    "value": 809,
+    "group": null
+  },
+  {
+    "id": "EX_RACING_BAT3",
+    "label": "Racing Bat 3",
+    "value": 810,
+    "group": null
+  },
+  {
+    "id": "EX_RACING_XLBAT",
+    "label": "Racing XL Bat",
+    "value": 811,
+    "group": null
+  },
+  {
+    "id": "EX_RACING_RETRO",
+    "label": "Racing Retro",
+    "value": 812,
+    "group": null
+  },
+  {
+    "id": "EX_RACING_FISHMAN_1",
+    "label": "Racing Fishman 1",
+    "value": 813,
+    "group": null
+  },
+  {
+    "id": "EX_CONSTABLEBOT_RANGED",
+    "label": "Constablebot Ranged",
+    "value": 814,
+    "group": null
+  },
+  {
+    "id": "EX_TDCCC_RANGED",
+    "label": "Tdccc Ranged",
+    "value": 815,
+    "group": null
+  },
+  {
+    "id": "EX_BOUNTYHUNTER_RANGED",
+    "label": "Bountyhunter Ranged",
+    "value": 816,
+    "group": null
+  },
+  {
+    "id": "EX_ER2000_RANGED",
+    "label": "Er 2000 Ranged",
+    "value": 817,
+    "group": null
+  },
+  {
+    "id": "BULLET_SM1",
+    "label": "Bullet Sm 1",
+    "value": 818,
+    "group": null
+  },
+  {
+    "id": "BULLET_SM2",
+    "label": "Bullet Sm 2",
+    "value": 819,
+    "group": null
+  },
+  {
+    "id": "EX_FISHMAN_1GREEN",
+    "label": "Fishman 1green",
+    "value": 820,
+    "group": null
+  },
+  {
+    "id": "EX_RETROBOT_SWARM",
+    "label": "Retrobot Swarm",
+    "value": 821,
+    "group": null
+  },
+  {
+    "id": "EX_GYORUNTIN_SWARM",
+    "label": "Gyoruntin Swarm",
+    "value": 822,
+    "group": null
+  },
+  {
+    "id": "EX_YTRAINEE_SWARM",
+    "label": "Ytrainee Swarm",
+    "value": 823,
+    "group": null
+  },
+  {
+    "id": "EX_EXPLOANGEL_SWARM",
+    "label": "Exploangel Swarm",
+    "value": 824,
+    "group": null
+  },
+  {
+    "id": "EX_TRINA_SWARM",
+    "label": "Trina Swarm",
+    "value": 825,
+    "group": null
+  },
+  {
+    "id": "EX_COSMICEYE_SWARM",
+    "label": "Cosmiceye Swarm",
+    "value": 826,
+    "group": null
+  },
+  {
+    "id": "EX_MUD_FASTSWARM",
+    "label": "Mud Fastswarm",
+    "value": 827,
+    "group": null
+  },
+  {
+    "id": "EX_ECTO2_FASTSWARM",
+    "label": "Ecto 2 Fastswarm",
+    "value": 828,
+    "group": null
+  },
+  {
+    "id": "EX_JELLYFISH2_FASTSWARM",
+    "label": "Jellyfish 2 Fastswarm",
+    "value": 829,
+    "group": null
+  },
+  {
+    "id": "EX_RACING_LIZARD2_3",
+    "label": "Racing Lizard 2 3",
+    "value": 830,
+    "group": null
+  },
+  {
+    "id": "EX_RACING_LIZARD1_2",
+    "label": "Racing Lizard 1 2",
+    "value": 831,
+    "group": null
+  },
+  {
+    "id": "EX_RACING_MERMA1_3",
+    "label": "Racing Merma 1 3",
+    "value": 832,
+    "group": null
+  },
+  {
+    "id": "EX_RACING_MERMA2_4",
+    "label": "Racing Merma 2 4",
+    "value": 833,
+    "group": null
+  },
+  {
+    "id": "EX_RACING_PILE1",
+    "label": "Racing Pile 1",
+    "value": 834,
+    "group": null
+  },
+  {
+    "id": "EX_RACING_PILE2",
+    "label": "Racing Pile 2",
+    "value": 835,
+    "group": null
+  },
+  {
+    "id": "EX_RACING_PILE3",
+    "label": "Racing Pile 3",
+    "value": 836,
+    "group": null
+  },
+  {
+    "id": "EX_RACING_BOSS_PILE3",
+    "label": "Racing Boss Pile 3",
+    "value": 837,
+    "group": null
+  },
+  {
+    "id": "EX_RACING_BOSS_MERMAN",
+    "label": "Racing Boss Merman",
+    "value": 838,
+    "group": null
+  },
+  {
+    "id": "EX_RACING_BUER",
+    "label": "Racing Buer",
+    "value": 839,
+    "group": null
+  },
+  {
+    "id": "EX_RACING_IMP",
+    "label": "Racing Imp",
+    "value": 840,
+    "group": null
+  },
+  {
+    "id": "EX_RACING_XLDRAGON1",
+    "label": "Racing Xldragon 1",
+    "value": 841,
+    "group": null
+  },
+  {
+    "id": "EX_CART_BLINDER",
+    "label": "Cart Blinder",
+    "value": 842,
+    "group": null
+  },
+  {
+    "id": "EX_RACING_BOSS_MIGNO2_5",
+    "label": "Racing Boss Migno 2 5",
+    "value": 843,
+    "group": null
+  },
+  {
+    "id": "EX_BOSSGYORUNTIN_SOLID",
+    "label": "Bossgyoruntin Solid",
+    "value": 844,
+    "group": null
+  },
+  {
+    "id": "EX_TRUEDEVIL",
+    "label": "Truedevil",
+    "value": 845,
+    "group": null
+  },
+  {
+    "id": "EX_OGREHEAD",
+    "label": "Ogrehead",
+    "value": 846,
+    "group": null
+  },
+  {
+    "id": "EX_KINGHEAD",
+    "label": "Kinghead",
+    "value": 847,
+    "group": null
+  },
+  {
+    "id": "EX_VICIOUSHUNGER",
+    "label": "Vicioushunger",
+    "value": 848,
+    "group": null
+  },
+  {
+    "id": "EX_BATGOBLIN",
+    "label": "Batgoblin",
+    "value": 849,
+    "group": null
+  },
+  {
+    "id": "EX_BATGOBLIN2",
+    "label": "Batgoblin 2",
+    "value": 850,
+    "group": null
+  },
+  {
+    "id": "EX_BOSS_TRUEDEVIL",
+    "label": "Boss Truedevil",
+    "value": 851,
+    "group": null
+  },
+  {
+    "id": "EX_BOSS_OGREHEAD",
+    "label": "Boss Ogrehead",
+    "value": 852,
+    "group": null
+  },
+  {
+    "id": "EX_BOSS_KINGHEAD",
+    "label": "Boss Kinghead",
+    "value": 853,
+    "group": null
+  },
+  {
+    "id": "EX_BOSS_VICIOUSHUNGER",
+    "label": "Boss Vicioushunger",
+    "value": 854,
+    "group": null
+  },
+  {
+    "id": "EX_TREASURE_VICIOUSHUNGER",
+    "label": "Treasure Vicioushunger",
+    "value": 855,
+    "group": null
+  },
+  {
+    "id": "EX_DEMON_RED",
+    "label": "Demon Red",
+    "value": 856,
+    "group": null
+  },
+  {
+    "id": "COOP_CHICKEN_H",
+    "label": "Coop Chicken H",
+    "value": 857,
+    "group": null
+  },
+  {
+    "id": "COOP_COCK_H",
+    "label": "Coop Cock H",
+    "value": 858,
+    "group": null
+  },
+  {
+    "id": "COOP_CHIK_H",
+    "label": "Coop Chik H",
+    "value": 859,
+    "group": null
+  },
+  {
+    "id": "COOP_ABRAXAS_H",
+    "label": "Coop Abraxas H",
+    "value": 860,
+    "group": null
+  },
+  {
+    "id": "COOP_ABRAXASCROWN_H",
+    "label": "Coop Abraxascrown H",
+    "value": 861,
+    "group": null
+  },
+  {
+    "id": "COOP_ABRAXASHALO_H",
+    "label": "Coop Abraxashalo H",
+    "value": 862,
+    "group": null
+  },
+  {
+    "id": "COOP_BOSS_ABRAXAS",
+    "label": "Coop Boss Abraxas",
+    "value": 863,
+    "group": null
+  },
+  {
+    "id": "COOP_BOSS_ABRAXASCROWN",
+    "label": "Coop Boss Abraxascrown",
+    "value": 864,
+    "group": null
+  },
+  {
+    "id": "COOP_BOSS_ABRAXASHALO",
+    "label": "Coop Boss Abraxashalo",
+    "value": 865,
+    "group": null
+  },
+  {
+    "id": "COOP_CHICKEN_SWARM",
+    "label": "Coop Chicken Swarm",
+    "value": 866,
+    "group": null
+  },
+  {
+    "id": "COOP_COCK_SWARM",
+    "label": "Coop Cock Swarm",
+    "value": 867,
+    "group": null
+  },
+  {
+    "id": "COOP_CHIK_SWARM",
+    "label": "Coop Chik Swarm",
+    "value": 868,
+    "group": null
+  },
+  {
+    "id": "COOP_EGG_SWARM",
+    "label": "Coop Egg Swarm",
+    "value": 869,
+    "group": null
+  },
+  {
+    "id": "COOP_CHICKEN_SPECIAL",
+    "label": "Coop Chicken Special",
+    "value": 870,
+    "group": null
+  },
+  {
+    "id": "COOP_ROAST_CHICKEN",
+    "label": "Coop Roast Chicken",
+    "value": 871,
+    "group": null
+  },
+  {
+    "id": "COOP_ROAST_CHICKEN_H",
+    "label": "Coop Roast Chicken H",
+    "value": 872,
+    "group": null
+  },
+  {
+    "id": "COOP_ROAST_CHICKEN_SWARM",
+    "label": "Coop Roast Chicken Swarm",
+    "value": 873,
+    "group": null
+  },
+  {
+    "id": "COOP_BOSS_COCK",
+    "label": "Coop Boss Cock",
+    "value": 874,
+    "group": null
+  },
+  {
+    "id": "COOP_CHICKEN_SLOW",
+    "label": "Coop Chicken Slow",
+    "value": 875,
+    "group": null
+  },
+  {
+    "id": "COOP_PATROL",
+    "label": "Coop Patrol",
+    "value": 876,
+    "group": null
+  },
+  {
+    "id": "COOP_CHICKEN_COUNTER",
+    "label": "Coop Chicken Counter",
+    "value": 877,
+    "group": null
+  },
+  {
+    "id": "FS_MUSH_BOSSMINION",
+    "label": "Fs Mush Bossminion",
+    "value": 891,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_MUSH_BOSS",
+    "label": "Fs Mush Boss",
+    "value": 892,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_FLAMINGSKULL_FLYING",
+    "label": "Fs Flamingskull Flying",
+    "value": 893,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_MEATY_FLYING",
+    "label": "Fs Meaty Flying",
+    "value": 894,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_HORMARI_FLYING",
+    "label": "Fs Hormari Flying",
+    "value": 895,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_HORGLORY_FLYING",
+    "label": "Fs Horglory Flying",
+    "value": 896,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_MEATBALL_FLYING",
+    "label": "Fs Meatball Flying",
+    "value": 897,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_HORCAULD_FLYING",
+    "label": "Fs Horcauld Flying",
+    "value": 898,
+    "group": "Foscari"
+  },
+  {
+    "id": "FOSCARI_COUNTER",
+    "label": "Foscari Counter",
+    "value": 899,
+    "group": null
+  },
+  {
+    "id": "EME_CALAMITY_B",
+    "label": "Eme Calamity B",
+    "value": 900,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_CALAMITY_U",
+    "label": "Eme Calamity U",
+    "value": 901,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_CALAMITY_R",
+    "label": "Eme Calamity R",
+    "value": 902,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_CALAMITY_W",
+    "label": "Eme Calamity W",
+    "value": 903,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_CALAMITY_Y",
+    "label": "Eme Calamity Y",
+    "value": 904,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_ALRAUNE",
+    "label": "Eme Alraune",
+    "value": 905,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_ANT",
+    "label": "Eme Ant",
+    "value": 906,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_BALL",
+    "label": "Eme Ball",
+    "value": 907,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_BAT",
+    "label": "Eme Bat",
+    "value": 908,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_BIRD",
+    "label": "Eme Bird",
+    "value": 909,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_BOAR",
+    "label": "Eme Boar",
+    "value": 910,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_DOG",
+    "label": "Eme Dog",
+    "value": 911,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_FROG",
+    "label": "Eme Frog",
+    "value": 912,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_GOBLIN",
+    "label": "Eme Goblin",
+    "value": 913,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_KELPIE",
+    "label": "Eme Kelpie",
+    "value": 914,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_MOCH",
+    "label": "Eme Moch",
+    "value": 915,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_OGRE",
+    "label": "Eme Ogre",
+    "value": 916,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_RASCAL",
+    "label": "Eme Rascal",
+    "value": 917,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_SKELETON",
+    "label": "Eme Skeleton",
+    "value": 918,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_SLIME",
+    "label": "Eme Slime",
+    "value": 919,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_WEREWOLF",
+    "label": "Eme Werewolf",
+    "value": 920,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_ALRAUNE_BOMB",
+    "label": "Eme Alraune Bomb",
+    "value": 921,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_RASCAL_SWARM",
+    "label": "Eme Rascal Swarm",
+    "value": 922,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_CALAMITY_SWARM",
+    "label": "Eme Calamity Swarm",
+    "value": 923,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_BALL2",
+    "label": "Eme Ball 2",
+    "value": 931,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_BIRD2",
+    "label": "Eme Bird 2",
+    "value": 932,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_BIRD3",
+    "label": "Eme Bird 3",
+    "value": 933,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_DOG3",
+    "label": "Eme Dog 3",
+    "value": 936,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_FROG2",
+    "label": "Eme Frog 2",
+    "value": 937,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_FROG3",
+    "label": "Eme Frog 3",
+    "value": 938,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_SPECTERHEAD_PINK",
+    "label": "Eme Specterhead Pink",
+    "value": 943,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_SPECTERHEAD_BLUE",
+    "label": "Eme Specterhead Blue",
+    "value": 944,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_PATROL_BAT",
+    "label": "Eme Patrol Bat",
+    "value": 945,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_PATROL_CALAMITY",
+    "label": "Eme Patrol Calamity",
+    "value": 946,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_SUSPICIOUS_OGRE",
+    "label": "Eme Suspicious Ogre",
+    "value": 947,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_BOSS_CURSEDMONARCH",
+    "label": "Eme Boss Cursedmonarch",
+    "value": 948,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_BOSS_ANT",
+    "label": "Eme Boss Ant",
+    "value": 961,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_BOSS_BAT",
+    "label": "Eme Boss Bat",
+    "value": 963,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_BOSS_BOAR",
+    "label": "Eme Boss Boar",
+    "value": 965,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_BOSS_DOG",
+    "label": "Eme Boss Dog",
+    "value": 966,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_BOSS_FROG",
+    "label": "Eme Boss Frog",
+    "value": 967,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_BOSS_GOBLIN",
+    "label": "Eme Boss Goblin",
+    "value": 968,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_BOSS_KELPIE",
+    "label": "Eme Boss Kelpie",
+    "value": 969,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_BOSS_MOCH",
+    "label": "Eme Boss Moch",
+    "value": 970,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_BOSS_OGRE",
+    "label": "Eme Boss Ogre",
+    "value": 971,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_BOSS_SKELETON",
+    "label": "Eme Boss Skeleton",
+    "value": 973,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_BOSS_SLIME",
+    "label": "Eme Boss Slime",
+    "value": 974,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_BOSS_WEREWOLF",
+    "label": "Eme Boss Werewolf",
+    "value": 975,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_GATEBOSS_DRAGON",
+    "label": "Eme Gateboss Dragon",
+    "value": 990,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_GATEBOSS_SPIRITBEAST",
+    "label": "Eme Gateboss Spiritbeast",
+    "value": 991,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_GATEBOSS_SPECTER",
+    "label": "Eme Gateboss Specter",
+    "value": 992,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_GATEBOSS_IRONMAIDEN",
+    "label": "Eme Gateboss Ironmaiden",
+    "value": 993,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_GATEBOSS_FINALEMPEROR",
+    "label": "Eme Gateboss Finalemperor",
+    "value": 994,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_GATEBOSS_LIVINGANGUISH",
+    "label": "Eme Gateboss Livinganguish",
+    "value": 995,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "TP_BOSS_LEGION",
+    "label": "Tp Boss Legion",
+    "value": 1000,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_LEGION_SECTION",
+    "label": "Tp Boss Legion Section",
+    "value": 1001,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_LEGION_ZOMBIE",
+    "label": "Tp Boss Legion Zombie",
+    "value": 1002,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_BEELZEBUB",
+    "label": "Tp Boss Beelzebub",
+    "value": 1003,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_BEELZEBUB_SECTION",
+    "label": "Tp Boss Beelzebub Section",
+    "value": 1004,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_BEELZEBUB_BEE",
+    "label": "Tp Boss Beelzebub Bee",
+    "value": 1005,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FLEARIDER",
+    "label": "Tp Flearider",
+    "value": 1006,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FROZENSHADE",
+    "label": "Tp Frozenshade",
+    "value": 1007,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_GAIBON",
+    "label": "Tp Gaibon",
+    "value": 1008,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_HARPY",
+    "label": "Tp Harpy",
+    "value": 1009,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_IMP",
+    "label": "Tp Imp",
+    "value": 1010,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_MINOTAUR",
+    "label": "Tp Boss Minotaur",
+    "value": 1011,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_MOLDYCORPSE",
+    "label": "Tp Moldycorpse",
+    "value": 1012,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SPITTLEBONE_01",
+    "label": "Tp Spittlebone 01",
+    "value": 1013,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_UKOBACK",
+    "label": "Tp Ukoback",
+    "value": 1014,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SPECTRE",
+    "label": "Tp Spectre",
+    "value": 1015,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SUCCUBUS",
+    "label": "Tp Succubus",
+    "value": 1016,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_VALHALLAKNIGHT",
+    "label": "Tp Valhallaknight",
+    "value": 1017,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_WARG_01",
+    "label": "Tp Warg 01",
+    "value": 1018,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BITTERFLY",
+    "label": "Tp Bitterfly",
+    "value": 1019,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BRAUNERSPAINTING",
+    "label": "Tp Braunerspainting",
+    "value": 1020,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_CAVETROLL",
+    "label": "Tp Cavetroll",
+    "value": 1021,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_CREATURE",
+    "label": "Tp Boss Creature",
+    "value": 1022,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FISHMAN_01",
+    "label": "Tp Fishman 01",
+    "value": 1023,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FLEAARMOR",
+    "label": "Tp Fleaarmor",
+    "value": 1024,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_PERSEPHONE_01",
+    "label": "Tp Persephone 01",
+    "value": 1025,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_PERSEPHONEVACCUUM",
+    "label": "Tp Persephonevaccuum",
+    "value": 1026,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FLEAMAN",
+    "label": "Tp Fleaman",
+    "value": 1027,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_GHOST",
+    "label": "Tp Ghost",
+    "value": 1028,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_MUMMY",
+    "label": "Tp Boss Mummy",
+    "value": 1029,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SKELETONSPEAR",
+    "label": "Tp Skeletonspear",
+    "value": 1030,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_SLORGA",
+    "label": "Tp Boss Slorga",
+    "value": 1031,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_DOPPLEGANGER",
+    "label": "Tp Boss Doppleganger",
+    "value": 1032,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FLYINGZOMBIE_01",
+    "label": "Tp Flyingzombie 01",
+    "value": 1033,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_MEDUSA",
+    "label": "Tp Boss Medusa",
+    "value": 1034,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_DULLAHAN_01",
+    "label": "Tp Dullahan 01",
+    "value": 1035,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SKELETONAPE",
+    "label": "Tp Skeletonape",
+    "value": 1036,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BONEARK",
+    "label": "Tp Boneark",
+    "value": 1037,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_YORICK_01",
+    "label": "Tp Yorick 01",
+    "value": 1038,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_AMALARICSNIPER",
+    "label": "Tp Amalaricsniper",
+    "value": 1039,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FLYINGSKELETON",
+    "label": "Tp Flyingskeleton",
+    "value": 1040,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_GURKHAKNIFEMASTER",
+    "label": "Tp Gurkhaknifemaster",
+    "value": 1041,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_GORGON",
+    "label": "Tp Gorgon",
+    "value": 1042,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BONEGOLEM",
+    "label": "Tp Bonegolem",
+    "value": 1043,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_DISCARMOR",
+    "label": "Tp Discarmor",
+    "value": 1044,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ALASTOR",
+    "label": "Tp Alastor",
+    "value": 1045,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_DEVIL",
+    "label": "Tp Boss Devil",
+    "value": 1046,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_WARGRIDER",
+    "label": "Tp Wargrider",
+    "value": 1047,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_MALACHI",
+    "label": "Tp Malachi",
+    "value": 1048,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_WEREWOLF",
+    "label": "Tp Werewolf",
+    "value": 1049,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FLEAMAN_SWARM",
+    "label": "Tp Fleaman Swarm",
+    "value": 1050,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_CORPSEWEED_WALL",
+    "label": "Tp Corpseweed Wall",
+    "value": 1051,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_AXEARMOR_01",
+    "label": "Tp Axearmor 01",
+    "value": 1052,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BONE_BULLET",
+    "label": "Tp Bone Bullet",
+    "value": 1053,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_DEATH",
+    "label": "Tp Boss Death",
+    "value": 1054,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_DEATHARM",
+    "label": "Tp Boss Deatharm",
+    "value": 1055,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FLYINGZOMBIE_02",
+    "label": "Tp Flyingzombie 02",
+    "value": 1056,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_MINIBOSS_SISYPHUSYORICK",
+    "label": "Tp Miniboss Sisyphusyorick",
+    "value": 1058,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_JIANGSHI",
+    "label": "Tp Boss Jiangshi",
+    "value": 1059,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_KEREMET",
+    "label": "Tp Boss Keremet",
+    "value": 1060,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_SHAFT",
+    "label": "Tp Boss Shaft",
+    "value": 1061,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_ZEPHYR",
+    "label": "Tp Boss Zephyr",
+    "value": 1062,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_STONEROSE",
+    "label": "Tp Boss Stonerose",
+    "value": 1063,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_OLROX",
+    "label": "Tp Boss Olrox",
+    "value": 1064,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_GAIBON",
+    "label": "Tp Boss Gaibon",
+    "value": 1065,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_BEHEMOTH",
+    "label": "Tp Boss Behemoth",
+    "value": 1066,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_TREANT",
+    "label": "Tp Boss Treant",
+    "value": 1067,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_ABBADON",
+    "label": "Tp Boss Abbadon",
+    "value": 1068,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_MENACE",
+    "label": "Tp Boss Menace",
+    "value": 1069,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_ELIGOR",
+    "label": "Tp Boss Eligor",
+    "value": 1070,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_GALAMOTH",
+    "label": "Tp Boss Galamoth",
+    "value": 1071,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_GERGOTH",
+    "label": "Tp Boss Gergoth",
+    "value": 1072,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_GIANTMEDUSAHEAD",
+    "label": "Tp Boss Giantmedusahead",
+    "value": 1073,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_PUPPETMASTER",
+    "label": "Tp Boss Puppetmaster",
+    "value": 1074,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_BLACKMORE",
+    "label": "Tp Boss Blackmore",
+    "value": 1075,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_PARANOIA",
+    "label": "Tp Boss Paranoia",
+    "value": 1076,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_BRACHYURA",
+    "label": "Tp Boss Brachyura",
+    "value": 1077,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_BRACHYURA_CLAW",
+    "label": "Tp Boss Brachyura Claw",
+    "value": 1078,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_DEATH_SCYTHE",
+    "label": "Tp Boss Death Scythe",
+    "value": 1079,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_DEATH_SCYTHEBIG",
+    "label": "Tp Boss Death Scythebig",
+    "value": 1080,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_GIANTBAT",
+    "label": "Tp Boss Giantbat",
+    "value": 1081,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_KILLERDOLL",
+    "label": "Tp Killerdoll",
+    "value": 1082,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_MUDMAN",
+    "label": "Tp Mudman",
+    "value": 1083,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_BUGBEAR",
+    "label": "Tp Boss Bugbear",
+    "value": 1084,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_HIPPOGRYPH",
+    "label": "Tp Hippogryph",
+    "value": 1085,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BONEPILLAR",
+    "label": "Tp Bonepillar",
+    "value": 1087,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_MEDUSAHEAD",
+    "label": "Tp Medusahead",
+    "value": 1089,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_UKOBACK_02",
+    "label": "Tp Ukoback 02",
+    "value": 1090,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_BAT",
+    "label": "Tp Boss Bat",
+    "value": 1091,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_WARG_02",
+    "label": "Tp Warg 02",
+    "value": 1092,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_DULLAHAN_02",
+    "label": "Tp Dullahan 02",
+    "value": 1093,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FISHMAN_02",
+    "label": "Tp Fishman 02",
+    "value": 1094,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_MAGICBOOK_01",
+    "label": "Tp Magicbook 01",
+    "value": 1095,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_MAGICBOOK_02",
+    "label": "Tp Magicbook 02",
+    "value": 1096,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_DULLAHAN_03",
+    "label": "Tp Dullahan 03",
+    "value": 1097,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_PATROL_HARPY",
+    "label": "Tp Patrol Harpy",
+    "value": 1099,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_PATROL_IMP",
+    "label": "Tp Patrol Imp",
+    "value": 1100,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_PATROL_AMALARICSNIPER",
+    "label": "Tp Patrol Amalaricsniper",
+    "value": 1101,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_PATROL_ALASTOR",
+    "label": "Tp Patrol Alastor",
+    "value": 1102,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_YORICK_02",
+    "label": "Tp Yorick 02",
+    "value": 1103,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_MEGA_FLEAMAN",
+    "label": "Tp Mega Fleaman",
+    "value": 1104,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_DEATH_SCYTHE_NORMAL",
+    "label": "Tp Boss Death Scythe Normal",
+    "value": 1105,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_PERSEPHONE_02",
+    "label": "Tp Persephone 02",
+    "value": 1106,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_PERSEPHONE_03",
+    "label": "Tp Persephone 03",
+    "value": 1107,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_AXEARMOR_02",
+    "label": "Tp Axearmor 02",
+    "value": 1108,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BONEPILLAR_EVENT",
+    "label": "Tp Bonepillar Event",
+    "value": 1109,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SPITTLEBONE_02",
+    "label": "Tp Spittlebone 02",
+    "value": 1110,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_SLOGRA",
+    "label": "Tp Boss Slogra",
+    "value": 1111,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_MALPHAS",
+    "label": "Tp Boss Malphas",
+    "value": 1112,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_STELLA",
+    "label": "Tp Boss Stella",
+    "value": 1113,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_LORETTA",
+    "label": "Tp Boss Loretta",
+    "value": 1114,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_CARMILLA",
+    "label": "Tp Boss Carmilla",
+    "value": 1115,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_WALTER",
+    "label": "Tp Boss Walter",
+    "value": 1116,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_JOACHIM",
+    "label": "Tp Boss Joachim",
+    "value": 1117,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_SOLEIL",
+    "label": "Tp Boss Soleil",
+    "value": 1118,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_SUCCUBUS",
+    "label": "Tp Boss Succubus",
+    "value": 1119,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_AXEARMOR_FAST",
+    "label": "Tp Axearmor Fast",
+    "value": 1120,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FROZENSHADE_02",
+    "label": "Tp Frozenshade 02",
+    "value": 1121,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BOSS_OLROX2",
+    "label": "Tp Boss Olrox 2",
+    "value": 1122,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SKELETON_COUNTER",
+    "label": "Tp Skeleton Counter",
+    "value": 1123,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FLEAMAN_COUNTER",
+    "label": "Tp Fleaman Counter",
+    "value": 1124,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_BOSS_PHANTOMBAT",
+    "label": "Tp Adv Boss Phantombat",
+    "value": 1125,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_MINION_SWARMBAT",
+    "label": "Tp Adv Minion Swarmbat",
+    "value": 1126,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_PHANTOM_BULLET",
+    "label": "Tp Adv Phantom Bullet",
+    "value": 1127,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_BOSS_TREANT",
+    "label": "Tp Adv Boss Treant",
+    "value": 1128,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_BOSS_GIANTMEDUSAHEAD",
+    "label": "Tp Adv Boss Giantmedusahead",
+    "value": 1129,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_BOSS_GERGOTH",
+    "label": "Tp Adv Boss Gergoth",
+    "value": 1130,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_BOSS_PARANOIA",
+    "label": "Tp Adv Boss Paranoia",
+    "value": 1131,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_BOSS_BRACHYURA",
+    "label": "Tp Adv Boss Brachyura",
+    "value": 1132,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_BOSS_ELIGOR",
+    "label": "Tp Adv Boss Eligor",
+    "value": 1133,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_BOSS_ZEPHYR",
+    "label": "Tp Adv Boss Zephyr",
+    "value": 1134,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_MINION_PLAYERFACADE",
+    "label": "Tp Adv Minion Playerfacade",
+    "value": 1135,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_MINION_PARANOIAFACADE",
+    "label": "Tp Adv Minion Paranoiafacade",
+    "value": 1136,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_BOSS_SUCCUBUS",
+    "label": "Tp Adv Boss Succubus",
+    "value": 1137,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_MEDUSAHEAD2",
+    "label": "Tp Medusahead 2",
+    "value": 1138,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_MEDUSAHEAD_AGGRO",
+    "label": "Tp Medusahead Aggro",
+    "value": 1139,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_PERSEPHONE",
+    "label": "Tp Adv Persephone",
+    "value": 1140,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_FLEAMAN_SWARM_FIXED",
+    "label": "Tp Adv Fleaman Swarm Fixed",
+    "value": 1141,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_MEDUSA",
+    "label": "Tp Adv Medusa",
+    "value": 1142,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_CARMILLA",
+    "label": "Tp Adv Carmilla",
+    "value": 1143,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_GAIBON_RED",
+    "label": "Tp Adv Gaibon Red",
+    "value": 1144,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_BOSS_GAIBON_RED",
+    "label": "Tp Adv Boss Gaibon Red",
+    "value": 1145,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_GHOST_BOMB",
+    "label": "Tp Adv Ghost Bomb",
+    "value": 1146,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_FLEAMAN_SCALING",
+    "label": "Tp Adv Fleaman Scaling",
+    "value": 1147,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_BONEPILLAR_02",
+    "label": "Tp Adv Bonepillar 02",
+    "value": 1148,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_BONEPILLAR_03",
+    "label": "Tp Adv Bonepillar 03",
+    "value": 1149,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_XLGORGON",
+    "label": "Tp Adv XL Gorgon",
+    "value": 1150,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_BOSS_XLGORGON",
+    "label": "Tp Adv Boss XL Gorgon",
+    "value": 1151,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_XLAXEARMOR",
+    "label": "Tp Adv XL Axearmor",
+    "value": 1152,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_BOSS_XLAXEARMOR",
+    "label": "Tp Adv Boss XL Axearmor",
+    "value": 1153,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_XLDISCARMOR",
+    "label": "Tp Adv XL Discarmor",
+    "value": 1154,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_BOSS_XLDISCARMOR",
+    "label": "Tp Adv Boss XL Discarmor",
+    "value": 1155,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_XLBONEGOLEM",
+    "label": "Tp Adv XL Bonegolem",
+    "value": 1156,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_BOSS_XLBONEGOLEM",
+    "label": "Tp Adv Boss XL Bonegolem",
+    "value": 1157,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_XLALASTOR",
+    "label": "Tp Adv XL Alastor",
+    "value": 1158,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_BOSS_XLALASTOR",
+    "label": "Tp Adv Boss XL Alastor",
+    "value": 1159,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_MINOTAUR_SCALING",
+    "label": "Tp Adv Minotaur Scaling",
+    "value": 1160,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_FISHMAN_SCALING",
+    "label": "Tp Adv Fishman Scaling",
+    "value": 1161,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_BOSS_BONEPILLAR",
+    "label": "Tp Adv Boss Bonepillar",
+    "value": 1162,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_MAGICBOOK_WALL",
+    "label": "Tp Adv Magicbook Wall",
+    "value": 1163,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_MAGICBOOK_SWARM",
+    "label": "Tp Adv Magicbook Swarm",
+    "value": 1164,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_DEVIL",
+    "label": "Tp Adv Devil",
+    "value": 1165,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_BUGBEAR",
+    "label": "Tp Adv Bugbear",
+    "value": 1166,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_HARPY",
+    "label": "Tp Adv Harpy",
+    "value": 1167,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_KILLERDOLL",
+    "label": "Tp Adv Killerdoll",
+    "value": 1168,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_FLEAARMOR",
+    "label": "Tp Adv Fleaarmor",
+    "value": 1169,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_BOSS_FLEAARMOR",
+    "label": "Tp Adv Boss Fleaarmor",
+    "value": 1170,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_MALACHI",
+    "label": "Tp Adv Malachi",
+    "value": 1171,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_XLGURKHAKNIFEMASTER",
+    "label": "Tp Adv XL Gurkhaknifemaster",
+    "value": 1172,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_XLFLEARIDER",
+    "label": "Tp Adv XL Flearider",
+    "value": 1173,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_VALHALLAKNIGHT",
+    "label": "Tp Adv Valhallaknight",
+    "value": 1174,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_VALHALLAKNIGHT_FAST",
+    "label": "Tp Adv Valhallaknight Fast",
+    "value": 1175,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_XLVALHALLAKNIGHT_01",
+    "label": "Tp Adv XL Valhallaknight 01",
+    "value": 1176,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_XLVALHALLAKNIGHT_02",
+    "label": "Tp Adv XL Valhallaknight 02",
+    "value": 1177,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_SKELETONAPE",
+    "label": "Tp Adv Skeletonape",
+    "value": 1178,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_FROZENSHADE",
+    "label": "Tp Adv Frozenshade",
+    "value": 1179,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_HIPPOGRYPH",
+    "label": "Tp Adv Hippogryph",
+    "value": 1180,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_CAVETROLL",
+    "label": "Tp Adv Cavetroll",
+    "value": 1181,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_SUNKEN_BRACHYURA_BOSS",
+    "label": "Tp Adv Sunken Brachyura Boss",
+    "value": 1182,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_FROZENSHADE_FIXED",
+    "label": "Tp Adv Frozenshade Fixed",
+    "value": 1183,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_DULLAHAN",
+    "label": "Tp Adv Dullahan",
+    "value": 1184,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_SLOGRA",
+    "label": "Tp Adv Slogra",
+    "value": 1185,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_BOSS_MUMMY",
+    "label": "Tp Adv Boss Mummy",
+    "value": 1186,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_RED_YORICK",
+    "label": "Tp Adv Red Yorick",
+    "value": 1187,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_RED_DULLAHAN",
+    "label": "Tp Adv Red Dullahan",
+    "value": 1188,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_MEDUSA_02",
+    "label": "Tp Adv Medusa 02",
+    "value": 1189,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_MINION_SUCCUBUS",
+    "label": "Tp Adv Minion Succubus",
+    "value": 1190,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_BOSS_BEHEMOTH",
+    "label": "Tp Adv Boss Behemoth",
+    "value": 1191,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_BOSS_CREATURE",
+    "label": "Tp Adv Boss Creature",
+    "value": 1192,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_BOSS_MALPHAS",
+    "label": "Tp Adv Boss Malphas",
+    "value": 1193,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_BOSS_JIANGSHI",
+    "label": "Tp Adv Boss Jiangshi",
+    "value": 1194,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ADV_BOSS_STONEROSE",
+    "label": "Tp Adv Boss Stonerose",
+    "value": 1195,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_COUNTER",
+    "label": "Tp Counter",
+    "value": 1199,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "EX_ECTOGOLD",
+    "label": "Ectogold",
+    "value": 1200,
+    "group": null
+  },
+  {
+    "id": "EX_GOLDPILE",
+    "label": "Goldpile",
+    "value": 1201,
+    "group": null
+  },
+  {
+    "id": "EX_JELLYBAG_RED",
+    "label": "Jellybag Red",
+    "value": 1202,
+    "group": null
+  },
+  {
+    "id": "EX_JELLYBAG_GREEN",
+    "label": "Jellybag Green",
+    "value": 1203,
+    "group": null
+  },
+  {
+    "id": "EX_JELLYBAG_PURPLE",
+    "label": "Jellybag Purple",
+    "value": 1204,
+    "group": null
+  },
+  {
+    "id": "EX_XLDRAGON_GOLD",
+    "label": "XL Dragon Gold",
+    "value": 1205,
+    "group": null
+  },
+  {
+    "id": "EX_XLDRAGON_GOLD_FLAG",
+    "label": "XL Dragon Gold Flag",
+    "value": 1206,
+    "group": null
+  },
+  {
+    "id": "EX_XLMANTIS_GOLD",
+    "label": "XL Mantis Gold",
+    "value": 1207,
+    "group": null
+  },
+  {
+    "id": "EX_SQUILLER_1",
+    "label": "Squiller 1",
+    "value": 1208,
+    "group": null
+  },
+  {
+    "id": "EX_SQUILLER_2",
+    "label": "Squiller 2",
+    "value": 1209,
+    "group": null
+  },
+  {
+    "id": "EX_BULLET_COIN",
+    "label": "Bullet Coin",
+    "value": 1210,
+    "group": null
+  },
+  {
+    "id": "EX_BOSS_SPADEKNIGHT",
+    "label": "Boss Spadeknight",
+    "value": 1211,
+    "group": null
+  },
+  {
+    "id": "EX_SHOOTING_ENEMIES_COUNTER",
+    "label": "Shooting Enemies Counter",
+    "value": 1212,
+    "group": null
+  },
+  {
+    "id": "EX_BARM",
+    "label": "Barm",
+    "value": 1213,
+    "group": null
+  },
+  {
+    "id": "EX_CARDSHARP",
+    "label": "Cardsharp",
+    "value": 1214,
+    "group": null
+  },
+  {
+    "id": "EX_CASINOGHOUL",
+    "label": "Casinoghoul",
+    "value": 1215,
+    "group": null
+  },
+  {
+    "id": "EX_CLUBBIE",
+    "label": "Clubbie",
+    "value": 1216,
+    "group": null
+  },
+  {
+    "id": "EX_DANDYBRINE",
+    "label": "Dandybrine",
+    "value": 1217,
+    "group": null
+  },
+  {
+    "id": "EX_DAIMON",
+    "label": "Daimon",
+    "value": 1218,
+    "group": null
+  },
+  {
+    "id": "EX_GAMBERGAR",
+    "label": "Gambergar",
+    "value": 1219,
+    "group": null
+  },
+  {
+    "id": "EX_GAMBLIN",
+    "label": "Gamblin",
+    "value": 1220,
+    "group": null
+  },
+  {
+    "id": "EX_JASTOR",
+    "label": "Jastor",
+    "value": 1221,
+    "group": null
+  },
+  {
+    "id": "EX_JASTOR2",
+    "label": "Jastor 2",
+    "value": 1222,
+    "group": null
+  },
+  {
+    "id": "EX_ROULETTEMUSH",
+    "label": "Roulettemush",
+    "value": 1223,
+    "group": null
+  },
+  {
+    "id": "EX_TOLL2",
+    "label": "Toll 2",
+    "value": 1224,
+    "group": null
+  },
+  {
+    "id": "EX_VALENTINE",
+    "label": "Valentine",
+    "value": 1225,
+    "group": null
+  },
+  {
+    "id": "EX_BOSS_SPADEKNIGHT2",
+    "label": "Boss Spadeknight 2",
+    "value": 1226,
+    "group": null
+  },
+  {
+    "id": "EX_SQUILLER_COMBO",
+    "label": "Squiller Combo",
+    "value": 1227,
+    "group": null
+  },
+  {
+    "id": "EX_DICE",
+    "label": "Dice",
+    "value": 1228,
+    "group": null
+  },
+  {
+    "id": "EX_DICE_AGGRO",
+    "label": "Dice Aggro",
+    "value": 1229,
+    "group": null
+  },
+  {
+    "id": "EX_CHARGER",
+    "label": "Charger",
+    "value": 1230,
+    "group": null
+  },
+  {
+    "id": "EX_TORINO",
+    "label": "Torino",
+    "value": 1231,
+    "group": null
+  },
+  {
+    "id": "EX_JOYATAURO",
+    "label": "Joyatauro",
+    "value": 1232,
+    "group": null
+  },
+  {
+    "id": "EX_MEANATAUR",
+    "label": "Meanataur",
+    "value": 1233,
+    "group": null
+  },
+  {
+    "id": "EX_17COLOSSUS_BURIED",
+    "label": "17colossus Buried",
+    "value": 1234,
+    "group": null
+  },
+  {
+    "id": "EX_17COLOSSUS",
+    "label": "17colossus",
+    "value": 1235,
+    "group": null
+  },
+  {
+    "id": "EX_CHARGER_RED_S",
+    "label": "Charger Red S",
+    "value": 1236,
+    "group": null
+  },
+  {
+    "id": "EX_CHARGER_RED_M",
+    "label": "Charger Red M",
+    "value": 1237,
+    "group": null
+  },
+  {
+    "id": "EX_CHARGER_RED_L",
+    "label": "Charger Red L",
+    "value": 1238,
+    "group": null
+  },
+  {
+    "id": "EX_CHARGER_YELLOW_S",
+    "label": "Charger Yellow S",
+    "value": 1239,
+    "group": null
+  },
+  {
+    "id": "EX_CHARGER_YELLOW_M",
+    "label": "Charger Yellow M",
+    "value": 1240,
+    "group": null
+  },
+  {
+    "id": "EX_CHARGER_YELLOW_L",
+    "label": "Charger Yellow L",
+    "value": 1241,
+    "group": null
+  },
+  {
+    "id": "EX_MAZERELLA_DANCER",
+    "label": "Mazerella Dancer",
+    "value": 1242,
+    "group": null
+  },
+  {
+    "id": "EX_JASTOR_PATROL",
+    "label": "Jastor Patrol",
+    "value": 1243,
+    "group": null
+  },
+  {
+    "id": "EX_HARPY2",
+    "label": "Harpy 2",
+    "value": 1244,
+    "group": null
+  },
+  {
+    "id": "EX_GEMSTONE_HITS_STATIC",
+    "label": "Gemstone Hits Static",
+    "value": 1245,
+    "group": null
+  },
+  {
+    "id": "EX_GAMBLIN2",
+    "label": "Gamblin 2",
+    "value": 1246,
+    "group": null
+  },
+  {
+    "id": "EX_SPADEKNIGHT1",
+    "label": "Spadeknight 1",
+    "value": 1247,
+    "group": null
+  },
+  {
+    "id": "EX_SPADEKNIGHT2",
+    "label": "Spadeknight 2",
+    "value": 1248,
+    "group": null
+  },
+  {
+    "id": "MOLISANO_ANFORA_GOLD",
+    "label": "Molisano Anfora Gold",
+    "value": 1249,
+    "group": null
+  },
+  {
+    "id": "BOSS_BLINDER_NORMAL",
+    "label": "Boss Blinder Normal",
+    "value": 1250,
+    "group": null
+  },
+  {
+    "id": "EX_SKELEGEM",
+    "label": "Skelegem",
+    "value": 1251,
+    "group": null
+  },
+  {
+    "id": "LEM_JIMBAT1",
+    "label": "Lem Jimbat 1",
+    "value": 1300,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_JIMBAT2",
+    "label": "Lem Jimbat 2",
+    "value": 1301,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_JIMBAT3",
+    "label": "Lem Jimbat 3",
+    "value": 1302,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_JIMBAT4",
+    "label": "Lem Jimbat 4",
+    "value": 1303,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_JIMBAT5",
+    "label": "Lem Jimbat 5",
+    "value": 1304,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_XLJIMBAT",
+    "label": "Lem XL Jimbat",
+    "value": 1305,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_JIMBO_SWARM",
+    "label": "Lem Jimbo Swarm",
+    "value": 1306,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_ZOMBALATRO",
+    "label": "Lem Zombalatro",
+    "value": 1307,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_MRBONES",
+    "label": "Lem Mrbones",
+    "value": 1308,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_SPECTRAL",
+    "label": "Lem Spectral",
+    "value": 1309,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_MANTIS",
+    "label": "Lem Mantis",
+    "value": 1310,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_SUNFLOWERS",
+    "label": "Lem Sunflowers",
+    "value": 1311,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_WEREWOLF",
+    "label": "Lem Werewolf",
+    "value": 1312,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_BOSS_WEREWOLF",
+    "label": "Lem Boss Werewolf",
+    "value": 1313,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_VENUS",
+    "label": "Lem Venus",
+    "value": 1314,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_BOSS_VENUS",
+    "label": "Lem Boss Venus",
+    "value": 1315,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_BOSS_SMALLBLIND",
+    "label": "Lem Boss Smallblind",
+    "value": 1316,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_BOSS_BIGBLIND",
+    "label": "Lem Boss Bigblind",
+    "value": 1317,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_BOSS_OX",
+    "label": "Lem Boss Ox",
+    "value": 1318,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_BOSS_WALL",
+    "label": "Lem Boss Wall",
+    "value": 1319,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_BOSS_MANACLE",
+    "label": "Lem Boss Manacle",
+    "value": 1320,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_BOSS_CRIMSONHEART",
+    "label": "Lem Boss Crimsonheart",
+    "value": 1321,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_SPECTRAL_SWARM",
+    "label": "Lem Spectral Swarm",
+    "value": 1322,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_PATROL_MINIMANTIS",
+    "label": "Lem Patrol Minimantis",
+    "value": 1323,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_BAT3",
+    "label": "Lem Bat 3",
+    "value": 1324,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_VSBAT1",
+    "label": "Lem Vsbat 1",
+    "value": 1325,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_CASINOGHOUL",
+    "label": "Lem Casinoghoul",
+    "value": 1326,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_GAMBLIN2",
+    "label": "Lem Gamblin 2",
+    "value": 1327,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_CARDSHARP",
+    "label": "Lem Cardsharp",
+    "value": 1328,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_SPADEKNIGHT1",
+    "label": "Lem Spadeknight 1",
+    "value": 1329,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_SPADEKNIGHT2",
+    "label": "Lem Spadeknight 2",
+    "value": 1330,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_BOSS_SPADEKNIGHT",
+    "label": "Lem Boss Spadeknight",
+    "value": 1331,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_BOSS_SPADEKNIGHT2",
+    "label": "Lem Boss Spadeknight 2",
+    "value": 1332,
+    "group": "Balatro"
+  },
+  {
+    "id": "EX_VSBAT1",
+    "label": "Vsbat 1",
+    "value": 1400,
+    "group": null
+  },
+  {
+    "id": "MS_ZOMBIE",
+    "label": "Ms Zombie",
+    "value": 1500,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_BAT1",
+    "label": "Ms Bat 1",
+    "value": 1501,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_BAT2",
+    "label": "Ms Bat 2",
+    "value": 1502,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_BAT3",
+    "label": "Ms Bat 3",
+    "value": 1503,
+    "group": "Moonspell"
+  },
+  {
+    "id": "EX_BATDRAKELET",
+    "label": "Batdrakelet",
+    "value": 1401,
+    "group": null
+  },
+  {
+    "id": "unused1402",
+    "label": "Unused 1402",
+    "value": 1402,
+    "group": null
+  },
+  {
+    "id": "EX_AHUIZOTL",
+    "label": "Ahuizotl",
+    "value": 1403,
+    "group": null
+  },
+  {
+    "id": "EX_BUKAVAC",
+    "label": "Bukavac",
+    "value": 1404,
+    "group": null
+  },
+  {
+    "id": "EX_ICHTHYOCENTAUR_01",
+    "label": "Ichthyocentaur 01",
+    "value": 1405,
+    "group": null
+  },
+  {
+    "id": "EX_ICHTHYOCENTAUR_02",
+    "label": "Ichthyocentaur 02",
+    "value": 1406,
+    "group": null
+  },
+  {
+    "id": "EX_ICHTHYOCENTAUR_03",
+    "label": "Ichthyocentaur 03",
+    "value": 1407,
+    "group": null
+  },
+  {
+    "id": "EX_ICHTHYOCENTAUR_04",
+    "label": "Ichthyocentaur 04",
+    "value": 1408,
+    "group": null
+  },
+  {
+    "id": "EX_ICHTHYOCENTAUR_05",
+    "label": "Ichthyocentaur 05",
+    "value": 1409,
+    "group": null
+  },
+  {
+    "id": "EX_TRITONT_01",
+    "label": "Tritont 01",
+    "value": 1410,
+    "group": null
+  },
+  {
+    "id": "EX_TRITONT_02",
+    "label": "Tritont 02",
+    "value": 1411,
+    "group": null
+  },
+  {
+    "id": "EX_SEAANGEL",
+    "label": "Seaangel",
+    "value": 1412,
+    "group": null
+  },
+  {
+    "id": "EX_SEAPIG",
+    "label": "Seapig",
+    "value": 1413,
+    "group": null
+  },
+  {
+    "id": "EX_SEASLUG",
+    "label": "Seaslug",
+    "value": 1414,
+    "group": null
+  },
+  {
+    "id": "EX_LEAFYSEAHORSE_01",
+    "label": "Leafyseahorse 01",
+    "value": 1415,
+    "group": null
+  },
+  {
+    "id": "EX_LEAFYSEAHORSE_02",
+    "label": "Leafyseahorse 02",
+    "value": 1416,
+    "group": null
+  },
+  {
+    "id": "EX_BOSS_ICHTHYOCENTAUR",
+    "label": "Boss Ichthyocentaur",
+    "value": 1417,
+    "group": null
+  },
+  {
+    "id": "EX_JELLYFISH_MEDUSA",
+    "label": "Jellyfish Medusa",
+    "value": 1418,
+    "group": null
+  },
+  {
+    "id": "EX_BOSS_PINKJELLYFISH",
+    "label": "Boss Pinkjellyfish",
+    "value": 1419,
+    "group": null
+  },
+  {
+    "id": "EX_OLM",
+    "label": "Olm",
+    "value": 1420,
+    "group": null
+  },
+  {
+    "id": "EX_BOSS_SEASPHYNX",
+    "label": "Boss Seasphynx",
+    "value": 1421,
+    "group": null
+  },
+  {
+    "id": "EX_ARCANA_SALMON",
+    "label": "Arcana Salmon",
+    "value": 1422,
+    "group": null
+  },
+  {
+    "id": "EX_BATDRAKELET_CIRCLING",
+    "label": "Batdrakelet Circling",
+    "value": 1423,
+    "group": null
+  },
+  {
+    "id": "EX_BOSS_BATDRAGON_1",
+    "label": "Boss Batdragon 1",
+    "value": 1424,
+    "group": null
+  },
+  {
+    "id": "EX_BOSS_BATDRAGON_2",
+    "label": "Boss Batdragon 2",
+    "value": 1425,
+    "group": null
+  },
+  {
+    "id": "EX_BOSS_BATDRAGON_3",
+    "label": "Boss Batdragon 3",
+    "value": 1426,
+    "group": null
+  },
+  {
+    "id": "EX_BOSS_BATDRAGON_4",
+    "label": "Boss Batdragon 4",
+    "value": 1427,
+    "group": null
+  },
+  {
+    "id": "EX_BOSS_BATDRAGON_5",
+    "label": "Boss Batdragon 5",
+    "value": 1428,
+    "group": null
+  },
+  {
+    "id": "EX_BOSS_BATDRAGON_6",
+    "label": "Boss Batdragon 6",
+    "value": 1429,
+    "group": null
+  },
+  {
+    "id": "EX_BOSS_BATDRAGON_7",
+    "label": "Boss Batdragon 7",
+    "value": 1430,
+    "group": null
+  },
+  {
+    "id": "EX_BATDRAKELET_SHADOW",
+    "label": "Batdrakelet Shadow",
+    "value": 1431,
+    "group": null
+  },
+  {
+    "id": "unused1423",
+    "label": "Unused 1423",
+    "value": 1432,
+    "group": null
+  },
+  {
+    "id": "unused1433",
+    "label": "Unused 1433",
+    "value": 1433,
+    "group": null
+  },
+  {
+    "id": "EX_BOSS_CRAB_LYCAEUM",
+    "label": "Boss Crab Lycaeum",
+    "value": 1434,
+    "group": null
+  },
+  {
+    "id": "EX_BOSS_SALMONARI",
+    "label": "Boss Salmonari",
+    "value": 1435,
+    "group": null
+  },
+  {
+    "id": "EX_JELLY_MEDUSA",
+    "label": "Jelly Medusa",
+    "value": 1436,
+    "group": null
+  },
+  {
+    "id": "EX_SEAANGEL_MEDUSA",
+    "label": "Seaangel Medusa",
+    "value": 1437,
+    "group": null
+  },
+  {
+    "id": "EX_SEAHORSE_MEDUSA",
+    "label": "Seahorse Medusa",
+    "value": 1438,
+    "group": null
+  },
+  {
+    "id": "EX_CRABBINO_MEDUSA",
+    "label": "Crabbino Medusa",
+    "value": 1439,
+    "group": null
+  },
+  {
+    "id": "EX_SALMON_RED_MEDUSA",
+    "label": "Salmon Red Medusa",
+    "value": 1440,
+    "group": null
+  },
+  {
+    "id": "EX_SALMON_BLUE_MEDUSA",
+    "label": "Salmon Blue Medusa",
+    "value": 1441,
+    "group": null
+  },
+  {
+    "id": "EX_SALMON_PINK_MEDUSA",
+    "label": "Salmon Pink Medusa",
+    "value": 1442,
+    "group": null
+  },
+  {
+    "id": "EX_BOSS_DROWNER_LYCAEUM",
+    "label": "Boss Drowner Lycaeum",
+    "value": 1443,
+    "group": null
+  },
+  {
+    "id": "EX_BOSS_TRITON_LYCAEUM",
+    "label": "Boss Triton Lycaeum",
+    "value": 1444,
+    "group": null
+  },
+  {
+    "id": "EX_SIGRABLU_SWARM",
+    "label": "Sigrablu Swarm",
+    "value": 1445,
+    "group": null
+  },
+  {
+    "id": "EX_SIGRABLU_EXPLO",
+    "label": "Sigrablu Explo",
+    "value": 1446,
+    "group": null
+  },
+  {
+    "id": "EX_BATDRAKELET_STATIONARY",
+    "label": "Batdrakelet Stationary",
+    "value": 1447,
+    "group": null
+  },
+  {
+    "id": "BMN_UNICONIGLIO",
+    "label": "Bmn Uniconiglio",
+    "value": 1800,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_NASNASTY",
+    "label": "Bmn Nasnasty",
+    "value": 1801,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_JETTATRICI",
+    "label": "Bmn Jettatrici",
+    "value": 1802,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_WEREHYENA",
+    "label": "Bmn Werehyena",
+    "value": 1803,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_NAGAPHONATA",
+    "label": "Bmn Nagaphonata",
+    "value": 1804,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_FRITTONI",
+    "label": "Bmn Frittoni",
+    "value": 1805,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_CANE",
+    "label": "Bmn Cane",
+    "value": 1806,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_ROCCO",
+    "label": "Bmn Rocco",
+    "value": 1807,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_SYAMALANNO",
+    "label": "Bmn Syamalanno",
+    "value": 1808,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_KUYATA",
+    "label": "Bmn Kuyata",
+    "value": 1809,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_FRITTI",
+    "label": "Bmn Fritti",
+    "value": 1810,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "UN_BMN_ENEMY_011",
+    "label": "Un Bmn Enemy 011",
+    "value": 1811,
+    "group": null
+  },
+  {
+    "id": "BMN_DJINN",
+    "label": "Bmn Djinn",
+    "value": 1812,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_DJINN_2",
+    "label": "Bmn Djinn 2",
+    "value": 1813,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_LAMASHTU",
+    "label": "Bmn Lamashtu",
+    "value": 1814,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_SPIRITOSO",
+    "label": "Bmn Spiritoso",
+    "value": 1815,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_JAMAN_JATO",
+    "label": "Bmn Jaman Jato",
+    "value": 1816,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_JAMAN_JATO2",
+    "label": "Bmn Jaman Jato 2",
+    "value": 1817,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_JAMAN_JATO_PATROL",
+    "label": "Bmn Jaman Jato Patrol",
+    "value": 1818,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_JAMAN_JATO_SWARM",
+    "label": "Bmn Jaman Jato Swarm",
+    "value": 1819,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_JAMAN_JATO_BOSS",
+    "label": "Bmn Jaman Jato Boss",
+    "value": 1820,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_CONGREGATION_SMALL",
+    "label": "Bmn Congregation Small",
+    "value": 1825,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "UN_BMN_ENEMY_026",
+    "label": "Un Bmn Enemy 026",
+    "value": 1826,
+    "group": null
+  },
+  {
+    "id": "BMN_TENTACLE",
+    "label": "Bmn Tentacle",
+    "value": 1827,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_ASHTART_EVENT",
+    "label": "Bmn Ashtart Event",
+    "value": 1828,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_BAALTHASAR_EVENT",
+    "label": "Bmn Baalthasar Event",
+    "value": 1829,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_TENTACLE_MOVING",
+    "label": "Bmn Tentacle Moving",
+    "value": 1830,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_JAMAN_WALKING",
+    "label": "Bmn Jaman Walking",
+    "value": 1831,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_SHADOW_SWARM",
+    "label": "Bmn Shadow Swarm",
+    "value": 1832,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_SHADOW_WALKING",
+    "label": "Bmn Shadow Walking",
+    "value": 1833,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_BOSS_SARGON",
+    "label": "Bmn Boss Sargon",
+    "value": 1850,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_BOSS_CONGREGATION",
+    "label": "Bmn Boss Congregation",
+    "value": 1851,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_BOSS_ASHTART",
+    "label": "Bmn Boss Ashtart",
+    "value": 1852,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_BOSS_BAALTHASAR",
+    "label": "Bmn Boss Baalthasar",
+    "value": 1853,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_BOSS_GEKKOJIN",
+    "label": "Bmn Boss Gekkojin",
+    "value": 1854,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "UN_BMN_ENEMY_055",
+    "label": "Un Bmn Enemy 055",
+    "value": 1855,
+    "group": null
+  },
+  {
+    "id": "BMN_UNICONIGLIO_SWARM",
+    "label": "Bmn Uniconiglio Swarm",
+    "value": 1856,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_NASNASTY_SWARM",
+    "label": "Bmn Nasnasty Swarm",
+    "value": 1857,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_JETTATRICI_BASE",
+    "label": "Bmn Jettatrici Base",
+    "value": 1858,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_WEREHYENA_SWARM",
+    "label": "Bmn Werehyena Swarm",
+    "value": 1859,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_NAGAPHONATA_CIRCLE",
+    "label": "Bmn Nagaphonata Circle",
+    "value": 1860,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_FRITTONI_BASE",
+    "label": "Bmn Frittoni Base",
+    "value": 1861,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_CANE_SWARM",
+    "label": "Bmn Cane Swarm",
+    "value": 1862,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_ROCCO_SWARM",
+    "label": "Bmn Rocco Swarm",
+    "value": 1863,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_SYAMALANNO_BASE",
+    "label": "Bmn Syamalanno Base",
+    "value": 1864,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_KUYATA_BASE",
+    "label": "Bmn Kuyata Base",
+    "value": 1865,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_DJINN_SWARM",
+    "label": "Bmn Djinn Swarm",
+    "value": 1866,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_LAMASHTU_BASE",
+    "label": "Bmn Lamashtu Base",
+    "value": 1867,
+    "group": "Bloodmoon"
+  }
+]

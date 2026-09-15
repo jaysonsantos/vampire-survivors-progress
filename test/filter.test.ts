@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import test from "node:test";
-import { BASE_GAME, filterEntries } from "../frontend/src/lib/filter.ts";
+import { BASE_GAME, countHeld, filterEntries, VIEW } from "../frontend/src/lib/filter.ts";
 import type { CatalogEntry } from "../frontend/src/lib/types.ts";
 
 const ENTRIES: CatalogEntry[] = [
@@ -11,8 +11,8 @@ const ENTRIES: CatalogEntry[] = [
 
 const HELD = new Set(["ANTONIO"]);
 
-test("shows what the save holds by default", () => {
-  const shown = filterEntries(ENTRIES, HELD, { search: "", group: null, missing: false });
+test("shows what the save holds", () => {
+  const shown = filterEntries(ENTRIES, HELD, { search: "", group: null, view: VIEW.owned });
   assert.deepEqual(
     shown.map((entry) => entry.id),
     ["ANTONIO"],
@@ -20,7 +20,7 @@ test("shows what the save holds by default", () => {
 });
 
 test("shows what the save misses", () => {
-  const shown = filterEntries(ENTRIES, HELD, { search: "", group: null, missing: true });
+  const shown = filterEntries(ENTRIES, HELD, { search: "", group: null, view: VIEW.missing });
   assert.deepEqual(
     shown.map((entry) => entry.id),
     ["TP_ALUCARD", "IMELDA"],
@@ -28,12 +28,12 @@ test("shows what the save misses", () => {
 });
 
 test("filters by content group and treats no group as the base game", () => {
-  const addOn = filterEntries(ENTRIES, HELD, { search: "", group: "Ode to Castlevania", missing: true });
+  const addOn = filterEntries(ENTRIES, HELD, { search: "", group: "Ode to Castlevania", view: VIEW.missing });
   assert.deepEqual(
     addOn.map((entry) => entry.id),
     ["TP_ALUCARD"],
   );
-  const base = filterEntries(ENTRIES, HELD, { search: "", group: BASE_GAME, missing: true });
+  const base = filterEntries(ENTRIES, HELD, { search: "", group: BASE_GAME, view: VIEW.missing });
   assert.deepEqual(
     base.map((entry) => entry.id),
     ["IMELDA"],
@@ -41,13 +41,19 @@ test("filters by content group and treats no group as the base game", () => {
 });
 
 test("ignores a search term below the minimum length", () => {
-  const shown = filterEntries(ENTRIES, HELD, { search: "z", group: null, missing: false });
-  assert.equal(shown.length, 1);
+  const shown = filterEntries(ENTRIES, HELD, { search: "z", group: null, view: VIEW.all });
+  assert.equal(shown.length, ENTRIES.length);
 });
 
 test("searches the label and the identifier", () => {
-  const byLabel = filterEntries(ENTRIES, HELD, { search: "anto", group: null, missing: false });
+  const byLabel = filterEntries(ENTRIES, HELD, { search: "anto", group: null, view: VIEW.all });
   assert.equal(byLabel.length, 1);
-  const byId = filterEntries(ENTRIES, HELD, { search: "tp_", group: null, missing: true });
+  const byId = filterEntries(ENTRIES, HELD, { search: "tp_", group: null, view: VIEW.missing });
   assert.equal(byId.length, 1);
+});
+
+test("shows everything and counts what is held", () => {
+  const shown = filterEntries(ENTRIES, HELD, { search: "", group: null, view: VIEW.all });
+  assert.equal(shown.length, ENTRIES.length);
+  assert.equal(countHeld(ENTRIES, HELD), 1);
 });

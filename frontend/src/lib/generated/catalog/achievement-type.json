@@ -3,3084 +3,6968 @@
     "id": "ReachLV5",
     "label": "Reach LV 5",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "powerUp",
+        "id": "MOVESPEED"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "ReachLV10",
     "label": "Reach LV 10",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "powerUp",
+        "id": "GROWTH"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "Have6DifferentWeapons",
     "label": "Have 6 Different Weapons",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "powerUp",
+        "id": "COOLDOWN"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "GetFireWandToLevel4",
     "label": "Get Fire Wand To Level 4",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "CIRO"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "GetHolyBookToLevel4",
     "label": "Get Holy Book To Level 4",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "powerUp",
+        "id": "SPEED"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "GetHolyWaterToLevel4",
     "label": "Get Holy Water To Level 4",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "powerUp",
+        "id": "AREA"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "GetLightningRingToLevel4",
     "label": "Get Lightning Ring To Level 4",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "PORTA"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "GetMagicMissileToLevel7",
     "label": "Get Magic Missile To Level 7",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "powerUp",
+        "id": "AMOUNT"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "GetPeachoneToLevel7",
     "label": "Get Peachone To Level 7",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "SILF2"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "GetRunetracerToLevel7",
     "label": "Get Runetracer To Level 7",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "powerUp",
+        "id": "DURATION"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "Survive1Minute",
     "label": "Survive 1 Minute",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "powerUp",
+        "id": "MAXHEALTH"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "Survive5MinutesWithDiamond",
     "label": "Survive 5 Minutes With Diamond",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "DIAMOND"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "Survive10Minutes",
     "label": "Survive 10 Minutes",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "SILF"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "Survive20Minutes",
     "label": "Survive 20 Minutes",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "PENTAGRAM"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "Destroy20Candles",
     "label": "Destroy 20 Candles",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "FIREBALL"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "Eat5PotRoast",
     "label": "Eat 5 Pot Roast",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "GARLIC"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FindAClover",
     "label": "Find A Clover",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "powerUp",
+        "id": "LUCK"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FindAVacuum",
     "label": "Find A Vacuum",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "powerUp",
+        "id": "MAGNET"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FindAnOrologion",
     "label": "Find An Orologion",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "LANCET"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FindARosary",
     "label": "Find A Rosary",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "CROSS"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "Defeat5000Enemies",
     "label": "Defeat 5000 Enemies",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "LIGHTNING"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "Defeat3000Skeletons",
     "label": "Defeat 3000 Skeletons",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "MORTACCIO"
+      },
+      {
+        "kind": "weapon",
+        "id": "BONE"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "DefeatBossMadForest",
     "label": "Defeat Boss Mad Forest",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "hyper",
+        "id": "FOREST"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "ReachLV20InMadForest",
     "label": "Reach LV 20 In Mad Forest",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "stage",
+        "id": "LIBRARY"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "DefeatBossLibrary",
     "label": "Defeat Boss Library",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "hyper",
+        "id": "LIBRARY"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "Survive5MinutesWithKnife",
     "label": "Survive 5 Minutes With Knife",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "powerUp",
+        "id": "REGEN"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FindAStoneMask",
     "label": "Find A Stone Mask",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "powerUp",
+        "id": "GREED"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "GetGarlicToLevel7",
     "label": "Get Garlic To Level 7",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "CAMILLO"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "EvolveWhip",
     "label": "Evolve Whip",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [],
+    "requires": []
   },
   {
     "id": "EvolveMagicWand",
     "label": "Evolve Magic Wand",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [],
+    "requires": []
   },
   {
     "id": "EvolveKnife",
     "label": "Evolve Knife",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [],
+    "requires": []
   },
   {
     "id": "EvolveAxe",
     "label": "Evolve Axe",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [],
+    "requires": []
   },
   {
     "id": "EvolveCross",
     "label": "Evolve Cross",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [],
+    "requires": []
   },
   {
     "id": "EvolveKingBible",
     "label": "Evolve King Bible",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [],
+    "requires": []
   },
   {
     "id": "EvolveFireWand",
     "label": "Evolve Fire Wand",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [],
+    "requires": []
   },
   {
     "id": "EvolveGarlic",
     "label": "Evolve Garlic",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [],
+    "requires": []
   },
   {
     "id": "UniteBirds",
     "label": "Unite Birds",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [],
+    "requires": []
   },
   {
     "id": "Recover1000HP",
     "label": "Recover 1000 HP",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "GERMANA"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "Earn5000CoinsInASingleRun",
     "label": "Earn 5000 Coins In A Single Run",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "DOMMARIO"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "Unlock2Hypers",
     "label": "Unlock 2 Hypers",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "stage",
+        "id": "GREENACRES"
+      },
+      {
+        "kind": "hyper",
+        "id": "GREENACRES"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "Survive20MinutesWithCross",
     "label": "Survive 20 Minutes With Cross",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "powerUp",
+        "id": "REVIVAL"
+      }
+    ],
+    "requires": [
+      "CROCI"
+    ]
   },
   {
     "id": "Defeat100KEnemies",
     "label": "Defeat 100 K Enemies",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "CROCI"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "EvolveSantaWater",
     "label": "Evolve Santa Water",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [],
+    "requires": []
   },
   {
     "id": "EvolveLightning",
     "label": "Evolve Lightning",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [],
+    "requires": []
   },
   {
     "id": "ReachLV100WithMortaccio",
     "label": "Reach LV 100 With Mortaccio",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "powerUp",
+        "id": "REROLL"
+      }
+    ],
+    "requires": [
+      "MORTACCIO"
+    ]
   },
   {
     "id": "Survive30MinutesInGreenAcres",
     "label": "Survive 30 Minutes In Green Acres",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "powerUp",
+        "id": "SKIP"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "Survive30MinutesWithAxe",
     "label": "Survive 30 Minutes With Axe",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "powerUp",
+        "id": "CURSE"
+      }
+    ],
+    "requires": [
+      "LAMA"
+    ]
   },
   {
     "id": "Survive20MinutesWithCurse",
     "label": "Survive 20 Minutes With Curse",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "LAMA"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "Defeat3000Buers",
     "label": "Defeat 3000 Buers",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "CAVALLO"
+      },
+      {
+        "kind": "weapon",
+        "id": "CHERRY"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "ReachLV100WithCavallo",
     "label": "Reach LV 100 With Cavallo",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "powerUp",
+        "id": "REROLL"
+      }
+    ],
+    "requires": [
+      "CAVALLO"
+    ]
   },
   {
     "id": "ReachLV40InLibrary",
     "label": "Reach LV 40 In Library",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "stage",
+        "id": "WAREHOUSE"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "DefeatBossPlant",
     "label": "Defeat Boss Plant",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "hyper",
+        "id": "WAREHOUSE"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FindMilkyWayMap",
     "label": "Find Milky Way Map",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "RELIC_MAP"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FindCoffinStage3",
     "label": "Find Coffin Stage 3",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "POPPEA"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "Survive15MinutesWithSong",
     "label": "Survive 15 Minutes With Song",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "SONG"
+      }
+    ],
+    "requires": [
+      "POPPEA"
+    ]
   },
   {
     "id": "EvolveSongOfMana",
     "label": "Evolve Song Of Mana",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [],
+    "requires": []
   },
   {
     "id": "GetPentagramToLevel7",
     "label": "Get Pentagram To Level 7",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "CRISTINA"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "Unlock3Hypers",
     "label": "Unlock 3 Hypers",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "stage",
+        "id": "MOLISE"
+      },
+      {
+        "kind": "hyper",
+        "id": "MOLISE"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "Survive15MinutesInMolise",
     "label": "Survive 15 Minutes In Molise",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "powerUp",
+        "id": "SKIP"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "EvolvePentagram",
     "label": "Evolve Pentagram",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [],
+    "requires": []
   },
   {
     "id": "See50Items",
     "label": "See 50 Items",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "RELIC_NOSEGLASSES"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FindCoffinStage1",
     "label": "Find Coffin Stage 1",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "PUGNALA"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "Survive10MinutesWithGuns",
     "label": "Survive 10 Minutes With Guns",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "GUNS"
+      }
+    ],
+    "requires": [
+      "PUGNALA"
+    ]
   },
   {
     "id": "Survive15MinutesWithGuns",
     "label": "Survive 15 Minutes With Guns",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "GUNS2"
+      }
+    ],
+    "requires": [
+      "PUGNALA"
+    ]
   },
   {
     "id": "EvolveGuns",
     "label": "Evolve Guns",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [],
+    "requires": []
   },
   {
     "id": "ReachLV60InDairyPlant",
     "label": "Reach LV 60 In Dairy Plant",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "stage",
+        "id": "TOWER"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FindSorceressTears",
     "label": "Find Sorceress Tears",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "RELIC_TEAR"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "DefeatBossTower",
     "label": "Defeat Boss Tower",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "hyper",
+        "id": "TOWER"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "See60Items",
     "label": "See 60 Items",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "powerUp",
+        "id": "BANISH"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "ReachLV100WithRamba",
     "label": "Reach LV 100 With Ramba",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "powerUp",
+        "id": "REROLL"
+      }
+    ],
+    "requires": [
+      "MARIA"
+    ]
   },
   {
     "id": "Defeat3000Milk",
     "label": "Defeat 3000 Milk",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "MARIA"
+      },
+      {
+        "kind": "weapon",
+        "id": "CART2"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "EvolveRunetracer",
     "label": "Evolve Runetracer",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [],
+    "requires": []
   },
   {
     "id": "See70Items",
     "label": "See 70 Items",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "powerUp",
+        "id": "BANISH"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FindRandomazzo",
     "label": "Find Randomazzo",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "RELIC_RANDOMAZZO"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "ReachLV99WithGiovanna",
     "label": "Reach LV 99 With Giovanna",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "arcana",
+        "id": "T05_CRASH"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "ReachLV99WithKroci",
     "label": "Reach LV 99 With Kroci",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "arcana",
+        "id": "T04_AWAKE"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FindRandomazzoT06",
     "label": "Find Randomazzo T 06",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "arcana",
+        "id": "T06_SARABANDE"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "ReachLV99WithLama",
     "label": "Reach LV 99 With Lama",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "arcana",
+        "id": "T16_SLASH"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "ReachLV99WithPoppea",
     "label": "Reach LV 99 With Poppea",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "arcana",
+        "id": "T17_PAINTING"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "ReachLV99WithArca",
     "label": "Reach LV 99 With Arca",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "arcana",
+        "id": "T19_FIRE"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "Survive15MinutesWithGatti",
     "label": "Survive 15 Minutes With Gatti",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "GATTI"
+      }
+    ],
+    "requires": [
+      "GIOVANNA"
+    ]
   },
   {
     "id": "FindCoffinStage2",
     "label": "Find Coffin Stage 2",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "GIOVANNA"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "Defeat3000Hydra",
     "label": "Defeat 3000 Hydra",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TATANKA"
+      },
+      {
+        "kind": "weapon",
+        "id": "FLOWER"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "Unlock3Hypers_Correct",
-    "label": "Unlock 3 Hypers_Correct",
+    "label": "Unlock 3hypers Correct",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "stage",
+        "id": "BONEZONE"
+      },
+      {
+        "kind": "hyper",
+        "id": "BONEZONE"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "Survive30MinutesInBoneZone",
     "label": "Survive 30 Minutes In Bone Zone",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "powerUp",
+        "id": "SKIP"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "ReachLV100WithOsole",
     "label": "Reach LV 100 With Osole",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "powerUp",
+        "id": "REROLL"
+      }
+    ],
+    "requires": [
+      "TATANKA"
+    ]
   },
   {
     "id": "ReachLV99WithImelda",
     "label": "Reach LV 99 With Imelda",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "arcana",
+        "id": "T11_PEARLS"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "ReachLV99WithGennaro",
     "label": "Reach LV 99 With Gennaro",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "arcana",
+        "id": "T07_IRON_BLUE"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FindCoffinStage4",
     "label": "Find Coffin Stage 4",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "CONCETTA"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "ReachLV99WithConcetta",
     "label": "Reach LV 99 With Concetta",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "arcana",
+        "id": "T18_ILLUSIONS"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "Survive15MinutesWithShadow",
     "label": "Survive 15 Minutes With Shadow",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TRAPANO"
+      }
+    ],
+    "requires": [
+      "CONCETTA"
+    ]
   },
   {
     "id": "EvolveGatti",
     "label": "Evolve Gatti",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [],
+    "requires": []
   },
   {
     "id": "EvolveShadow",
     "label": "Evolve Shadow",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [],
+    "requires": []
   },
   {
     "id": "Survive31MinutesInLibrary",
     "label": "Survive 31 Minutes In Library",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "arcana",
+        "id": "T15_GOLD"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "See80Items",
     "label": "See 80 Items",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "powerUp",
+        "id": "BANISH"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FindMagicBanger",
     "label": "Find Magic Banger",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "RELIC_BANGER"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "Unlock4Hypers",
     "label": "Unlock 4 Hypers",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "stage",
+        "id": "SINKING"
+      },
+      {
+        "kind": "hyper",
+        "id": "SINKING"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "Survive15MinutesInMoongolow",
     "label": "Survive 15 Minutes In Moongolow",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "powerUp",
+        "id": "SKIP"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "BuyGlassMask",
     "label": "Buy Glass Mask",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "RELIC_GLASSMASK"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "ReachLV99WithPasqualina",
     "label": "Reach LV 99 With Pasqualina",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "arcana",
+        "id": "T14_JEWELS"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "Survive31MinutesInTower",
     "label": "Survive 31 Minutes In Tower",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "arcana",
+        "id": "T12_OUT_OF_TIME"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "See90Items",
     "label": "See 90 Items",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "powerUp",
+        "id": "BANISH"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FindYellowSign",
     "label": "Find Yellow Sign",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "RELIC_YELLOW"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "ObtainTheInfiniteCorridor",
     "label": "Obtain The Infinite Corridor",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "PINO"
+      }
+    ],
+    "requires": [
+      "RELIC_YELLOW"
+    ]
   },
   {
     "id": "ObtainTheCrimsonShroud",
     "label": "Obtain The Crimson Shroud",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "FEBBRA"
+      }
+    ],
+    "requires": [
+      "RELIC_YELLOW"
+    ]
   },
   {
     "id": "ReachLV99WithAntonio",
     "label": "Reach LV 99 With Antonio",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "arcana",
+        "id": "T10_BEGINNING"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "Survive31MinutesInForest",
     "label": "Survive 31 Minutes In Forest",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "arcana",
+        "id": "T08_MAD_FOREST"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "Have6Evolutions",
     "label": "Have 6 Evolutions",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "powerUp",
+        "id": "PANDORA"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "GetTorroneToLevel9",
     "label": "Get Torrone To Level 9",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "powerUp",
+        "id": "PANDORA"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FindYellowSignS5",
     "label": "Find Yellow Sign S 5",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "stage",
+        "id": "CHAPEL"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FindCoffinStage5",
     "label": "Find Coffin Stage 5",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "ASSUNTA"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "Survive15MinutesWithWind",
     "label": "Survive 15 Minutes With Wind",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "VENTO"
+      }
+    ],
+    "requires": [
+      "ASSUNTA"
+    ]
   },
   {
     "id": "EvolveWind",
     "label": "Evolve Wind",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [],
+    "requires": []
   },
   {
     "id": "DefeatBossChapel",
     "label": "Defeat Boss Chapel",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "hyper",
+        "id": "CHAPEL"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "Defeat6000StageKillers",
     "label": "Defeat 6000 Stage Killers",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "AMBROGIO"
+      },
+      {
+        "kind": "weapon",
+        "id": "ROBBA"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "ReachLV99WithPorta",
     "label": "Reach LV 99 With Porta",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "arcana",
+        "id": "T03_TRAGIC"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "Survive31MinutesInDairyPlant",
     "label": "Survive 31 Minutes In Dairy Plant",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "arcana",
+        "id": "T20_SINKING"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "See100Items",
     "label": "See 100 Items",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "powerUp",
+        "id": "BANISH"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "ReachLV100WithAmbrojoe",
     "label": "Reach LV 100 With Ambrojoe",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "powerUp",
+        "id": "REROLL"
+      }
+    ],
+    "requires": [
+      "AMBROGIO"
+    ]
   },
   {
     "id": "FindGrimoire",
     "label": "Find Grimoire",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "RELIC_GRIMOIRE"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FindGouda",
     "label": "Find Gouda",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "RELIC_GOUDA"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FindGGospel",
     "label": "Find G Gospel",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "RELIC_GGOSPEL"
+      }
+    ],
+    "requires": [
+      "RELIC_YELLOW"
+    ]
   },
   {
     "id": "DefeatBossChapel2",
     "label": "Defeat Boss Chapel 2",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "arcana",
+        "id": "T00_KILLER"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "Unlock5Hypers",
     "label": "Unlock 5 Hypers",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "stage",
+        "id": "RASH"
+      },
+      {
+        "kind": "hyper",
+        "id": "RASH"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "Survive15MinutesInBossRash",
     "label": "Survive 15 Minutes In Boss Rash",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "powerUp",
+        "id": "SKIP"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "ReachLV99WithDommario",
     "label": "Reach LV 99 With Dommario",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "arcana",
+        "id": "T02_TWILIGHT"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "ReachLV99WithPugnala",
     "label": "Reach LV 99 With Pugnala",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "arcana",
+        "id": "T01_AQUARIUS"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "ReachLV99WithChristine",
     "label": "Reach LV 99 With Christine",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "arcana",
+        "id": "T13_WICKED"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FindForbiddenScroll",
     "label": "Find Forbidden Scroll",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "RELIC_SECRETS"
+      }
+    ],
+    "requires": [
+      "RELIC_YELLOW"
+    ]
   },
   {
     "id": "CompleteCollection",
     "label": "Complete Collection",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "SIGMA"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "Defeat100kWithSigma",
     "label": "Defeat 100k With Sigma",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "VICTORY"
+      }
+    ],
+    "requires": [
+      "SIGMA"
+    ]
   },
   {
     "id": "ReachLV99WithClerici",
     "label": "Reach LV 99 With Clerici",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "arcana",
+        "id": "T09_DIVINE"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "ReachLV99WithPoe",
     "label": "Reach LV 99 With Poe",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "arcana",
+        "id": "T21_BLOODY"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "GalloDivano",
     "label": "Gallo Divano",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TRIASSO1"
+      }
+    ],
+    "requires": [
+      "PINO"
+    ]
   },
   {
     "id": "EvolveBracelet",
     "label": "Evolve Bracelet",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [],
+    "requires": []
   },
   {
     "id": "EvolveAll",
     "label": "Evolve All",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "CANDYBOX"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "ObtainAllRelics",
     "label": "Obtain All Relics",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "stage",
+        "id": "MACHINE"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "ObtainSeventhTrumpet",
     "label": "Obtain Seventh Trumpet",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "RELIC_TRUMPET"
+      }
+    ],
+    "requires": [
+      "RELIC_YELLOW"
+    ]
   },
   {
     "id": "ObtainGraciasMirror",
     "label": "Obtain Gracias Mirror",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "RELIC_MIRROR"
+      }
+    ],
+    "requires": [
+      "RELIC_YELLOW"
+    ]
   },
   {
     "id": "GreatestJubilee",
     "label": "Greatest Jubilee",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "JUBILEE"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "Banish10Items",
     "label": "Banish 10 Items",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "powerUp",
+        "id": "SEAL"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "ReachLV80InverseTower",
     "label": "Reach LV 80 Inverse Tower",
     "value": null,
-    "group": null
-  },
-  {
-    "id": "Unlock20BasePowerUps",
-    "label": "Unlock 20 Base Power Ups",
-    "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "stage",
+        "id": "TOWERBRIDGE"
+      },
+      {
+        "kind": "hyper",
+        "id": "TOWERBRIDGE"
+      }
+    ],
+    "requires": [
+      "RELIC_MIRROR"
+    ]
   },
   {
     "id": "MOON01_FindCoffin",
-    "label": "MOON 01_Find Coffin",
+    "label": "Moon 01 Findcoffin",
     "value": null,
-    "group": null
+    "group": "Moonspell",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "MIANG"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "MOON02_Survive15Miang",
-    "label": "MOON 02_Survive 15 Miang",
+    "label": "Moon 02 Survive 15miang",
     "value": null,
-    "group": null
+    "group": "Moonspell",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "SILVERWIND"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "MOON03_EvolveSilverWind",
-    "label": "MOON 03_Evolve Silver Wind",
+    "label": "Moon 03 Evolvesilverwind",
     "value": null,
-    "group": null
+    "group": "Moonspell",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "MENYA"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "MOON04_Survive15Menya",
-    "label": "MOON 04_Survive 15 Menya",
+    "label": "Moon 04 Survive 15menya",
     "value": null,
-    "group": null
+    "group": "Moonspell",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "FOURSEASONS"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "MOON05_EvolveFourSeasons",
-    "label": "MOON 05_Evolve Four Seasons",
+    "label": "Moon 05 Evolvefourseasons",
     "value": null,
-    "group": null
+    "group": "Moonspell",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "SYUUTO"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "MOON06_Survive15Syuuto",
-    "label": "MOON 06_Survive 15 Syuuto",
+    "label": "Moon 06 Survive 15syuuto",
     "value": null,
-    "group": null
+    "group": "Moonspell",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "SUMMONNIGHT"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "MOON07_EvolveSummonNight",
-    "label": "MOON 07_Evolve Summon Night",
+    "label": "Moon 07 Evolvesummonnight",
     "value": null,
-    "group": null
+    "group": "Moonspell",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "ONNA"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "MOON08_Survive15BabiOnna",
-    "label": "MOON 08_Survive 15 Babi Onna",
+    "label": "Moon 08 Survive 15babionna",
     "value": null,
-    "group": null
+    "group": "Moonspell",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "MIRAGEROBE"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "MOON09_EvolveMirageRobe",
-    "label": "MOON 09_Evolve Mirage Robe",
+    "label": "Moon 09 Evolvemiragerobe",
     "value": null,
-    "group": null
+    "group": "Moonspell",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "MCCOY"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "MOON10_Survive15McCoy",
-    "label": "MOON 10_Survive 15 Mc Coy",
+    "label": "Moon 10 Survive 15mccoy",
     "value": null,
-    "group": null
+    "group": "Moonspell",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "BOCCE"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "MOON11_Defeat100kVanya",
-    "label": "MOON 11_Defeat 100k Vanya",
+    "label": "Moon 11 Defeat 100kvanya",
     "value": null,
-    "group": null
+    "group": "Moonspell",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "MEGAMENYA"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "MOON12_Defeat100kVadjouel",
-    "label": "MOON 12_Defeat 100k Vadjouel",
+    "label": "Moon 12 Defeat 100kvadjouel",
     "value": null,
-    "group": null
+    "group": "Moonspell",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "MEGASYUUTO"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "MOON13_Defeat6kWater",
-    "label": "MOON 13_Defeat 6k Water",
+    "label": "Moon 13 Defeat 6kwater",
     "value": null,
-    "group": null
+    "group": "Moonspell",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TONY"
+      },
+      {
+        "kind": "weapon",
+        "id": "BUBBLES"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "MOON14_FindNightSword",
-    "label": "MOON 14_Find Night Sword",
+    "label": "Moon 14 Findnightsword",
     "value": null,
-    "group": null
+    "group": "Moonspell",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "NIGHTSWORD"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "MOON15_EvolveNightSword",
-    "label": "MOON 15_Evolve Night Sword",
+    "label": "Moon 15 Evolvenightsword",
     "value": null,
-    "group": null
+    "group": "Moonspell",
+    "rewards": [],
+    "requires": []
   },
   {
     "id": "MOON16_DefeatBossRuins",
-    "label": "MOON 16_Defeat Boss Ruins",
+    "label": "Moon 16 Defeatbossruins",
     "value": null,
-    "group": null
+    "group": "Moonspell",
+    "rewards": [
+      {
+        "kind": "hyper",
+        "id": "MOONSPELL"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "MOON17_EvolveBubbles",
-    "label": "MOON 17_Evolve Bubbles",
+    "label": "Moon 17 Evolvebubbles",
     "value": null,
-    "group": null
+    "group": "Moonspell",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "SPIRITOSO"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "ReachLV80InverseForest",
     "label": "Reach LV 80 Inverse Forest",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "stage",
+        "id": "BATCOUNTRY"
+      },
+      {
+        "kind": "hyper",
+        "id": "BATCOUNTRY"
+      }
+    ],
+    "requires": [
+      "RELIC_MIRROR"
+    ]
   },
   {
     "id": "FindChaosMalachite",
     "label": "Find Chaos Malachite",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "RELIC_MALACHITE"
+      }
+    ],
+    "requires": [
+      "RELIC_MIRROR"
+    ]
   },
   {
     "id": "FindApoplexy",
     "label": "Find Apoplexy",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "RELIC_CHARM"
+      }
+    ],
+    "requires": [
+      "RELIC_MIRROR"
+    ]
   },
   {
     "id": "Banish20Items",
     "label": "Banish 20 Items",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "powerUp",
+        "id": "SEAL2"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FOSC01_FindCoffin",
-    "label": "FOSC 01_Find Coffin",
+    "label": "Fosc 01 Findcoffin",
     "value": null,
-    "group": null
+    "group": "Foscari",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "ELEANOR"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FOSC02_Survive15Eleanor",
-    "label": "FOSC 02_Survive 15 Eleanor",
+    "label": "Fosc 02 Survive 15eleanor",
     "value": null,
-    "group": null
+    "group": "Foscari",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "SPELL_STRING"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FOSC03_GetStreamToLevel6",
-    "label": "FOSC 03_Get Stream To Level 6",
+    "label": "Fosc 03 Getstreamtolevel 6",
     "value": null,
-    "group": null
+    "group": "Foscari",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "SPELL_STREAM"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FOSC04_GetStrikeToLevel6",
-    "label": "FOSC 04_Get Strike To Level 6",
+    "label": "Fosc 04 Getstriketolevel 6",
     "value": null,
-    "group": null
+    "group": "Foscari",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "SPELL_STRIKE"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FOSC05_UniteSpells",
-    "label": "FOSC 05_Unite Spells",
+    "label": "Fosc 05 Unitespells",
     "value": null,
-    "group": null
+    "group": "Foscari",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "VICTOR"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FOSC06_Survive15Viktor",
-    "label": "FOSC 06_Survive 15 Viktor",
+    "label": "Fosc 06 Survive 15viktor",
     "value": null,
-    "group": null
+    "group": "Foscari",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "SWORD"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FOSC07_EvolveEskizzibur",
-    "label": "FOSC 07_Evolve Eskizzibur",
+    "label": "Fosc 07 Evolveeskizzibur",
     "value": null,
-    "group": null
+    "group": "Foscari",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "KEIRA"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FOSC08_Survive15Keira",
-    "label": "FOSC 08_Survive 15 Keira",
+    "label": "Fosc 08 Survive 15keira",
     "value": null,
-    "group": null
+    "group": "Foscari",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "FLASHARROW"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FOSC09_EvolveFlashArrow",
-    "label": "FOSC 09_Evolve Flash Arrow",
+    "label": "Fosc 09 Evolveflasharrow",
     "value": null,
-    "group": null
+    "group": "Foscari",
+    "rewards": [],
+    "requires": []
   },
   {
     "id": "FOSC10_BreakSeal1",
-    "label": "FOSC 10_Break Seal 1",
+    "label": "Fosc 10 Breakseal 1",
     "value": null,
-    "group": null
+    "group": "Foscari",
+    "rewards": [
+      {
+        "kind": "stage",
+        "id": "FOSCARI2"
+      }
+    ],
+    "requires": [
+      "KEIRA"
+    ]
   },
   {
     "id": "FOSC11_BreakSeal2",
-    "label": "FOSC 11_Break Seal 2",
+    "label": "Fosc 11 Breakseal 2",
     "value": null,
-    "group": null
+    "group": "Foscari",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "LUMINAIRE"
+      }
+    ],
+    "requires": [
+      "FOSCARI2"
+    ]
   },
   {
     "id": "FOSC12_BreakSeal3",
-    "label": "FOSC 12_Break Seal 3",
+    "label": "Fosc 12 Breakseal 3",
     "value": null,
-    "group": null
+    "group": "Foscari",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "GENEVIEVE"
+      }
+    ],
+    "requires": [
+      "FOSCARI2"
+    ]
   },
   {
     "id": "FOSC13_Survive15Luminaire",
-    "label": "FOSC 13_Survive 15 Luminaire",
+    "label": "Fosc 13 Survive 15luminaire",
     "value": null,
-    "group": null
+    "group": "Foscari",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "PRISMATICMISS"
+      }
+    ],
+    "requires": [
+      "FOSCARI2"
+    ]
   },
   {
     "id": "FOSC14_EvolvePrismatic",
-    "label": "FOSC 14_Evolve Prismatic",
+    "label": "Fosc 14 Evolveprismatic",
     "value": null,
-    "group": null
+    "group": "Foscari",
+    "rewards": [],
+    "requires": [
+      "FOSCARI2"
+    ]
   },
   {
     "id": "FOSC15_Survive15Genevieve",
-    "label": "FOSC 15_Survive 15 Genevieve",
+    "label": "Fosc 15 Survive 15genevieve",
     "value": null,
-    "group": null
+    "group": "Foscari",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "SHADOWSERVANT"
+      }
+    ],
+    "requires": [
+      "FOSCARI2"
+    ]
   },
   {
     "id": "FOSC16_EvolveShadow",
-    "label": "FOSC 16_Evolve Shadow",
+    "label": "Fosc 16 Evolveshadow",
     "value": null,
-    "group": null
+    "group": "Foscari",
+    "rewards": [],
+    "requires": [
+      "FOSCARI2"
+    ]
   },
   {
     "id": "FOSC17_Defeat100kGenevieve",
-    "label": "FOSC 17_Defeat 100k Genevieve",
+    "label": "Fosc 17 Defeat 100kgenevieve",
     "value": null,
-    "group": null
+    "group": "Foscari",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "MEGAGENEVIEVE"
+      }
+    ],
+    "requires": [
+      "FOSCARI2"
+    ]
   },
   {
     "id": "FOSC18_Defeat6kFairy",
-    "label": "FOSC 18_Defeat 6k Fairy",
+    "label": "Fosc 18 Defeat 6kfairy",
     "value": null,
-    "group": null
+    "group": "Foscari",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "CTRPCAKE"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FOSC19_Defeat6kHorror",
-    "label": "FOSC 19_Defeat 6k Horror",
+    "label": "Fosc 19 Defeat 6khorror",
     "value": null,
-    "group": null
+    "group": "Foscari",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "GHOUL"
+      },
+      {
+        "kind": "weapon",
+        "id": "PARTY"
+      }
+    ],
+    "requires": [
+      "FOSCARI2"
+    ]
   },
   {
     "id": "FOSC20_DefeatBossLake",
-    "label": "FOSC 20_Defeat Boss Lake",
+    "label": "Fosc 20 Defeatbosslake",
     "value": null,
-    "group": null
+    "group": "Foscari",
+    "rewards": [
+      {
+        "kind": "hyper",
+        "id": "FOSCARI"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FOSC21_DefeatBossAbyss",
-    "label": "FOSC 21_Defeat Boss Abyss",
+    "label": "Fosc 21 Defeatbossabyss",
     "value": null,
-    "group": null
+    "group": "Foscari",
+    "rewards": [
+      {
+        "kind": "hyper",
+        "id": "FOSCARI2"
+      }
+    ],
+    "requires": [
+      "FOSCARI2"
+    ]
   },
   {
     "id": "ReachLV80InverseLibrary",
     "label": "Reach LV 80 Inverse Library",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "stage",
+        "id": "ASTRALSTAIR"
+      },
+      {
+        "kind": "hyper",
+        "id": "ASTRALSTAIR"
+      }
+    ],
+    "requires": [
+      "RELIC_MIRROR"
+    ]
   },
   {
     "id": "FindChaosRosalia",
     "label": "Find Chaos Rosalia",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "RELIC_ROSALIA"
+      }
+    ],
+    "requires": [
+      "RELIC_MIRROR"
+    ]
   },
   {
     "id": "FindTrisection",
     "label": "Find Trisection",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "RELIC_TRISECTION"
+      }
+    ],
+    "requires": [
+      "RELIC_MIRROR"
+    ]
   },
   {
     "id": "MOON18_FindMap_Moonspell",
-    "label": "MOON 18_Find Map_Moonspell",
+    "label": "Moon 18 Findmap Moonspell",
     "value": null,
-    "group": null
+    "group": "Moonspell",
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "RELIC_MAP_MS"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FOSC22_FindMap_Foscari",
-    "label": "FOSC 22_Find Map_Foscari",
+    "label": "Fosc 22 Findmap Foscari",
     "value": null,
-    "group": null
+    "group": "Foscari",
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "RELIC_MAP_FS"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FindMap_AstralStair",
-    "label": "Find Map_Astral Stair",
+    "label": "Findmap Astralstair",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "RELIC_MAP_AS"
+      }
+    ],
+    "requires": [
+      "ASTRALSTAIR"
+    ]
   },
   {
     "id": "FindManyOrologions",
     "label": "Find Many Orologions",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "stage",
+        "id": "WHITEOUT"
+      },
+      {
+        "kind": "hyper",
+        "id": "WHITEOUT"
+      }
+    ],
+    "requires": [
+      "RELIC_MAP"
+    ]
   },
   {
     "id": "GetGlassFandangoToLevel7",
     "label": "Get Glass Fandango To Level 7",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "ICELANCE"
+      }
+    ],
+    "requires": [
+      "WHITEOUT"
+    ]
   },
   {
     "id": "EvolveGlassFandango",
     "label": "Evolve Glass Fandango",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [],
+    "requires": [
+      "WHITEOUT"
+    ]
   },
   {
     "id": "SurviveUntilTheEndOfWhiteout",
     "label": "Survive Until The End Of Whiteout",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "SHEMOONITA"
+      }
+    ],
+    "requires": [
+      "WHITEOUT"
+    ]
   },
   {
     "id": "FindAntidote",
     "label": "Find Antidote",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "RELIC_ANTIDOTE"
+      }
+    ],
+    "requires": [
+      "RELIC_MAP"
+    ]
   },
   {
     "id": "FindChaosAltemanna",
     "label": "Find Chaos Altemanna",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "RELIC_ALTEMANNA"
+      }
+    ],
+    "requires": [
+      "RELIC_MIRROR"
+    ]
   },
   {
     "id": "FindAtlas",
     "label": "Find Atlas",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "RELIC_ATLAS"
+      }
+    ],
+    "requires": [
+      "RELIC_YELLOW"
+    ]
   },
   {
     "id": "CHAL01_FindCoffin",
-    "label": "CHAL 01_Find Coffin",
+    "label": "Chal 01 Findcoffin",
     "value": null,
-    "group": null
+    "group": "Emergency Meeting",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "C1_CREWMATE"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "CHAL02_Survive15Red",
-    "label": "CHAL 02_Survive 15 Red",
+    "label": "Chal 02 Survive 15red",
     "value": null,
-    "group": null
+    "group": "Emergency Meeting",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "C1_REPORT1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "CHAL03_EvolveReport",
-    "label": "CHAL 03_Evolve Report",
+    "label": "Chal 03 Evolvereport",
     "value": null,
-    "group": null
+    "group": "Emergency Meeting",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "C1_IMPOSTOR"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "CHAL04_Survive15Purple",
-    "label": "CHAL 04_Survive 15 Purple",
+    "label": "Chal 04 Survive 15purple",
     "value": null,
-    "group": null
+    "group": "Emergency Meeting",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "C1_TONGUE1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "CHAL05_EvolveTongue",
-    "label": "CHAL 05_Evolve Tongue",
+    "label": "Chal 05 Evolvetongue",
     "value": null,
-    "group": null
+    "group": "Emergency Meeting",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "C1_ENGINEER"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "CHAL06_Survive15Orange",
-    "label": "CHAL 06_Survive 15 Orange",
+    "label": "Chal 06 Survive 15orange",
     "value": null,
-    "group": null
+    "group": "Emergency Meeting",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "C1_SWIPECARD1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "CHAL07_EvolveSwipe",
-    "label": "CHAL 07_Evolve Swipe",
+    "label": "Chal 07 Evolveswipe",
     "value": null,
-    "group": null
+    "group": "Emergency Meeting",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "C1_SCIENTIST"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "CHAL08_ReachLv50Pink",
-    "label": "CHAL 08_Reach Lv 50 Pink",
+    "label": "Chal 08 Reachlv 50pink",
     "value": null,
-    "group": null
+    "group": "Emergency Meeting",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "C1_SAMPLES1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "CHAL09_EvolveSamples",
-    "label": "CHAL 09_Evolve Samples",
+    "label": "Chal 09 Evolvesamples",
     "value": null,
-    "group": null
+    "group": "Emergency Meeting",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "C1_SHAPESHIFTER"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "CHAL10_Survive15Green",
-    "label": "CHAL 10_Survive 15 Green",
+    "label": "Chal 10 Survive 15green",
     "value": null,
-    "group": null
+    "group": "Emergency Meeting",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "C1_VENT1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "CHAL11_EvolveVent",
-    "label": "CHAL 11_Evolve Vent",
+    "label": "Chal 11 Evolvevent",
     "value": null,
-    "group": null
+    "group": "Emergency Meeting",
+    "rewards": [],
+    "requires": []
   },
   {
     "id": "CHAL12_GetMedicalToLevel7",
-    "label": "CHAL 12_Get Medical To Level 7",
+    "label": "Chal 12 Getmedicaltolevel 7",
     "value": null,
-    "group": null
+    "group": "Emergency Meeting",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "C1_MEDICAL1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "CHAL13_EvolveMedical",
-    "label": "CHAL 13_Evolve Medical",
+    "label": "Chal 13 Evolvemedical",
     "value": null,
-    "group": null
+    "group": "Emergency Meeting",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "C1_GHOST"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "CHAL14_KillOneWithYellow",
-    "label": "CHAL 14_Kill One With Yellow",
+    "label": "Chal 14 Killonewithyellow",
     "value": null,
-    "group": null
+    "group": "Emergency Meeting",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "C1_GUARDIAN"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "CHAL15_ReachLv50Blue",
-    "label": "CHAL 15_Reach Lv 50 Blue",
+    "label": "Chal 15 Reachlv 50blue",
     "value": null,
-    "group": null
+    "group": "Emergency Meeting",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "C1_GARBA1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "CHAL16_EvolveGarbage",
-    "label": "CHAL 16_Evolve Garbage",
+    "label": "Chal 16 Evolvegarbage",
     "value": null,
-    "group": null
+    "group": "Emergency Meeting",
+    "rewards": [],
+    "requires": []
   },
   {
     "id": "CHAL17_Defeat6000Cute",
-    "label": "CHAL 17_Defeat 6000 Cute",
+    "label": "Chal 17 Defeat 6000cute",
     "value": null,
-    "group": null
+    "group": "Emergency Meeting",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "C1_HORSE"
+      },
+      {
+        "kind": "weapon",
+        "id": "C1_HATCOLLECTION1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "CHAL18_Defeat100kPurple",
-    "label": "CHAL 18_Defeat 100k Purple",
+    "label": "Chal 18 Defeat 100kpurple",
     "value": null,
-    "group": null
+    "group": "Emergency Meeting",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "C1_MEGAIMPOSTOR"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "CHAL19_DefeatBoss25",
-    "label": "CHAL 19_Defeat Boss 25",
+    "label": "Chal 19 Defeatboss 25",
     "value": null,
-    "group": null
+    "group": "Emergency Meeting",
+    "rewards": [
+      {
+        "kind": "hyper",
+        "id": "POLUS"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "CHAL20_FindMap",
-    "label": "CHAL 20_Find Map",
+    "label": "Chal 20 Findmap",
     "value": null,
-    "group": null
+    "group": "Emergency Meeting",
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "RELIC_MAP_CHAL"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "DefeatManyBats",
     "label": "Defeat Many Bats",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "BATTILIA"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FindManyGoldenFinger",
     "label": "Find Many Golden Finger",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "stage",
+        "id": "SPAZIE"
+      },
+      {
+        "kind": "hyper",
+        "id": "SPAZIE"
+      }
+    ],
+    "requires": [
+      "RELIC_MAP"
+    ]
   },
   {
     "id": "GetPhas3rToLevel7",
     "label": "Get Phas 3r To Level 7",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "PHASER"
+      }
+    ],
+    "requires": [
+      "SPAZIE"
+    ]
   },
   {
     "id": "EvolvePhas3r",
     "label": "Evolve Phas 3r",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [],
+    "requires": [
+      "SPAZIE"
+    ]
   },
   {
     "id": "Survive20MinutesInSpace54",
     "label": "Survive 20 Minutes In Space 54",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "SPACEDUDE"
+      }
+    ],
+    "requires": [
+      "SPAZIE"
+    ]
   },
   {
     "id": "FindBraveStory",
     "label": "Find Brave Story",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "RELIC_BRAVESTORY"
+      }
+    ],
+    "requires": [
+      "GOLDFINGER"
+    ]
   },
   {
     "id": "EvolveBattilia",
     "label": "Evolve Battilia",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TUPU"
+      }
+    ],
+    "requires": [
+      "BATTILIA"
+    ]
   },
   {
     "id": "Banish40Items",
     "label": "Banish 40 Items",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "powerUp",
+        "id": "SEAL3"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "CompleteAdv_AGarlicParadise",
-    "label": "Complete Adv_A Garlic Paradise",
+    "label": "Completeadv Agarlicparadise",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "skin",
+        "id": "SKIN_POE_RETIRED"
+      }
+    ],
+    "requires": [
+      "RELIC_ATLAS",
+      "CAMILLO"
+    ]
   },
   {
     "id": "CompleteAdv_WorldOfLightAndDark",
-    "label": "Complete Adv_World Of Light And Dark",
+    "label": "Completeadv Worldoflightanddark",
     "value": null,
-    "group": null
-  },
-  {
-    "id": "MOON19_CompleteAdv",
-    "label": "MOON 19_Complete Adv",
-    "value": null,
-    "group": null
-  },
-  {
-    "id": "FOSC23_CompleteAdv",
-    "label": "FOSC 23_Complete Adv",
-    "value": null,
-    "group": null
-  },
-  {
-    "id": "CHAL21_CompleteAdv",
-    "label": "CHAL 21_Complete Adv",
-    "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "skin",
+        "id": "SKIN_IMELDA_UNBLINDED"
+      }
+    ],
+    "requires": [
+      "RELIC_ATLAS",
+      "IMELDA"
+    ]
   },
   {
     "id": "CompleteAdv_OdeToCastlevania",
-    "label": "Complete Adv_Ode To Castlevania",
+    "label": "Completeadv Odetocastlevania",
     "value": null,
-    "group": null
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_SOMA_DARKLORD"
+      }
+    ],
+    "requires": [
+      "RELIC_ATLAS",
+      "TP_SOMA"
+    ]
   },
   {
     "id": "FindManyRosaries",
     "label": "Find Many Rosaries",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "stage",
+        "id": "LABORRATORY"
+      },
+      {
+        "kind": "hyper",
+        "id": "LABORRATORY"
+      }
+    ],
+    "requires": [
+      "RELIC_MAP"
+    ]
   },
   {
     "id": "GetJavelinToLevel7",
     "label": "Get Javelin To Level 7",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "SANTAJAVELIN"
+      }
+    ],
+    "requires": [
+      "LABORRATORY"
+    ]
   },
   {
     "id": "EvolveJavelin",
     "label": "Evolve Javelin",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [],
+    "requires": [
+      "LABORRATORY"
+    ]
   },
   {
     "id": "Survive20MinutesInLaborratory",
     "label": "Survive 20 Minutes In Laborratory",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "SANTA"
+      }
+    ],
+    "requires": [
+      "LABORRATORY"
+    ]
   },
   {
     "id": "FindAnArmaDio",
     "label": "Find An Arma Dio",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "ARMADIO"
+      }
+    ],
+    "requires": [
+      "LABORRATORY"
+    ]
   },
   {
     "id": "HitManyEnemiesWithTrain",
     "label": "Hit Many Enemies With Train",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "stage",
+        "id": "CARLOCART"
+      },
+      {
+        "kind": "hyper",
+        "id": "CARLOCART"
+      }
+    ],
+    "requires": [
+      "LABORRATORY"
+    ]
   },
   {
     "id": "FB_01_Find__Coffin",
-    "label": "FB_01_Find__Coffin",
+    "label": "Fb 01 Find Coffin",
     "value": null,
-    "group": "Operation Guns"
+    "group": "Operation Guns",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "FB_BILLRIZER"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FB_02_SurvivLong",
-    "label": "FB_02_Surviv Long",
+    "label": "Fb 02 Survivlong",
     "value": null,
-    "group": "Operation Guns"
+    "group": "Operation Guns",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "FB_FULLAUTO"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FB_03_EvolveLong",
-    "label": "FB_03_Evolve Long",
+    "label": "Fb 03 Evolvelong",
     "value": null,
-    "group": "Operation Guns"
+    "group": "Operation Guns",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "FB_LANCE"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FB_04_SurvivShort",
-    "label": "FB_04_Surviv Short",
+    "label": "Fb 04 Survivshort",
     "value": null,
-    "group": "Operation Guns"
+    "group": "Operation Guns",
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "FB_RAPIDFIRE"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FB_05_EvolveShort",
-    "label": "FB_05_Evolve Short",
+    "label": "Fb 05 Evolveshort",
     "value": null,
-    "group": "Operation Guns"
+    "group": "Operation Guns",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "FB_ARIANA"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FB_06_SurvivSpread",
-    "label": "FB_06_Surviv Spread",
+    "label": "Fb 06 Survivspread",
     "value": null,
-    "group": "Operation Guns"
+    "group": "Operation Guns",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "FB_SPREAD"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FB_07_EvolveSpread",
-    "label": "FB_07_Evolve Spread",
+    "label": "Fb 07 Evolvespread",
     "value": null,
-    "group": "Operation Guns"
+    "group": "Operation Guns",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "FB_LUCIA"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FB_08_SurvivLaser",
-    "label": "FB_08_Surviv Laser",
+    "label": "Fb 08 Survivlaser",
     "value": null,
-    "group": "Operation Guns"
+    "group": "Operation Guns",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "FB_LASER"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FB_09_EvolveLaser",
-    "label": "FB_09_Evolve Laser",
+    "label": "Fb 09 Evolvelaser",
     "value": null,
-    "group": "Operation Guns"
+    "group": "Operation Guns",
+    "rewards": [
+      {
+        "kind": "stage",
+        "id": "FB_HIGHWAY"
+      },
+      {
+        "kind": "hyper",
+        "id": "FB_HIGHWAY"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FB_10_Find__Coffin",
-    "label": "FB_10_Find__Coffin",
+    "label": "Fb 10 Find Coffin",
     "value": null,
-    "group": "Operation Guns"
+    "group": "Operation Guns",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "FB_BRADFANG"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FB_11_SurvivFire",
-    "label": "FB_11_Surviv Fire",
+    "label": "Fb 11 Survivfire",
     "value": null,
-    "group": "Operation Guns"
+    "group": "Operation Guns",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "FB_FIREARM"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FB_12_EvolveFire",
-    "label": "FB_12_Evolve Fire",
+    "label": "Fb 12 Evolvefire",
     "value": null,
-    "group": "Operation Guns"
+    "group": "Operation Guns",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "FB_BROWNY"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FB_13_SurvivSonic",
-    "label": "FB_13_Surviv Sonic",
+    "label": "Fb 13 Survivsonic",
     "value": null,
-    "group": "Operation Guns"
+    "group": "Operation Guns",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "FB_SONIC"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FB_14_EvolveSonic",
-    "label": "FB_14_Evolve Sonic",
+    "label": "Fb 14 Evolvesonic",
     "value": null,
-    "group": "Operation Guns"
+    "group": "Operation Guns",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "FB_SHEENA"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FB_15_SurvivCross",
-    "label": "FB_15_Surviv Cross",
+    "label": "Fb 15 Survivcross",
     "value": null,
-    "group": "Operation Guns"
+    "group": "Operation Guns",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "FB_BLADECROSSBOW"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FB_16_EvolveCross",
-    "label": "FB_16_Evolve Cross",
+    "label": "Fb 16 Evolvecross",
     "value": null,
-    "group": "Operation Guns"
+    "group": "Operation Guns",
+    "rewards": [],
+    "requires": []
   },
   {
     "id": "FB_17_Find__Barrier",
-    "label": "FB_17_Find__Barrier",
+    "label": "Fb 17 Find Barrier",
     "value": null,
-    "group": "Operation Guns"
+    "group": "Operation Guns",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "FB_PROBO"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FB_18_SurvivPrism",
-    "label": "FB_18_Surviv Prism",
+    "label": "Fb 18 Survivprism",
     "value": null,
-    "group": "Operation Guns"
+    "group": "Operation Guns",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "FB_PRISMCUTLASS"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FB_19_EvolvePrism",
-    "label": "FB_19_Evolve Prism",
+    "label": "Fb 19 Evolveprism",
     "value": null,
-    "group": "Operation Guns"
+    "group": "Operation Guns",
+    "rewards": [],
+    "requires": []
   },
   {
     "id": "FB_20_Find__Rapid",
-    "label": "FB_20_Find__Rapid",
+    "label": "Fb 20 Find Rapid",
     "value": null,
-    "group": "Operation Guns"
+    "group": "Operation Guns",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "FB_STANLEY"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FB_21_SurvivHoming",
-    "label": "FB_21_Surviv Homing",
+    "label": "Fb 21 Survivhoming",
     "value": null,
-    "group": "Operation Guns"
+    "group": "Operation Guns",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "FB_HOMING"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FB_22_EvolveHoming",
-    "label": "FB_22_Evolve Homing",
+    "label": "Fb 22 Evolvehoming",
     "value": null,
-    "group": "Operation Guns"
+    "group": "Operation Guns",
+    "rewards": [],
+    "requires": []
   },
   {
     "id": "FB_23_Find__Grenade",
-    "label": "FB_23_Find__Grenade",
+    "label": "Fb 23 Find Grenade",
     "value": null,
-    "group": "Operation Guns"
+    "group": "Operation Guns",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "FB_NEWT"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FB_24_SurvivMines",
-    "label": "FB_24_Surviv Mines",
+    "label": "Fb 24 Survivmines",
     "value": null,
-    "group": "Operation Guns"
+    "group": "Operation Guns",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "FB_DIVERMINES"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FB_25_EvolveMines",
-    "label": "FB_25_Evolve Mines",
+    "label": "Fb 25 Evolvemines",
     "value": null,
-    "group": "Operation Guns"
+    "group": "Operation Guns",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "FB_SIMONDO"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FB_26_DefeatSpecial",
-    "label": "FB_26_Defeat Special",
+    "label": "Fb 26 Defeatspecial",
     "value": null,
-    "group": "Operation Guns"
+    "group": "Operation Guns",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "FB_COLONEL"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FB_27_SurvivClaw",
-    "label": "FB_27_Surviv Claw",
+    "label": "Fb 27 Survivclaw",
     "value": null,
-    "group": "Operation Guns"
+    "group": "Operation Guns",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "FB_METALCLAW"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FB_28_EvolveClaw",
-    "label": "FB_28_Evolve Claw",
+    "label": "Fb 28 Evolveclaw",
     "value": null,
-    "group": "Operation Guns"
+    "group": "Operation Guns",
+    "rewards": [],
+    "requires": []
   },
   {
     "id": "FB_29_DefeatBoss",
-    "label": "FB_29_Defeat Boss",
+    "label": "Fb 29 Defeatboss",
     "value": null,
-    "group": "Operation Guns"
+    "group": "Operation Guns",
+    "rewards": [
+      {
+        "kind": "hyper",
+        "id": "FB_GALUGA"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "FB_30_Find__Map",
-    "label": "FB_30_Find__Map",
+    "label": "Fb 30 Find Map",
     "value": null,
-    "group": "Operation Guns"
+    "group": "Operation Guns",
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "RELIC_MAP_FB"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "CastForbiddenBox",
     "label": "Cast Forbidden Box",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "stage",
+        "id": "DEVILROOM"
+      }
+    ],
+    "requires": [
+      "RELIC_SECRETS"
+    ]
   },
   {
     "id": "ObtainDarkasso",
     "label": "Obtain Darkasso",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "RELIC_DARKASSO"
+      }
+    ],
+    "requires": [
+      "DEVILROOM"
+    ]
   },
   {
     "id": "Dark_06Darkasso",
-    "label": "Dark_06 Darkasso",
+    "label": "Dark 06darkasso",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "arcana",
+        "id": "D06_BOLERO"
+      }
+    ],
+    "requires": [
+      "RELIC_DARKASSO"
+    ]
   },
   {
     "id": "Dark_01SpaceDude",
-    "label": "Dark_01 Space Dude",
+    "label": "Dark 01spacedude",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "arcana",
+        "id": "D01_SAPPHIRE_MIST"
+      }
+    ],
+    "requires": [
+      "RELIC_DARKASSO",
+      "SPACEDUDE"
+    ]
   },
   {
     "id": "Dark_10Santa",
-    "label": "Dark_10 Santa",
+    "label": "Dark 10santa",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "arcana",
+        "id": "D10_FROM_THE_FUTURE"
+      }
+    ],
+    "requires": [
+      "RELIC_DARKASSO",
+      "SANTA"
+    ]
   },
   {
     "id": "Dark_12Shemoon",
-    "label": "Dark_12 Shemoon",
+    "label": "Dark 12shemoon",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "arcana",
+        "id": "D12_CRYSTAL_CRIES"
+      }
+    ],
+    "requires": [
+      "RELIC_DARKASSO",
+      "SHEMOONITA"
+    ]
   },
   {
     "id": "Dark_21Robert",
-    "label": "Dark_21 Robert",
+    "label": "Dark 21robert",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "arcana",
+        "id": "D21_JETBLACK"
+      }
+    ],
+    "requires": [
+      "RELIC_DARKASSO",
+      "TUPU"
+    ]
   },
   {
     "id": "TP_Leon_FindCoffin1",
-    "label": "TP_Leon_Find Coffin 1",
+    "label": "Tp Leon Findcoffin 1",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_LEON"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Sonia_HeartRefresh",
-    "label": "TP_Sonia_Heart Refresh",
+    "label": "Tp Sonia Heartrefresh",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_SONIA"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Trevor_Boss1",
-    "label": "TP_Trevor_Boss 1",
+    "label": "Tp Trevor Boss 1",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_TREVOR"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Sypha_EvoDragonwater",
-    "label": "TP_Sypha_Evo Dragonwater",
+    "label": "Tp Sypha Evodragonwater",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_SYPHA"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Grant_Boss2",
-    "label": "TP_Grant_Boss 2",
+    "label": "Tp Grant Boss 2",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_GRANT"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Alucard_Boss3",
-    "label": "TP_Alucard_Boss 3",
+    "label": "Tp Alucard Boss 3",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_ALUCARD"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Hector_KarmaCoins",
-    "label": "TP_Hector_Karma Coins",
+    "label": "Tp Hector Karmacoins",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_HECTOR"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Christopher_EvoSworb",
-    "label": "TP_Christopher_Evo Sworb",
+    "label": "Tp Christopher Evosworb",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_CHRISTOPHER"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Simon_EvoLemuria",
-    "label": "TP_Simon_Evo Lemuria",
+    "label": "Tp Simon Evolemuria",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_SIMON"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Juste_EvoCurse",
-    "label": "TP_Juste_Evo Curse",
+    "label": "Tp Juste Evocurse",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_JUSTE"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Julius_FindCoffin2",
-    "label": "TP_Julius_Find Coffin 2",
+    "label": "Tp Julius Findcoffin 2",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_JULIUS"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Yoko_Boss4",
-    "label": "TP_Yoko_Boss 4",
+    "label": "Tp Yoko Boss 4",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_YOKO"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Soma_Boss5",
-    "label": "TP_Soma_Boss 5",
+    "label": "Tp Soma Boss 5",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_SOMA"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Jonhathan_EvoRPG",
-    "label": "TP_Jonhathan_Evo RPG",
+    "label": "Tp Jonhathan Evorpg",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_JONATHAN"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Charlotte_Mirrors",
-    "label": "TP_Charlotte_Mirrors",
+    "label": "Tp Charlotte Mirrors",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_CHARLOTTE"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_John_EvoSpells",
-    "label": "TP_John_Evo Spells",
+    "label": "Tp John Evospells",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_JOHN"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Eric_EvoJavelin",
-    "label": "TP_Eric_Evo Javelin",
+    "label": "Tp Eric Evojavelin",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_ERIC"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Shanoa_EvoTwo",
-    "label": "TP_Shanoa_Evo Two",
+    "label": "Tp Shanoa Evotwo",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_SHANOA"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Maria_unlock",
-    "label": "TP_Maria_unlock",
+    "label": "Tp Maria Unlock",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_MARIAA"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Richter_EvoBeasts",
-    "label": "TP_Richter_Evo Beasts",
+    "label": "Tp Richter Evobeasts",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_RICHTER"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Dracula_FindCoffin3",
-    "label": "TP_Dracula_Find Coffin 3",
+    "label": "Tp Dracula Findcoffin 3",
     "value": null,
-    "group": "Ode to Castlevania"
-  },
-  {
-    "id": "TP_Elizabeth",
-    "label": "TP_Elizabeth",
-    "value": null,
-    "group": "Ode to Castlevania"
-  },
-  {
-    "id": "TP_Shaft",
-    "label": "TP_Shaft",
-    "value": null,
-    "group": "Ode to Castlevania"
-  },
-  {
-    "id": "TP_Lisa",
-    "label": "TP_Lisa",
-    "value": null,
-    "group": "Ode to Castlevania"
-  },
-  {
-    "id": "TP_Quincy",
-    "label": "TP_Quincy",
-    "value": null,
-    "group": "Ode to Castlevania"
-  },
-  {
-    "id": "TP_Mina",
-    "label": "TP_Mina",
-    "value": null,
-    "group": "Ode to Castlevania"
-  },
-  {
-    "id": "TP_Vincent",
-    "label": "TP_Vincent",
-    "value": null,
-    "group": "Ode to Castlevania"
-  },
-  {
-    "id": "TP_Celia",
-    "label": "TP_Celia",
-    "value": null,
-    "group": "Ode to Castlevania"
-  },
-  {
-    "id": "TP_Sara",
-    "label": "TP_Sara",
-    "value": null,
-    "group": "Ode to Castlevania"
-  },
-  {
-    "id": "TP_Rinaldo",
-    "label": "TP_Rinaldo",
-    "value": null,
-    "group": "Ode to Castlevania"
-  },
-  {
-    "id": "TP_Maxim",
-    "label": "TP_Maxim",
-    "value": null,
-    "group": "Ode to Castlevania"
-  },
-  {
-    "id": "TP_Albus",
-    "label": "TP_Albus",
-    "value": null,
-    "group": "Ode to Castlevania"
-  },
-  {
-    "id": "TP_Isaac",
-    "label": "TP_Isaac",
-    "value": null,
-    "group": "Ode to Castlevania"
-  },
-  {
-    "id": "TP_Julia",
-    "label": "TP_Julia",
-    "value": null,
-    "group": "Ode to Castlevania"
-  },
-  {
-    "id": "TP_StGermain",
-    "label": "TP_St Germain",
-    "value": null,
-    "group": "Ode to Castlevania"
-  },
-  {
-    "id": "TP_Nathan",
-    "label": "TP_Nathan",
-    "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_DRACULA"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_Reinhardt_FindCoffin4",
-    "label": "TP_Reinhardt_Find Coffin 4",
+    "label": "Tp Reinhardt Findcoffin 4",
     "value": null,
-    "group": "Ode to Castlevania"
-  },
-  {
-    "id": "TP_Henry",
-    "label": "TP_Henry",
-    "value": null,
-    "group": "Ode to Castlevania"
-  },
-  {
-    "id": "TP_Carrie",
-    "label": "TP_Carrie",
-    "value": null,
-    "group": "Ode to Castlevania"
-  },
-  {
-    "id": "TP_Cornell",
-    "label": "TP_Cornell",
-    "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_REINHARDT"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_Selector_MorningStar",
-    "label": "TP_Selector_Morning Star",
+    "label": "Tp Selector Morningstar",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_MORNINGSTAR"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_LEON_MORNINGSTAR"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_SONIA_MORNINGSTAR"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_TREVOR_MORNINGSTAR"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_CHRISTOPHER_MORNINGSTAR"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_SIMON_MORNINGSTAR"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_JUSTE_MORNINGSTAR"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_RICHTER_MORNINGSTAR"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_JULIUS_MORNINGSTAR"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_JONHATHAN_MORNINGSTAR"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_JONHATHAN_MORNINGSTAR"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_NATHAN_2MS"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_JOHN_3MS"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_REINHARDT_4MS"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Selector_SpectralSword",
-    "label": "TP_Selector_Spectral Sword",
+    "label": "Tp Selector Spectralsword",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_SPECTRALSWORD"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_JONHATHAN_SPECTRALSWORD"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_JONHATHAN_SPECTRALSWORD"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_REINHARDT_2SW"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_ISAAC_2SW"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_ERIC_2SW"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_MARIA_2SW"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_HECTOR_2SW"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_STGERMAIN_2SW"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Selector_CoatOfArms",
-    "label": "TP_Selector_Coat Of Arms",
+    "label": "Tp Selector Coatofarms",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_COATOFARMS"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_JONHATHAN_COATOFARMS"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_JONHATHAN_COATOFARMS"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_REINHARDT_3CA"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_ERIC_3CA"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_VINCENT_2CA"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_HECTOR_3CA"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_JOHN_2CA"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_GRANT_2CA"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_QUINCY_2CA"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_HENRY_2CA"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_MAXIM_2CA"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Selector_Spellbook",
-    "label": "TP_Selector_Spellbook",
+    "label": "Tp Selector Spellbook",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_SPELLBOOK"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_CHARLOTTE_2"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_CHARLOTTE_2"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_SYPHA_2"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_JULIA_2"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_CARRIE_2"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_YOKO_2"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_RINALDO_2"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_MINA_2"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_ELIZABETH_2SB"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_MARIA_3SB"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_MARIA_5SB"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_SARA_2SB"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_LISA_2SB"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_NATHAN_2SB"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_BARLOWE_4SB"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Selector_Diabologue",
-    "label": "TP_Selector_Diabologue",
+    "label": "Tp Selector Diabologue",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_DIABOLOGUE"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_ISAAC_3DB"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_ELIZABETH_3DB"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_SHAFT_2DB"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_STGERMAIN_2DB"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_CORNELL_2DB"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_CORNELL_B"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_BARLOWE_3DB"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_ALBUS_2DB"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_DRACULA_2DB"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Teleport1",
-    "label": "TP_Teleport 1",
+    "label": "Tp Teleport 1",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "TP_RELIC_TELEPORT1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Teleport2",
-    "label": "TP_Teleport 2",
+    "label": "Tp Teleport 2",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "TP_RELIC_TELEPORT2"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Teleport3",
-    "label": "TP_Teleport 3",
+    "label": "Tp Teleport 3",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "TP_RELIC_TELEPORT3"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Teleport4",
-    "label": "TP_Teleport 4",
+    "label": "Tp Teleport 4",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "TP_RELIC_TELEPORT4"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Teleport5",
-    "label": "TP_Teleport 5",
+    "label": "Tp Teleport 5",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "TP_RELIC_TELEPORT5"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_Teleport6",
-    "label": "TP_Teleport 6",
+    "label": "Tp Teleport 6",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "TP_RELIC_TELEPORT6"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_Weapon_WHIP_1",
-    "label": "TP_Weapon_WHIP_1",
+    "label": "Tp Weapon Whip 1",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_ALCHEMYWHIP1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Weapon_WHIP_2",
-    "label": "TP_Weapon_WHIP_2",
+    "label": "Tp Weapon Whip 2",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_SONICWHIP1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Weapon_WHIP_3",
-    "label": "TP_Weapon_WHIP_3",
+    "label": "Tp Weapon Whip 3",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_DRAGONWATER1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Weapon_WHIP_4",
-    "label": "TP_Weapon_WHIP_4",
+    "label": "Tp Weapon Whip 4",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_WINDWHIP1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Weapon_WHIP_5",
-    "label": "TP_Weapon_WHIP_5",
+    "label": "Tp Weapon Whip 5",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_LEMURIA1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Weapon_WHIP_6",
-    "label": "TP_Weapon_WHIP_6",
+    "label": "Tp Weapon Whip 6",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_HOLYWHIP1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Weapon_WHIP_7",
-    "label": "TP_Weapon_WHIP_7",
+    "label": "Tp Weapon Whip 7",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_PLATINUMWHIP1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Weapon_WHIP_8",
-    "label": "TP_Weapon_WHIP_8",
+    "label": "Tp Weapon Whip 8",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_MARTIALWHIP1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Weapon_PROJECTILE_1",
-    "label": "TP_Weapon_PROJECTILE_1",
+    "label": "Tp Weapon Projectile 1",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_BWAKA1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Weapon_PROJECTILE_2",
-    "label": "TP_Weapon_PROJECTILE_2",
+    "label": "Tp Weapon Projectile 2",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_SHURIKEN1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Weapon_PROJECTILE_3",
-    "label": "TP_Weapon_PROJECTILE_3",
+    "label": "Tp Weapon Projectile 3",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_JAVELIN1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Weapon_PROJECTILE_4",
-    "label": "TP_Weapon_PROJECTILE_4",
+    "label": "Tp Weapon Projectile 4",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_IRONBALL1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Weapon_PROJECTILE_5",
-    "label": "TP_Weapon_PROJECTILE_5",
+    "label": "Tp Weapon Projectile 5",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_DISCUS1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Weapon_PROJECTILE_6",
-    "label": "TP_Weapon_PROJECTILE_6",
+    "label": "Tp Weapon Projectile 6",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_GUN1"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_Weapon_PROJECTILE_7",
-    "label": "TP_Weapon_PROJECTILE_7",
+    "label": "Tp Weapon Projectile 7",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_RPG1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Weapon_PROJECTILE_8",
-    "label": "TP_Weapon_PROJECTILE_8",
+    "label": "Tp Weapon Projectile 8",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_WINEGLASS1"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_Weapon_SPELL_1",
-    "label": "TP_Weapon_SPELL_1",
+    "label": "Tp Weapon Spell 1",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_FIRE1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Weapon_SPELL_2",
-    "label": "TP_Weapon_SPELL_2",
+    "label": "Tp Weapon Spell 2",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_ICE1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Weapon_SPELL_3",
-    "label": "TP_Weapon_SPELL_3",
+    "label": "Tp Weapon Spell 3",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_WIND1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Weapon_SPELL_4",
-    "label": "TP_Weapon_SPELL_4",
+    "label": "Tp Weapon Spell 4",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_EARTH1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Weapon_SPELL_5",
-    "label": "TP_Weapon_SPELL_5",
+    "label": "Tp Weapon Spell 5",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_ELEC1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Weapon_SPELL_6",
-    "label": "TP_Weapon_SPELL_6",
+    "label": "Tp Weapon Spell 6",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_ACID1"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_Weapon_SPELL_7",
-    "label": "TP_Weapon_SPELL_7",
+    "label": "Tp Weapon Spell 7",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_HOLY1"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_Weapon_SPELL_8",
-    "label": "TP_Weapon_SPELL_8",
+    "label": "Tp Weapon Spell 8",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_EVIL1"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_Weapon_WEAPON_1",
-    "label": "TP_Weapon_WEAPON_1",
+    "label": "Tp Weapon Weapon 1",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_ALUCARDSWORD1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Weapon_WEAPON_2",
-    "label": "TP_Weapon_WEAPON_2",
+    "label": "Tp Weapon Weapon 2",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_SLASH1"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_Weapon_WEAPON_3",
-    "label": "TP_Weapon_WEAPON_3",
+    "label": "Tp Weapon Weapon 3",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_ALUCARDSPEAR1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Weapon_WEAPON_4",
-    "label": "TP_Weapon_WEAPON_4",
+    "label": "Tp Weapon Weapon 4",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_CHAUVE1"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_Weapon_WEAPON_5",
-    "label": "TP_Weapon_WEAPON_5",
+    "label": "Tp Weapon Weapon 5",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_MACE1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Weapon_WEAPON_6",
-    "label": "TP_Weapon_WEAPON_6",
+    "label": "Tp Weapon Weapon 6",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_STARFLAIL1"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_Weapon_WEAPON_7",
-    "label": "TP_Weapon_WEAPON_7",
+    "label": "Tp Weapon Weapon 7",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_SHIELD1"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_Weapon_WEAPON_8",
-    "label": "TP_Weapon_WEAPON_8",
+    "label": "Tp Weapon Weapon 8",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_SACREDBEASTS1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Weapon_GLYPH_1",
-    "label": "TP_Weapon_GLYPH_1",
+    "label": "Tp Weapon Glyph 1",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_CONFODERE1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Weapon_GLYPH_2",
-    "label": "TP_Weapon_GLYPH_2",
+    "label": "Tp Weapon Glyph 2",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_SPITE1"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_Weapon_GLYPH_3",
-    "label": "TP_Weapon_GLYPH_3",
+    "label": "Tp Weapon Glyph 3",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_LIGHT1"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_Weapon_GLYPH_4",
-    "label": "TP_Weapon_GLYPH_4",
+    "label": "Tp Weapon Glyph 4",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_DARK1"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_Weapon_GLYPH_5",
-    "label": "TP_Weapon_GLYPH_5",
+    "label": "Tp Weapon Glyph 5",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_ENERGY1"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_Weapon_GLYPH_6",
-    "label": "TP_Weapon_GLYPH_6",
+    "label": "Tp Weapon Glyph 6",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_RAPIDUS1"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_Weapon_GLYPH_7",
-    "label": "TP_Weapon_GLYPH_7",
+    "label": "Tp Weapon Glyph 7",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_CUSTOS1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Weapon_GLYPH_8",
-    "label": "TP_Weapon_GLYPH_8",
+    "label": "Tp Weapon Glyph 8",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_CUSTOS2"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Weapon_GLYPH_9",
-    "label": "TP_Weapon_GLYPH_9",
+    "label": "Tp Weapon Glyph 9",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_CUSTOS3"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_Weapon_GLYPH_10",
-    "label": "TP_Weapon_GLYPH_10",
+    "label": "Tp Weapon Glyph 10",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_DOMINUS1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Weapon_GLYPH_11",
-    "label": "TP_Weapon_GLYPH_11",
+    "label": "Tp Weapon Glyph 11",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_DOMINUS2"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Weapon_GLYPH_12",
-    "label": "TP_Weapon_GLYPH_12",
+    "label": "Tp Weapon Glyph 12",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_DOMINUS3"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_Relic_LibrarianCard",
-    "label": "TP_Relic_Librarian Card",
+    "label": "Tp Relic Librariancard",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "TP_RELIC_LIBRARIAN"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_Relic_BlackDisk",
-    "label": "TP_Relic_Black Disk",
+    "label": "Tp Relic Blackdisk",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "TP_RELIC_BLACK_DISK"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Relic_PileOfSecrets",
-    "label": "TP_Relic_Pile Of Secrets",
+    "label": "Tp Relic Pileofsecrets",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "TP_RELIC_PILEOFSECRETS"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_Relic_CastleMap",
-    "label": "TP_Relic_Castle Map",
+    "label": "Tp Relic Castlemap",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "TP_RELIC_CASTLEMAP"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Lisa_WineGlass",
-    "label": "TP_Lisa_Wine Glass",
+    "label": "Tp Lisa Wineglass",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_LISA"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_Shaft_Light",
-    "label": "TP_Shaft_Light",
+    "label": "Tp Shaft Light",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_SHAFT"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_Elizabeth_Dark",
-    "label": "TP_Elizabeth_Dark",
+    "label": "Tp Elizabeth Dark",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_ELIZABETH"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_Vincent_Spells",
-    "label": "TP_Vincent_Spells",
+    "label": "Tp Vincent Spells",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_VINCENT"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_Mina_Shield",
-    "label": "TP_Mina_Shield",
+    "label": "Tp Mina Shield",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_MINA"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_Albus_Confodere",
-    "label": "TP_Albus_Confodere",
+    "label": "Tp Albus Confodere",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_ALBUS"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_Barlowe_Spite",
-    "label": "TP_Barlowe_Spite",
+    "label": "Tp Barlowe Spite",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_BARLOWE"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_Isaac_Mace",
-    "label": "TP_Isaac_Mace",
+    "label": "Tp Isaac Mace",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_ISAAC"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_SaintGermain_Chauve",
-    "label": "TP_Saint Germain_Chauve",
+    "label": "Tp Saintgermain Chauve",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_STGERMAIN"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_Julia_Energy",
-    "label": "TP_Julia_Energy",
+    "label": "Tp Julia Energy",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_JULIA"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_Sara_AlchemyWhip",
-    "label": "TP_Sara_Alchemy Whip",
+    "label": "Tp Sara Alchemywhip",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_SARA"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_Rinaldo_Flail",
-    "label": "TP_Rinaldo_Flail",
+    "label": "Tp Rinaldo Flail",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_RINALDO"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_Quincy_PlatinumWhip",
-    "label": "TP_Quincy_Platinum Whip",
+    "label": "Tp Quincy Platinumwhip",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_QUINCY"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_Maxim_HolyWhip",
-    "label": "TP_Maxim_Holy Whip",
+    "label": "Tp Maxim Holywhip",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_MAXIM"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_Nathan_SonicWhip",
-    "label": "TP_Nathan_Sonic Whip",
+    "label": "Tp Nathan Sonicwhip",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_NATHAN"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_Henry_Slash",
-    "label": "TP_Henry_Slash",
+    "label": "Tp Henry Slash",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_HENRY"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_Cornell_Gun",
-    "label": "TP_Cornell_Gun",
+    "label": "Tp Cornell Gun",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_CORNELL"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_Carrie_Custos",
-    "label": "TP_Carrie_Custos",
+    "label": "Tp Carrie Custos",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "TP_CARRIE"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_BLACK_DISK"
+    ]
   },
   {
     "id": "TP_Selector_Candybox",
-    "label": "TP_Selector_Candybox",
+    "label": "Tp Selector Candybox",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_SOMA_2"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_SHANOA_2"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_TP_ALUCARD_2"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Hyper_Castle",
-    "label": "TP_Hyper_Castle",
+    "label": "Tp Hyper Castle",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "hyper",
+        "id": "TP_CASTLE"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Selector_FamiliarForge",
-    "label": "TP_Selector_Familiar Forge",
+    "label": "Tp Selector Familiarforge",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "TP_FAMILIARFORGE"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "TP_Relic_EbonyCrimsonStone",
-    "label": "TP_Relic_Ebony Crimson Stone",
+    "label": "Tp Relic Ebonycrimsonstone",
     "value": null,
-    "group": "Ode to Castlevania"
+    "group": "Ode to Castlevania",
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "TP_RELIC_STONES"
+      }
+    ],
+    "requires": [
+      "TP_RELIC_PILEOFSECRETS"
+    ]
   },
   {
     "id": "FindAParmAegis",
     "label": "Find A Parm Aegis",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "PARMA"
+      }
+    ],
+    "requires": [
+      "COOP"
+    ]
   },
   {
     "id": "FindManyChickens",
     "label": "Find Many Chickens",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "stage",
+        "id": "COOP"
+      },
+      {
+        "kind": "hyper",
+        "id": "COOP"
+      }
+    ],
+    "requires": [
+      "RELIC_MAP"
+    ]
   },
   {
     "id": "FindChickenClock",
     "label": "Find Chicken Clock",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "RELIC_SPEEDUP"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "Defeat0EnemiesInCoop",
     "label": "Defeat 0 Enemies In Coop",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "EX_GAEA1"
+      }
+    ],
+    "requires": [
+      "COOP"
+    ]
   },
   {
     "id": "EvolveOfGaea",
     "label": "Evolve Of Gaea",
     "value": null,
-    "group": null
-  },
-  {
-    "id": "Dark_02Gazebo",
-    "label": "Dark_02 Gazebo",
-    "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "YOLO"
+      }
+    ],
+    "requires": [
+      "COOP",
+      "EX_GAEA1"
+    ]
   },
   {
     "id": "Dark_03Gazebo",
-    "label": "Dark_03 Gazebo",
+    "label": "Dark 03gazebo",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "arcana",
+        "id": "D03_BREAD_ANATHEMA"
+      }
+    ],
+    "requires": [
+      "RELIC_DARKASSO",
+      "YOLO"
+    ]
   },
   {
     "id": "Banish80Items",
     "label": "Banish 80 Items",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "powerUp",
+        "id": "SEAL4"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "CompleteAdv_ToEndAnIceAge",
-    "label": "Complete Adv_To End An Ice Age",
+    "label": "Completeadv Toendaniceage",
     "value": null,
-    "group": null
-  },
-  {
-    "id": "EvolveShawlOfGaea",
-    "label": "Evolve Shawl Of Gaea",
-    "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "skin",
+        "id": "SKIN_SHEMOON_REBORN"
+      }
+    ],
+    "requires": [
+      "RELIC_ATLAS",
+      "SHEMOONITA"
+    ]
   },
   {
     "id": "EME_FindEmeraldDisk",
-    "label": "EME_Find Emerald Disk",
+    "label": "Eme Findemeralddisk",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "stage",
+        "id": "EMERALD"
+      },
+      {
+        "kind": "relic",
+        "id": "RELIC_EME_DISK"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "EME_FindCoffin1",
-    "label": "EME_Find Coffin 1",
+    "label": "Eme Findcoffin 1",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "EME_RAPIERDUAL"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK"
+    ]
   },
   {
     "id": "EME_GetRapierToLV6",
-    "label": "EME_Get Rapier To LV 6",
+    "label": "Eme Getrapiertolv 6",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "EME_RAPIER1"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK",
+      "EME_RAPIERDUAL"
+    ]
   },
   {
     "id": "EME_AllAttacksRapier",
-    "label": "EME_All Attacks Rapier",
+    "label": "Eme Allattacksrapier",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "skin",
+        "id": "SKIN_DUALSWORDSMAN"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_EME_SOLO_FLEURET"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_EME_SOLO_DUAL"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK",
+      "EME_RAPIERDUAL"
+    ]
   },
   {
     "id": "EME_GetDualSwordsToLV6",
-    "label": "EME_Get Dual Swords To LV 6",
+    "label": "Eme Getdualswordstolv 6",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "EME_DUAL1"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK",
+      "EME_RAPIERDUAL"
+    ]
   },
   {
     "id": "EME_AllAttacksDualSwords",
-    "label": "EME_All Attacks Dual Swords",
+    "label": "Eme Allattacksdualswords",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "EME_PUNCHKICK"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK",
+      "EME_RAPIERDUAL"
+    ]
   },
   {
     "id": "EME_GetPunchToLV6",
-    "label": "EME_Get Punch To LV 6",
+    "label": "Eme Getpunchtolv 6",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "EME_PUNCH1"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK",
+      "EME_PUNCHKICK"
+    ]
   },
   {
     "id": "EME_AllAttacksPunch",
-    "label": "EME_All Attacks Punch",
+    "label": "Eme Allattackspunch",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "skin",
+        "id": "SKIN_EME_B_KICK"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_EME_SOLO_PUNCH"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_EME_SOLO_KICK"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK",
+      "EME_PUNCHKICK"
+    ]
   },
   {
     "id": "EME_GetKickToLV6",
-    "label": "EME_Get Kick To LV 6",
+    "label": "Eme Getkicktolv 6",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "EME_KICK1"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK",
+      "EME_PUNCHKICK"
+    ]
   },
   {
     "id": "EME_AllAttacksKick",
-    "label": "EME_All Attacks Kick",
+    "label": "Eme Allattackskick",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "EME_CANNONGUN"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK",
+      "EME_PUNCHKICK"
+    ]
   },
   {
     "id": "EME_GetCannonToLV6",
-    "label": "EME_Get Cannon To LV 6",
+    "label": "Eme Getcannontolv 6",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "EME_CANNON1"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK",
+      "EME_CANNONGUN"
+    ]
   },
   {
     "id": "EME_AllAttacksCannon",
-    "label": "EME_All Attacks Cannon",
+    "label": "Eme Allattackscannon",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "skin",
+        "id": "SKIN_EME_F_PISTOL"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_EME_SOLO_CANNON"
+      },
+      {
+        "kind": "skin",
+        "id": "SKIN_EME_SOLO_PISTOL"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK",
+      "EME_PUNCHKICK"
+    ]
   },
   {
     "id": "EME_GetPistolToLV6",
-    "label": "EME_Get Pistol To LV 6",
+    "label": "Eme Getpistoltolv 6",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "EME_PISTOL1"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK",
+      "EME_CANNONGUN"
+    ]
   },
   {
     "id": "EME_AllAttacksPistol",
-    "label": "EME_All Attacks Pistol",
+    "label": "Eme Allattackspistol",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "EME_MECHKATANA"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK",
+      "EME_PUNCHKICK"
+    ]
   },
   {
     "id": "EME_GetMechToLV6",
-    "label": "EME_Get Mech To LV 6",
+    "label": "Eme Getmechtolv 6",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "EME_MECH1"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK",
+      "EME_MECHKATANA"
+    ]
   },
   {
     "id": "EME_AllAttacksMech",
-    "label": "EME_All Attacks Mech",
+    "label": "Eme Allattacksmech",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "skin",
+        "id": "SKIN_EME_D_KATANA"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK",
+      "EME_MECHKATANA"
+    ]
   },
   {
     "id": "EME_GetKatanaToLV6",
-    "label": "EME_Get Katana To LV 6",
+    "label": "Eme Getkatanatolv 6",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "EME_KATANA1"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK",
+      "EME_MECHKATANA"
+    ]
   },
   {
     "id": "EME_AllAttacksKatana",
-    "label": "EME_All Attacks Katana",
+    "label": "Eme Allattackskatana",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "EME_MAGICALL"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK",
+      "EME_MECHKATANA"
+    ]
   },
   {
     "id": "EME_GetSpiritRingToLV6",
-    "label": "EME_Get Spirit Ring To LV 6",
+    "label": "Eme Getspiritringtolv 6",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "EME_MAGIC1"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK",
+      "EME_MAGICALL"
+    ]
   },
   {
     "id": "EME_EvolveMagic",
-    "label": "EME_Evolve Magic",
+    "label": "Eme Evolvemagic",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "skin",
+        "id": "SKIN_EME_SELECT"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK",
+      "EME_MAGICALL"
+    ]
   },
   {
     "id": "EME_FindCoffin2",
-    "label": "EME_Find Coffin 2",
+    "label": "Eme Findcoffin 2",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "EME_SWORDBITE"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK"
+    ]
   },
   {
     "id": "EME_GetLongSwordToLV6",
-    "label": "EME_Get Long Sword To LV 6",
+    "label": "Eme Getlongswordtolv 6",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "EME_LONGSWORD1"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK",
+      "EME_SWORDBITE"
+    ]
   },
   {
     "id": "EME_AllAttacksLongSword",
-    "label": "EME_All Attacks Long Sword",
+    "label": "Eme Allattackslongsword",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "skin",
+        "id": "SKIN_EME_S_BLOOD"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK",
+      "EME_SWORDBITE"
+    ]
   },
   {
     "id": "EME_GetBloodToLV6",
-    "label": "EME_Get Blood To LV 6",
+    "label": "Eme Getbloodtolv 6",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "EME_BLOOD1"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK",
+      "EME_SWORDBITE"
+    ]
   },
   {
     "id": "EME_AllAttacksBlood",
-    "label": "EME_All Attacks Blood",
+    "label": "Eme Allattacksblood",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "EME_SELECTOR"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK",
+      "EME_SWORDBITE"
+    ]
   },
   {
     "id": "EME_AllAttacksSpear",
-    "label": "EME_All Attacks Spear",
+    "label": "Eme Allattacksspear",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "EME_SPEAR1"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK"
+    ]
   },
   {
     "id": "EME_AllAttacksGreatSword",
-    "label": "EME_All Attacks Great Sword",
+    "label": "Eme Allattacksgreatsword",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "EME_GREATSWORD1"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK"
+    ]
   },
   {
     "id": "EME_AllAttacksAxe",
-    "label": "EME_All Attacks Axe",
+    "label": "Eme Allattacksaxe",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "EME_AXE1"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK"
+    ]
   },
   {
     "id": "EME_AllAttacksKnife",
-    "label": "EME_All Attacks Knife",
+    "label": "Eme Allattacksknife",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "EME_KNIFE1"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK"
+    ]
   },
   {
     "id": "EME_DefeatBoss25m",
-    "label": "EME_Defeat Boss 25m",
+    "label": "Eme Defeatboss 25m",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "hyper",
+        "id": "EMERALD"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK"
+    ]
   },
   {
     "id": "EME_DefeatBoss1Inverse",
-    "label": "EME_Defeat Boss 1 Inverse",
+    "label": "Eme Defeatboss 1inverse",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "EME_PUPALL"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK"
+    ]
   },
   {
     "id": "EME_DefeatBoss2Inverse",
-    "label": "EME_Defeat Boss 2 Inverse",
+    "label": "Eme Defeatboss 2inverse",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "EME_EXSPEAR"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK"
+    ]
   },
   {
     "id": "EME_DefeatBoss3Inverse",
-    "label": "EME_Defeat Boss 3 Inverse",
+    "label": "Eme Defeatboss 3inverse",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "EME_EXGREATSWORD"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK"
+    ]
   },
   {
     "id": "EME_DefeatBoss4Inverse",
-    "label": "EME_Defeat Boss 4 Inverse",
+    "label": "Eme Defeatboss 4inverse",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "EME_EXKNIFE"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK"
+    ]
   },
   {
     "id": "EME_DefeatBoss5Inverse",
-    "label": "EME_Defeat Boss 5 Inverse",
+    "label": "Eme Defeatboss 5inverse",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "EME_EXAXE"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK"
+    ]
   },
   {
     "id": "EME_DefeatBoss6Inverse",
-    "label": "EME_Defeat Boss 6 Inverse",
+    "label": "Eme Defeatboss 6inverse",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "EME_MRS"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK"
+    ]
   },
   {
     "id": "EME_MechSkinT",
-    "label": "EME_Mech Skin T",
+    "label": "Eme Mechskint",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "skin",
+        "id": "SKIN_EME_D_TANK"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK",
+      "EME_MECHKATANA"
+    ]
   },
   {
     "id": "EME_MechSkinM",
-    "label": "EME_Mech Skin M",
+    "label": "Eme Mechskinm",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "skin",
+        "id": "SKIN_EME_D_MOVE"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK",
+      "EME_MECHKATANA"
+    ]
   },
   {
     "id": "EME_MechDefeatAllBosses",
-    "label": "EME_Mech Defeat All Bosses",
+    "label": "Eme Mechdefeatallbosses",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "skin",
+        "id": "SKIN_EME_D_SHAN"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK",
+      "EME_MECHKATANA"
+    ]
   },
   {
     "id": "EME_MechDefeatAllBossesInverse",
-    "label": "EME_Mech Defeat All Bosses Inverse",
+    "label": "Eme Mechdefeatallbossesinverse",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "skin",
+        "id": "SKIN_EME_D_PARA"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK",
+      "EME_MECHKATANA"
+    ]
   },
   {
     "id": "EME_EvolveSecretWeapon",
-    "label": "EME_Evolve Secret Weapon",
+    "label": "Eme Evolvesecretweapon",
     "value": null,
-    "group": "Emerald Diorama"
+    "group": "Emerald Diorama",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "EME_WAVE"
+      }
+    ],
+    "requires": [
+      "RELIC_EME_DISK"
+    ]
   },
   {
     "id": "FindManyClovers",
     "label": "Find Many Clovers",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "stage",
+        "id": "EX_WESTWOODS"
+      },
+      {
+        "kind": "hyper",
+        "id": "EX_WESTWOODS"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "GetMagiStoneToLevel7",
     "label": "Get Magi Stone To Level 7",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "EX_MAGISTONE1"
+      }
+    ],
+    "requires": [
+      "EX_WESTWOODS"
+    ]
   },
   {
     "id": "EvolveMagiStone",
     "label": "Evolve Magi Stone",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [],
+    "requires": [
+      "EX_WESTWOODS"
+    ]
   },
   {
     "id": "Survive20minutesInWestwoods",
     "label": "Survive 20minutes In Westwoods",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "EX_CHULAREH"
+      }
+    ],
+    "requires": [
+      "EX_WESTWOODS"
+    ]
   },
   {
     "id": "FindMasquerade",
     "label": "Find Masquerade",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "RELIC_PARTY"
+      }
+    ],
+    "requires": [
+      "EX_WESTWOODS"
+    ]
   },
   {
     "id": "Dark_13Chula",
-    "label": "Dark_13 Chula",
+    "label": "Dark 13chula",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "arcana",
+        "id": "D13_MAD_MOON"
+      }
+    ],
+    "requires": [
+      "RELIC_DARKASSO",
+      "EX_CHULAREH"
+    ]
   },
   {
     "id": "DefeatShootingEnemies",
     "label": "Defeat Shooting Enemies",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "EX_AMMO1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "EvolveAmmoAppalate",
     "label": "Evolve Ammo Appalate",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "EX_ZIAPPUNTA"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "Dark_05Appunta",
-    "label": "Dark_05 Appunta",
+    "label": "Dark 05appunta",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "arcana",
+        "id": "D05_PALE_DIAMOND"
+      }
+    ],
+    "requires": [
+      "RELIC_DARKASSO",
+      "EX_ZIAPPUNTA"
+    ]
   },
   {
     "id": "ReachLV80InverseWarehouse",
     "label": "Reach LV 80 Inverse Warehouse",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "stage",
+        "id": "EX_MAZERELLA"
+      },
+      {
+        "kind": "hyper",
+        "id": "EX_MAZERELLA"
+      }
+    ],
+    "requires": [
+      "RELIC_MIRROR"
+    ]
   },
   {
     "id": "FindChaosLazulia",
     "label": "Find Chaos Lazulia",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "RELIC_LAZULIA"
+      }
+    ],
+    "requires": [
+      "RELIC_MIRROR"
+    ]
   },
   {
     "id": "FindRecycle",
     "label": "Find Recycle",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "RELIC_RECYCLE"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "EvolveOfGaea_Fix",
-    "label": "Evolve Of Gaea_Fix",
+    "label": "Evolveofgaea Fix",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [],
+    "requires": [
+      "COOP"
+    ]
   },
   {
     "id": "FindKaromasMana",
     "label": "Find Karomas Mana",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "DOMINION"
+      }
+    ],
+    "requires": [
+      "EX_WESTWOODS"
+    ]
   },
   {
     "id": "Dark_18Challenge",
-    "label": "Dark_18 Challenge",
+    "label": "Dark 18challenge",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "arcana",
+        "id": "D18_VICTORIAN_HORROR"
+      }
+    ],
+    "requires": [
+      "RELIC_DARKASSO"
+    ]
   },
   {
     "id": "LEM_FindJokerDisc",
-    "label": "LEM_Find Joker Disc",
+    "label": "Lem Findjokerdisc",
     "value": null,
-    "group": "Balatro"
+    "group": "Balatro",
+    "rewards": [
+      {
+        "kind": "stage",
+        "id": "LEM_CHAMBER"
+      },
+      {
+        "kind": "relic",
+        "id": "RELIC_LEM_DISK"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "LEM_FindCoffin1",
-    "label": "LEM_Find Coffin 1",
+    "label": "Lem Findcoffin 1",
     "value": null,
-    "group": "Balatro"
-  },
-  {
-    "id": "LEM_HighScore",
-    "label": "LEM_High Score",
-    "value": null,
-    "group": "Balatro"
+    "group": "Balatro",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "LEM_JIMBO"
+      }
+    ],
+    "requires": [
+      "RELIC_LEM_DISK"
+    ]
   },
   {
     "id": "LEM_GetInfernolatroToLevel6",
-    "label": "LEM_Get Infernolatro To Level 6",
+    "label": "Lem Getinfernolatrotolevel 6",
     "value": null,
-    "group": "Balatro"
+    "group": "Balatro",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "LEM_INFERNO1"
+      }
+    ],
+    "requires": [
+      "RELIC_LEM_DISK"
+    ]
   },
   {
     "id": "LEM_EvolveInfernolatro",
-    "label": "LEM_Evolve Infernolatro",
+    "label": "Lem Evolveinfernolatro",
     "value": null,
-    "group": "Balatro"
+    "group": "Balatro",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "LEM_CANIO"
+      }
+    ],
+    "requires": [
+      "RELIC_LEM_DISK"
+    ]
   },
   {
     "id": "LEM_GetFibonacciToLevel6",
-    "label": "LEM_Get Fibonacci To Level 6",
+    "label": "Lem Getfibonaccitolevel 6",
     "value": null,
-    "group": "Balatro"
+    "group": "Balatro",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "LEM_FIBONACCI1"
+      }
+    ],
+    "requires": [
+      "RELIC_LEM_DISK"
+    ]
   },
   {
     "id": "LEM_EvolveFibonacci",
-    "label": "LEM_Evolve Fibonacci",
+    "label": "Lem Evolvefibonacci",
     "value": null,
-    "group": "Balatro"
+    "group": "Balatro",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "LEM_CHICOT"
+      }
+    ],
+    "requires": [
+      "RELIC_LEM_DISK"
+    ]
   },
   {
     "id": "LEM_GetGrosMichelToLevel6",
-    "label": "LEM_Get Gros Michel To Level 6",
+    "label": "Lem Getgrosmicheltolevel 6",
     "value": null,
-    "group": "Balatro"
+    "group": "Balatro",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "LEM_BANANA1"
+      }
+    ],
+    "requires": [
+      "RELIC_LEM_DISK"
+    ]
   },
   {
     "id": "LEM_EvolveGrosMichel",
-    "label": "LEM_Evolve Gros Michel",
+    "label": "Lem Evolvegrosmichel",
     "value": null,
-    "group": "Balatro"
+    "group": "Balatro",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "LEM_PERKEO"
+      }
+    ],
+    "requires": [
+      "RELIC_LEM_DISK"
+    ]
   },
   {
     "id": "LEM_GetRichRocketToLevel6",
-    "label": "LEM_Get Rich Rocket To Level 6",
+    "label": "Lem Getrichrockettolevel 6",
     "value": null,
-    "group": "Balatro"
+    "group": "Balatro",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "LEM_PLANETS1"
+      }
+    ],
+    "requires": [
+      "RELIC_LEM_DISK"
+    ]
   },
   {
     "id": "LEM_EvolveRichRocket",
-    "label": "LEM_Evolve Rich Rocket",
+    "label": "Lem Evolverichrocket",
     "value": null,
-    "group": "Balatro"
+    "group": "Balatro",
+    "rewards": [],
+    "requires": [
+      "RELIC_LEM_DISK"
+    ]
   },
   {
     "id": "LEM_DefeatBoss",
-    "label": "LEM_Defeat Boss",
+    "label": "Lem Defeatboss",
     "value": null,
-    "group": "Balatro"
+    "group": "Balatro",
+    "rewards": [
+      {
+        "kind": "hyper",
+        "id": "LEM_CHAMBER"
+      }
+    ],
+    "requires": [
+      "RELIC_LEM_DISK"
+    ]
   },
   {
     "id": "Dark_19Challenge",
-    "label": "Dark_19 Challenge",
+    "label": "Dark 19challenge",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "arcana",
+        "id": "D19_HEIR_OF_FATE"
+      }
+    ],
+    "requires": [
+      "RELIC_DARKASSO"
+    ]
   },
   {
     "id": "FindManyVacuums",
     "label": "Find Many Vacuums",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "stage",
+        "id": "EX_LYCAEUM"
+      },
+      {
+        "kind": "hyper",
+        "id": "EX_LYCAEUM"
+      }
+    ],
+    "requires": [
+      "RELIC_MAP"
+    ]
   },
   {
     "id": "EvolvePenshin",
     "label": "Evolve Penshin",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "EX_PENSHIN"
+      }
+    ],
+    "requires": [
+      "EX_LYCAEUM"
+    ]
   },
   {
     "id": "Survive20minutesInLycaeum",
     "label": "Survive 20minutes In Lycaeum",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "EX_PARACOOLIO"
+      }
+    ],
+    "requires": [
+      "EX_LYCAEUM"
+    ]
   },
   {
     "id": "Dark_08ParaKooleo",
-    "label": "Dark_08 Para Kooleo",
+    "label": "Dark 08parakooleo",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "arcana",
+        "id": "D08_EDGE_OF_THE_EARTH"
+      }
+    ],
+    "requires": [
+      "RELIC_DARKASSO",
+      "EX_PARACOOLIO"
+    ]
   },
   {
     "id": "BuyGreenEyesVizard",
     "label": "Buy Green Eyes Vizard",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "RELIC_GREENEYES"
+      }
+    ],
+    "requires": [
+      "EX_WESTWOODS"
+    ]
   },
   {
     "id": "BuySurvarocchi",
     "label": "Buy Survarocchi",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "RELIC_SURVAROCCHI"
+      }
+    ],
+    "requires": [
+      "RELIC_MAP",
+      "EX_LYCAEUM"
+    ]
   },
   {
     "id": "DefeatBatDragons",
     "label": "Defeat Bat Dragons",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "EX_FLIK1"
+      }
+    ],
+    "requires": [
+      "RELIC_GREENEYES"
+    ]
   },
   {
     "id": "EvolveUnearthlyBolt",
     "label": "Evolve Unearthly Bolt",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "EX_BIGTROUBLER"
+      }
+    ],
+    "requires": [
+      "RELIC_GREENEYES",
+      "EX_FLIK1"
+    ]
   },
   {
     "id": "Dark_00Troubler",
-    "label": "Dark_00 Troubler",
+    "label": "Dark 00troubler",
     "value": null,
-    "group": null
+    "group": null,
+    "rewards": [
+      {
+        "kind": "arcana",
+        "id": "D00_STAKE_TO_YOUR_HEART"
+      }
+    ],
+    "requires": [
+      "RELIC_DARKASSO",
+      "EX_BIGTROUBLER"
+    ]
   },
   {
     "id": "MOON19_GetLunarMightToLevel6",
-    "label": "MOON 19_Get Lunar Might To Level 6",
+    "label": "Moon 19 Getlunarmighttolevel 6",
     "value": null,
-    "group": null
+    "group": "Moonspell",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "MS_LUNAR1_MIGHT"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "MOON20_GetLunarBightToLevel6",
-    "label": "MOON 20_Get Lunar Bight To Level 6",
+    "label": "Moon 20 Getlunarbighttolevel 6",
     "value": null,
-    "group": null
+    "group": "Moonspell",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "MS_LUNAR3_BIGHT"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "MOON21_GetLunarSightToLevel6",
-    "label": "MOON 21_Get Lunar Sight To Level 6",
+    "label": "Moon 21 Getlunarsighttolevel 6",
     "value": null,
-    "group": null
+    "group": "Moonspell",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "MS_LUNAR2_SIGHT"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "MOON22_UniteLunarWeapons",
-    "label": "MOON 22_Unite Lunar Weapons",
+    "label": "Moon 22 Unitelunarweapons",
     "value": null,
-    "group": null
+    "group": "Moonspell",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "GEKKOJIN"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "MOON23_ReachLevel80WithGekkojin",
-    "label": "MOON 23_Reach Level 80 With Gekkojin",
+    "label": "Moon 23 Reachlevel 80withgekkojin",
     "value": null,
-    "group": null
+    "group": "Moonspell",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "SPIRITOSA"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "MOON24_FindPearlMagatama",
-    "label": "MOON 24_Find Pearl Magatama",
+    "label": "Moon 24 Findpearlmagatama",
     "value": null,
-    "group": null
+    "group": "Moonspell",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "PEARLMAGATAMA"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "MOON25_EvolveFestiveWinds",
-    "label": "MOON 25_Evolve Festive Winds",
+    "label": "Moon 25 Evolvefestivewinds",
     "value": null,
-    "group": null
+    "group": "Moonspell",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "MEGAMIANG"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "BMN01_FindCoffinMalice",
-    "label": "BMN 01_Find Coffin Malice",
+    "label": "Bmn 01 Findcoffinmalice",
     "value": null,
-    "group": null
+    "group": "Bloodmoon",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "MALICE"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "BMN02_Survive15Malice",
-    "label": "BMN 02_Survive 15 Malice",
+    "label": "Bmn 02 Survive 15malice",
     "value": null,
-    "group": null
+    "group": "Bloodmoon",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "BMN000_SCARLET1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "BMN03_EvolveScarletNeedle",
-    "label": "BMN 03_Evolve Scarlet Needle",
+    "label": "Bmn 03 Evolvescarletneedle",
     "value": null,
-    "group": null
+    "group": "Bloodmoon",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "CALOGERO"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "BMN04_Survive15Calogero",
-    "label": "BMN 04_Survive 15 Calogero",
+    "label": "Bmn 04 Survive 15calogero",
     "value": null,
-    "group": null
+    "group": "Bloodmoon",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "BMN004_AXE1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "BMN05_EvolveAshella",
-    "label": "BMN 05_Evolve Ashella",
+    "label": "Bmn 05 Evolveashella",
     "value": null,
-    "group": null
+    "group": "Bloodmoon",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "ASHTART"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "BMN06_Survive15Ashtart",
-    "label": "BMN 06_Survive 15 Ashtart",
+    "label": "Bmn 06 Survive 15ashtart",
     "value": null,
-    "group": null
+    "group": "Bloodmoon",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "BMN002_DUST1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "BMN07_EvolveIncineration",
-    "label": "BMN 07_Evolve Incineration",
+    "label": "Bmn 07 Evolveincineration",
     "value": null,
-    "group": null
+    "group": "Bloodmoon",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "SARGON"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "BMN10_Survive15Sargon",
-    "label": "BMN 10_Survive 15 Sargon",
+    "label": "Bmn 10 Survive 15sargon",
     "value": null,
-    "group": null
+    "group": "Bloodmoon",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "BMN010_FIRE1_FALL"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "BMN11_GetFireBallToLevel6",
-    "label": "BMN 11_Get Fire Ball To Level 6",
+    "label": "Bmn 11 Getfireballtolevel 6",
     "value": null,
-    "group": null
+    "group": "Bloodmoon",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "BMN011_FIRE2_BALL"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "BMN12_GetFireWallToLevel6",
-    "label": "BMN 12_Get Fire Wall To Level 6",
+    "label": "Bmn 12 Getfirewalltolevel 6",
     "value": null,
-    "group": null
+    "group": "Bloodmoon",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "BMN012_FIRE3_WALL"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "BMN13_UniteFire",
-    "label": "BMN 13_Unite Fire",
+    "label": "Bmn 13 Unitefire",
     "value": null,
-    "group": null
+    "group": "Bloodmoon",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "MEGASARGON"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "BMN14_GetMiseryToLevel9",
-    "label": "BMN 14_Get Misery To Level 9",
+    "label": "Bmn 14 Getmiserytolevel 9",
     "value": null,
-    "group": null
+    "group": "Bloodmoon",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "NAMELESSFOOL"
+      },
+      {
+        "kind": "weapon",
+        "id": "DESCENT_MISERY"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "BMN15_Die7TimesWithFool",
-    "label": "BMN 15_Die 7 Times With Fool",
+    "label": "Bmn 15 Die 7timeswithfool",
     "value": null,
-    "group": null
+    "group": "Bloodmoon",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "CONGREGATION"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "BMN16_GetScreamsToLevel7",
-    "label": "BMN 16_Get Screams To Level 7",
+    "label": "Bmn 16 Getscreamstolevel 7",
     "value": null,
-    "group": null
+    "group": "Bloodmoon",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "BMN006_SCREAM1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "BMN17_EvolveScreamsOfTheVoi",
-    "label": "BMN 17_Evolve Screams Of The Voi",
+    "label": "Bmn 17 Evolvescreamsofthevoi",
     "value": null,
-    "group": null
+    "group": "Bloodmoon",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "BMN_DODECAHEDRON"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "BMN18_Defeat6000Witches",
-    "label": "BMN 18_Defeat 6000 Witches",
+    "label": "Bmn 18 Defeat 6000witches",
     "value": null,
-    "group": null
+    "group": "Bloodmoon",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "JAMANJATO"
+      },
+      {
+        "kind": "weapon",
+        "id": "PRAYERS"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "BMN19_DefeatAllBosses",
-    "label": "BMN 19_Defeat All Bosses",
+    "label": "Bmn 19 Defeatallbosses",
     "value": null,
-    "group": null
+    "group": "Bloodmoon",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "NAMELESSSAINT"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "BMN20_BreakStatue",
-    "label": "BMN 20_Break Statue",
+    "label": "Bmn 20 Breakstatue",
     "value": null,
-    "group": null
+    "group": "Bloodmoon",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "KUJATA"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "BMN21_DefeatBaal",
-    "label": "BMN 21_Defeat Baal",
+    "label": "Bmn 21 Defeatbaal",
     "value": null,
-    "group": null
+    "group": "Bloodmoon",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "BAALTHASAR"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "BMN22_Survive15BaalThasar",
-    "label": "BMN 22_Survive 15 Baal Thasar",
+    "label": "Bmn 22 Survive 15baalthasar",
     "value": null,
-    "group": null
+    "group": "Bloodmoon",
+    "rewards": [
+      {
+        "kind": "weapon",
+        "id": "BMN008_BLACKEN1"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "BMN23_EvolveBlackenFirmam",
-    "label": "BMN 23_Evolve Blacken Firmam",
+    "label": "Bmn 23 Evolveblackenfirmam",
     "value": null,
-    "group": null
+    "group": "Bloodmoon",
+    "rewards": [
+      {
+        "kind": "character",
+        "id": "MEGABAALTHASAR"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "BMN24_25MinuteBoss",
-    "label": "BMN 24_25 Minute Boss",
+    "label": "Bmn 24 25minuteboss",
     "value": null,
-    "group": null
+    "group": "Bloodmoon",
+    "rewards": [
+      {
+        "kind": "hyper",
+        "id": "BMN_BLOODMOON"
+      }
+    ],
+    "requires": []
   },
   {
     "id": "BMN25_FindMap_Bloodmoon",
-    "label": "BMN 25_Find Map_Bloodmoon",
+    "label": "Bmn 25 Findmap Bloodmoon",
     "value": null,
-    "group": null
+    "group": "Bloodmoon",
+    "rewards": [
+      {
+        "kind": "relic",
+        "id": "RELIC_MAP_BMN"
+      }
+    ],
+    "requires": []
   }
 ]

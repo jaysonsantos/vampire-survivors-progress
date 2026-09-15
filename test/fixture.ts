@@ -23,7 +23,8 @@ export const SAVE: SaveData = {
   KillCount: { BAT1: 120, ZOMBIE: 80 },
   CharacterSurvivedMinutes: { ANTONIO: 90, IMELDA: 45 },
   CharacterEnemiesKilled: { ANTONIO: 5000, IMELDA: 2000 },
-  EggData: { ANTONIO: { power: 0.1, total: 12 } },
+  // The game writes a plain `total` next to the characters. It must not become a character row.
+  EggData: { ANTONIO: { power: 0.1, total: 12 }, total: 12 },
   UnlockedSkinsV2: { ANTONIO: ["DEFAULT", "LEGACY"] },
   CharacterStageData: {
     ANTONIO: [

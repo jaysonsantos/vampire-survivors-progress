@@ -1,16 +1,20 @@
 <script lang="ts">
   import { CATALOG, DARKANAS, STANDARD_ARCANAS } from "$lib/catalog.ts";
+  import EntryTag from "$lib/components/EntryTag.svelte";
   import GroupFilter from "$lib/components/GroupFilter.svelte";
   import ProgressBar from "$lib/components/ProgressBar.svelte";
   import SaveDropzone from "$lib/components/SaveDropzone.svelte";
-  import { filterEntries } from "$lib/filter.ts";
+  import SectionHeading from "$lib/components/SectionHeading.svelte";
+  import ViewFilter from "$lib/components/ViewFilter.svelte";
+  import { countHeld, type EntryView, filterEntries, VIEW } from "$lib/filter.ts";
   import { powerUpRanks, unlockedArcanas } from "$lib/save/stats.ts";
   import { saveStore } from "$lib/save/store.svelte.ts";
   import type { CatalogEntry, Id } from "$lib/types.ts";
+  import type { WikiPage } from "$lib/wiki.ts";
 
   let search = $state("");
   let group = $state<string | null>(null);
-  let missing = $state(false);
+  let view = $state<EntryView>(VIEW.owned);
 
   const save = $derived(saveStore.current);
   const heldWeapons = $derived(new Set<Id>(save?.UnlockedWeapons ?? []));
@@ -18,15 +22,28 @@
   const heldArcanas = $derived(new Set<Id>(unlockedArcanas(save ?? {}).map((entry) => entry.id)));
   const ranks = $derived(save === null ? [] : powerUpRanks(save));
 
-  const GROUPS = $derived([
-    { key: "weapons", title: "Weapons", entries: CATALOG.weapons, held: heldWeapons, exact: false },
-    { key: "items", title: "Items", entries: CATALOG.items, held: heldItems, exact: false },
-    { key: "arcanas", title: "Arcanas", entries: STANDARD_ARCANAS, held: heldArcanas, exact: true },
-    { key: "darkanas", title: "Darkanas", entries: DARKANAS, held: heldArcanas, exact: true },
+  interface Group {
+    key: string;
+    title: string;
+    entries: CatalogEntry[];
+    held: Set<Id>;
+    /** `true` when the list is fixed, so a percentage is honest. */
+    exact: boolean;
+    wiki: WikiPage;
+  }
+
+  const GROUPS: Group[] = $derived([
+    { key: "weapons", title: "Weapons", entries: CATALOG.weapons, held: heldWeapons, exact: false, wiki: "weapons" },
+    { key: "items", title: "Items", entries: CATALOG.items, held: heldItems, exact: false, wiki: "items" },
+    { key: "arcanas", title: "Arcanas", entries: STANDARD_ARCANAS, held: heldArcanas, exact: true, wiki: "arcanas" },
+    { key: "darkanas", title: "Darkanas", entries: DARKANAS, held: heldArcanas, exact: true, wiki: "arcanas" },
   ]);
 
+  const totalEntries = $derived(GROUPS.reduce((total, section) => total + section.entries.length, 0));
+  const totalHeld = $derived(GROUPS.reduce((total, section) => total + countHeld(section.entries, section.held), 0));
+
   function shown(entries: CatalogEntry[], held: Set<Id>): CatalogEntry[] {
-    return filterEntries(entries, held, { search, group, missing });
+    return filterEntries(entries, held, { search, group, view });
   }
 </script>
 
@@ -35,21 +52,22 @@
 {#if save === null}
   <SaveDropzone />
 {:else}
-  <h1>Collection</h1>
+  <SectionHeading title="Collection" level="h1" wiki="unlocks" wikiLabel="How to unlock things" />
+  <p class="small muted lead">Every tag links to the wiki. Grey tags are still locked: the wiki page tells you how.</p>
 
   <div class="toolbar">
     <input type="search" placeholder="Filter the collection" bind:value={search} aria-label="Filter the collection" />
     <GroupFilter bind:value={group} />
-    <label class="small"><input type="checkbox" bind:checked={missing} /> Show what is missing</label>
+    <ViewFilter bind:value={view} total={totalEntries} owned={totalHeld} label="Collection" />
   </div>
 
   <section class="card">
-    <h2>Power-up ranks bought</h2>
+    <SectionHeading title="Power-up ranks bought" wiki="powerUps" />
     <div class="rank-grid">
       {#each ranks as rank (rank.id)}
         <div class="rank">
           <span>{rank.label}</span>
-          <span class="muted">{rank.rank}</span>
+          <span class="rank-value">{rank.rank}</span>
         </div>
       {/each}
     </div>
@@ -57,9 +75,9 @@
 
   {#each GROUPS as section (section.key)}
     {@const entries = shown(section.entries, section.held)}
-    {@const held = section.entries.filter((entry) => section.held.has(entry.id)).length}
+    {@const held = countHeld(section.entries, section.held)}
     <section class="group">
-      <h2>{section.title}</h2>
+      <SectionHeading title={section.title} wiki={section.wiki} />
       {#if section.exact}
         <ProgressBar part={held} total={section.entries.length} label="{section.title} unlocked" />
       {:else}
@@ -69,9 +87,7 @@
       {/if}
       <div class="tag-list">
         {#each entries as entry (entry.id)}
-          <span class="tag" class:off={!section.held.has(entry.id)} title="{entry.id}{entry.group ? ` · ${entry.group}` : ''}">
-            {entry.label}
-          </span>
+          <EntryTag {entry} held={section.held.has(entry.id)} />
         {/each}
       </div>
       {#if entries.length === 0}
@@ -83,7 +99,7 @@
 
 <style>
   .group {
-    margin-top: 1.75rem;
+    margin-top: 2rem;
     display: grid;
     gap: 0.6rem;
   }
@@ -100,5 +116,11 @@
     justify-content: space-between;
     border-bottom: 1px solid var(--border);
     padding: 0.15rem 0;
+  }
+
+  .rank-value {
+    color: var(--gold);
+    font-variant-numeric: tabular-nums;
+    font-weight: 600;
   }
 </style>

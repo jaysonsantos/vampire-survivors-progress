@@ -3223,7 +3223,7 @@
   },
   {
     "id": "TP_unused1_node",
-    "label": "TP_unused 1_node",
+    "label": "Tp Unused 1 Node",
     "value": 1549,
     "group": "Ode to Castlevania"
   },
@@ -3241,7 +3241,7 @@
   },
   {
     "id": "TP_unused1_slam",
-    "label": "TP_unused 1_slam",
+    "label": "Tp Unused 1 Slam",
     "value": 1552,
     "group": "Ode to Castlevania"
   },
@@ -3355,7 +3355,7 @@
   },
   {
     "id": "TP_unused_earth2_counter",
-    "label": "TP_unused_earth 2_counter",
+    "label": "Tp Unused Earth 2 Counter",
     "value": 1571,
     "group": "Ode to Castlevania"
   },
@@ -3385,7 +3385,7 @@
   },
   {
     "id": "TP_unused_energy2_counter",
-    "label": "TP_unused_energy 2_counter",
+    "label": "Tp Unused Energy 2 Counter",
     "value": 1576,
     "group": "Ode to Castlevania"
   },

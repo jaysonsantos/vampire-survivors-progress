@@ -22,6 +22,11 @@ test("lists every character the save mentions", () => {
   assert.equal(antonio.stagesPlayed, 2);
   assert.equal(antonio.eggTotal, 12);
   assert.equal(antonio.skins, 2);
+  // `EggData.total` is a number the game writes next to the characters, not a character.
+  assert.equal(
+    rows.some((row) => row.id === "total"),
+    false,
+  );
 });
 
 test("counts a coffin character as unlocked", () => {

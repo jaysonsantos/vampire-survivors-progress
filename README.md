@@ -47,6 +47,8 @@ The app treats the two cases apart:
   the ratio come from a fixed list. The percentage is correct.
 - **Counts only**: characters, weapons, items, achievements, and secrets. The app
   shows how many you hold. The second number is an upper bound, not a target.
+  Achievements and secrets come from the game data tables, so they are real
+  entries, but they include every add-on.
 
 ## Development
 
@@ -88,15 +90,21 @@ Manifests and tool configuration stay at the repository root.
 
 ### Regenerate the catalog
 
-The generator reads the decompiled `VampireSurvivors.Data` enum directory. That
-directory is not part of this repository.
+The generator reads two directories. Neither is part of this repository.
+
+1. The decompiled `VampireSurvivors.Data` enum directory.
+2. The game data tables that `tools/extract-game-data.py` writes. The script
+   reads the Unity asset files of an installed game with UnityPy.
 
 ```bash
-pnpm catalog /path/to/VampireSurvivors.Data
+nix-shell -p python3 --run "python3 -m venv .venv && .venv/bin/pip install UnityPy json5"
+.venv/bin/python tools/extract-game-data.py "/path/to/Vampire Survivors/VampireSurvivors_Data" /path/to/gamedata
+pnpm catalog /path/to/VampireSurvivors.Data /path/to/gamedata
 ```
 
-The generator writes only identifiers, derived labels, and add-on names. It never
-writes game text, art, or decompiled code.
+The generator writes only identifiers, derived labels, and add-on names. For a
+secret or an achievement it also writes the identifiers of what it unlocks and
+what it needs. It never writes game text, art, or decompiled code.
 
 ## Deployment
 

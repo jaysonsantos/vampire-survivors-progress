@@ -1,7 +1,16 @@
 /** Turns a raw save into the rows and tallies that the pages show. */
 import { arcanaByValue, CATALOG, labelFor } from "../catalog.ts";
 import { COMPLETE_THRESHOLD } from "../constants.ts";
-import type { CatalogEntry, CharacterProgress, Id, SaveData, StageProgress, StageRecord, Tally } from "../types.ts";
+import type {
+  CatalogEntry,
+  CharacterProgress,
+  EggBonuses,
+  Id,
+  SaveData,
+  StageProgress,
+  StageRecord,
+  Tally,
+} from "../types.ts";
 
 // region: helpers
 
@@ -11,6 +20,15 @@ function list(value: Id[] | undefined): Id[] {
 
 function map<T>(value: Record<Id, T> | undefined): Record<Id, T> {
   return value ?? {};
+}
+
+/** The egg bonuses per character. Drops the `total` key that the game writes next to them. */
+function eggBonuses(save: SaveData): Record<Id, EggBonuses> {
+  const result: Record<Id, EggBonuses> = {};
+  for (const [id, value] of Object.entries(map(save.EggData))) {
+    if (typeof value === "object") result[id] = value;
+  }
+  return result;
 }
 
 function sum(values: Iterable<number>): number {
@@ -41,7 +59,7 @@ export function characterRows(save: SaveData): CharacterProgress[] {
   const stageData = map<StageRecord[]>(save.CharacterStageData);
   const survived = map<number>(save.CharacterSurvivedMinutes);
   const killed = map<number>(save.CharacterEnemiesKilled);
-  const eggs = map<Record<string, number>>(save.EggData);
+  const eggs = eggBonuses(save);
   const skins = map<Id[]>(save.UnlockedSkinsV2);
 
   const ids = new Set<Id>([

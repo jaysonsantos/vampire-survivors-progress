@@ -25,6 +25,9 @@
               nodejs_24
               pnpm
 
+              # tools/extract-game-data.py. UnityPy is not in nixpkgs, so it lives in a local venv.
+              python3
+
               # Linters and hooks.
               prek
               biome

@@ -1,24 +1,30 @@
 <script lang="ts">
   import { CATALOG } from "$lib/catalog.ts";
+  import EntryTag from "$lib/components/EntryTag.svelte";
   import GroupFilter from "$lib/components/GroupFilter.svelte";
   import SaveDropzone from "$lib/components/SaveDropzone.svelte";
-  import { filterEntries } from "$lib/filter.ts";
+  import SectionHeading from "$lib/components/SectionHeading.svelte";
+  import ViewFilter from "$lib/components/ViewFilter.svelte";
+  import { countHeld, type EntryView, filterEntries, VIEW } from "$lib/filter.ts";
   import { saveStore } from "$lib/save/store.svelte.ts";
   import type { Id } from "$lib/types.ts";
 
   let search = $state("");
   let group = $state<string | null>(null);
-  let missing = $state(false);
+  let achievementView = $state<EntryView>(VIEW.owned);
+  let secretView = $state<EntryView>(VIEW.owned);
 
   const save = $derived(saveStore.current);
   const unlocked = $derived(new Set<Id>(save?.Achievements ?? []));
   const secrets = $derived(new Set<Id>(save?.Secrets ?? []));
 
-  const achievementsHeld = $derived(CATALOG.achievements.filter((entry) => unlocked.has(entry.id)).length);
-  const secretsHeld = $derived(CATALOG.secrets.filter((entry) => secrets.has(entry.id)).length);
+  const achievementsHeld = $derived(countHeld(CATALOG.achievements, unlocked));
+  const secretsHeld = $derived(countHeld(CATALOG.secrets, secrets));
 
-  const shownAchievements = $derived(filterEntries(CATALOG.achievements, unlocked, { search, group, missing }));
-  const shownSecrets = $derived(filterEntries(CATALOG.secrets, secrets, { search, group, missing }));
+  const shownAchievements = $derived(
+    filterEntries(CATALOG.achievements, unlocked, { search, group, view: achievementView }),
+  );
+  const shownSecrets = $derived(filterEntries(CATALOG.secrets, secrets, { search, group, view: secretView }));
 </script>
 
 <svelte:head><title>Achievements · Vampire Survivors Progress</title></svelte:head>
@@ -26,24 +32,33 @@
 {#if save === null}
   <SaveDropzone />
 {:else}
-  <h1>Achievements</h1>
+  <SectionHeading title="Achievements" level="h1" wiki="achievements" wikiLabel="Full list with conditions" />
+  <p class="small muted lead">
+    Grey tags are still locked. Each tag searches the wiki for its own name. The wiki achievements page lists every
+    condition and reward in one table.
+  </p>
 
   <div class="toolbar">
-    <input type="search" placeholder="Filter achievements" bind:value={search} aria-label="Filter achievements" />
+    <input type="search" placeholder="Filter achievements and secrets" bind:value={search} aria-label="Filter" />
     <GroupFilter bind:value={group} />
-    <label class="small"><input type="checkbox" bind:checked={missing} /> Show what is missing</label>
   </div>
 
   <section class="group">
+    <SectionHeading title="Achievements" wiki="achievements">
+      <ViewFilter
+        bind:value={achievementView}
+        total={CATALOG.achievements.length}
+        owned={achievementsHeld}
+        label="Achievements"
+      />
+    </SectionHeading>
     <p class="small muted">
-      {achievementsHeld} unlocked. This build knows {CATALOG.achievements.length} identifiers, some of which the game
-      does not award yet.
+      The game data defines {CATALOG.achievements.length} achievements across the base game and every add-on. Use the
+      content filter to see one add-on. Each tag names what the achievement unlocks.
     </p>
     <div class="tag-list">
       {#each shownAchievements as entry (entry.id)}
-        <span class="tag" class:off={!unlocked.has(entry.id)} title="{entry.id}{entry.group ? ` · ${entry.group}` : ''}">
-          {entry.label}
-        </span>
+        <EntryTag {entry} held={unlocked.has(entry.id)} />
       {/each}
     </div>
     {#if shownAchievements.length === 0}
@@ -52,13 +67,21 @@
   </section>
 
   <section class="group">
-    <h2>Secrets</h2>
-    <p class="small muted">{secretsHeld} found of {CATALOG.secrets.length} known identifiers.</p>
+    <SectionHeading title="Secrets" wiki="secrets">
+      <ViewFilter bind:value={secretView} total={CATALOG.secrets.length} owned={secretsHeld} label="Secrets" />
+    </SectionHeading>
+    <p class="small muted">
+      The game data defines {CATALOG.secrets.length} secrets across the base game and every add-on. Each tag names what
+      the secret unlocks. Hover a tag to see what it needs first. The wiki explains how to trigger each one.
+    </p>
     <div class="tag-list">
       {#each shownSecrets as entry (entry.id)}
-        <span class="tag" class:off={!secrets.has(entry.id)} title={entry.id}>{entry.label}</span>
+        <EntryTag {entry} held={secrets.has(entry.id)} />
       {/each}
     </div>
+    {#if shownSecrets.length === 0}
+      <p class="small muted">Nothing to show here with the current filter.</p>
+    {/if}
   </section>
 {/if}
 

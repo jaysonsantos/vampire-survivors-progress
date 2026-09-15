@@ -3,6 +3,14 @@
 /** Every identifier in the save is a plain string enum member. */
 export type Id = string;
 
+/** What a secret or an achievement unlocks. */
+export type RewardKind = "character" | "weapon" | "stage" | "hyper" | "relic" | "arcana" | "powerUp" | "skin";
+
+export interface Reward {
+  kind: RewardKind;
+  id: Id;
+}
+
 /** One enum member of the game, with a label derived from its identifier. */
 export interface CatalogEntry {
   id: Id;
@@ -10,6 +18,12 @@ export interface CatalogEntry {
   value: number | null;
   /** The add-on the entry belongs to, or `null` for the base game. */
   group: string | null;
+  /** What the entry unlocks. Only secrets and achievements carry this. */
+  rewards?: Reward[];
+  /** Identifiers the player must hold before the entry can trigger. */
+  requires?: Id[];
+  /** `true` for a secret that the player types as a code. */
+  spell?: boolean;
 }
 
 /** One character-and-stage record inside `CharacterStageData`. */
@@ -64,7 +78,8 @@ export interface SaveData {
   CharacterStageData?: Record<Id, StageRecord[]>;
   CharacterEnemiesKilled?: Record<Id, number>;
   CharacterSurvivedMinutes?: Record<Id, number>;
-  EggData?: Record<Id, EggBonuses>;
+  /** Keyed by character. The game also writes one `total` key with a plain number next to the characters. */
+  EggData?: Record<Id, EggBonuses | number>;
   UnlockedSkinsV2?: Record<Id, Id[]>;
 }
 

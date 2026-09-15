@@ -265,145 +265,145 @@
   },
   {
     "id": "ADV_POE_1_Acres",
-    "label": "ADV_POE_1_Acres",
+    "label": "Adv Poe 1 Acres",
     "value": 1011,
     "group": "Adventures"
   },
   {
     "id": "ADV_POE_2_Forest",
-    "label": "ADV_POE_2_Forest",
+    "label": "Adv Poe 2 Forest",
     "value": 1012,
     "group": "Adventures"
   },
   {
     "id": "ADV_POE_3_Woods",
-    "label": "ADV_POE_3_Woods",
+    "label": "Adv Poe 3 Woods",
     "value": 1013,
     "group": "Adventures"
   },
   {
     "id": "ADV_POE_4_Orchard",
-    "label": "ADV_POE_4_Orchard",
+    "label": "Adv Poe 4 Orchard",
     "value": 1014,
     "group": "Adventures"
   },
   {
     "id": "ADV_POE_5_Garden",
-    "label": "ADV_POE_5_Garden",
+    "label": "Adv Poe 5 Garden",
     "value": 1015,
     "group": "Adventures"
   },
   {
     "id": "ADV_POE_6_Molise",
-    "label": "ADV_POE_6_Molise",
+    "label": "Adv Poe 6 Molise",
     "value": 1016,
     "group": "Adventures"
   },
   {
     "id": "ADV_IME_1_Chapel",
-    "label": "ADV_IME_1_Chapel",
+    "label": "Adv Ime 1 Chapel",
     "value": 1021,
     "group": "Adventures"
   },
   {
     "id": "ADV_IME_2_Library",
-    "label": "ADV_IME_2_Library",
+    "label": "Adv Ime 2 Library",
     "value": 1022,
     "group": "Adventures"
   },
   {
     "id": "ADV_IME_3_Forest",
-    "label": "ADV_IME_3_Forest",
+    "label": "Adv Ime 3 Forest",
     "value": 1023,
     "group": "Adventures"
   },
   {
     "id": "ADV_IME_4_Tower",
-    "label": "ADV_IME_4_Tower",
+    "label": "Adv Ime 4 Tower",
     "value": 1024,
     "group": "Adventures"
   },
   {
     "id": "ADV_IME_5_Stair",
-    "label": "ADV_IME_5_Stair",
+    "label": "Adv Ime 5 Stair",
     "value": 1025,
     "group": "Adventures"
   },
   {
     "id": "ADV_IME_6_Magna",
-    "label": "ADV_IME_6_Magna",
+    "label": "Adv Ime 6 Magna",
     "value": 1026,
     "group": "Adventures"
   },
   {
     "id": "ADV_CHAL_001_Meeting",
-    "label": "ADV_CHAL_001_Meeting",
+    "label": "Adv Chal 001 Meeting",
     "value": 1031,
     "group": "Adventures"
   },
   {
     "id": "ADV_CHAL_002_Security",
-    "label": "ADV_CHAL_002_Security",
+    "label": "Adv Chal 002 Security",
     "value": 1032,
     "group": "Adventures"
   },
   {
     "id": "ADV_CHAL_003_Ejected",
-    "label": "ADV_CHAL_003_Ejected",
+    "label": "Adv Chal 003 Ejected",
     "value": 1033,
     "group": "Adventures"
   },
   {
     "id": "ADV_CHAL_004_Ghosted",
-    "label": "ADV_CHAL_004_Ghosted",
+    "label": "Adv Chal 004 Ghosted",
     "value": 1034,
     "group": "Adventures"
   },
   {
     "id": "ADV_CHAL_005_Science",
-    "label": "ADV_CHAL_005_Science",
+    "label": "Adv Chal 005 Science",
     "value": 1035,
     "group": "Adventures"
   },
   {
     "id": "ADV_CHAL_006_Trouble",
-    "label": "ADV_CHAL_006_Trouble",
+    "label": "Adv Chal 006 Trouble",
     "value": 1036,
     "group": "Adventures"
   },
   {
     "id": "ADV_FB_001_Attack",
-    "label": "ADV_FB_001_Attack",
+    "label": "Adv Fb 001 Attack",
     "value": 1041,
     "group": "Adventures"
   },
   {
     "id": "ADV_FB_002_Bullet",
-    "label": "ADV_FB_002_Bullet",
+    "label": "Adv Fb 002 Bullet",
     "value": 1042,
     "group": "Adventures"
   },
   {
     "id": "ADV_FB_003_NeoCity",
-    "label": "ADV_FB_003_Neo City",
+    "label": "Adv Fb 003 Neocity",
     "value": 1043,
     "group": "Adventures"
   },
   {
     "id": "ADV_FB_004_OperationGun",
-    "label": "ADV_FB_004_Operation Gun",
+    "label": "Adv Fb 004 Operationgun",
     "value": 1044,
     "group": "Adventures"
   },
   {
     "id": "ADV_FB_005_RunAndGun",
-    "label": "ADV_FB_005_Run And Gun",
+    "label": "Adv Fb 005 Runandgun",
     "value": 1045,
     "group": "Adventures"
   },
   {
     "id": "ADV_FB_006_Alien",
-    "label": "ADV_FB_006_Alien",
+    "label": "Adv Fb 006 Alien",
     "value": 1046,
     "group": "Adventures"
   },
@@ -553,49 +553,49 @@
   },
   {
     "id": "ADV_OTC_001_001_Woods",
-    "label": "ADV_OTC_001_001_Woods",
+    "label": "Adv Otc 001 001 Woods",
     "value": 1080,
     "group": "Adventures"
   },
   {
     "id": "ADV_OTC_001_002_Entrance",
-    "label": "ADV_OTC_001_002_Entrance",
+    "label": "Adv Otc 001 002 Entrance",
     "value": 1081,
     "group": "Adventures"
   },
   {
     "id": "ADV_OTC_001_003_Library",
-    "label": "ADV_OTC_001_003_Library",
+    "label": "Adv Otc 001 003 Library",
     "value": 1082,
     "group": "Adventures"
   },
   {
     "id": "ADV_OTC_001_004_Clock",
-    "label": "ADV_OTC_001_004_Clock",
+    "label": "Adv Otc 001 004 Clock",
     "value": 1083,
     "group": "Adventures"
   },
   {
     "id": "ADV_OTC_001_005_Throne",
-    "label": "ADV_OTC_001_005_Throne",
+    "label": "Adv Otc 001 005 Throne",
     "value": 1084,
     "group": "Adventures"
   },
   {
     "id": "ADV_OTC_001_006_Sunken",
-    "label": "ADV_OTC_001_006_Sunken",
+    "label": "Adv Otc 001 006 Sunken",
     "value": 1085,
     "group": "Adventures"
   },
   {
     "id": "ADV_OTC_001_007_Ecclesia",
-    "label": "ADV_OTC_001_007_Ecclesia",
+    "label": "Adv Otc 001 007 Ecclesia",
     "value": 1086,
     "group": "Adventures"
   },
   {
     "id": "ADV_OTC_001_008_Infinite",
-    "label": "ADV_OTC_001_008_Infinite",
+    "label": "Adv Otc 001 008 Infinite",
     "value": 1087,
     "group": "Adventures"
   },
@@ -607,7 +607,7 @@
   },
   {
     "id": "ADV_OTC_001_009_DeathFight",
-    "label": "ADV_OTC_001_009_Death Fight",
+    "label": "Adv Otc 001 009 Deathfight",
     "value": 1089,
     "group": "Adventures"
   },
