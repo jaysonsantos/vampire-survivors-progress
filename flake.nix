@@ -30,7 +30,7 @@
               biome
               typos
               shellcheck
-              nixfmt-rfc-style
+              nixfmt
 
               # Repository work.
               git
@@ -41,6 +41,6 @@
         }
       );
 
-      formatter = forAllSystems (system: nixpkgs.legacyPackages.${system}.nixfmt-rfc-style);
+      formatter = forAllSystems (system: nixpkgs.legacyPackages.${system}.nixfmt);
     };
 }
