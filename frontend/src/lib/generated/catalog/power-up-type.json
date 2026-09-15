@@ -1,0 +1,194 @@
+[
+  {
+    "id": "POWER",
+    "label": "Power",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "REGEN",
+    "label": "Regen",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "MAXHEALTH",
+    "label": "Maxhealth",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "ARMOR",
+    "label": "Armor",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "AREA",
+    "label": "Area",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "SPEED",
+    "label": "Speed",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "COOLDOWN",
+    "label": "Cooldown",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "DURATION",
+    "label": "Duration",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "AMOUNT",
+    "label": "Amount",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "MOVESPEED",
+    "label": "Movespeed",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "MAGNET",
+    "label": "Magnet",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "LUCK",
+    "label": "Luck",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "GROWTH",
+    "label": "Growth",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "GREED",
+    "label": "Greed",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "CURSE",
+    "label": "Curse",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "TIME",
+    "label": "Time",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "SHIELD",
+    "label": "Shield",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "REVIVAL",
+    "label": "Revival",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "LEVELUP",
+    "label": "Levelup",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "INVUL",
+    "label": "Invul",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "REROLL",
+    "label": "Reroll",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "SKIP",
+    "label": "Skip",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "BANISH",
+    "label": "Banish",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "PANDORA",
+    "label": "Pandora",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "SEAL",
+    "label": "Seal",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "CHARM",
+    "label": "Charm",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "SEAL2",
+    "label": "Seal 2",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "DEFANG",
+    "label": "Defang",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "SEAL3",
+    "label": "Seal 3",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "SEAL4",
+    "label": "Seal 4",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "RECYCLE",
+    "label": "Recycle",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FEVER",
+    "label": "Fever",
+    "value": null,
+    "group": null
+  }
+]

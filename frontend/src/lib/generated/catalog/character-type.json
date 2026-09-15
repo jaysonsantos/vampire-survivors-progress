@@ -1,0 +1,1850 @@
+[
+  {
+    "id": "ANTONIO",
+    "label": "Antonio",
+    "value": 1,
+    "group": null
+  },
+  {
+    "id": "IMELDA",
+    "label": "Imelda",
+    "value": 2,
+    "group": null
+  },
+  {
+    "id": "PASQUALINA",
+    "label": "Pasqualina",
+    "value": 3,
+    "group": null
+  },
+  {
+    "id": "GENNARO",
+    "label": "Gennaro",
+    "value": 4,
+    "group": null
+  },
+  {
+    "id": "CRISTINA",
+    "label": "Cristina",
+    "value": 5,
+    "group": null
+  },
+  {
+    "id": "CIRO",
+    "label": "Ciro",
+    "value": 6,
+    "group": null
+  },
+  {
+    "id": "PORTA",
+    "label": "Porta",
+    "value": 7,
+    "group": null
+  },
+  {
+    "id": "EXDASH",
+    "label": "Exdash",
+    "value": 8,
+    "group": null
+  },
+  {
+    "id": "MORTACCIO",
+    "label": "Mortaccio",
+    "value": 9,
+    "group": null
+  },
+  {
+    "id": "CAVALLO",
+    "label": "Cavallo",
+    "value": 10,
+    "group": null
+  },
+  {
+    "id": "CAMILLO",
+    "label": "Camillo",
+    "value": 11,
+    "group": null
+  },
+  {
+    "id": "RED",
+    "label": "Red",
+    "value": 12,
+    "group": null
+  },
+  {
+    "id": "LAMA",
+    "label": "Lama",
+    "value": 13,
+    "group": null
+  },
+  {
+    "id": "DOMMARIO",
+    "label": "Dommario",
+    "value": 14,
+    "group": null
+  },
+  {
+    "id": "CROCI",
+    "label": "Croci",
+    "value": 15,
+    "group": null
+  },
+  {
+    "id": "GERMANA",
+    "label": "Germana",
+    "value": 16,
+    "group": null
+  },
+  {
+    "id": "LORDO",
+    "label": "Lordo",
+    "value": 17,
+    "group": null
+  },
+  {
+    "id": "POPPEA",
+    "label": "Poppea",
+    "value": 18,
+    "group": null
+  },
+  {
+    "id": "PUGNALA",
+    "label": "Pugnala",
+    "value": 19,
+    "group": null
+  },
+  {
+    "id": "GIOVANNA",
+    "label": "Giovanna",
+    "value": 20,
+    "group": null
+  },
+  {
+    "id": "CONCETTA",
+    "label": "Concetta",
+    "value": 21,
+    "group": null
+  },
+  {
+    "id": "ASSUNTA",
+    "label": "Assunta",
+    "value": 22,
+    "group": null
+  },
+  {
+    "id": "DEATH",
+    "label": "Death",
+    "value": 23,
+    "group": null
+  },
+  {
+    "id": "DETH",
+    "label": "Deth",
+    "value": 24,
+    "group": null
+  },
+  {
+    "id": "PANINI",
+    "label": "Panini",
+    "value": 25,
+    "group": null
+  },
+  {
+    "id": "GRAZIELLA",
+    "label": "Graziella",
+    "value": 26,
+    "group": null
+  },
+  {
+    "id": "CANTERVILLO",
+    "label": "Cantervillo",
+    "value": 27,
+    "group": null
+  },
+  {
+    "id": "TUPU",
+    "label": "Tupu",
+    "value": 28,
+    "group": null
+  },
+  {
+    "id": "VERANDA",
+    "label": "Veranda",
+    "value": 29,
+    "group": null
+  },
+  {
+    "id": "TATANKA",
+    "label": "Tatanka",
+    "value": 30,
+    "group": null
+  },
+  {
+    "id": "LATODILATO",
+    "label": "Latodilato",
+    "value": 31,
+    "group": null
+  },
+  {
+    "id": "LATODISOPRO",
+    "label": "Latodisopro",
+    "value": 32,
+    "group": null
+  },
+  {
+    "id": "YOLO",
+    "label": "Yolo",
+    "value": 33,
+    "group": null
+  },
+  {
+    "id": "SCEMINO",
+    "label": "Scemino",
+    "value": 34,
+    "group": null
+  },
+  {
+    "id": "DUPRE",
+    "label": "Dupre",
+    "value": 35,
+    "group": null
+  },
+  {
+    "id": "LATODISOTTO",
+    "label": "Latodisotto",
+    "value": 36,
+    "group": null
+  },
+  {
+    "id": "LATOEVEST",
+    "label": "Latoevest",
+    "value": 37,
+    "group": null
+  },
+  {
+    "id": "MAREMMA",
+    "label": "Maremma",
+    "value": 38,
+    "group": null
+  },
+  {
+    "id": "FEBBRA",
+    "label": "Febbra",
+    "value": 39,
+    "group": null
+  },
+  {
+    "id": "MARIA",
+    "label": "Maria",
+    "value": 40,
+    "group": null
+  },
+  {
+    "id": "MARIANNA",
+    "label": "Marianna",
+    "value": 41,
+    "group": null
+  },
+  {
+    "id": "MARIASOFIA",
+    "label": "Mariasofia",
+    "value": 42,
+    "group": null
+  },
+  {
+    "id": "BESUGO",
+    "label": "Besugo",
+    "value": 43,
+    "group": null
+  },
+  {
+    "id": "ANDRIA",
+    "label": "Andria",
+    "value": 44,
+    "group": null
+  },
+  {
+    "id": "NOSTRO",
+    "label": "Nostro",
+    "value": 45,
+    "group": null
+  },
+  {
+    "id": "FINO",
+    "label": "Fino",
+    "value": 46,
+    "group": null
+  },
+  {
+    "id": "PINO",
+    "label": "Pino",
+    "value": 47,
+    "group": null
+  },
+  {
+    "id": "SIGMA",
+    "label": "Sigma",
+    "value": 48,
+    "group": null
+  },
+  {
+    "id": "AVATAR",
+    "label": "Avatar",
+    "value": 49,
+    "group": null
+  },
+  {
+    "id": "IOLO",
+    "label": "Iolo",
+    "value": 50,
+    "group": null
+  },
+  {
+    "id": "PEPPE",
+    "label": "Peppe",
+    "value": 51,
+    "group": null
+  },
+  {
+    "id": "PEPPINO",
+    "label": "Peppino",
+    "value": 52,
+    "group": null
+  },
+  {
+    "id": "SMITH",
+    "label": "Smith",
+    "value": 53,
+    "group": null
+  },
+  {
+    "id": "NEO",
+    "label": "Neo",
+    "value": 54,
+    "group": null
+  },
+  {
+    "id": "PIRIPIRI",
+    "label": "Piripiri",
+    "value": 55,
+    "group": null
+  },
+  {
+    "id": "PINEYE",
+    "label": "Pineye",
+    "value": 56,
+    "group": null
+  },
+  {
+    "id": "PENTA",
+    "label": "Penta",
+    "value": 57,
+    "group": null
+  },
+  {
+    "id": "ODDEEO",
+    "label": "Oddeeo",
+    "value": 58,
+    "group": null
+  },
+  {
+    "id": "AMBROGIO",
+    "label": "Ambrogio",
+    "value": 59,
+    "group": null
+  },
+  {
+    "id": "BOROS",
+    "label": "Boros",
+    "value": 60,
+    "group": null
+  },
+  {
+    "id": "PANTALONE",
+    "label": "Pantalone",
+    "value": 61,
+    "group": null
+  },
+  {
+    "id": "PAVONE",
+    "label": "Pavone",
+    "value": 62,
+    "group": null
+  },
+  {
+    "id": "DRAGOGION",
+    "label": "Dragogion",
+    "value": 63,
+    "group": null
+  },
+  {
+    "id": "ARENGIJUS",
+    "label": "Arengijus",
+    "value": 64,
+    "group": null
+  },
+  {
+    "id": "SCOREJ",
+    "label": "Scorej",
+    "value": 65,
+    "group": null
+  },
+  {
+    "id": "MIANG",
+    "label": "Miang",
+    "value": 66,
+    "group": null
+  },
+  {
+    "id": "MENYA",
+    "label": "Menya",
+    "value": 67,
+    "group": null
+  },
+  {
+    "id": "SYUUTO",
+    "label": "Syuuto",
+    "value": 68,
+    "group": null
+  },
+  {
+    "id": "ONNA",
+    "label": "Onna",
+    "value": 69,
+    "group": null
+  },
+  {
+    "id": "MCCOY",
+    "label": "Mccoy",
+    "value": 70,
+    "group": null
+  },
+  {
+    "id": "MEGAMENYA",
+    "label": "Megamenya",
+    "value": 71,
+    "group": null
+  },
+  {
+    "id": "MEGASYUUTO",
+    "label": "Megasyuuto",
+    "value": 72,
+    "group": null
+  },
+  {
+    "id": "TONY",
+    "label": "Tony",
+    "value": 73,
+    "group": null
+  },
+  {
+    "id": "NARA",
+    "label": "Nara",
+    "value": 74,
+    "group": null
+  },
+  {
+    "id": "ELEANOR",
+    "label": "Eleanor",
+    "value": 75,
+    "group": null
+  },
+  {
+    "id": "LUMINAIRE",
+    "label": "Luminaire",
+    "value": 76,
+    "group": null
+  },
+  {
+    "id": "GENEVIEVE",
+    "label": "Genevieve",
+    "value": 77,
+    "group": null
+  },
+  {
+    "id": "MEGAGENEVIEVE",
+    "label": "Megagenevieve",
+    "value": 78,
+    "group": null
+  },
+  {
+    "id": "VICTOR",
+    "label": "Victor",
+    "value": 79,
+    "group": null
+  },
+  {
+    "id": "KEIRA",
+    "label": "Keira",
+    "value": 80,
+    "group": null
+  },
+  {
+    "id": "GHOUL",
+    "label": "Ghoul",
+    "value": 81,
+    "group": null
+  },
+  {
+    "id": "GAEA",
+    "label": "Gaea",
+    "value": 82,
+    "group": null
+  },
+  {
+    "id": "MARUTO",
+    "label": "Maruto",
+    "value": 83,
+    "group": null
+  },
+  {
+    "id": "CTRPCAKE",
+    "label": "Ctrpcake",
+    "value": 84,
+    "group": null
+  },
+  {
+    "id": "SHEMOONITA",
+    "label": "Shemoonita",
+    "value": 85,
+    "group": null
+  },
+  {
+    "id": "SPACEDUDE",
+    "label": "Spacedude",
+    "value": 86,
+    "group": null
+  },
+  {
+    "id": "SPACEDUDETTE",
+    "label": "Spacedudette",
+    "value": 87,
+    "group": null
+  },
+  {
+    "id": "SPACEALIEN",
+    "label": "Spacealien",
+    "value": 88,
+    "group": null
+  },
+  {
+    "id": "SANTA",
+    "label": "Santa",
+    "value": 89,
+    "group": null
+  },
+  {
+    "id": "AMBERBORNE",
+    "label": "Amberborne",
+    "value": 90,
+    "group": null
+  },
+  {
+    "id": "KITTYSAN",
+    "label": "Kittysan",
+    "value": 91,
+    "group": null
+  },
+  {
+    "id": "KIKICHAN",
+    "label": "Kikichan",
+    "value": 92,
+    "group": null
+  },
+  {
+    "id": "GYORUNTIN",
+    "label": "Gyoruntin",
+    "value": 93,
+    "group": null
+  },
+  {
+    "id": "RYOMARE",
+    "label": "Ryomare",
+    "value": 94,
+    "group": null
+  },
+  {
+    "id": "BELLA",
+    "label": "Bella",
+    "value": 95,
+    "group": null
+  },
+  {
+    "id": "SKTOOA",
+    "label": "Sktooa",
+    "value": 96,
+    "group": null
+  },
+  {
+    "id": "SKALAFACHA",
+    "label": "Skalafacha",
+    "value": 97,
+    "group": null
+  },
+  {
+    "id": "SKLEEMEJO",
+    "label": "Skleemejo",
+    "value": 98,
+    "group": null
+  },
+  {
+    "id": "SKDEPEEPPO",
+    "label": "Skdepeeppo",
+    "value": 99,
+    "group": null
+  },
+  {
+    "id": "BATSBATSBATS",
+    "label": "Batsbatsbats",
+    "value": 100,
+    "group": null
+  },
+  {
+    "id": "ROSE",
+    "label": "Rose",
+    "value": 101,
+    "group": null
+  },
+  {
+    "id": "TORINO",
+    "label": "Torino",
+    "value": 102,
+    "group": null
+  },
+  {
+    "id": "MAURIZIO",
+    "label": "Maurizio",
+    "value": 103,
+    "group": null
+  },
+  {
+    "id": "C1_CREWMATE",
+    "label": "C 1 Crewmate",
+    "value": 109,
+    "group": null
+  },
+  {
+    "id": "C1_IMPOSTOR",
+    "label": "C 1 Impostor",
+    "value": 110,
+    "group": null
+  },
+  {
+    "id": "C1_GHOST",
+    "label": "C 1 Ghost",
+    "value": 111,
+    "group": null
+  },
+  {
+    "id": "C1_GUARDIAN",
+    "label": "C 1 Guardian",
+    "value": 112,
+    "group": null
+  },
+  {
+    "id": "C1_ENGINEER",
+    "label": "C 1 Engineer",
+    "value": 113,
+    "group": null
+  },
+  {
+    "id": "C1_SCIENTIST",
+    "label": "C 1 Scientist",
+    "value": 114,
+    "group": null
+  },
+  {
+    "id": "C1_SHAPESHIFTER",
+    "label": "C 1 Shapeshifter",
+    "value": 115,
+    "group": null
+  },
+  {
+    "id": "C1_HORSE",
+    "label": "C 1 Horse",
+    "value": 116,
+    "group": null
+  },
+  {
+    "id": "C1_PICKLE",
+    "label": "C 1 Pickle",
+    "value": 117,
+    "group": null
+  },
+  {
+    "id": "C1_RABBIT",
+    "label": "C 1 Rabbit",
+    "value": 118,
+    "group": null
+  },
+  {
+    "id": "C1_MEGAIMPOSTOR",
+    "label": "C 1 Megaimpostor",
+    "value": 119,
+    "group": null
+  },
+  {
+    "id": "FB_BILLRIZER",
+    "label": "Fb Billrizer",
+    "value": 120,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_LANCE",
+    "label": "Fb Lance",
+    "value": 121,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_BRADFANG",
+    "label": "Fb Bradfang",
+    "value": 122,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_BROWNY",
+    "label": "Fb Browny",
+    "value": 123,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_LUCIA",
+    "label": "Fb Lucia",
+    "value": 124,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_PROBO",
+    "label": "Fb Probo",
+    "value": 125,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_SHEENA",
+    "label": "Fb Sheena",
+    "value": 126,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_STANLEY",
+    "label": "Fb Stanley",
+    "value": 127,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_ARIANA",
+    "label": "Fb Ariana",
+    "value": 128,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_COLONEL",
+    "label": "Fb Colonel",
+    "value": 129,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_SIMONDO",
+    "label": "Fb Simondo",
+    "value": 130,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_NEWT",
+    "label": "Fb Newt",
+    "value": 131,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_DUMMY_01",
+    "label": "Fb Dummy 01",
+    "value": 132,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_DUMMY_02",
+    "label": "Fb Dummy 02",
+    "value": 133,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_DUMMY_03",
+    "label": "Fb Dummy 03",
+    "value": 134,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_DUMMY_04",
+    "label": "Fb Dummy 04",
+    "value": 135,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_DUMMY_05",
+    "label": "Fb Dummy 05",
+    "value": 136,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_DUMMY_06",
+    "label": "Fb Dummy 06",
+    "value": 137,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_DUMMY_07",
+    "label": "Fb Dummy 07",
+    "value": 138,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_DUMMY_08",
+    "label": "Fb Dummy 08",
+    "value": 139,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_DUMMY_09",
+    "label": "Fb Dummy 09",
+    "value": 140,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_DUMMY_10",
+    "label": "Fb Dummy 10",
+    "value": 141,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_DUMMY_11",
+    "label": "Fb Dummy 11",
+    "value": 142,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "EME_RAPIERDUAL",
+    "label": "Eme Rapierdual",
+    "value": 143,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_PUPGUN_FOLLOWER",
+    "label": "Eme Pupgun Follower",
+    "value": 144,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_PUPKNIFE_FOLLOWER",
+    "label": "Eme Pupknife Follower",
+    "value": 145,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_PUPKATANA_FOLLOWER",
+    "label": "Eme Pupkatana Follower",
+    "value": 146,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_PUPPUNCH_FOLLOWER",
+    "label": "Eme Puppunch Follower",
+    "value": 147,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_MAGICALL",
+    "label": "Eme Magicall",
+    "value": 148,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_PUNCHKICK",
+    "label": "Eme Punchkick",
+    "value": 149,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_CANNONGUN",
+    "label": "Eme Cannongun",
+    "value": 150,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_MECHKATANA",
+    "label": "Eme Mechkatana",
+    "value": 151,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_SWORDBITE",
+    "label": "Eme Swordbite",
+    "value": 152,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_MRS",
+    "label": "Eme Mrs",
+    "value": 153,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_EXGREATSWORD",
+    "label": "Eme Exgreatsword",
+    "value": 154,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_EXKNIFE",
+    "label": "Eme Exknife",
+    "value": 155,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_EXAXE",
+    "label": "Eme Exaxe",
+    "value": 156,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_EXSPEAR",
+    "label": "Eme Exspear",
+    "value": 157,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_PUPALL",
+    "label": "Eme Pupall",
+    "value": 158,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_CATS_FOLLOWER",
+    "label": "Eme Cats Follower",
+    "value": 159,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_CATS",
+    "label": "Eme Cats",
+    "value": 163,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_DEMON",
+    "label": "Eme Demon",
+    "value": 164,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_IMAKOO",
+    "label": "Eme Imakoo",
+    "value": 165,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_KINA",
+    "label": "Eme Kina",
+    "value": 166,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EX_CHULAREH",
+    "label": "Ex Chulareh",
+    "value": 167,
+    "group": null
+  },
+  {
+    "id": "EX_ZIAPPUNTA",
+    "label": "Ex Ziappunta",
+    "value": 168,
+    "group": null
+  },
+  {
+    "id": "EX_GIOCARE",
+    "label": "Ex Giocare",
+    "value": 169,
+    "group": null
+  },
+  {
+    "id": "EX_BIGTROUBLER",
+    "label": "Ex Bigtroubler",
+    "value": 170,
+    "group": null
+  },
+  {
+    "id": "EX_GLAUCUS",
+    "label": "Ex Glaucus",
+    "value": 171,
+    "group": null
+  },
+  {
+    "id": "EX_PARACOOLIO",
+    "label": "Ex Paracoolio",
+    "value": 178,
+    "group": null
+  },
+  {
+    "id": "TP_ALBUS",
+    "label": "Tp Albus",
+    "value": 201,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ALUCARD",
+    "label": "Tp Alucard",
+    "value": 202,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_AXEARMOR",
+    "label": "Tp Axearmor",
+    "value": 203,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_CARMILLA",
+    "label": "Tp Carmilla",
+    "value": 204,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_CARRIE",
+    "label": "Tp Carrie",
+    "value": 205,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_CHARLOTTE",
+    "label": "Tp Charlotte",
+    "value": 206,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_CORNELL",
+    "label": "Tp Cornell",
+    "value": 207,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_DEATH",
+    "label": "Tp Death",
+    "value": 208,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_DRACULA",
+    "label": "Tp Dracula",
+    "value": 209,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ELIZABETH",
+    "label": "Tp Elizabeth",
+    "value": 210,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ERIC",
+    "label": "Tp Eric",
+    "value": 211,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_GALAMOTH",
+    "label": "Tp Galamoth",
+    "value": 212,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_GRANT",
+    "label": "Tp Grant",
+    "value": 213,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_HECTOR",
+    "label": "Tp Hector",
+    "value": 214,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_HENRY",
+    "label": "Tp Henry",
+    "value": 215,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ISAAC",
+    "label": "Tp Isaac",
+    "value": 216,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_JONATHAN",
+    "label": "Tp Jonathan",
+    "value": 217,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_JOHN",
+    "label": "Tp John",
+    "value": 218,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_JULIUS",
+    "label": "Tp Julius",
+    "value": 219,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_JULIA",
+    "label": "Tp Julia",
+    "value": 220,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_JUSTE",
+    "label": "Tp Juste",
+    "value": 221,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_LEON",
+    "label": "Tp Leon",
+    "value": 222,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_LORETTA",
+    "label": "Tp Loretta",
+    "value": 223,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_MARIAA",
+    "label": "Tp Mariaa",
+    "value": 224,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_MARIAB",
+    "label": "Tp Mariab",
+    "value": 225,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_NATHAN",
+    "label": "Tp Nathan",
+    "value": 226,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ORLOX",
+    "label": "Tp Orlox",
+    "value": 227,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_REINHARDT",
+    "label": "Tp Reinhardt",
+    "value": 228,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_RICHTER",
+    "label": "Tp Richter",
+    "value": 229,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SHAFT",
+    "label": "Tp Shaft",
+    "value": 230,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SHANOA",
+    "label": "Tp Shanoa",
+    "value": 231,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SIMON",
+    "label": "Tp Simon",
+    "value": 232,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SOMA",
+    "label": "Tp Soma",
+    "value": 233,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SONIA",
+    "label": "Tp Sonia",
+    "value": 234,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_STELLA",
+    "label": "Tp Stella",
+    "value": 235,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_STGERMAIN",
+    "label": "Tp Stgermain",
+    "value": 236,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SUCCUBUS",
+    "label": "Tp Succubus",
+    "value": 237,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SYPHA",
+    "label": "Tp Sypha",
+    "value": 238,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_TREVOR",
+    "label": "Tp Trevor",
+    "value": 239,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_YOKO",
+    "label": "Tp Yoko",
+    "value": 240,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_CHRISTOPHER",
+    "label": "Tp Christopher",
+    "value": 241,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SARA",
+    "label": "Tp Sara",
+    "value": 242,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_DARIO",
+    "label": "Tp Dario",
+    "value": 243,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_DMITRI",
+    "label": "Tp Dmitri",
+    "value": 244,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_CELIA",
+    "label": "Tp Celia",
+    "value": 245,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_RINALDO",
+    "label": "Tp Rinaldo",
+    "value": 246,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_MINA",
+    "label": "Tp Mina",
+    "value": 247,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_QUINCY",
+    "label": "Tp Quincy",
+    "value": 248,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_MAXIM",
+    "label": "Tp Maxim",
+    "value": 249,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_LISA",
+    "label": "Tp Lisa",
+    "value": 250,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_VINCENT",
+    "label": "Tp Vincent",
+    "value": 251,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BRAUNER",
+    "label": "Tp Brauner",
+    "value": 252,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BARLOWE",
+    "label": "Tp Barlowe",
+    "value": 253,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_WIND",
+    "label": "Tp Wind",
+    "value": 254,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ASTARTE",
+    "label": "Tp Astarte",
+    "value": 255,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_LIBRARIAN",
+    "label": "Tp Librarian",
+    "value": 256,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_HAMMER",
+    "label": "Tp Hammer",
+    "value": 257,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_GRAHAM",
+    "label": "Tp Graham",
+    "value": 258,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SOLEIL",
+    "label": "Tp Soleil",
+    "value": 259,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_JOACHIM",
+    "label": "Tp Joachim",
+    "value": 260,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_CAVETROLL",
+    "label": "Tp Cavetroll",
+    "value": 261,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FERRYMAN",
+    "label": "Tp Ferryman",
+    "value": 262,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_MALPHAS",
+    "label": "Tp Malphas",
+    "value": 263,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_WALTER",
+    "label": "Tp Walter",
+    "value": 264,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FROZENSHADE",
+    "label": "Tp Frozenshade",
+    "value": 265,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_OLROX",
+    "label": "Tp Olrox",
+    "value": 266,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SNIPER",
+    "label": "Tp Sniper",
+    "value": 267,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FLEAMAN",
+    "label": "Tp Fleaman",
+    "value": 268,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BLACKMORE",
+    "label": "Tp Blackmore",
+    "value": 269,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_JONATHAN_AND_CHARLOTTE",
+    "label": "Tp Jonathan And Charlotte",
+    "value": 270,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_CHARLOTTE_AND_JONATHAN",
+    "label": "Tp Charlotte And Jonathan",
+    "value": 271,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_STELLA_AND_LORETTA",
+    "label": "Tp Stella And Loretta",
+    "value": 272,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_LORETTA_AND_STELLA",
+    "label": "Tp Loretta And Stella",
+    "value": 273,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_CORNELL_BCM",
+    "label": "Tp Cornell Bcm",
+    "value": 274,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ELIZABETH_MEGA",
+    "label": "Tp Elizabeth Mega",
+    "value": 275,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_DEATH_MEGA",
+    "label": "Tp Death Mega",
+    "value": 276,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_KEREMET",
+    "label": "Tp Keremet",
+    "value": 277,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_DRACULA_MEGA",
+    "label": "Tp Dracula Mega",
+    "value": 278,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_OLROX_MEGA",
+    "label": "Tp Olrox Mega",
+    "value": 279,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FAMILIARS",
+    "label": "Tp Familiars",
+    "value": 298,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_INNOCENT_DEVILS",
+    "label": "Tp Innocent Devils",
+    "value": 299,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FOLLOWER_UKOBAK",
+    "label": "Tp Follower Ukobak",
+    "value": 300,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FOLLOWER_BITTERFLY",
+    "label": "Tp Follower Bitterfly",
+    "value": 301,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FOLLOWER_IMP",
+    "label": "Tp Follower Imp",
+    "value": 302,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FOLLOWER_GHOST",
+    "label": "Tp Follower Ghost",
+    "value": 303,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FOLLOWER_WIZARD",
+    "label": "Tp Follower Wizard",
+    "value": 304,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FOLLOWER_FAIRY",
+    "label": "Tp Follower Fairy",
+    "value": 305,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FOLLOWER_PUMPKIN",
+    "label": "Tp Follower Pumpkin",
+    "value": 306,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FOLLOWER_CARDINAL",
+    "label": "Tp Follower Cardinal",
+    "value": 307,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FOLLOWER_DRAGON",
+    "label": "Tp Follower Dragon",
+    "value": 308,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FOLLOWER_TIGER",
+    "label": "Tp Follower Tiger",
+    "value": 309,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FOLLOWER_TURTLE",
+    "label": "Tp Follower Turtle",
+    "value": 310,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "FS_FOLLOWER_HILLTROW",
+    "label": "Fs Follower Hilltrow",
+    "value": 312,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_FOLLOWER_BROWNIE",
+    "label": "Fs Follower Brownie",
+    "value": 313,
+    "group": "Foscari"
+  },
+  {
+    "id": "FS_FOLLOWER_LEGIONNAIRE",
+    "label": "Fs Follower Legionnaire",
+    "value": 314,
+    "group": "Foscari"
+  },
+  {
+    "id": "TP_KIDDRACULA",
+    "label": "Tp Kiddracula",
+    "value": 315,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_DESMOND",
+    "label": "Tp Desmond",
+    "value": 316,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ZOE",
+    "label": "Tp Zoe",
+    "value": 318,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_DOLORES",
+    "label": "Tp Dolores",
+    "value": 319,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_HUGH",
+    "label": "Tp Hugh",
+    "value": 320,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_MORRIS",
+    "label": "Tp Morris",
+    "value": 321,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ANNETTE",
+    "label": "Tp Annette",
+    "value": 322,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_TERA",
+    "label": "Tp Tera",
+    "value": 323,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_AEON",
+    "label": "Tp Aeon",
+    "value": 324,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_PERSEPHONE",
+    "label": "Tp Persephone",
+    "value": 325,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_GAIBON_AND_SLOGRA",
+    "label": "Tp Gaibon And Slogra",
+    "value": 326,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SLOGRA_AND_GAIBON",
+    "label": "Tp Slogra And Gaibon",
+    "value": 327,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_GAIBON",
+    "label": "Tp Gaibon",
+    "value": 328,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SLOGRA",
+    "label": "Tp Slogra",
+    "value": 329,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ACTRISE",
+    "label": "Tp Actrise",
+    "value": 330,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_DROLTA",
+    "label": "Tp Drolta",
+    "value": 331,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_JIANGSHI",
+    "label": "Tp Jiangshi",
+    "value": 332,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_WATERMAGICIAN",
+    "label": "Tp Watermagician",
+    "value": 333,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SWORDRULER",
+    "label": "Tp Swordruler",
+    "value": 334,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_GENYA",
+    "label": "Tp Genya",
+    "value": 335,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FISHMAN",
+    "label": "Tp Fishman",
+    "value": 336,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FAKE_TRIO",
+    "label": "Tp Fake Trio",
+    "value": 337,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FW_FAKE_TREVOR",
+    "label": "Tp Fw Fake Trevor",
+    "value": 338,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FW_FAKE_SYPHA",
+    "label": "Tp Fw Fake Sypha",
+    "value": 339,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FW_FAKE_GRANT",
+    "label": "Tp Fw Fake Grant",
+    "value": 340,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ZEPHYR",
+    "label": "Tp Zephyr",
+    "value": 341,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_STONESKULL",
+    "label": "Tp Stoneskull",
+    "value": 342,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_CHAOS",
+    "label": "Tp Chaos",
+    "value": -1,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "LEM_FOLLOWER_SABOTEUR",
+    "label": "Lem Follower Saboteur",
+    "value": 400,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_JIMBO",
+    "label": "Lem Jimbo",
+    "value": 401,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_CANIO",
+    "label": "Lem Canio",
+    "value": 402,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_CHICOT",
+    "label": "Lem Chicot",
+    "value": 403,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_PERKEO",
+    "label": "Lem Perkeo",
+    "value": 404,
+    "group": "Balatro"
+  },
+  {
+    "id": "MALICE",
+    "label": "Malice",
+    "value": 1800,
+    "group": null
+  },
+  {
+    "id": "CALOGERO",
+    "label": "Calogero",
+    "value": 1801,
+    "group": null
+  },
+  {
+    "id": "ASHTART",
+    "label": "Ashtart",
+    "value": 1802,
+    "group": null
+  },
+  {
+    "id": "CONGREGATION",
+    "label": "Congregation",
+    "value": 1803,
+    "group": null
+  },
+  {
+    "id": "BAALTHASAR",
+    "label": "Baalthasar",
+    "value": 1804,
+    "group": null
+  },
+  {
+    "id": "SARGON",
+    "label": "Sargon",
+    "value": 1805,
+    "group": null
+  },
+  {
+    "id": "GEKKOJIN",
+    "label": "Gekkojin",
+    "value": 1806,
+    "group": null
+  },
+  {
+    "id": "MEGAMIANG",
+    "label": "Megamiang",
+    "value": 1807,
+    "group": null
+  },
+  {
+    "id": "MEGASARGON",
+    "label": "Megasargon",
+    "value": 1809,
+    "group": null
+  },
+  {
+    "id": "MEGABAALTHASAR",
+    "label": "Megabaalthasar",
+    "value": 1810,
+    "group": null
+  },
+  {
+    "id": "SPIRITOSO",
+    "label": "Spiritoso",
+    "value": 1811,
+    "group": null
+  },
+  {
+    "id": "NAMELESSFOOL",
+    "label": "Namelessfool",
+    "value": 1812,
+    "group": null
+  },
+  {
+    "id": "KUJATA",
+    "label": "Kujata",
+    "value": 1813,
+    "group": null
+  },
+  {
+    "id": "JAMANJATO",
+    "label": "Jamanjato",
+    "value": 1814,
+    "group": null
+  },
+  {
+    "id": "SPIRITOSA",
+    "label": "Spiritosa",
+    "value": 1815,
+    "group": null
+  },
+  {
+    "id": "NAMELESSSAINT",
+    "label": "Namelesssaint",
+    "value": 1816,
+    "group": null
+  }
+]

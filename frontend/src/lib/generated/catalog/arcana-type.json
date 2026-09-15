@@ -1,0 +1,932 @@
+[
+  {
+    "id": "T00_KILLER",
+    "label": "0. Killer",
+    "value": 0,
+    "group": null
+  },
+  {
+    "id": "T01_AQUARIUS",
+    "label": "I. Aquarius",
+    "value": 1,
+    "group": null
+  },
+  {
+    "id": "T02_TWILIGHT",
+    "label": "II. Twilight",
+    "value": 2,
+    "group": null
+  },
+  {
+    "id": "T03_TRAGIC",
+    "label": "III. Tragic",
+    "value": 3,
+    "group": null
+  },
+  {
+    "id": "T04_AWAKE",
+    "label": "IV. Awake",
+    "value": 4,
+    "group": null
+  },
+  {
+    "id": "T05_CRASH",
+    "label": "V. Crash",
+    "value": 5,
+    "group": null
+  },
+  {
+    "id": "T06_SARABANDE",
+    "label": "VI. Sarabande",
+    "value": 6,
+    "group": null
+  },
+  {
+    "id": "T07_IRON_BLUE",
+    "label": "VII. Iron Blue",
+    "value": 7,
+    "group": null
+  },
+  {
+    "id": "T08_MAD_FOREST",
+    "label": "VIII. Mad Forest",
+    "value": 8,
+    "group": null
+  },
+  {
+    "id": "T09_DIVINE",
+    "label": "IX. Divine",
+    "value": 9,
+    "group": null
+  },
+  {
+    "id": "T10_BEGINNING",
+    "label": "X. Beginning",
+    "value": 10,
+    "group": null
+  },
+  {
+    "id": "T11_PEARLS",
+    "label": "11. Pearls",
+    "value": 11,
+    "group": null
+  },
+  {
+    "id": "T12_OUT_OF_TIME",
+    "label": "12. Out Of Time",
+    "value": 12,
+    "group": null
+  },
+  {
+    "id": "T13_WICKED",
+    "label": "13. Wicked",
+    "value": 13,
+    "group": null
+  },
+  {
+    "id": "T14_JEWELS",
+    "label": "14. Jewels",
+    "value": 14,
+    "group": null
+  },
+  {
+    "id": "T15_GOLD",
+    "label": "15. Gold",
+    "value": 15,
+    "group": null
+  },
+  {
+    "id": "T16_SLASH",
+    "label": "16. Slash",
+    "value": 16,
+    "group": null
+  },
+  {
+    "id": "T17_PAINTING",
+    "label": "17. Painting",
+    "value": 17,
+    "group": null
+  },
+  {
+    "id": "T18_ILLUSIONS",
+    "label": "18. Illusions",
+    "value": 18,
+    "group": null
+  },
+  {
+    "id": "T19_FIRE",
+    "label": "19. Fire",
+    "value": 19,
+    "group": null
+  },
+  {
+    "id": "T20_SINKING",
+    "label": "20. Sinking",
+    "value": 20,
+    "group": null
+  },
+  {
+    "id": "T21_BLOODY",
+    "label": "21. Bloody",
+    "value": 21,
+    "group": null
+  },
+  {
+    "id": "D00_STAKE_TO_YOUR_HEART",
+    "label": "D00. Stake To Your Heart",
+    "value": 22,
+    "group": null
+  },
+  {
+    "id": "D01_SAPPHIRE_MIST",
+    "label": "D01. Sapphire Mist",
+    "value": 23,
+    "group": null
+  },
+  {
+    "id": "D02_EMERALD_ELEGY",
+    "label": "D02. Emerald Elegy",
+    "value": 24,
+    "group": null
+  },
+  {
+    "id": "D03_BREAD_ANATHEMA",
+    "label": "D03. Bread Anathema",
+    "value": 25,
+    "group": null
+  },
+  {
+    "id": "D04_TOWERING_DOLL",
+    "label": "D04. Towering Doll",
+    "value": 26,
+    "group": null
+  },
+  {
+    "id": "D05_PALE_DIAMOND",
+    "label": "D05. Pale Diamond",
+    "value": 27,
+    "group": null
+  },
+  {
+    "id": "D06_BOLERO",
+    "label": "D06. Bolero",
+    "value": 28,
+    "group": null
+  },
+  {
+    "id": "D07_tbd_bouncy",
+    "label": "D07. Tbd Bouncy",
+    "value": 29,
+    "group": null
+  },
+  {
+    "id": "D08_EDGE_OF_THE_EARTH",
+    "label": "D08. Edge Of The Earth",
+    "value": 30,
+    "group": null
+  },
+  {
+    "id": "D09_RIPPING_SILENCE",
+    "label": "D09. Ripping Silence",
+    "value": 31,
+    "group": null
+  },
+  {
+    "id": "D10_FROM_THE_FUTURE",
+    "label": "D10. From The Future",
+    "value": 32,
+    "group": null
+  },
+  {
+    "id": "D11_HIDDEN_IN_SMOKE",
+    "label": "D11. Hidden In Smoke",
+    "value": 33,
+    "group": null
+  },
+  {
+    "id": "D12_CRYSTAL_CRIES",
+    "label": "D12. Crystal Cries",
+    "value": 34,
+    "group": null
+  },
+  {
+    "id": "D13_MAD_MOON",
+    "label": "D13. Mad Moon",
+    "value": 35,
+    "group": null
+  },
+  {
+    "id": "D14_JAWS_SCORCHED_SKY",
+    "label": "D14. Jaws Scorched Sky",
+    "value": 36,
+    "group": null
+  },
+  {
+    "id": "D15_EVERYTHING_TO_LOSE",
+    "label": "D15. Everything To Lose",
+    "value": 37,
+    "group": null
+  },
+  {
+    "id": "D16_TINKER_PARTITA",
+    "label": "D16. Tinker Partita",
+    "value": 38,
+    "group": null
+  },
+  {
+    "id": "D17_SIGN_OF_BLOOD",
+    "label": "D17. Sign Of Blood",
+    "value": 39,
+    "group": null
+  },
+  {
+    "id": "D18_VICTORIAN_HORROR",
+    "label": "D18. Victorian Horror",
+    "value": 40,
+    "group": null
+  },
+  {
+    "id": "D19_HEIR_OF_FATE",
+    "label": "D19. Heir Of Fate",
+    "value": 41,
+    "group": null
+  },
+  {
+    "id": "D20_FANTASIA",
+    "label": "D20. Fantasia",
+    "value": 42,
+    "group": null
+  },
+  {
+    "id": "D21_JETBLACK",
+    "label": "D21. Jetblack",
+    "value": 43,
+    "group": null
+  },
+  {
+    "id": "B001_ANTONIO",
+    "label": "B 001 Antonio",
+    "value": 101,
+    "group": null
+  },
+  {
+    "id": "B002_IMELDA",
+    "label": "B 002 Imelda",
+    "value": 102,
+    "group": null
+  },
+  {
+    "id": "B003_PASQUALINA",
+    "label": "B 003 Pasqualina",
+    "value": 103,
+    "group": null
+  },
+  {
+    "id": "B004_GENNARO",
+    "label": "B 004 Gennaro",
+    "value": 104,
+    "group": null
+  },
+  {
+    "id": "B005_ARCA",
+    "label": "B 005 Arca",
+    "value": 105,
+    "group": null
+  },
+  {
+    "id": "B006_PORTA",
+    "label": "B 006 Porta",
+    "value": 106,
+    "group": null
+  },
+  {
+    "id": "B007_LAMA",
+    "label": "B 007 Lama",
+    "value": 107,
+    "group": null
+  },
+  {
+    "id": "B008_POE",
+    "label": "B 008 Poe",
+    "value": 108,
+    "group": null
+  },
+  {
+    "id": "B009_CLERICI",
+    "label": "B 009 Clerici",
+    "value": 109,
+    "group": null
+  },
+  {
+    "id": "B010_DOMMARIO",
+    "label": "B 010 Dommario",
+    "value": 110,
+    "group": null
+  },
+  {
+    "id": "B011_KROCHI",
+    "label": "B 011 Krochi",
+    "value": 111,
+    "group": null
+  },
+  {
+    "id": "B012_CHRISTINE",
+    "label": "B 012 Christine",
+    "value": 112,
+    "group": null
+  },
+  {
+    "id": "B013_PUGNALA",
+    "label": "B 013 Pugnala",
+    "value": 113,
+    "group": null
+  },
+  {
+    "id": "B014_GIOVANNA",
+    "label": "B 014 Giovanna",
+    "value": 114,
+    "group": null
+  },
+  {
+    "id": "B015_POPPEA",
+    "label": "B 015 Poppea",
+    "value": 115,
+    "group": null
+  },
+  {
+    "id": "B016_CONCETTA",
+    "label": "B 016 Concetta",
+    "value": 116,
+    "group": null
+  },
+  {
+    "id": "B017_MORTACCIO",
+    "label": "B 017 Mortaccio",
+    "value": 117,
+    "group": null
+  },
+  {
+    "id": "B018_CAVALLO",
+    "label": "B 018 Cavallo",
+    "value": 118,
+    "group": null
+  },
+  {
+    "id": "B019_RAMBA",
+    "label": "B 019 Ramba",
+    "value": 119,
+    "group": null
+  },
+  {
+    "id": "B020_OSOLE",
+    "label": "B 020 Osole",
+    "value": 120,
+    "group": null
+  },
+  {
+    "id": "B021_AMBROJOE",
+    "label": "B 021 Ambrojoe",
+    "value": 121,
+    "group": null
+  },
+  {
+    "id": "B022_GALLO",
+    "label": "B 022 Gallo",
+    "value": 122,
+    "group": null
+  },
+  {
+    "id": "B023_DIVANO",
+    "label": "B 023 Divano",
+    "value": 123,
+    "group": null
+  },
+  {
+    "id": "B024_ZIASSUNTA",
+    "label": "B 024 Ziassunta",
+    "value": 124,
+    "group": null
+  },
+  {
+    "id": "A001_TOUGHDURIAN",
+    "label": "A 001 Toughdurian",
+    "value": 201,
+    "group": null
+  },
+  {
+    "id": "A002_ENDLESSSCROLL",
+    "label": "A 002 Endlessscroll",
+    "value": 202,
+    "group": null
+  },
+  {
+    "id": "A003_HEADCANDLE",
+    "label": "A 003 Headcandle",
+    "value": 203,
+    "group": null
+  },
+  {
+    "id": "A004_TRIPLICATOR",
+    "label": "A 004 Triplicator",
+    "value": 204,
+    "group": null
+  },
+  {
+    "id": "A005_COPPERMAIDEN",
+    "label": "A 005 Coppermaiden",
+    "value": 205,
+    "group": null
+  },
+  {
+    "id": "A006_WHITECANDY",
+    "label": "A 006 Whitecandy",
+    "value": 206,
+    "group": null
+  },
+  {
+    "id": "A007_ECTOPLASM",
+    "label": "A 007 Ectoplasm",
+    "value": 207,
+    "group": null
+  },
+  {
+    "id": "A008_SKELEWING",
+    "label": "A 008 Skelewing",
+    "value": 208,
+    "group": null
+  },
+  {
+    "id": "A009_EXTRAFINGER",
+    "label": "A 009 Extrafinger",
+    "value": 209,
+    "group": null
+  },
+  {
+    "id": "A010_AGINGPAINTING",
+    "label": "A 010 Agingpainting",
+    "value": 210,
+    "group": null
+  },
+  {
+    "id": "A011_CRACKEDMIRROR",
+    "label": "A 011 Crackedmirror",
+    "value": 211,
+    "group": null
+  },
+  {
+    "id": "A012_ROYALTHRONE",
+    "label": "A 012 Royalthrone",
+    "value": 212,
+    "group": null
+  },
+  {
+    "id": "A013_LOCKEDLOCKET",
+    "label": "A 013 Lockedlocket",
+    "value": 213,
+    "group": null
+  },
+  {
+    "id": "A014_ANCHORANCHOR",
+    "label": "A 014 Anchoranchor",
+    "value": 214,
+    "group": null
+  },
+  {
+    "id": "A015_ROCKCHAIR",
+    "label": "A 015 Rockchair",
+    "value": 215,
+    "group": null
+  },
+  {
+    "id": "A016_BARBEDCIRCLE",
+    "label": "A 016 Barbedcircle",
+    "value": 216,
+    "group": null
+  },
+  {
+    "id": "A017_GLASSROSE",
+    "label": "A 017 Glassrose",
+    "value": 217,
+    "group": null
+  },
+  {
+    "id": "A018_PUREDOVE",
+    "label": "A 018 Puredove",
+    "value": 218,
+    "group": null
+  },
+  {
+    "id": "SUB_ADDWEAPON_BONE2",
+    "label": "Sub Addweapon Bone 2",
+    "value": 1000,
+    "group": null
+  },
+  {
+    "id": "SUB_ADDWEAPON_CART2EVO",
+    "label": "Sub Addweapon Cart 2evo",
+    "value": 1001,
+    "group": null
+  },
+  {
+    "id": "SUB_ADDWEAPON_CHERRY2",
+    "label": "Sub Addweapon Cherry 2",
+    "value": 1002,
+    "group": null
+  },
+  {
+    "id": "SUB_ADDWEAPON_FLOWER2",
+    "label": "Sub Addweapon Flower 2",
+    "value": 1003,
+    "group": null
+  },
+  {
+    "id": "SUB_XLEVEL_MAXHP5",
+    "label": "Sub Xlevel Maxhp 5",
+    "value": 1100,
+    "group": null
+  },
+  {
+    "id": "SUB_XLEVEL_GROWTH1",
+    "label": "Sub Xlevel Growth 1",
+    "value": 1101,
+    "group": null
+  },
+  {
+    "id": "SUB_XLEVEL_MIGHT1",
+    "label": "Sub Xlevel Might 1",
+    "value": 1102,
+    "group": null
+  },
+  {
+    "id": "SUB_XLEVEL_SPEED1",
+    "label": "Sub Xlevel Speed 1",
+    "value": 1103,
+    "group": null
+  },
+  {
+    "id": "SUB_XLEVEL_DURATION1",
+    "label": "Sub Xlevel Duration 1",
+    "value": 1104,
+    "group": null
+  },
+  {
+    "id": "SUB_XLEVEL_AREA1",
+    "label": "Sub Xlevel Area 1",
+    "value": 1105,
+    "group": null
+  },
+  {
+    "id": "SUB_XLEVEL_SKIP1",
+    "label": "Sub Xlevel Skip 1",
+    "value": 1106,
+    "group": null
+  },
+  {
+    "id": "SUB_XLEVEL_REROLL1",
+    "label": "Sub Xlevel Reroll 1",
+    "value": 1107,
+    "group": null
+  },
+  {
+    "id": "SUB_XLEVEL_BANISH1",
+    "label": "Sub Xlevel Banish 1",
+    "value": 1108,
+    "group": null
+  },
+  {
+    "id": "SUB_XLEVEL_RECOVERY1",
+    "label": "Sub Xlevel Recovery 1",
+    "value": 1109,
+    "group": null
+  },
+  {
+    "id": "SUB_XLEVEL_CURSE1",
+    "label": "Sub Xlevel Curse 1",
+    "value": 1110,
+    "group": null
+  },
+  {
+    "id": "SUB_XLEVEL_LUCK1",
+    "label": "Sub Xlevel Luck 1",
+    "value": 1111,
+    "group": null
+  },
+  {
+    "id": "SUB_XLEVEL_GREED1",
+    "label": "Sub Xlevel Greed 1",
+    "value": 1112,
+    "group": null
+  },
+  {
+    "id": "SUB_XLEVEL_REVIVALS1",
+    "label": "Sub Xlevel Revivals 1",
+    "value": 1113,
+    "group": null
+  },
+  {
+    "id": "SUB_SKIP_COOLDOWNDOWN",
+    "label": "Sub Skip Cooldowndown",
+    "value": 1200,
+    "group": null
+  },
+  {
+    "id": "SUB_SKIP_FULLRECOVERHP",
+    "label": "Sub Skip Fullrecoverhp",
+    "value": 1201,
+    "group": null
+  },
+  {
+    "id": "SUB_SKIP_ROSARY",
+    "label": "Sub Skip Rosary",
+    "value": 1202,
+    "group": null
+  },
+  {
+    "id": "SUB_SKIP_TIMEFREEZE",
+    "label": "Sub Skip Timefreeze",
+    "value": 1203,
+    "group": null
+  },
+  {
+    "id": "SUB_SKIP_MIGHT",
+    "label": "Sub Skip Might",
+    "value": 1204,
+    "group": null
+  },
+  {
+    "id": "SUB_SKIP_AREA",
+    "label": "Sub Skip Area",
+    "value": 1205,
+    "group": null
+  },
+  {
+    "id": "SUB_SKIP_SPEED",
+    "label": "Sub Skip Speed",
+    "value": 1206,
+    "group": null
+  },
+  {
+    "id": "SUB_SKIP_DURATION",
+    "label": "Sub Skip Duration",
+    "value": 1207,
+    "group": null
+  },
+  {
+    "id": "SUB_SKIP_GROWTH",
+    "label": "Sub Skip Growth",
+    "value": 1208,
+    "group": null
+  },
+  {
+    "id": "SUB_SKIP_LUCK",
+    "label": "Sub Skip Luck",
+    "value": 1209,
+    "group": null
+  },
+  {
+    "id": "SUB_SKIP_GREED",
+    "label": "Sub Skip Greed",
+    "value": 1210,
+    "group": null
+  },
+  {
+    "id": "SUB_SKIP_CURSE",
+    "label": "Sub Skip Curse",
+    "value": 1211,
+    "group": null
+  },
+  {
+    "id": "SUB_ONREVIVE_ROSARY",
+    "label": "Sub Onrevive Rosary",
+    "value": 2000,
+    "group": null
+  },
+  {
+    "id": "SUB_ONREVIVE_VACUUM",
+    "label": "Sub Onrevive Vacuum",
+    "value": 2001,
+    "group": null
+  },
+  {
+    "id": "SUB_ONREVIVE_RAPIDFIRE",
+    "label": "Sub Onrevive Rapidfire",
+    "value": 2002,
+    "group": null
+  },
+  {
+    "id": "SUB_ONREVIVE_TIMEFREEZE",
+    "label": "Sub Onrevive Timefreeze",
+    "value": 2003,
+    "group": null
+  },
+  {
+    "id": "SUB_ONREVIVE_CURSEDOWN",
+    "label": "Sub Onrevive Cursedown",
+    "value": 2004,
+    "group": null
+  },
+  {
+    "id": "SUB_ONREVIVE_TIMESKIP",
+    "label": "Sub Onrevive Timeskip",
+    "value": 2005,
+    "group": null
+  },
+  {
+    "id": "SUB_ONDAMAGED_ARMORUP",
+    "label": "Sub Ondamaged Armorup",
+    "value": 3000,
+    "group": null
+  },
+  {
+    "id": "SUB_ONDAMAGED_RECOVERYUP",
+    "label": "Sub Ondamaged Recoveryup",
+    "value": 3001,
+    "group": null
+  },
+  {
+    "id": "SUB_ONDAMAGED_ADDCOINS",
+    "label": "Sub Ondamaged Addcoins",
+    "value": 3002,
+    "group": null
+  },
+  {
+    "id": "SUB_ONDAMAGED_GROUNDHIT",
+    "label": "Sub Ondamaged Groundhit",
+    "value": 3003,
+    "group": null
+  },
+  {
+    "id": "SUB_PASSIVE_CRITICALUP",
+    "label": "Sub Passive Criticalup",
+    "value": 4000,
+    "group": null
+  },
+  {
+    "id": "SUB_PASSIVE_GUARDIANAURA",
+    "label": "Sub Passive Guardianaura",
+    "value": 4001,
+    "group": null
+  },
+  {
+    "id": "SUB_PASSIVE_DEFANGUP",
+    "label": "Sub Passive Defangup",
+    "value": 4002,
+    "group": null
+  },
+  {
+    "id": "SUB_PASSIVE_CHARMUP",
+    "label": "Sub Passive Charmup",
+    "value": 4003,
+    "group": null
+  },
+  {
+    "id": "SUB_PASSIVE_DISABLE",
+    "label": "Sub Passive Disable",
+    "value": 4004,
+    "group": null
+  },
+  {
+    "id": "SUB_ENEMIESCOUNT_ADDREVIVES",
+    "label": "Sub Enemiescount Addrevives",
+    "value": 5000,
+    "group": null
+  },
+  {
+    "id": "SUB_ENEMIESCOUNT_ADDAMOUNT",
+    "label": "Sub Enemiescount Addamount",
+    "value": 5001,
+    "group": null
+  },
+  {
+    "id": "SUB_ENEMIESCOUNT_ADDARMOR",
+    "label": "Sub Enemiescount Addarmor",
+    "value": 5002,
+    "group": null
+  },
+  {
+    "id": "SUB_ENEMIESCOUNT_ADDCOINS",
+    "label": "Sub Enemiescount Addcoins",
+    "value": 5003,
+    "group": null
+  },
+  {
+    "id": "SUB_ENEMIESCOUNT_GOLDFEVER",
+    "label": "Sub Enemiescount Goldfever",
+    "value": 5004,
+    "group": null
+  },
+  {
+    "id": "SUB_HPCRITICAL_RECOVERHP",
+    "label": "Sub Hpcritical Recoverhp",
+    "value": 6000,
+    "group": null
+  },
+  {
+    "id": "SUB_HPCRITICAL_FIREBREATH",
+    "label": "Sub Hpcritical Firebreath",
+    "value": 6001,
+    "group": null
+  },
+  {
+    "id": "SUB_HPCRITICAL_MAXARMOR",
+    "label": "Sub Hpcritical Maxarmor",
+    "value": 6002,
+    "group": null
+  },
+  {
+    "id": "SUB_HPCRITICAL_ICEBREATH",
+    "label": "Sub Hpcritical Icebreath",
+    "value": 6003,
+    "group": null
+  },
+  {
+    "id": "SUB_HPCRITICAL_ROSARY",
+    "label": "Sub Hpcritical Rosary",
+    "value": 6004,
+    "group": null
+  },
+  {
+    "id": "SUB_HPCRITICAL_TIMEFREEZE",
+    "label": "Sub Hpcritical Timefreeze",
+    "value": 6005,
+    "group": null
+  },
+  {
+    "id": "SUB_HPCRITICAL_VACUUM",
+    "label": "Sub Hpcritical Vacuum",
+    "value": 6006,
+    "group": null
+  },
+  {
+    "id": "SUB_OVERHEAL_ICEBREATH",
+    "label": "Sub Overheal Icebreath",
+    "value": 7000,
+    "group": null
+  },
+  {
+    "id": "SUB_OVERHEAL_MIGHTUP",
+    "label": "Sub Overheal Mightup",
+    "value": 7001,
+    "group": null
+  },
+  {
+    "id": "SUB_OVERHEAL_FEVERUP",
+    "label": "Sub Overheal Feverup",
+    "value": 7002,
+    "group": null
+  },
+  {
+    "id": "SUB_OVERHEAL_REROLLUP",
+    "label": "Sub Overheal Rerollup",
+    "value": 7003,
+    "group": null
+  },
+  {
+    "id": "SUB_OVERHEAL_FIREBREATH",
+    "label": "Sub Overheal Firebreath",
+    "value": 7004,
+    "group": null
+  },
+  {
+    "id": "SUB_OVERHEAL_TRIGGERWEAPON",
+    "label": "Sub Overheal Triggerweapon",
+    "value": 7005,
+    "group": null
+  },
+  {
+    "id": "SUB_GOLDCOUNT_LIGHTSOURCES",
+    "label": "Sub Goldcount Lightsources",
+    "value": 8000,
+    "group": null
+  },
+  {
+    "id": "SUB_GOLDCOUNT_THORNSUP",
+    "label": "Sub Goldcount Thornsup",
+    "value": 8001,
+    "group": null
+  },
+  {
+    "id": "SUB_GOLCOUNT_ADDREVIVES",
+    "label": "Sub Golcount Addrevives",
+    "value": 8002,
+    "group": null
+  },
+  {
+    "id": "SUB_GOLDCOUNT_ADDPASSIVESLOTS",
+    "label": "Sub Goldcount Addpassiveslots",
+    "value": 8003,
+    "group": null
+  },
+  {
+    "id": "SUB_FAMILIAR_BROWNIE",
+    "label": "Sub Familiar Brownie",
+    "value": 9000,
+    "group": null
+  },
+  {
+    "id": "SUB_ONLASTBREATH_ROSARY",
+    "label": "Sub Onlastbreath Rosary",
+    "value": 10000,
+    "group": null
+  }
+]

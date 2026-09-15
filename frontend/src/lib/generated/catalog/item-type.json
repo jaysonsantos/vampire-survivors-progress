@@ -1,0 +1,920 @@
+[
+  {
+    "id": "WHIP",
+    "label": "Whip",
+    "value": 1,
+    "group": null
+  },
+  {
+    "id": "COIN",
+    "label": "Coin",
+    "value": 2,
+    "group": null
+  },
+  {
+    "id": "COINBAG1",
+    "label": "Coinbag 1",
+    "value": 3,
+    "group": null
+  },
+  {
+    "id": "COINBAG2",
+    "label": "Coinbag 2",
+    "value": 4,
+    "group": null
+  },
+  {
+    "id": "COINBAGMAX",
+    "label": "Coinbagmax",
+    "value": 5,
+    "group": null
+  },
+  {
+    "id": "GEM",
+    "label": "Gem",
+    "value": 6,
+    "group": null
+  },
+  {
+    "id": "CLOVER",
+    "label": "Clover",
+    "value": 7,
+    "group": null
+  },
+  {
+    "id": "TREASURE",
+    "label": "Treasure",
+    "value": 8,
+    "group": null
+  },
+  {
+    "id": "ROSARY",
+    "label": "Rosary",
+    "value": 9,
+    "group": null
+  },
+  {
+    "id": "VACUUM",
+    "label": "Vacuum",
+    "value": 10,
+    "group": null
+  },
+  {
+    "id": "OROLOGION",
+    "label": "Orologion",
+    "value": 11,
+    "group": null
+  },
+  {
+    "id": "ROAST",
+    "label": "Roast",
+    "value": 12,
+    "group": null
+  },
+  {
+    "id": "WEAPON",
+    "label": "Weapon",
+    "value": 13,
+    "group": null
+  },
+  {
+    "id": "STATS_TREASURE_1",
+    "label": "Stats Treasure 1",
+    "value": 14,
+    "group": null
+  },
+  {
+    "id": "STATS_TREASURE_2",
+    "label": "Stats Treasure 2",
+    "value": 15,
+    "group": null
+  },
+  {
+    "id": "STATS_TREASURE_3",
+    "label": "Stats Treasure 3",
+    "value": 16,
+    "group": null
+  },
+  {
+    "id": "NFT",
+    "label": "Nft",
+    "value": 17,
+    "group": null
+  },
+  {
+    "id": "LITTLEHEART",
+    "label": "Littleheart",
+    "value": 18,
+    "group": null
+  },
+  {
+    "id": "RELIC",
+    "label": "Relic",
+    "value": 19,
+    "group": null
+  },
+  {
+    "id": "RELIC_MAP",
+    "label": "Relic Map",
+    "value": 20,
+    "group": null
+  },
+  {
+    "id": "COFFIN",
+    "label": "Coffin",
+    "value": 21,
+    "group": null
+  },
+  {
+    "id": "RELIC_BANGER",
+    "label": "Relic Banger",
+    "value": 22,
+    "group": null
+  },
+  {
+    "id": "RELIC_TEAR",
+    "label": "Relic Tear",
+    "value": 23,
+    "group": null
+  },
+  {
+    "id": "RELIC_RANDOMAZZO",
+    "label": "Relic Randomazzo",
+    "value": 24,
+    "group": null
+  },
+  {
+    "id": "MOONGATE",
+    "label": "Moongate",
+    "value": 25,
+    "group": null
+  },
+  {
+    "id": "RELIC_GLASSMASK",
+    "label": "Relic Glassmask",
+    "value": 26,
+    "group": null
+  },
+  {
+    "id": "RELIC_GOLDENEGG",
+    "label": "Relic Goldenegg",
+    "value": 27,
+    "group": null
+  },
+  {
+    "id": "RELIC_YELLOW",
+    "label": "Relic Yellow",
+    "value": 28,
+    "group": null
+  },
+  {
+    "id": "MERCHANT",
+    "label": "Merchant",
+    "value": 29,
+    "group": null
+  },
+  {
+    "id": "ROSARYX",
+    "label": "Rosaryx",
+    "value": 30,
+    "group": null
+  },
+  {
+    "id": "DUMMY_LIGHTSOURCE",
+    "label": "Dummy Lightsource",
+    "value": 31,
+    "group": null
+  },
+  {
+    "id": "DUMMY_BANISH",
+    "label": "Dummy Banish",
+    "value": 32,
+    "group": null
+  },
+  {
+    "id": "DUMMY_SKIP",
+    "label": "Dummy Skip",
+    "value": 33,
+    "group": null
+  },
+  {
+    "id": "DUMMY_REROLL",
+    "label": "Dummy Reroll",
+    "value": 34,
+    "group": null
+  },
+  {
+    "id": "RELIC_NOSEGLASSES",
+    "label": "Relic Noseglasses",
+    "value": 35,
+    "group": null
+  },
+  {
+    "id": "RELIC_GRIMOIRE",
+    "label": "Relic Grimoire",
+    "value": 36,
+    "group": null
+  },
+  {
+    "id": "RELIC_SECRETS",
+    "label": "Relic Secrets",
+    "value": 37,
+    "group": null
+  },
+  {
+    "id": "RELIC_GOUDA",
+    "label": "Relic Gouda",
+    "value": 38,
+    "group": null
+  },
+  {
+    "id": "RELIC_GGOSPEL",
+    "label": "Relic Ggospel",
+    "value": 39,
+    "group": null
+  },
+  {
+    "id": "GILDED",
+    "label": "Gilded",
+    "value": 40,
+    "group": null
+  },
+  {
+    "id": "ALWAYS_COINBAG2",
+    "label": "Always Coinbag 2",
+    "value": 41,
+    "group": null
+  },
+  {
+    "id": "ALWAYS_ROAST",
+    "label": "Always Roast",
+    "value": 42,
+    "group": null
+  },
+  {
+    "id": "HEALER",
+    "label": "Healer",
+    "value": 43,
+    "group": null
+  },
+  {
+    "id": "PURIFY",
+    "label": "Purify",
+    "value": 44,
+    "group": null
+  },
+  {
+    "id": "COSMO_PAVONE",
+    "label": "Cosmo Pavone",
+    "value": 45,
+    "group": null
+  },
+  {
+    "id": "COFFINX",
+    "label": "Coffinx",
+    "value": 46,
+    "group": null
+  },
+  {
+    "id": "COFFIN_EMPTY",
+    "label": "Coffin Empty",
+    "value": 47,
+    "group": null
+  },
+  {
+    "id": "DIRECTER",
+    "label": "Directer",
+    "value": 48,
+    "group": null
+  },
+  {
+    "id": "DUMMY_ARC",
+    "label": "Dummy Arc",
+    "value": 49,
+    "group": null
+  },
+  {
+    "id": "RELIC_MIRROR",
+    "label": "Relic Mirror",
+    "value": 50,
+    "group": null
+  },
+  {
+    "id": "RELIC_TRUMPET",
+    "label": "Relic Trumpet",
+    "value": 51,
+    "group": null
+  },
+  {
+    "id": "DUMMY_REVIVAL",
+    "label": "Dummy Revival",
+    "value": 52,
+    "group": null
+  },
+  {
+    "id": "PURIFY2",
+    "label": "Purify 2",
+    "value": 53,
+    "group": null
+  },
+  {
+    "id": "EGGMAN",
+    "label": "Eggman",
+    "value": 54,
+    "group": null
+  },
+  {
+    "id": "DUMMY_GOLDENEGG_MAX",
+    "label": "Dummy Goldenegg Max",
+    "value": 55,
+    "group": null
+  },
+  {
+    "id": "RELIC_MALACHITE",
+    "label": "Relic Malachite",
+    "value": 56,
+    "group": null
+  },
+  {
+    "id": "RELIC_CHARM",
+    "label": "Relic Charm",
+    "value": 57,
+    "group": null
+  },
+  {
+    "id": "RELIC_MAP_FS",
+    "label": "Relic Map Fs",
+    "value": 58,
+    "group": null
+  },
+  {
+    "id": "RELIC_MAP_MS",
+    "label": "Relic Map Ms",
+    "value": 59,
+    "group": null
+  },
+  {
+    "id": "GOLDFINGER",
+    "label": "Goldfinger",
+    "value": 60,
+    "group": null
+  },
+  {
+    "id": "TELEPORTER",
+    "label": "Teleporter",
+    "value": 61,
+    "group": null
+  },
+  {
+    "id": "RELIC_ROSALIA",
+    "label": "Relic Rosalia",
+    "value": 62,
+    "group": null
+  },
+  {
+    "id": "RELIC_TRISECTION",
+    "label": "Relic Trisection",
+    "value": 63,
+    "group": null
+  },
+  {
+    "id": "RELIC_MAP_AS",
+    "label": "Relic Map As",
+    "value": 64,
+    "group": null
+  },
+  {
+    "id": "FRIENDSHIP",
+    "label": "Friendship",
+    "value": 65,
+    "group": null
+  },
+  {
+    "id": "RELIC_LAZULIA",
+    "label": "Relic Lazulia",
+    "value": 66,
+    "group": null
+  },
+  {
+    "id": "RELIC_ALTEMANNA",
+    "label": "Relic Altemanna",
+    "value": 67,
+    "group": null
+  },
+  {
+    "id": "RELIC_CHAOSEGG",
+    "label": "Relic Chaosegg",
+    "value": 68,
+    "group": null
+  },
+  {
+    "id": "RELIC_ANTIDOTE",
+    "label": "Relic Antidote",
+    "value": 69,
+    "group": null
+  },
+  {
+    "id": "ADVENTURE_MERCHANT",
+    "label": "Adventure Merchant",
+    "value": 70,
+    "group": null
+  },
+  {
+    "id": "RELIC_ATLAS",
+    "label": "Relic Atlas",
+    "value": 71,
+    "group": null
+  },
+  {
+    "id": "RELIC_SPEEDUP",
+    "label": "Relic Speedup",
+    "value": 72,
+    "group": null
+  },
+  {
+    "id": "RELIC_BRAVESTORY",
+    "label": "Relic Bravestory",
+    "value": 73,
+    "group": null
+  },
+  {
+    "id": "RELIC_MAP_CHAL",
+    "label": "Relic Map Chal",
+    "value": 74,
+    "group": null
+  },
+  {
+    "id": "RELIC_DARKASSO",
+    "label": "Relic Darkasso",
+    "value": 75,
+    "group": null
+  },
+  {
+    "id": "CART_ACCEL",
+    "label": "Cart Accel",
+    "value": 76,
+    "group": null
+  },
+  {
+    "id": "CART_GOAL",
+    "label": "Cart Goal",
+    "value": 77,
+    "group": null
+  },
+  {
+    "id": "STATS_TREASURE_4",
+    "label": "Stats Treasure 4",
+    "value": 78,
+    "group": null
+  },
+  {
+    "id": "STATS_TREASURE_5",
+    "label": "Stats Treasure 5",
+    "value": 79,
+    "group": null
+  },
+  {
+    "id": "CUSTOM_MERCHANT",
+    "label": "Custom Merchant",
+    "value": 80,
+    "group": null
+  },
+  {
+    "id": "SORBETTO",
+    "label": "Sorbetto",
+    "value": 81,
+    "group": null
+  },
+  {
+    "id": "STATIC_GOLDPILE",
+    "label": "Static Goldpile",
+    "value": 82,
+    "group": null
+  },
+  {
+    "id": "RELIC_PARTY",
+    "label": "Relic Party",
+    "value": 83,
+    "group": null
+  },
+  {
+    "id": "EX_ZI_APPUNTA_PICKUP",
+    "label": "Ex Zi Appunta Pickup",
+    "value": 84,
+    "group": null
+  },
+  {
+    "id": "PICKUP_REROLL_DICE",
+    "label": "Pickup Reroll Dice",
+    "value": 85,
+    "group": null
+  },
+  {
+    "id": "RELIC_RECYCLE",
+    "label": "Relic Recycle",
+    "value": 86,
+    "group": null
+  },
+  {
+    "id": "STATS_TREASURE_WEAPONS",
+    "label": "Stats Treasure Weapons",
+    "value": 87,
+    "group": null
+  },
+  {
+    "id": "STATS_TREASURE_EVOS",
+    "label": "Stats Treasure Evos",
+    "value": 88,
+    "group": null
+  },
+  {
+    "id": "RELIC_SURVAROCCHI",
+    "label": "Relic Survarocchi",
+    "value": 89,
+    "group": null
+  },
+  {
+    "id": "SV_DRAFT1",
+    "label": "Sv Draft 1",
+    "value": 90,
+    "group": null
+  },
+  {
+    "id": "SV_DRAFT2",
+    "label": "Sv Draft 2",
+    "value": 91,
+    "group": null
+  },
+  {
+    "id": "SV_DRAFT3",
+    "label": "Sv Draft 3",
+    "value": 92,
+    "group": null
+  },
+  {
+    "id": "RELIC_SV_ANTIPASTIVES",
+    "label": "Relic Sv Antipastives",
+    "value": 93,
+    "group": null
+  },
+  {
+    "id": "RELIC_GREENEYES",
+    "label": "Relic Greeneyes",
+    "value": 94,
+    "group": null
+  },
+  {
+    "id": "COFFIN_LYCA",
+    "label": "Coffin Lyca",
+    "value": 95,
+    "group": null
+  },
+  {
+    "id": "RELIC_EME_DISK",
+    "label": "Relic Eme Disk",
+    "value": 100,
+    "group": null
+  },
+  {
+    "id": "EME_CATY",
+    "label": "Eme Caty",
+    "value": 101,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_CATB",
+    "label": "Eme Catb",
+    "value": 102,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_CATU",
+    "label": "Eme Catu",
+    "value": 103,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_CATW",
+    "label": "Eme Catw",
+    "value": 104,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_CATR",
+    "label": "Eme Catr",
+    "value": 105,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_CAT_RAINBOW",
+    "label": "Eme Cat Rainbow",
+    "value": 106,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_TELEPORTER",
+    "label": "Eme Teleporter",
+    "value": 107,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "FB_RAPIDFIRE",
+    "label": "Fb Rapidfire",
+    "value": 200,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_BARRIER",
+    "label": "Fb Barrier",
+    "value": 201,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_GRENADE",
+    "label": "Fb Grenade",
+    "value": 202,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "RELIC_MAP_FB",
+    "label": "Relic Map Fb",
+    "value": 203,
+    "group": null
+  },
+  {
+    "id": "BONUS_FROZENSOUL",
+    "label": "Bonus Frozensoul",
+    "value": 204,
+    "group": null
+  },
+  {
+    "id": "TP_HEART_REFRESH",
+    "label": "Tp Heart Refresh",
+    "value": 205,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_WALL_CHICKEN",
+    "label": "Tp Wall Chicken",
+    "value": 206,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_NEUTRON_BOMB",
+    "label": "Tp Neutron Bomb",
+    "value": 207,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_KARMA_COIN",
+    "label": "Tp Karma Coin",
+    "value": 208,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_MIRROR_OF_TRUTH",
+    "label": "Tp Mirror Of Truth",
+    "value": 209,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SOULSTEAL_LITTLEHEART",
+    "label": "Tp Soulsteal Littleheart",
+    "value": 210,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_RELIC_PILEOFSECRETS",
+    "label": "Tp Relic Pileofsecrets",
+    "value": 211,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_RELIC_MASK_SUN",
+    "label": "Tp Relic Mask Sun",
+    "value": 212,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_RELIC_MASK_MOON",
+    "label": "Tp Relic Mask Moon",
+    "value": 213,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_RELIC_MASK_CITY",
+    "label": "Tp Relic Mask City",
+    "value": 214,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_RELIC_MASK_VOLCANO",
+    "label": "Tp Relic Mask Volcano",
+    "value": 215,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_RELIC_MASK_SEAWINDS",
+    "label": "Tp Relic Mask Seawinds",
+    "value": 216,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_RELIC_MASK_STONE",
+    "label": "Tp Relic Mask Stone",
+    "value": 217,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_RELIC_MASK_BLACK",
+    "label": "Tp Relic Mask Black",
+    "value": 218,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_RELIC_BLACK_DISK",
+    "label": "Tp Relic Black Disk",
+    "value": 219,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_RELIC_TELEPORT1",
+    "label": "Tp Relic Teleport 1",
+    "value": 220,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_RELIC_TELEPORT2",
+    "label": "Tp Relic Teleport 2",
+    "value": 221,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_RELIC_TELEPORT3",
+    "label": "Tp Relic Teleport 3",
+    "value": 222,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_RELIC_TELEPORT4",
+    "label": "Tp Relic Teleport 4",
+    "value": 223,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_RELIC_TELEPORT5",
+    "label": "Tp Relic Teleport 5",
+    "value": 224,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_RELIC_TELEPORT6",
+    "label": "Tp Relic Teleport 6",
+    "value": 225,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_RELIC_LIBRARIAN",
+    "label": "Tp Relic Librarian",
+    "value": 226,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_RELIC_CASTLEMAP",
+    "label": "Tp Relic Castlemap",
+    "value": 227,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_MERCHANT_LIBRARIAN",
+    "label": "Tp Merchant Librarian",
+    "value": 228,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_CYCLEGATE",
+    "label": "Tp Cyclegate",
+    "value": 229,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_RELIC_STONES",
+    "label": "Tp Relic Stones",
+    "value": 230,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "RELIC_MASK_FATE",
+    "label": "Relic Mask Fate",
+    "value": 231,
+    "group": null
+  },
+  {
+    "id": "RELIC_MASK_WRATH",
+    "label": "Relic Mask Wrath",
+    "value": 232,
+    "group": null
+  },
+  {
+    "id": "RELIC_MASK_SOVEREIGN",
+    "label": "Relic Mask Sovereign",
+    "value": 233,
+    "group": null
+  },
+  {
+    "id": "RELIC_MASK_IMPLACABILITY",
+    "label": "Relic Mask Implacability",
+    "value": 234,
+    "group": null
+  },
+  {
+    "id": "RELIC_MASK_MIRTH",
+    "label": "Relic Mask Mirth",
+    "value": 235,
+    "group": null
+  },
+  {
+    "id": "BONUS_CURSEDSOUL",
+    "label": "Bonus Cursedsoul",
+    "value": 236,
+    "group": null
+  },
+  {
+    "id": "BONUS_SCORCHEDSOUL",
+    "label": "Bonus Scorchedsoul",
+    "value": 237,
+    "group": null
+  },
+  {
+    "id": "TAG_FIRE",
+    "label": "Tag Fire",
+    "value": 238,
+    "group": null
+  },
+  {
+    "id": "TAG_COLD",
+    "label": "Tag Cold",
+    "value": 239,
+    "group": null
+  },
+  {
+    "id": "TAG_CRIT",
+    "label": "Tag Crit",
+    "value": 240,
+    "group": null
+  },
+  {
+    "id": "TP_ENEMYSOUL",
+    "label": "Tp Enemysoul",
+    "value": 241,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "CARD_B001_ANTONIO",
+    "label": "Card B 001 Antonio",
+    "value": 300,
+    "group": null
+  },
+  {
+    "id": "CARD_B002_IMELDA",
+    "label": "Card B 002 Imelda",
+    "value": 301,
+    "group": null
+  },
+  {
+    "id": "CARD_B003_PASQUALINA",
+    "label": "Card B 003 Pasqualina",
+    "value": 302,
+    "group": null
+  },
+  {
+    "id": "CARD_B004_GENNARO",
+    "label": "Card B 004 Gennaro",
+    "value": 303,
+    "group": null
+  },
+  {
+    "id": "RELIC_LEM_DISK",
+    "label": "Relic Lem Disk",
+    "value": 400,
+    "group": null
+  },
+  {
+    "id": "TEXT_PICKUP",
+    "label": "Text Pickup",
+    "value": 401,
+    "group": null
+  },
+  {
+    "id": "BMN_BLOODGEM",
+    "label": "Bmn Bloodgem",
+    "value": 500,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "RELIC_MAP_BMN",
+    "label": "Relic Map Bmn",
+    "value": 501,
+    "group": null
+  }
+]

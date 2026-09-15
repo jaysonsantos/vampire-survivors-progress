@@ -1,0 +1,668 @@
+[
+  {
+    "id": "FOREST",
+    "label": "Forest",
+    "value": 0,
+    "group": null
+  },
+  {
+    "id": "SINKING",
+    "label": "Sinking",
+    "value": 1,
+    "group": null
+  },
+  {
+    "id": "ENTRANCE",
+    "label": "Entrance",
+    "value": 2,
+    "group": null
+  },
+  {
+    "id": "LIBRARY",
+    "label": "Library",
+    "value": 3,
+    "group": null
+  },
+  {
+    "id": "CASTLE",
+    "label": "Castle",
+    "value": 6,
+    "group": null
+  },
+  {
+    "id": "GREENACRES",
+    "label": "Green Acres",
+    "value": 7,
+    "group": null
+  },
+  {
+    "id": "WAREHOUSE",
+    "label": "Warehouse",
+    "value": 8,
+    "group": null
+  },
+  {
+    "id": "MOLISE",
+    "label": "Molise",
+    "value": 9,
+    "group": null
+  },
+  {
+    "id": "TOWER",
+    "label": "Tower",
+    "value": 10,
+    "group": null
+  },
+  {
+    "id": "BONEZONE",
+    "label": "Bone Zone",
+    "value": 11,
+    "group": null
+  },
+  {
+    "id": "STAGEX",
+    "label": "Eudaimonia Machine",
+    "value": 12,
+    "group": null
+  },
+  {
+    "id": "CHAPEL",
+    "label": "Chapel",
+    "value": 13,
+    "group": null
+  },
+  {
+    "id": "RASH",
+    "label": "Rash",
+    "value": 14,
+    "group": null
+  },
+  {
+    "id": "MACHINE",
+    "label": "Machine",
+    "value": 15,
+    "group": null
+  },
+  {
+    "id": "MACHINE2",
+    "label": "Machine 2",
+    "value": 16,
+    "group": null
+  },
+  {
+    "id": "TOWERBRIDGE",
+    "label": "Tower Bridge",
+    "value": 17,
+    "group": null
+  },
+  {
+    "id": "MOONSPELL",
+    "label": "Moonspell",
+    "value": 20,
+    "group": null
+  },
+  {
+    "id": "BATCOUNTRY",
+    "label": "Bat Country",
+    "value": 21,
+    "group": null
+  },
+  {
+    "id": "ASTRALSTAIR",
+    "label": "Astral Stair",
+    "value": 22,
+    "group": null
+  },
+  {
+    "id": "FOSCARI",
+    "label": "Foscari",
+    "value": 23,
+    "group": null
+  },
+  {
+    "id": "FOSCARI2",
+    "label": "Foscari 2",
+    "value": 24,
+    "group": null
+  },
+  {
+    "id": "WHITEOUT",
+    "label": "Whiteout",
+    "value": 25,
+    "group": null
+  },
+  {
+    "id": "POLUS",
+    "label": "Polus",
+    "value": 26,
+    "group": null
+  },
+  {
+    "id": "SPAZIE",
+    "label": "Spazie",
+    "value": 27,
+    "group": null
+  },
+  {
+    "id": "FB_GALUGA",
+    "label": "Fb Galuga",
+    "value": 28,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_HIGHWAY",
+    "label": "Fb Highway",
+    "value": 29,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "DEVILROOM",
+    "label": "Room 1665",
+    "value": 30,
+    "group": null
+  },
+  {
+    "id": "LABORRATORY",
+    "label": "Laborratory",
+    "value": 31,
+    "group": null
+  },
+  {
+    "id": "COOP",
+    "label": "Coop",
+    "value": 32,
+    "group": null
+  },
+  {
+    "id": "CARLOCART",
+    "label": "Carlo Cart",
+    "value": 33,
+    "group": null
+  },
+  {
+    "id": "EMERALD",
+    "label": "Emerald",
+    "value": 38,
+    "group": null
+  },
+  {
+    "id": "EX_WESTWOODS",
+    "label": "Westwoods",
+    "value": 39,
+    "group": null
+  },
+  {
+    "id": "EX_MAZERELLA",
+    "label": "Mazerella",
+    "value": 40,
+    "group": null
+  },
+  {
+    "id": "LEM_CHAMBER",
+    "label": "Lem Chamber",
+    "value": 41,
+    "group": "Balatro"
+  },
+  {
+    "id": "EX_LYCAEUM",
+    "label": "Lycaeum",
+    "value": 42,
+    "group": null
+  },
+  {
+    "id": "ADV_BAZAAR",
+    "label": "Adv Bazaar",
+    "value": 1000,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_M001CASTLEGROUNDS",
+    "label": "Adv M 001castlegrounds",
+    "value": 1001,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_M002SHRINESVALLEY",
+    "label": "Adv M 002shrinesvalley",
+    "value": 1002,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_M003FORBIDDENPEAK",
+    "label": "Adv M 003forbiddenpeak",
+    "value": 1003,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_M004HIDDENCAVE",
+    "label": "Adv M 004hiddencave",
+    "value": 1004,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_M005FROZENLAKE",
+    "label": "Adv M 005frozenlake",
+    "value": 1005,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_M006TANUKIFOREST",
+    "label": "Adv M 006tanukiforest",
+    "value": 1006,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_M007MOONSPELL",
+    "label": "Adv M 007moonspell",
+    "value": 1007,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_0001TEST",
+    "label": "Adv 0001test",
+    "value": 1010,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_POE_1_Acres",
+    "label": "ADV_POE_1_Acres",
+    "value": 1011,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_POE_2_Forest",
+    "label": "ADV_POE_2_Forest",
+    "value": 1012,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_POE_3_Woods",
+    "label": "ADV_POE_3_Woods",
+    "value": 1013,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_POE_4_Orchard",
+    "label": "ADV_POE_4_Orchard",
+    "value": 1014,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_POE_5_Garden",
+    "label": "ADV_POE_5_Garden",
+    "value": 1015,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_POE_6_Molise",
+    "label": "ADV_POE_6_Molise",
+    "value": 1016,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_IME_1_Chapel",
+    "label": "ADV_IME_1_Chapel",
+    "value": 1021,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_IME_2_Library",
+    "label": "ADV_IME_2_Library",
+    "value": 1022,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_IME_3_Forest",
+    "label": "ADV_IME_3_Forest",
+    "value": 1023,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_IME_4_Tower",
+    "label": "ADV_IME_4_Tower",
+    "value": 1024,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_IME_5_Stair",
+    "label": "ADV_IME_5_Stair",
+    "value": 1025,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_IME_6_Magna",
+    "label": "ADV_IME_6_Magna",
+    "value": 1026,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_CHAL_001_Meeting",
+    "label": "ADV_CHAL_001_Meeting",
+    "value": 1031,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_CHAL_002_Security",
+    "label": "ADV_CHAL_002_Security",
+    "value": 1032,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_CHAL_003_Ejected",
+    "label": "ADV_CHAL_003_Ejected",
+    "value": 1033,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_CHAL_004_Ghosted",
+    "label": "ADV_CHAL_004_Ghosted",
+    "value": 1034,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_CHAL_005_Science",
+    "label": "ADV_CHAL_005_Science",
+    "value": 1035,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_CHAL_006_Trouble",
+    "label": "ADV_CHAL_006_Trouble",
+    "value": 1036,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_FB_001_Attack",
+    "label": "ADV_FB_001_Attack",
+    "value": 1041,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_FB_002_Bullet",
+    "label": "ADV_FB_002_Bullet",
+    "value": 1042,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_FB_003_NeoCity",
+    "label": "ADV_FB_003_Neo City",
+    "value": 1043,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_FB_004_OperationGun",
+    "label": "ADV_FB_004_Operation Gun",
+    "value": 1044,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_FB_005_RunAndGun",
+    "label": "ADV_FB_005_Run And Gun",
+    "value": 1045,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_FB_006_Alien",
+    "label": "ADV_FB_006_Alien",
+    "value": 1046,
+    "group": "Adventures"
+  },
+  {
+    "id": "TP_CHAPEL",
+    "label": "Tp Chapel",
+    "value": 1047,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_CASTLE",
+    "label": "Tp Castle",
+    "value": 1048,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "ADV_EME_001",
+    "label": "Adv Eme 001",
+    "value": 1050,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_EME_002",
+    "label": "Adv Eme 002",
+    "value": 1051,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_SHEMOON_001",
+    "label": "Adv Shemoon 001",
+    "value": 1052,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_SHEMOON_002",
+    "label": "Adv Shemoon 002",
+    "value": 1053,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_SHEMOON_003",
+    "label": "Adv Shemoon 003",
+    "value": 1054,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_SHEMOON_004",
+    "label": "Adv Shemoon 004",
+    "value": 1055,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_SHEMOON_005",
+    "label": "Adv Shemoon 005",
+    "value": 1056,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_SHEMOON_006",
+    "label": "Adv Shemoon 006",
+    "value": 1057,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_FOSCARI_001",
+    "label": "Adv Foscari 001",
+    "value": 1058,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_FOSCARI_002",
+    "label": "Adv Foscari 002",
+    "value": 1059,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_FOSCARI_003",
+    "label": "Adv Foscari 003",
+    "value": 1060,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_FOSCARI_004",
+    "label": "Adv Foscari 004",
+    "value": 1061,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_FOSCARI_005",
+    "label": "Adv Foscari 005",
+    "value": 1062,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_FOSCARI_006",
+    "label": "Adv Foscari 006",
+    "value": 1063,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_FOSCARI_007",
+    "label": "Adv Foscari 007",
+    "value": 1064,
+    "group": "Adventures"
+  },
+  {
+    "id": "POE_ADV_BAZAAR",
+    "label": "Poe Adv Bazaar",
+    "value": 1065,
+    "group": null
+  },
+  {
+    "id": "IMELDA_ADV_BAZAAR",
+    "label": "Imelda Adv Bazaar",
+    "value": 1066,
+    "group": null
+  },
+  {
+    "id": "SHEMOON_ADV_BAZAAR",
+    "label": "Shemoon Adv Bazaar",
+    "value": 1067,
+    "group": null
+  },
+  {
+    "id": "ADV_M001_ADV_BAZAAR",
+    "label": "Adv M 001 Adv Bazaar",
+    "value": 1068,
+    "group": "Adventures"
+  },
+  {
+    "id": "CHALCEDONY_ADV_BAZAAR",
+    "label": "Chalcedony Adv Bazaar",
+    "value": 1069,
+    "group": null
+  },
+  {
+    "id": "FIRSTBLOOD_ADV_BAZAAR",
+    "label": "Firstblood Adv Bazaar",
+    "value": 1070,
+    "group": null
+  },
+  {
+    "id": "FOSCARI_ADV_BAZAAR",
+    "label": "Foscari Adv Bazaar",
+    "value": 1071,
+    "group": null
+  },
+  {
+    "id": "ADV_OTC_001_001_Woods",
+    "label": "ADV_OTC_001_001_Woods",
+    "value": 1080,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_OTC_001_002_Entrance",
+    "label": "ADV_OTC_001_002_Entrance",
+    "value": 1081,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_OTC_001_003_Library",
+    "label": "ADV_OTC_001_003_Library",
+    "value": 1082,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_OTC_001_004_Clock",
+    "label": "ADV_OTC_001_004_Clock",
+    "value": 1083,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_OTC_001_005_Throne",
+    "label": "ADV_OTC_001_005_Throne",
+    "value": 1084,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_OTC_001_006_Sunken",
+    "label": "ADV_OTC_001_006_Sunken",
+    "value": 1085,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_OTC_001_007_Ecclesia",
+    "label": "ADV_OTC_001_007_Ecclesia",
+    "value": 1086,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_OTC_001_008_Infinite",
+    "label": "ADV_OTC_001_008_Infinite",
+    "value": 1087,
+    "group": "Adventures"
+  },
+  {
+    "id": "OTC_ADV_BAZAAR",
+    "label": "Otc Adv Bazaar",
+    "value": 1088,
+    "group": null
+  },
+  {
+    "id": "ADV_OTC_001_009_DeathFight",
+    "label": "ADV_OTC_001_009_Death Fight",
+    "value": 1089,
+    "group": "Adventures"
+  },
+  {
+    "id": "BMN_BLOODMOON",
+    "label": "Bloodmoon",
+    "value": 1800,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "ADV_BMN_001",
+    "label": "Adv Bmn 001",
+    "value": 1801,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_BMN_002",
+    "label": "Adv Bmn 002",
+    "value": 1802,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_BMN_003",
+    "label": "Adv Bmn 003",
+    "value": 1803,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_BMN_004",
+    "label": "Adv Bmn 004",
+    "value": 1804,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_BMN_005",
+    "label": "Adv Bmn 005",
+    "value": 1805,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_BMN_006",
+    "label": "Adv Bmn 006",
+    "value": 1806,
+    "group": "Adventures"
+  },
+  {
+    "id": "ADV_BMN_007",
+    "label": "Adv Bmn 007",
+    "value": 1807,
+    "group": "Adventures"
+  },
+  {
+    "id": "BMN_ADV_BAZAAR",
+    "label": "Bmn Adv Bazaar",
+    "value": 1808,
+    "group": "Bloodmoon"
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "$schema": "https://biomejs.dev/schemas/2.5.13/schema.json",
+  "files": {
+    "includes": [
+      "**",
+      "!node_modules",
+      "!frontend/build",
+      "!.svelte-kit",
+      "!pnpm-lock.yaml",
+      // Generated from the game enums by tools/build-catalog.ts.
+      "!frontend/src/lib/generated"
+    ]
+  },
+  "vcs": { "enabled": true, "clientKind": "git", "useIgnoreFile": true },
+  "formatter": { "enabled": true, "indentStyle": "space", "indentWidth": 2, "lineWidth": 120 },
+  "javascript": { "formatter": { "quoteStyle": "double", "semicolons": "always" } },
+  "html": { "formatter": { "enabled": true, "indentScriptAndStyle": true } },
+  "linter": {
+    "enabled": true,
+    "rules": { "preset": "recommended" }
+  },
+  "assist": { "actions": { "source": { "organizeImports": "on" } } },
+  "overrides": [
+    {
+      // Biome reads only the script block of a Svelte file, so imports and
+      // variables that the markup uses look unused to it.
+      "includes": ["**/*.svelte"],
+      "linter": {
+        "rules": {
+          "correctness": { "noUnusedImports": "off", "noUnusedVariables": "off" },
+          // A rune that the markup writes back to must stay `let`, and Biome
+          // sees no write because it reads only the script block.
+          "style": { "useConst": "off" }
+        }
+      }
+    }
+  ]
+}

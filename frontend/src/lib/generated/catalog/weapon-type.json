@@ -1,0 +1,4106 @@
+[
+  {
+    "id": "MAGIC_MISSILE",
+    "label": "Magic Wand",
+    "value": 1,
+    "group": null
+  },
+  {
+    "id": "HOLY_MISSILE",
+    "label": "Holy Wand",
+    "value": 2,
+    "group": null
+  },
+  {
+    "id": "WHIP",
+    "label": "Whip",
+    "value": 3,
+    "group": null
+  },
+  {
+    "id": "VAMPIRICA",
+    "label": "Bloody Tear",
+    "value": 4,
+    "group": null
+  },
+  {
+    "id": "AXE",
+    "label": "Axe",
+    "value": 5,
+    "group": null
+  },
+  {
+    "id": "SCYTHE",
+    "label": "Death Spiral",
+    "value": 6,
+    "group": null
+  },
+  {
+    "id": "KNIFE",
+    "label": "Knife",
+    "value": 7,
+    "group": null
+  },
+  {
+    "id": "THOUSAND",
+    "label": "Thousand",
+    "value": 8,
+    "group": null
+  },
+  {
+    "id": "HOLYWATER",
+    "label": "Holywater",
+    "value": 9,
+    "group": null
+  },
+  {
+    "id": "BORA",
+    "label": "Bora",
+    "value": 10,
+    "group": null
+  },
+  {
+    "id": "DIAMOND",
+    "label": "Diamond",
+    "value": 11,
+    "group": null
+  },
+  {
+    "id": "FIREBALL",
+    "label": "Fireball",
+    "value": 12,
+    "group": null
+  },
+  {
+    "id": "HELLFIRE",
+    "label": "Hellfire",
+    "value": 13,
+    "group": null
+  },
+  {
+    "id": "HOLYBOOK",
+    "label": "King Bible",
+    "value": 14,
+    "group": null
+  },
+  {
+    "id": "VESPERS",
+    "label": "Vespers",
+    "value": 15,
+    "group": null
+  },
+  {
+    "id": "CROSS",
+    "label": "Cross",
+    "value": 16,
+    "group": null
+  },
+  {
+    "id": "HEAVENSWORD",
+    "label": "Heavensword",
+    "value": 17,
+    "group": null
+  },
+  {
+    "id": "GARLIC",
+    "label": "Garlic",
+    "value": 18,
+    "group": null
+  },
+  {
+    "id": "VORTEX",
+    "label": "Vortex",
+    "value": 19,
+    "group": null
+  },
+  {
+    "id": "LAUREL",
+    "label": "Laurel",
+    "value": 20,
+    "group": null
+  },
+  {
+    "id": "THORNS",
+    "label": "Thorns",
+    "value": 21,
+    "group": null
+  },
+  {
+    "id": "LIGHTNING",
+    "label": "Lightning",
+    "value": 22,
+    "group": null
+  },
+  {
+    "id": "LOOP",
+    "label": "Loop",
+    "value": 23,
+    "group": null
+  },
+  {
+    "id": "PENTAGRAM",
+    "label": "Pentagram",
+    "value": 24,
+    "group": null
+  },
+  {
+    "id": "ROSARY",
+    "label": "Rosary",
+    "value": 25,
+    "group": null
+  },
+  {
+    "id": "SIRE",
+    "label": "Sire",
+    "value": 26,
+    "group": null
+  },
+  {
+    "id": "SILF",
+    "label": "Silf",
+    "value": 27,
+    "group": null
+  },
+  {
+    "id": "SILF2",
+    "label": "Silf 2",
+    "value": 28,
+    "group": null
+  },
+  {
+    "id": "SILF3",
+    "label": "Silf 3",
+    "value": 29,
+    "group": null
+  },
+  {
+    "id": "BONE",
+    "label": "Bone",
+    "value": 30,
+    "group": null
+  },
+  {
+    "id": "LANCET",
+    "label": "Lancet",
+    "value": 31,
+    "group": null
+  },
+  {
+    "id": "SONG",
+    "label": "Song",
+    "value": 32,
+    "group": null
+  },
+  {
+    "id": "MANNAGGIA",
+    "label": "Mannaggia",
+    "value": 33,
+    "group": null
+  },
+  {
+    "id": "CHERRY",
+    "label": "Cherry",
+    "value": 34,
+    "group": null
+  },
+  {
+    "id": "CART",
+    "label": "Cart",
+    "value": 35,
+    "group": null
+  },
+  {
+    "id": "CART2",
+    "label": "Cart 2",
+    "value": 36,
+    "group": null
+  },
+  {
+    "id": "GATTI",
+    "label": "Gatti",
+    "value": 37,
+    "group": null
+  },
+  {
+    "id": "STIGRANGATTI",
+    "label": "Stigrangatti",
+    "value": 38,
+    "group": null
+  },
+  {
+    "id": "GATTI_SCRATCH",
+    "label": "Gatti Scratch",
+    "value": 39,
+    "group": null
+  },
+  {
+    "id": "GATTI_SCUFFLE",
+    "label": "Gatti Scuffle",
+    "value": 40,
+    "group": null
+  },
+  {
+    "id": "FLOWER",
+    "label": "Flower",
+    "value": 41,
+    "group": null
+  },
+  {
+    "id": "GUNS",
+    "label": "Guns",
+    "value": 42,
+    "group": null
+  },
+  {
+    "id": "GUNS2",
+    "label": "Guns 2",
+    "value": 43,
+    "group": null
+  },
+  {
+    "id": "GUNS3",
+    "label": "Guns 3",
+    "value": 44,
+    "group": null
+  },
+  {
+    "id": "TRAPANO",
+    "label": "Trapano",
+    "value": 45,
+    "group": null
+  },
+  {
+    "id": "TRAPANO2",
+    "label": "Trapano 2",
+    "value": 46,
+    "group": null
+  },
+  {
+    "id": "SARABANDE",
+    "label": "Sarabande",
+    "value": 47,
+    "group": null
+  },
+  {
+    "id": "FIREEXPLOSION",
+    "label": "Fireexplosion",
+    "value": 48,
+    "group": null
+  },
+  {
+    "id": "NDUJA",
+    "label": "Nduja",
+    "value": 49,
+    "group": null
+  },
+  {
+    "id": "POWER",
+    "label": "Power",
+    "value": 50,
+    "group": null
+  },
+  {
+    "id": "AREA",
+    "label": "Area",
+    "value": 51,
+    "group": null
+  },
+  {
+    "id": "SPEED",
+    "label": "Speed",
+    "value": 52,
+    "group": null
+  },
+  {
+    "id": "COOLDOWN",
+    "label": "Cooldown",
+    "value": 53,
+    "group": null
+  },
+  {
+    "id": "DURATION",
+    "label": "Duration",
+    "value": 54,
+    "group": null
+  },
+  {
+    "id": "AMOUNT",
+    "label": "Amount",
+    "value": 55,
+    "group": null
+  },
+  {
+    "id": "MAXHEALTH",
+    "label": "Maxhealth",
+    "value": 56,
+    "group": null
+  },
+  {
+    "id": "ARMOR",
+    "label": "Armor",
+    "value": 57,
+    "group": null
+  },
+  {
+    "id": "MOVESPEED",
+    "label": "Movespeed",
+    "value": 58,
+    "group": null
+  },
+  {
+    "id": "MAGNET",
+    "label": "Magnet",
+    "value": 59,
+    "group": null
+  },
+  {
+    "id": "GROWTH",
+    "label": "Growth",
+    "value": 60,
+    "group": null
+  },
+  {
+    "id": "LUCK",
+    "label": "Luck",
+    "value": 61,
+    "group": null
+  },
+  {
+    "id": "GREED",
+    "label": "Greed",
+    "value": 62,
+    "group": null
+  },
+  {
+    "id": "REVIVAL",
+    "label": "Revival",
+    "value": 63,
+    "group": null
+  },
+  {
+    "id": "SHIELD",
+    "label": "Shield",
+    "value": 64,
+    "group": null
+  },
+  {
+    "id": "REGEN",
+    "label": "Regen",
+    "value": 65,
+    "group": null
+  },
+  {
+    "id": "CURSE",
+    "label": "Curse",
+    "value": 66,
+    "group": null
+  },
+  {
+    "id": "SILVER",
+    "label": "Silver",
+    "value": 67,
+    "group": null
+  },
+  {
+    "id": "GOLD",
+    "label": "Gold",
+    "value": 68,
+    "group": null
+  },
+  {
+    "id": "ROCHER",
+    "label": "Rocher",
+    "value": 69,
+    "group": null
+  },
+  {
+    "id": "ROCHEREXP",
+    "label": "Rocherexp",
+    "value": 70,
+    "group": null
+  },
+  {
+    "id": "LEFT",
+    "label": "Left",
+    "value": 71,
+    "group": null
+  },
+  {
+    "id": "RIGHT",
+    "label": "Right",
+    "value": 72,
+    "group": null
+  },
+  {
+    "id": "CORRIDOR",
+    "label": "Corridor",
+    "value": 73,
+    "group": null
+  },
+  {
+    "id": "SHROUD",
+    "label": "Shroud",
+    "value": 74,
+    "group": null
+  },
+  {
+    "id": "COLDEXPLOSION",
+    "label": "Coldexplosion",
+    "value": 75,
+    "group": null
+  },
+  {
+    "id": "WINDOW",
+    "label": "Window",
+    "value": 76,
+    "group": null
+  },
+  {
+    "id": "PANDORA",
+    "label": "Pandora",
+    "value": 77,
+    "group": null
+  },
+  {
+    "id": "VENTO",
+    "label": "Vento",
+    "value": 78,
+    "group": null
+  },
+  {
+    "id": "VENTO2",
+    "label": "Vento 2",
+    "value": 79,
+    "group": null
+  },
+  {
+    "id": "VENTO2_EXPLO",
+    "label": "Vento 2 Explo",
+    "value": 80,
+    "group": null
+  },
+  {
+    "id": "VENTO2_EXTRA",
+    "label": "Vento 2 Extra",
+    "value": 81,
+    "group": null
+  },
+  {
+    "id": "ROBBA",
+    "label": "Robba",
+    "value": 82,
+    "group": null
+  },
+  {
+    "id": "WINDOW2",
+    "label": "Window 2",
+    "value": 83,
+    "group": null
+  },
+  {
+    "id": "SILF_COUNTER",
+    "label": "Silf Counter",
+    "value": 85,
+    "group": null
+  },
+  {
+    "id": "SILF2_COUNTER",
+    "label": "Silf 2 Counter",
+    "value": 86,
+    "group": null
+  },
+  {
+    "id": "RAYEXPLOSION",
+    "label": "Rayexplosion",
+    "value": 87,
+    "group": null
+  },
+  {
+    "id": "CANDYBOX",
+    "label": "Candybox",
+    "value": 88,
+    "group": null
+  },
+  {
+    "id": "GUNS_COUNTER",
+    "label": "Guns Counter",
+    "value": 89,
+    "group": null
+  },
+  {
+    "id": "GUNS2_COUNTER",
+    "label": "Guns 2 Counter",
+    "value": 90,
+    "group": null
+  },
+  {
+    "id": "JUBILEE",
+    "label": "Jubilee",
+    "value": 91,
+    "group": null
+  },
+  {
+    "id": "VICTORY",
+    "label": "Victory",
+    "value": 92,
+    "group": null
+  },
+  {
+    "id": "SOLES",
+    "label": "Soles",
+    "value": 93,
+    "group": null
+  },
+  {
+    "id": "GATTI_COUNTER",
+    "label": "Gatti Counter",
+    "value": 94,
+    "group": null
+  },
+  {
+    "id": "NDUJA_COUNTER",
+    "label": "Nduja Counter",
+    "value": 95,
+    "group": null
+  },
+  {
+    "id": "TRIASSO1",
+    "label": "Triasso 1",
+    "value": 96,
+    "group": null
+  },
+  {
+    "id": "TRIASSO2",
+    "label": "Triasso 2",
+    "value": 97,
+    "group": null
+  },
+  {
+    "id": "TRIASSO3",
+    "label": "Triasso 3",
+    "value": 98,
+    "group": null
+  },
+  {
+    "id": "BLOODLINE",
+    "label": "Bloodline",
+    "value": 99,
+    "group": null
+  },
+  {
+    "id": "CANDYBOX2",
+    "label": "Candybox 2",
+    "value": 100,
+    "group": null
+  },
+  {
+    "id": "BUBBLES",
+    "label": "Bubbles",
+    "value": 101,
+    "group": null
+  },
+  {
+    "id": "ASTRONOMIA",
+    "label": "Astronomia",
+    "value": 102,
+    "group": null
+  },
+  {
+    "id": "BLOOD_GARLIC",
+    "label": "Blood Garlic",
+    "value": 103,
+    "group": null
+  },
+  {
+    "id": "BLOOD_SONG",
+    "label": "Blood Song",
+    "value": 104,
+    "group": null
+  },
+  {
+    "id": "BLOOD_PENTAGRAM",
+    "label": "Blood Pentagram",
+    "value": 105,
+    "group": null
+  },
+  {
+    "id": "BLOOD_LANCET",
+    "label": "Blood Lancet",
+    "value": 106,
+    "group": null
+  },
+  {
+    "id": "BLOOD_LAUREL",
+    "label": "Blood Laurel",
+    "value": 107,
+    "group": null
+  },
+  {
+    "id": "JUBILEE_RAYS",
+    "label": "Jubilee Rays",
+    "value": 108,
+    "group": null
+  },
+  {
+    "id": "MISSPELL",
+    "label": "Misspell",
+    "value": 109,
+    "group": null
+  },
+  {
+    "id": "MISSPELL2",
+    "label": "Misspell 2",
+    "value": 110,
+    "group": null
+  },
+  {
+    "id": "SILVERWIND",
+    "label": "Silverwind",
+    "value": 111,
+    "group": null
+  },
+  {
+    "id": "SILVERWIND2",
+    "label": "Silverwind 2",
+    "value": 112,
+    "group": null
+  },
+  {
+    "id": "FOURSEASONS",
+    "label": "Fourseasons",
+    "value": 113,
+    "group": null
+  },
+  {
+    "id": "FOURSEASONS2",
+    "label": "Fourseasons 2",
+    "value": 114,
+    "group": null
+  },
+  {
+    "id": "SUMMONNIGHT",
+    "label": "Summonnight",
+    "value": 115,
+    "group": null
+  },
+  {
+    "id": "SUMMONNIGHT2",
+    "label": "Summonnight 2",
+    "value": 116,
+    "group": null
+  },
+  {
+    "id": "MIRAGEROBE",
+    "label": "Miragerobe",
+    "value": 117,
+    "group": null
+  },
+  {
+    "id": "MIRAGEROBE2",
+    "label": "Miragerobe 2",
+    "value": 118,
+    "group": null
+  },
+  {
+    "id": "BUBBLES2",
+    "label": "Bubbles 2",
+    "value": 119,
+    "group": null
+  },
+  {
+    "id": "NIGHTSWORD",
+    "label": "Nightsword",
+    "value": 120,
+    "group": null
+  },
+  {
+    "id": "NIGHTSWORD2",
+    "label": "Nightsword 2",
+    "value": 121,
+    "group": null
+  },
+  {
+    "id": "BOCCE",
+    "label": "Bocce",
+    "value": 122,
+    "group": null
+  },
+  {
+    "id": "BOCCE_COUNTER",
+    "label": "Bocce Counter",
+    "value": 123,
+    "group": null
+  },
+  {
+    "id": "SPELL_STRING",
+    "label": "Spell String",
+    "value": 124,
+    "group": null
+  },
+  {
+    "id": "SPELL_STREAM",
+    "label": "Spell Stream",
+    "value": 125,
+    "group": null
+  },
+  {
+    "id": "SPELL_STRIKE",
+    "label": "Spell Strike",
+    "value": 126,
+    "group": null
+  },
+  {
+    "id": "SPELL_STROM",
+    "label": "Spell Strom",
+    "value": 127,
+    "group": null
+  },
+  {
+    "id": "BONE2",
+    "label": "Bone 2",
+    "value": 128,
+    "group": null
+  },
+  {
+    "id": "BONE_ARM",
+    "label": "Bone Arm",
+    "value": 129,
+    "group": null
+  },
+  {
+    "id": "TETRAFORCE",
+    "label": "Tetraforce",
+    "value": 130,
+    "group": null
+  },
+  {
+    "id": "SHADOWSERVANT",
+    "label": "Shadowservant",
+    "value": 131,
+    "group": null
+  },
+  {
+    "id": "SHADOWSERVANT2",
+    "label": "Shadowservant 2",
+    "value": 132,
+    "group": null
+  },
+  {
+    "id": "PRISMATICMISS",
+    "label": "Prismaticmiss",
+    "value": 133,
+    "group": null
+  },
+  {
+    "id": "PRISMATICMISS2",
+    "label": "Prismaticmiss 2",
+    "value": 134,
+    "group": null
+  },
+  {
+    "id": "FLASHARROW",
+    "label": "Flasharrow",
+    "value": 135,
+    "group": null
+  },
+  {
+    "id": "FLASHARROW2",
+    "label": "Flasharrow 2",
+    "value": 136,
+    "group": null
+  },
+  {
+    "id": "SEC_MILLIONAIRE",
+    "label": "Sec Millionaire",
+    "value": 137,
+    "group": null
+  },
+  {
+    "id": "SWORD",
+    "label": "Sword",
+    "value": 138,
+    "group": null
+  },
+  {
+    "id": "SWORD2",
+    "label": "Sword 2",
+    "value": 139,
+    "group": null
+  },
+  {
+    "id": "PARTY",
+    "label": "Party",
+    "value": 140,
+    "group": null
+  },
+  {
+    "id": "SWORD_FINISHER",
+    "label": "Sword Finisher",
+    "value": 141,
+    "group": null
+  },
+  {
+    "id": "LEGIONNAIRE",
+    "label": "Legionnaire",
+    "value": 142,
+    "group": null
+  },
+  {
+    "id": "PHASER",
+    "label": "Phaser",
+    "value": 143,
+    "group": null
+  },
+  {
+    "id": "SHADOWSERVANT_COUNTER",
+    "label": "Shadowservant Counter",
+    "value": 144,
+    "group": null
+  },
+  {
+    "id": "PARTY_COUNTER",
+    "label": "Party Counter",
+    "value": 145,
+    "group": null
+  },
+  {
+    "id": "ACADEMYBADGE",
+    "label": "Academybadge",
+    "value": 146,
+    "group": null
+  },
+  {
+    "id": "INSATIABLE",
+    "label": "Insatiable",
+    "value": 147,
+    "group": null
+  },
+  {
+    "id": "CHERRY2",
+    "label": "Cherry 2",
+    "value": 148,
+    "group": null
+  },
+  {
+    "id": "CHERRY_STAR_EXPLO",
+    "label": "Cherry Star Explo",
+    "value": 149,
+    "group": null
+  },
+  {
+    "id": "CHERRY_STAR",
+    "label": "Cherry Star",
+    "value": 150,
+    "group": null
+  },
+  {
+    "id": "ICELANCE",
+    "label": "Icelance",
+    "value": 151,
+    "group": null
+  },
+  {
+    "id": "ICELANCE2",
+    "label": "Icelance 2",
+    "value": 152,
+    "group": null
+  },
+  {
+    "id": "ZODIAC",
+    "label": "Zodiac",
+    "value": 153,
+    "group": null
+  },
+  {
+    "id": "CART2EVO",
+    "label": "Cart 2evo",
+    "value": 154,
+    "group": null
+  },
+  {
+    "id": "FLOWER2",
+    "label": "Flower 2",
+    "value": 155,
+    "group": null
+  },
+  {
+    "id": "LAROBBA2",
+    "label": "Larobba 2",
+    "value": 156,
+    "group": null
+  },
+  {
+    "id": "ULTIMAX",
+    "label": "Ultimax",
+    "value": 157,
+    "group": null
+  },
+  {
+    "id": "ARMADIO",
+    "label": "Armadio",
+    "value": 158,
+    "group": null
+  },
+  {
+    "id": "BOOMBALL",
+    "label": "Boomball",
+    "value": 159,
+    "group": null
+  },
+  {
+    "id": "PHASER2",
+    "label": "Phaser 2",
+    "value": 160,
+    "group": null
+  },
+  {
+    "id": "BATTILIA",
+    "label": "Battilia",
+    "value": 161,
+    "group": null
+  },
+  {
+    "id": "BATTILIA2",
+    "label": "Battilia 2",
+    "value": 162,
+    "group": null
+  },
+  {
+    "id": "EX_MAGISTONE1",
+    "label": "Ex Magistone 1",
+    "value": 163,
+    "group": null
+  },
+  {
+    "id": "EX_MAGISTONE2",
+    "label": "Ex Magistone 2",
+    "value": 164,
+    "group": null
+  },
+  {
+    "id": "STARRYHEAVENDAMAGE",
+    "label": "Starryheavendamage",
+    "value": 165,
+    "group": null
+  },
+  {
+    "id": "C1_REPORT1",
+    "label": "C 1 Report 1",
+    "value": 166,
+    "group": null
+  },
+  {
+    "id": "C1_REPORT2",
+    "label": "C 1 Report 2",
+    "value": 167,
+    "group": null
+  },
+  {
+    "id": "C1_SWIPECARD1",
+    "label": "C 1 Swipecard 1",
+    "value": 168,
+    "group": null
+  },
+  {
+    "id": "C1_SWIPECARD2",
+    "label": "C 1 Swipecard 2",
+    "value": 169,
+    "group": null
+  },
+  {
+    "id": "C1_MEDICAL1",
+    "label": "C 1 Medical 1",
+    "value": 170,
+    "group": null
+  },
+  {
+    "id": "C1_MEDICAL2",
+    "label": "C 1 Medical 2",
+    "value": 171,
+    "group": null
+  },
+  {
+    "id": "C1_VENT1",
+    "label": "C 1 Vent 1",
+    "value": 172,
+    "group": null
+  },
+  {
+    "id": "C1_VENT2",
+    "label": "C 1 Vent 2",
+    "value": 173,
+    "group": null
+  },
+  {
+    "id": "C1_GARBA1",
+    "label": "C 1 Garba 1",
+    "value": 174,
+    "group": null
+  },
+  {
+    "id": "C1_GARBA2",
+    "label": "C 1 Garba 2",
+    "value": 175,
+    "group": null
+  },
+  {
+    "id": "C1_TONGUE1",
+    "label": "C 1 Tongue 1",
+    "value": 176,
+    "group": null
+  },
+  {
+    "id": "C1_TONGUE2",
+    "label": "C 1 Tongue 2",
+    "value": 177,
+    "group": null
+  },
+  {
+    "id": "C1_SAMPLES1",
+    "label": "C 1 Samples 1",
+    "value": 178,
+    "group": null
+  },
+  {
+    "id": "C1_SAMPLES2",
+    "label": "C 1 Samples 2",
+    "value": 179,
+    "group": null
+  },
+  {
+    "id": "C1_HATCOLLECTION1",
+    "label": "C 1 Hatcollection 1",
+    "value": 180,
+    "group": null
+  },
+  {
+    "id": "C1_HATCOLLECTION_EXPLO",
+    "label": "C 1 Hatcollection Explo",
+    "value": 181,
+    "group": null
+  },
+  {
+    "id": "C1_SHRINK_CREWMA",
+    "label": "C 1 Shrink Crewma",
+    "value": 182,
+    "group": null
+  },
+  {
+    "id": "C1_SHRINK_ENGINE",
+    "label": "C 1 Shrink Engine",
+    "value": 183,
+    "group": null
+  },
+  {
+    "id": "C1_SHRINK_GHOSTT",
+    "label": "C 1 Shrink Ghostt",
+    "value": 184,
+    "group": null
+  },
+  {
+    "id": "C1_SHRINK_SHAPES",
+    "label": "C 1 Shrink Shapes",
+    "value": 185,
+    "group": null
+  },
+  {
+    "id": "C1_SHRINK_GUARDI",
+    "label": "C 1 Shrink Guardi",
+    "value": 186,
+    "group": null
+  },
+  {
+    "id": "C1_SHRINK_IMPOST",
+    "label": "C 1 Shrink Impost",
+    "value": 187,
+    "group": null
+  },
+  {
+    "id": "C1_SHRINK_SCIENT",
+    "label": "C 1 Shrink Scient",
+    "value": 188,
+    "group": null
+  },
+  {
+    "id": "C1_SHRINK_HORSEE",
+    "label": "C 1 Shrink Horsee",
+    "value": 189,
+    "group": null
+  },
+  {
+    "id": "C1_SWIPECARD1_SPARK",
+    "label": "C 1 Swipecard 1 Spark",
+    "value": 190,
+    "group": null
+  },
+  {
+    "id": "C1_TONGUE1_COUNTER",
+    "label": "C 1 Tongue 1 Counter",
+    "value": 191,
+    "group": null
+  },
+  {
+    "id": "C1_SAMPLES1_EXPLOSION",
+    "label": "C 1 Samples 1 Explosion",
+    "value": 192,
+    "group": null
+  },
+  {
+    "id": "C1_SAMPLES2_EXPLOSION",
+    "label": "C 1 Samples 2 Explosion",
+    "value": 193,
+    "group": null
+  },
+  {
+    "id": "C1_SAMPLES2_REACTOR",
+    "label": "C 1 Samples 2 Reactor",
+    "value": 194,
+    "group": null
+  },
+  {
+    "id": "___PLCHLD195",
+    "label": "Plchld 195",
+    "value": 195,
+    "group": null
+  },
+  {
+    "id": "___PLCHLD196",
+    "label": "Plchld 196",
+    "value": 196,
+    "group": null
+  },
+  {
+    "id": "___PLCHLD197",
+    "label": "Plchld 197",
+    "value": 197,
+    "group": null
+  },
+  {
+    "id": "___PLCHLD198",
+    "label": "Plchld 198",
+    "value": 198,
+    "group": null
+  },
+  {
+    "id": "___PLCHLD199",
+    "label": "Plchld 199",
+    "value": 199,
+    "group": null
+  },
+  {
+    "id": "___PLCHLD200",
+    "label": "Plchld 200",
+    "value": 200,
+    "group": null
+  },
+  {
+    "id": "PARMA",
+    "label": "Parma",
+    "value": 201,
+    "group": null
+  },
+  {
+    "id": "DOMINION",
+    "label": "Dominion",
+    "value": 202,
+    "group": null
+  },
+  {
+    "id": "NOVA_FIRE",
+    "label": "Nova Fire",
+    "value": 203,
+    "group": null
+  },
+  {
+    "id": "NOVA_ICEE",
+    "label": "Nova Icee",
+    "value": 204,
+    "group": null
+  },
+  {
+    "id": "NOVA_FEAR",
+    "label": "Nova Fear",
+    "value": 205,
+    "group": null
+  },
+  {
+    "id": "EX_FLIK1",
+    "label": "Ex Flik 1",
+    "value": 206,
+    "group": null
+  },
+  {
+    "id": "EX_FLIK2",
+    "label": "Ex Flik 2",
+    "value": 207,
+    "group": null
+  },
+  {
+    "id": "TRAINHAZARD",
+    "label": "Trainhazard",
+    "value": 208,
+    "group": null
+  },
+  {
+    "id": "SANTAJAVELIN",
+    "label": "Santajavelin",
+    "value": 209,
+    "group": null
+  },
+  {
+    "id": "SANTAJAVELIN2",
+    "label": "Santajavelin 2",
+    "value": 210,
+    "group": null
+  },
+  {
+    "id": "PURIFYWEIRDSOULS",
+    "label": "Purifyweirdsouls",
+    "value": 211,
+    "group": null
+  },
+  {
+    "id": "SANTAJAVELINCOUNTER",
+    "label": "Santajavelincounter",
+    "value": 212,
+    "group": null
+  },
+  {
+    "id": "SANTAJAVELIN2EXPLO",
+    "label": "Santajavelin 2explo",
+    "value": 213,
+    "group": null
+  },
+  {
+    "id": "CONEOFCOLD",
+    "label": "Coneofcold",
+    "value": 214,
+    "group": null
+  },
+  {
+    "id": "FLOOD",
+    "label": "Flood",
+    "value": 215,
+    "group": null
+  },
+  {
+    "id": "CONEOFCOLD_COUNTER",
+    "label": "Coneofcold Counter",
+    "value": 216,
+    "group": null
+  },
+  {
+    "id": "EX_AMMO1",
+    "label": "Ex Ammo 1",
+    "value": 218,
+    "group": null
+  },
+  {
+    "id": "EX_AMMO2",
+    "label": "Ex Ammo 2",
+    "value": 219,
+    "group": null
+  },
+  {
+    "id": "EX_AMMO1_COUNTER",
+    "label": "Ex Ammo 1 Counter",
+    "value": 220,
+    "group": null
+  },
+  {
+    "id": "EX_TOHILSTATUE",
+    "label": "Ex Tohilstatue",
+    "value": 221,
+    "group": null
+  },
+  {
+    "id": "EX_GROUNDHIT",
+    "label": "Ex Groundhit",
+    "value": 222,
+    "group": null
+  },
+  {
+    "id": "EX_GEMCIRCLE",
+    "label": "Ex Gemcircle",
+    "value": 223,
+    "group": null
+  },
+  {
+    "id": "EX_WINGCIRCLE",
+    "label": "Ex Wingcircle",
+    "value": 224,
+    "group": null
+  },
+  {
+    "id": "EX_GHOSTSPIRAL",
+    "label": "Ex Ghostspiral",
+    "value": 225,
+    "group": null
+  },
+  {
+    "id": "EX_OZMIC",
+    "label": "Ex Ozmic",
+    "value": 226,
+    "group": null
+  },
+  {
+    "id": "___PLCHLD227",
+    "label": "Plchld 227",
+    "value": 227,
+    "group": null
+  },
+  {
+    "id": "___PLCHLD228",
+    "label": "Plchld 228",
+    "value": 228,
+    "group": null
+  },
+  {
+    "id": "___PLCHLD229",
+    "label": "Plchld 229",
+    "value": 229,
+    "group": null
+  },
+  {
+    "id": "EX_AMIMIC1",
+    "label": "Ex Amimic 1",
+    "value": 230,
+    "group": null
+  },
+  {
+    "id": "EX_AMIMIC2",
+    "label": "Ex Amimic 2",
+    "value": 231,
+    "group": null
+  },
+  {
+    "id": "EX_AMIMIC3",
+    "label": "Ex Amimic 3",
+    "value": 232,
+    "group": null
+  },
+  {
+    "id": "EX_AMIMIC4",
+    "label": "Ex Amimic 4",
+    "value": 233,
+    "group": null
+  },
+  {
+    "id": "___PLCHLD234",
+    "label": "Plchld 234",
+    "value": 234,
+    "group": null
+  },
+  {
+    "id": "___PLCHLD235",
+    "label": "Plchld 235",
+    "value": 235,
+    "group": null
+  },
+  {
+    "id": "EX_GROUNDHITCENTRAL",
+    "label": "Ex Groundhitcentral",
+    "value": 236,
+    "group": null
+  },
+  {
+    "id": "___PLCHLD237",
+    "label": "Plchld 237",
+    "value": 237,
+    "group": null
+  },
+  {
+    "id": "___PLCHLD238",
+    "label": "Plchld 238",
+    "value": 238,
+    "group": null
+  },
+  {
+    "id": "___PLCHLD239",
+    "label": "Plchld 239",
+    "value": 239,
+    "group": null
+  },
+  {
+    "id": "___PLCHLD240",
+    "label": "Plchld 240",
+    "value": 240,
+    "group": null
+  },
+  {
+    "id": "___PLCHLD299",
+    "label": "Plchld 299",
+    "value": 299,
+    "group": null
+  },
+  {
+    "id": "FB_FULLAUTO",
+    "label": "Fb Fullauto",
+    "value": 300,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_RAPIDFIRE",
+    "label": "Fb Rapidfire",
+    "value": 301,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_SPREAD",
+    "label": "Fb Spread",
+    "value": 302,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_SONIC",
+    "label": "Fb Sonic",
+    "value": 303,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_BLADECROSSBOW",
+    "label": "Fb Bladecrossbow",
+    "value": 304,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_WAVE",
+    "label": "Fb Wave",
+    "value": 305,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_LASER",
+    "label": "Fb Laser",
+    "value": 306,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_FIREARM",
+    "label": "Fb Firearm",
+    "value": 307,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_METALCLAW",
+    "label": "Fb Metalclaw",
+    "value": 308,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_CRUSH",
+    "label": "Fb Crush",
+    "value": 309,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_HOMING",
+    "label": "Fb Homing",
+    "value": 310,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_PRISMCUTLASS",
+    "label": "Fb Prismcutlass",
+    "value": 311,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_PROTOTYPE",
+    "label": "Fb Prototype",
+    "value": 312,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_PROTONBEAM",
+    "label": "Fb Protonbeam",
+    "value": 313,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_FIREWALL",
+    "label": "Fb Firewall",
+    "value": 314,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_BIGFUZZYFIST",
+    "label": "Fb Bigfuzzyfist",
+    "value": 315,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_MULTISTAGE",
+    "label": "Fb Multistage",
+    "value": 316,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_TIMEWARP",
+    "label": "Fb Timewarp",
+    "value": 317,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_WEAPONPU",
+    "label": "Fb Weaponpu",
+    "value": 318,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_DEATHRAY",
+    "label": "Fb Deathray",
+    "value": 319,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_SOLAR",
+    "label": "Fb Solar",
+    "value": 320,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_CROSSBOT",
+    "label": "Fb Crossbot",
+    "value": 321,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_PROTOTYPE_B",
+    "label": "Fb Prototype B",
+    "value": 322,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_PROTOTYPE_B_PLANE",
+    "label": "Fb Prototype B Plane",
+    "value": 323,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_PROTOTYPE_B_EXPLOSION",
+    "label": "Fb Prototype B Explosion",
+    "value": 333,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_PROTOTYPE_A",
+    "label": "Fb Prototype A",
+    "value": 334,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_PROTOTYPE_C",
+    "label": "Fb Prototype C",
+    "value": 335,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_PROTOTYPE_C_EXPLOSION",
+    "label": "Fb Prototype C Explosion",
+    "value": 336,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_CROSSBOWCRASH",
+    "label": "Fb Crossbowcrash",
+    "value": 337,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_CROSSBOWCRASH_SWORD",
+    "label": "Fb Crossbowcrash Sword",
+    "value": 338,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_DIVERMINES",
+    "label": "Fb Divermines",
+    "value": 339,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_PLANES",
+    "label": "Fb Planes",
+    "value": 340,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_FIREEXPLOSION",
+    "label": "Fb Fireexplosion",
+    "value": 341,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_EXPLOCARHAZARD",
+    "label": "Fb Explocarhazard",
+    "value": 342,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_EXPLOBARRELHAZARD",
+    "label": "Fb Explobarrelhazard",
+    "value": 343,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_PRISMCUTLASS_COUNTER",
+    "label": "Fb Prismcutlass Counter",
+    "value": 344,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "___PLCHLD345",
+    "label": "Plchld 345",
+    "value": 345,
+    "group": null
+  },
+  {
+    "id": "___PLCHLD346",
+    "label": "Plchld 346",
+    "value": 346,
+    "group": null
+  },
+  {
+    "id": "___PLCHLD347",
+    "label": "Plchld 347",
+    "value": 347,
+    "group": null
+  },
+  {
+    "id": "___PLCHLD348",
+    "label": "Plchld 348",
+    "value": 348,
+    "group": null
+  },
+  {
+    "id": "___PLCHLD349",
+    "label": "Plchld 349",
+    "value": 349,
+    "group": null
+  },
+  {
+    "id": "___PLCHLD350",
+    "label": "Plchld 350",
+    "value": 350,
+    "group": null
+  },
+  {
+    "id": "___PLCHLD351",
+    "label": "Plchld 351",
+    "value": 351,
+    "group": null
+  },
+  {
+    "id": "___PLCHLD352",
+    "label": "Plchld 352",
+    "value": 352,
+    "group": null
+  },
+  {
+    "id": "___PLCHLD353",
+    "label": "Plchld 353",
+    "value": 353,
+    "group": null
+  },
+  {
+    "id": "___PLCHLD354",
+    "label": "Plchld 354",
+    "value": 354,
+    "group": null
+  },
+  {
+    "id": "___PLCHLD355",
+    "label": "Plchld 355",
+    "value": 355,
+    "group": null
+  },
+  {
+    "id": "___PLCHLD356",
+    "label": "Plchld 356",
+    "value": 356,
+    "group": null
+  },
+  {
+    "id": "___PLCHLD357",
+    "label": "Plchld 357",
+    "value": 357,
+    "group": null
+  },
+  {
+    "id": "___PLCHLD358",
+    "label": "Plchld 358",
+    "value": 358,
+    "group": null
+  },
+  {
+    "id": "___PLCHLD359",
+    "label": "Plchld 359",
+    "value": 359,
+    "group": null
+  },
+  {
+    "id": "___PLCHLD360",
+    "label": "Plchld 360",
+    "value": 360,
+    "group": null
+  },
+  {
+    "id": "EME_RAPIER1",
+    "label": "Eme Rapier 1",
+    "value": 361,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_RAPIER2",
+    "label": "Eme Rapier 2",
+    "value": 362,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_RAPIER3",
+    "label": "Eme Rapier 3",
+    "value": 363,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_DUAL1",
+    "label": "Eme Dual 1",
+    "value": 364,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_DUAL2",
+    "label": "Eme Dual 2",
+    "value": 365,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_PUNCH1",
+    "label": "Eme Punch 1",
+    "value": 366,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_PUNCH2",
+    "label": "Eme Punch 2",
+    "value": 367,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_PUNCH3",
+    "label": "Eme Punch 3",
+    "value": 368,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_KICK1",
+    "label": "Eme Kick 1",
+    "value": 369,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_KICK2",
+    "label": "Eme Kick 2",
+    "value": 370,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_CANNON1",
+    "label": "Eme Cannon 1",
+    "value": 371,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_CANNON2",
+    "label": "Eme Cannon 2",
+    "value": 372,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_CANNON3",
+    "label": "Eme Cannon 3",
+    "value": 373,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_PISTOL1",
+    "label": "Eme Pistol 1",
+    "value": 374,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_PISTOL2",
+    "label": "Eme Pistol 2",
+    "value": 375,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_MAGIC1",
+    "label": "Eme Magic 1",
+    "value": 376,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_MAGIC2",
+    "label": "Eme Magic 2",
+    "value": 377,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_MAGIC3",
+    "label": "Eme Magic 3",
+    "value": 378,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_MAGIC4",
+    "label": "Eme Magic 4",
+    "value": 379,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_MAGIC5",
+    "label": "Eme Magic 5",
+    "value": 380,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_MAGIC6",
+    "label": "Eme Magic 6",
+    "value": 381,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_MECH1",
+    "label": "Eme Mech 1",
+    "value": 382,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_MECH2",
+    "label": "Eme Mech 2",
+    "value": 383,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_MECH3",
+    "label": "Eme Mech 3",
+    "value": 384,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_KATANA1",
+    "label": "Eme Katana 1",
+    "value": 385,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_KATANA2",
+    "label": "Eme Katana 2",
+    "value": 386,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_LONGSWORD1",
+    "label": "Eme Longsword 1",
+    "value": 387,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_LONGSWORD2",
+    "label": "Eme Longsword 2",
+    "value": 388,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_LONGSWORD3",
+    "label": "Eme Longsword 3",
+    "value": 389,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_BLOOD1",
+    "label": "Eme Blood 1",
+    "value": 390,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_BLOOD2",
+    "label": "Eme Blood 2",
+    "value": 391,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_KNIFE1",
+    "label": "Eme Knife 1",
+    "value": 392,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_KNIFE2",
+    "label": "Eme Knife 2",
+    "value": 393,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_KNIFE3",
+    "label": "Eme Knife 3",
+    "value": 394,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_AXE1",
+    "label": "Eme Axe 1",
+    "value": 395,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_AXE2",
+    "label": "Eme Axe 2",
+    "value": 396,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_AXE3",
+    "label": "Eme Axe 3",
+    "value": 397,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_SPEAR1",
+    "label": "Eme Spear 1",
+    "value": 398,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_SPEAR2",
+    "label": "Eme Spear 2",
+    "value": 399,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_SPEAR3",
+    "label": "Eme Spear 3",
+    "value": 400,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_GREATSWORD1",
+    "label": "Eme Greatsword 1",
+    "value": 401,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_GREATSWORD2",
+    "label": "Eme Greatsword 2",
+    "value": 402,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_GREATSWORD3",
+    "label": "Eme Greatsword 3",
+    "value": 403,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_SELECTOR",
+    "label": "Eme Selector",
+    "value": 404,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_WAVE",
+    "label": "Eme Wave",
+    "value": 405,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_WAVE2",
+    "label": "Eme Wave 2",
+    "value": 406,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_RING_WOOD",
+    "label": "Eme Ring Wood",
+    "value": 407,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_RING_METAL",
+    "label": "Eme Ring Metal",
+    "value": 408,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_RING_FIRE",
+    "label": "Eme Ring Fire",
+    "value": 409,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_RING_WATER",
+    "label": "Eme Ring Water",
+    "value": 410,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_RING_EARTH",
+    "label": "Eme Ring Earth",
+    "value": 411,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_RING_CHAOS",
+    "label": "Eme Ring Chaos",
+    "value": 412,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_SWORD_SWALLOW",
+    "label": "Eme Sword Swallow",
+    "value": 413,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_AXE_HELLFURY",
+    "label": "Eme Axe Hellfury",
+    "value": 414,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_MECH_RAVE",
+    "label": "Eme Mech Rave",
+    "value": 415,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_MECH_BALLMISS",
+    "label": "Eme Mech Ballmiss",
+    "value": 416,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_BLOOD_BLOODRAGE",
+    "label": "Eme Blood Bloodrage",
+    "value": 417,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_SWORD_GALE",
+    "label": "Eme Sword Gale",
+    "value": 418,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "___PLCHLD419",
+    "label": "Plchld 419",
+    "value": 419,
+    "group": null
+  },
+  {
+    "id": "___PLCHLD420",
+    "label": "Plchld 420",
+    "value": 420,
+    "group": null
+  },
+  {
+    "id": "___PLCHLD497",
+    "label": "Plchld 497",
+    "value": 497,
+    "group": null
+  },
+  {
+    "id": "___PLCHLD498",
+    "label": "Plchld 498",
+    "value": 498,
+    "group": null
+  },
+  {
+    "id": "BLOOD_STREAM",
+    "label": "Blood Stream",
+    "value": 499,
+    "group": null
+  },
+  {
+    "id": "D20_JETBLACK",
+    "label": "D20. Jetblack",
+    "value": 500,
+    "group": null
+  },
+  {
+    "id": "D20_JETBLACK_EXPLOSION",
+    "label": "D20. Jetblack Explosion",
+    "value": 501,
+    "group": null
+  },
+  {
+    "id": "EX_GAEA1",
+    "label": "Ex Gaea 1",
+    "value": 502,
+    "group": null
+  },
+  {
+    "id": "EX_GAEA2",
+    "label": "Ex Gaea 2",
+    "value": 503,
+    "group": null
+  },
+  {
+    "id": "EX_SUMM1",
+    "label": "Ex Summ 1",
+    "value": 504,
+    "group": null
+  },
+  {
+    "id": "EX_SUMM2",
+    "label": "Ex Summ 2",
+    "value": 505,
+    "group": null
+  },
+  {
+    "id": "D13_MADMOON",
+    "label": "D13. Madmoon",
+    "value": 506,
+    "group": null
+  },
+  {
+    "id": "EX_COINTOSS1",
+    "label": "Ex Cointoss 1",
+    "value": 507,
+    "group": null
+  },
+  {
+    "id": "EX_COINTOSS2",
+    "label": "Ex Cointoss 2",
+    "value": 508,
+    "group": null
+  },
+  {
+    "id": "EX_RUMBA1",
+    "label": "Ex Rumba 1",
+    "value": 509,
+    "group": null
+  },
+  {
+    "id": "PRAYERS",
+    "label": "Prayers",
+    "value": 512,
+    "group": null
+  },
+  {
+    "id": "HEAVENSROAD",
+    "label": "Heavensroad",
+    "value": 513,
+    "group": null
+  },
+  {
+    "id": "DESCENT_MISERY",
+    "label": "Descent Misery",
+    "value": 514,
+    "group": null
+  },
+  {
+    "id": "SHIMMERING_SANDS",
+    "label": "Shimmering Sands",
+    "value": 515,
+    "group": null
+  },
+  {
+    "id": "___PLCHLD516",
+    "label": "Plchld 516",
+    "value": 516,
+    "group": null
+  },
+  {
+    "id": "___PLCHLD517",
+    "label": "Plchld 517",
+    "value": 517,
+    "group": null
+  },
+  {
+    "id": "___PLCHLD518",
+    "label": "Plchld 518",
+    "value": 518,
+    "group": null
+  },
+  {
+    "id": "___PLCHLD519",
+    "label": "Plchld 519",
+    "value": 519,
+    "group": null
+  },
+  {
+    "id": "___PLCHLD520",
+    "label": "Plchld 520",
+    "value": 520,
+    "group": null
+  },
+  {
+    "id": "EX_PENSHIN",
+    "label": "Ex Penshin",
+    "value": 521,
+    "group": null
+  },
+  {
+    "id": "EX_PENSHIN_EVO1",
+    "label": "Ex Penshin Evo 1",
+    "value": 522,
+    "group": null
+  },
+  {
+    "id": "EX_PENSHIN_EVO2",
+    "label": "Ex Penshin Evo 2",
+    "value": 523,
+    "group": null
+  },
+  {
+    "id": "EX_PENSHIN_EVO3",
+    "label": "Ex Penshin Evo 3",
+    "value": 524,
+    "group": null
+  },
+  {
+    "id": "EX_PENSHIN_EVO4",
+    "label": "Ex Penshin Evo 4",
+    "value": 525,
+    "group": null
+  },
+  {
+    "id": "EX_PENSHIN_EVO5",
+    "label": "Ex Penshin Evo 5",
+    "value": 526,
+    "group": null
+  },
+  {
+    "id": "EX_PENSHIN_EVO6",
+    "label": "Ex Penshin Evo 6",
+    "value": 527,
+    "group": null
+  },
+  {
+    "id": "EX_PENSHIN_EVO7",
+    "label": "Ex Penshin Evo 7",
+    "value": 528,
+    "group": null
+  },
+  {
+    "id": "EX_PENSHIN_SELECTOR_EVO",
+    "label": "Ex Penshin Selector Evo",
+    "value": 529,
+    "group": null
+  },
+  {
+    "id": "EX_PENSHIN_UNION",
+    "label": "Ex Penshin Union",
+    "value": 530,
+    "group": null
+  },
+  {
+    "id": "EX_PENSHIN_STATIC1",
+    "label": "Ex Penshin Static 1",
+    "value": 531,
+    "group": null
+  },
+  {
+    "id": "EX_PENSHIN_STATIC2",
+    "label": "Ex Penshin Static 2",
+    "value": 532,
+    "group": null
+  },
+  {
+    "id": "EX_PENSHIN_STATIC3",
+    "label": "Ex Penshin Static 3",
+    "value": 533,
+    "group": null
+  },
+  {
+    "id": "EX_PENSHIN_STATIC4",
+    "label": "Ex Penshin Static 4",
+    "value": 534,
+    "group": null
+  },
+  {
+    "id": "EX_PENSHIN_STATIC5",
+    "label": "Ex Penshin Static 5",
+    "value": 535,
+    "group": null
+  },
+  {
+    "id": "EX_PENSHIN_STATIC6",
+    "label": "Ex Penshin Static 6",
+    "value": 536,
+    "group": null
+  },
+  {
+    "id": "EX_PENSHIN_STATIC7",
+    "label": "Ex Penshin Static 7",
+    "value": 537,
+    "group": null
+  },
+  {
+    "id": "TP_EVANESCERE",
+    "label": "Tp Evanescere",
+    "value": 1401,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_CONFODERE1",
+    "label": "Tp Confodere 1",
+    "value": 1402,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_CONFODERE2",
+    "label": "Tp Confodere 2",
+    "value": 1403,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_CONFODERE3",
+    "label": "Tp Confodere 3",
+    "value": 1404,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ALCHEMYWHIP1",
+    "label": "Tp Alchemywhip 1",
+    "value": 1405,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ALCHEMYWHIP2",
+    "label": "Tp Alchemywhip 2",
+    "value": 1406,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_COATOFARMS",
+    "label": "Tp Coatofarms",
+    "value": 1407,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_MORNINGSTAR",
+    "label": "Tp Morningstar",
+    "value": 1408,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SPELLBOOK",
+    "label": "Tp Spellbook",
+    "value": 1409,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_DIABOLOGUE",
+    "label": "Tp Diabologue",
+    "value": 1410,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ALUCARDSWORD1",
+    "label": "Tp Alucardsword 1",
+    "value": 1411,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ALUCARDSWORD2",
+    "label": "Tp Alucardsword 2",
+    "value": 1412,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_IRONBALL1",
+    "label": "Tp Ironball 1",
+    "value": 1413,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_IRONBALL2",
+    "label": "Tp Ironball 2",
+    "value": 1414,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ALUCARDSPEAR1",
+    "label": "Tp Alucardspear 1",
+    "value": 1415,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ALUCARDSPEAR2",
+    "label": "Tp Alucardspear 2",
+    "value": 1416,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_MACE1",
+    "label": "Tp Mace 1",
+    "value": 1417,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_MACE2",
+    "label": "Tp Mace 2",
+    "value": 1418,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_CHAUVE1",
+    "label": "Tp Chauve 1",
+    "value": 1419,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_CHAUVE2",
+    "label": "Tp Chauve 2",
+    "value": 1420,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_JAVELIN1",
+    "label": "Tp Javelin 1",
+    "value": 1421,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_JAVELIN2",
+    "label": "Tp Javelin 2",
+    "value": 1422,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BWAKA1",
+    "label": "Tp Bwaka 1",
+    "value": 1423,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BWAKA2",
+    "label": "Tp Bwaka 2",
+    "value": 1424,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SHURIKEN1",
+    "label": "Tp Shuriken 1",
+    "value": 1425,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SHURIKEN2",
+    "label": "Tp Shuriken 2",
+    "value": 1426,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_LIGHT1",
+    "label": "Tp Light 1",
+    "value": 1427,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_LIGHT2",
+    "label": "Tp Light 2",
+    "value": 1428,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_DARK1",
+    "label": "Tp Dark 1",
+    "value": 1429,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_DARK2",
+    "label": "Tp Dark 2",
+    "value": 1430,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_DISCUS1",
+    "label": "Tp Discus 1",
+    "value": 1431,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_DISCUS2",
+    "label": "Tp Discus 2",
+    "value": 1432,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_WINEGLASS1",
+    "label": "Tp Wineglass 1",
+    "value": 1433,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_WINEGLASS2",
+    "label": "Tp Wineglass 2",
+    "value": 1434,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_MARTIALWHIP1",
+    "label": "Tp Martialwhip 1",
+    "value": 1435,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_MARTIALWHIP2",
+    "label": "Tp Martialwhip 2",
+    "value": 1436,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_CUSTOS1",
+    "label": "Tp Custos 1",
+    "value": 1437,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_CUSTOS2",
+    "label": "Tp Custos 2",
+    "value": 1438,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_CUSTOS3",
+    "label": "Tp Custos 3",
+    "value": 1439,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_CUSTOS4",
+    "label": "Tp Custos 4",
+    "value": 1440,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_WINDWHIP1",
+    "label": "Tp Windwhip 1",
+    "value": 1441,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_WINDWHIP2",
+    "label": "Tp Windwhip 2",
+    "value": 1442,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_PLATINUMWHIP1",
+    "label": "Tp Platinumwhip 1",
+    "value": 1443,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_PLATINUMWHIP2",
+    "label": "Tp Platinumwhip 2",
+    "value": 1444,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_DRAGONWATER1",
+    "label": "Tp Dragonwater 1",
+    "value": 1445,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_DRAGONWATER2",
+    "label": "Tp Dragonwater 2",
+    "value": 1446,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SOULSTEAL_WEAPON",
+    "label": "Tp Soulsteal Weapon",
+    "value": 1447,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_RPG1",
+    "label": "Tp Rpg 1",
+    "value": 1449,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_RPG2",
+    "label": "Tp Rpg 2",
+    "value": 1450,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ALUCARDSHIELD",
+    "label": "Tp Alucardshield",
+    "value": 1451,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_RAPIDUS1",
+    "label": "Tp Rapidus 1",
+    "value": 1452,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_RAPIDUS2",
+    "label": "Tp Rapidus 2",
+    "value": 1453,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_PNEUMA_SPIKES",
+    "label": "Tp Pneuma Spikes",
+    "value": 1454,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FIRE1",
+    "label": "Tp Fire 1",
+    "value": 1455,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FIRE2",
+    "label": "Tp Fire 2",
+    "value": 1456,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ICE1",
+    "label": "Tp Ice 1",
+    "value": 1457,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ICE2",
+    "label": "Tp Ice 2",
+    "value": 1458,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_WIND1",
+    "label": "Tp Wind 1",
+    "value": 1459,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_WIND2",
+    "label": "Tp Wind 2",
+    "value": 1460,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_EARTH1",
+    "label": "Tp Earth 1",
+    "value": 1461,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_EARTH2",
+    "label": "Tp Earth 2",
+    "value": 1462,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ELEC1",
+    "label": "Tp Elec 1",
+    "value": 1463,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ELEC2",
+    "label": "Tp Elec 2",
+    "value": 1464,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ACID1",
+    "label": "Tp Acid 1",
+    "value": 1465,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ACID2",
+    "label": "Tp Acid 2",
+    "value": 1466,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_EVIL1",
+    "label": "Tp Evil 1",
+    "value": 1467,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_EVIL2",
+    "label": "Tp Evil 2",
+    "value": 1468,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_HOLY1",
+    "label": "Tp Holy 1",
+    "value": 1469,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_HOLY2",
+    "label": "Tp Holy 2",
+    "value": 1470,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SPITE1",
+    "label": "Tp Spite 1",
+    "value": 1471,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SPITE2",
+    "label": "Tp Spite 2",
+    "value": 1472,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ENERGY1",
+    "label": "Tp Energy 1",
+    "value": 1473,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ENERGY2",
+    "label": "Tp Energy 2",
+    "value": 1474,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FIRE1_COUNTER",
+    "label": "Tp Fire 1 Counter",
+    "value": 1475,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ICE1_COUNTER",
+    "label": "Tp Ice 1 Counter",
+    "value": 1476,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_EARTH1_COUNTER",
+    "label": "Tp Earth 1 Counter",
+    "value": 1477,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_WIND1_COUNTER",
+    "label": "Tp Wind 1 Counter",
+    "value": 1478,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ELEC1_COUNTER",
+    "label": "Tp Elec 1 Counter",
+    "value": 1479,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ACID1_COUNTER",
+    "label": "Tp Acid 1 Counter",
+    "value": 1480,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_EVIL1_COUNTER",
+    "label": "Tp Evil 1 Counter",
+    "value": 1481,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_HOLY1_COUNTER",
+    "label": "Tp Holy 1 Counter",
+    "value": 1482,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SPITE1_COUNTER",
+    "label": "Tp Spite 1 Counter",
+    "value": 1483,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ENERGY1_COUNTER",
+    "label": "Tp Energy 1 Counter",
+    "value": 1484,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_DCUSTOS_FIRE",
+    "label": "Tp Dcustos Fire",
+    "value": 1485,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_DCUSTOS_EXPLOSION",
+    "label": "Tp Dcustos Explosion",
+    "value": 1486,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SCUSTOS_MIRAGE",
+    "label": "Tp Scustos Mirage",
+    "value": 1487,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SCUSTOS_EXPLOSION",
+    "label": "Tp Scustos Explosion",
+    "value": 1488,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SONICWHIP2",
+    "label": "Tp Sonicwhip 2",
+    "value": 1489,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_HOLYWHIP1",
+    "label": "Tp Holywhip 1",
+    "value": 1490,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_HOLYWHIP2",
+    "label": "Tp Holywhip 2",
+    "value": 1491,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_GUN1",
+    "label": "Tp Gun 1",
+    "value": 1492,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_GUN2",
+    "label": "Tp Gun 2",
+    "value": 1493,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SLASH1",
+    "label": "Tp Slash 1",
+    "value": 1494,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SLASH2",
+    "label": "Tp Slash 2",
+    "value": 1495,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_UNIVERSITAS",
+    "label": "Tp Universitas",
+    "value": 1496,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_DOMINUS1",
+    "label": "Tp Dominus 1",
+    "value": 1497,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_DOMINUS2",
+    "label": "Tp Dominus 2",
+    "value": 1498,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_DOMINUS3",
+    "label": "Tp Dominus 3",
+    "value": 1499,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_DOMINUS4",
+    "label": "Tp Dominus 4",
+    "value": 1500,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SACREDBEASTS1",
+    "label": "Tp Sacredbeasts 1",
+    "value": 1501,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SACREDBEASTS2",
+    "label": "Tp Sacredbeasts 2",
+    "value": 1502,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_STARFLAIL1",
+    "label": "Tp Starflail 1",
+    "value": 1503,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_STARFLAIL2",
+    "label": "Tp Starflail 2",
+    "value": 1504,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_LEMURIA1",
+    "label": "Tp Lemuria 1",
+    "value": 1505,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_LEMURIA2",
+    "label": "Tp Lemuria 2",
+    "value": 1506,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SPECTRALSWORD",
+    "label": "Tp Spectralsword",
+    "value": 1507,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SHIELD1",
+    "label": "Tp Shield 1",
+    "value": 1508,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SHIELD2",
+    "label": "Tp Shield 2",
+    "value": 1509,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_RPG1_EXPLOSION",
+    "label": "Tp Rpg 1 Explosion",
+    "value": 1510,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_WINEGLASS1_SHARD",
+    "label": "Tp Wineglass 1 Shard",
+    "value": 1511,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_NEUTRON_PICKUP",
+    "label": "Tp Neutron Pickup",
+    "value": 1512,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_NEUTRON_WEAPON",
+    "label": "Tp Neutron Weapon",
+    "value": 1513,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SOULSTEAL_PICKUP",
+    "label": "Tp Soulsteal Pickup",
+    "value": 1514,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ALUCARDSPEAR1_BODY",
+    "label": "Tp Alucardspear 1 Body",
+    "value": 1515,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SACREDBEASTS1_BIRD",
+    "label": "Tp Sacredbeasts 1 Bird",
+    "value": 1516,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SACREDBEASTS1_TURTLE",
+    "label": "Tp Sacredbeasts 1 Turtle",
+    "value": 1517,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SACREDBEASTS1_DRAGON",
+    "label": "Tp Sacredbeasts 1 Dragon",
+    "value": 1518,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SACREDBEASTS1_CAT",
+    "label": "Tp Sacredbeasts 1 Cat",
+    "value": 1519,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "BLANK_PROJECTILE",
+    "label": "Blank Projectile",
+    "value": 1520,
+    "group": null
+  },
+  {
+    "id": "TP_HOLYWHIP1_SMOKE",
+    "label": "Tp Holywhip 1 Smoke",
+    "value": 1521,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_WINDWHIP1_FIRE",
+    "label": "Tp Windwhip 1 Fire",
+    "value": 1522,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_WINDWHIP1_EXPLOSION",
+    "label": "Tp Windwhip 1 Explosion",
+    "value": 1523,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_GEARS_WEAPON",
+    "label": "Tp Gears Weapon",
+    "value": 1524,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_PENDULUM_WEAPON",
+    "label": "Tp Pendulum Weapon",
+    "value": 1525,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SHURIKEN1_EXPLOSION",
+    "label": "Tp Shuriken 1 Explosion",
+    "value": 1526,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_GUN1_GUN",
+    "label": "Tp Gun 1 Gun",
+    "value": 1527,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_MACE1_CRIT",
+    "label": "Tp Mace 1 Crit",
+    "value": 1528,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_LIGHT2_ORBIT",
+    "label": "Tp Light 2 Orbit",
+    "value": 1529,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SAVROG_WEAPON",
+    "label": "Tp Savrog Weapon",
+    "value": 1530,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SHIELD1_BLADE",
+    "label": "Tp Shield 1 Blade",
+    "value": 1531,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_STARFLAIL1_BLADE",
+    "label": "Tp Starflail 1 Blade",
+    "value": 1532,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_CHAUVE2_BEAM",
+    "label": "Tp Chauve 2 Beam",
+    "value": 1533,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_CUSTOS3_BITE",
+    "label": "Tp Custos 3 Bite",
+    "value": 1534,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_RPG2_EXPLOSION",
+    "label": "Tp Rpg 2 Explosion",
+    "value": 1535,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_MACE2_CRIT",
+    "label": "Tp Mace 2 Crit",
+    "value": 1536,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ALUCARDSPEAR_POMMEL",
+    "label": "Tp Alucardspear Pommel",
+    "value": 1537,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_GUN1_SHRAPNEL",
+    "label": "Tp Gun 1 Shrapnel",
+    "value": 1538,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_MACE1_LINGER",
+    "label": "Tp Mace 1 Linger",
+    "value": 1539,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_MACE1_CRIT_LINGER",
+    "label": "Tp Mace 1 Crit Linger",
+    "value": 1540,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_MACE2_INVIS",
+    "label": "Tp Mace 2 Invis",
+    "value": 1541,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_MACE2_STANDARD",
+    "label": "Tp Mace 2 Standard",
+    "value": 1542,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_STARFLAIL1_BODY",
+    "label": "Tp Starflail 1 Body",
+    "value": 1543,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_HOLYWHIP1_NODE",
+    "label": "Tp Holywhip 1 Node",
+    "value": 1544,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_CUSTOS4_FIREBALL",
+    "label": "Tp Custos 4 Fireball",
+    "value": 1545,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SONICWHIP1",
+    "label": "Tp Sonicwhip 1",
+    "value": 1546,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_WINDWHIP1_NODE",
+    "label": "Tp Windwhip 1 Node",
+    "value": 1547,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_DRAGONWATER1_NODE",
+    "label": "Tp Dragonwater 1 Node",
+    "value": 1548,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_unused1_node",
+    "label": "TP_unused 1_node",
+    "value": 1549,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_LEMURIA1_NODE",
+    "label": "Tp Lemuria 1 Node",
+    "value": 1550,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_LEMURIA1_SPIKE",
+    "label": "Tp Lemuria 1 Spike",
+    "value": 1551,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_unused1_slam",
+    "label": "TP_unused 1_slam",
+    "value": 1552,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_STARFLAIL2_BLADE",
+    "label": "Tp Starflail 2 Blade",
+    "value": 1553,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_GOTH_MISSILE",
+    "label": "Tp Goth Missile",
+    "value": 1554,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_GOTH_MISSILE_HOLYWHIP2",
+    "label": "Tp Goth Missile Holywhip 2",
+    "value": 1555,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_HYDROSTORM",
+    "label": "Tp Hydrostorm",
+    "value": 1556,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_HYDROSTORM_WATERDRAGONWHIP",
+    "label": "Tp Hydrostorm Waterdragonwhip",
+    "value": 1557,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SONICWHIP1_NODE",
+    "label": "Tp Sonicwhip 1 Node",
+    "value": 1558,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FIRE2_TAIL",
+    "label": "Tp Fire 2 Tail",
+    "value": 1559,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_DARKRIFT",
+    "label": "Tp Darkrift",
+    "value": 1560,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_DARKRIFT_JETBLACKWHIP",
+    "label": "Tp Darkrift Jetblackwhip",
+    "value": 1561,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SUMMON_SPIRIT",
+    "label": "Tp Summon Spirit",
+    "value": 1562,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SWORD_BROTHERS",
+    "label": "Tp Sword Brothers",
+    "value": 1563,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_VALMANWAY",
+    "label": "Tp Valmanway",
+    "value": 1564,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_VALMANWAY_SONICWHIP",
+    "label": "Tp Valmanway Sonicwhip",
+    "value": 1565,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_WHIPMEMORY",
+    "label": "Tp Whipmemory",
+    "value": 1566,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_GRANDCROSS",
+    "label": "Tp Grandcross",
+    "value": 1567,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_GRANDCROSS_PLATINUMWHIP",
+    "label": "Tp Grandcross Platinumwhip",
+    "value": 1568,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SPIRITTORNADO",
+    "label": "Tp Spirittornado",
+    "value": 1569,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SPIRITTORNADO_WINDWHIP",
+    "label": "Tp Spirittornado Windwhip",
+    "value": 1570,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_unused_earth2_counter",
+    "label": "TP_unused_earth 2_counter",
+    "value": 1571,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_DIAMOND3",
+    "label": "Tp Diamond 3",
+    "value": 1572,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ELEVATOR_WEAPON",
+    "label": "Tp Elevator Weapon",
+    "value": 1573,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_HEADS_WEAPON",
+    "label": "Tp Heads Weapon",
+    "value": 1574,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_CLOCKTOWER_WEAPON",
+    "label": "Tp Clocktower Weapon",
+    "value": 1575,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_unused_energy2_counter",
+    "label": "TP_unused_energy 2_counter",
+    "value": 1576,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SHIELD2_METEORS",
+    "label": "Tp Shield 2 Meteors",
+    "value": 1577,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_AURABLAST_WEAPON",
+    "label": "Tp Aurablast Weapon",
+    "value": 1578,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_BLUEFIRE_WEAPON",
+    "label": "Tp Bluefire Weapon",
+    "value": 1579,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_AURABLAST_MARTIALWHIP",
+    "label": "Tp Aurablast Martialwhip",
+    "value": 1580,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SHAFTORB",
+    "label": "Tp Shaftorb",
+    "value": 1581,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ACC_FAMILIAR_UKOBACK",
+    "label": "Tp Acc Familiar Ukoback",
+    "value": 1582,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ACC_FAMILIAR_BITTERFLY",
+    "label": "Tp Acc Familiar Bitterfly",
+    "value": 1583,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ACC_FAMILIAR_IMP",
+    "label": "Tp Acc Familiar Imp",
+    "value": 1584,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ACC_FAMILIAR_ALLEGEDGHOST",
+    "label": "Tp Acc Familiar Allegedghost",
+    "value": 1585,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ACC_FAMILIAR_WIZARD",
+    "label": "Tp Acc Familiar Wizard",
+    "value": 1586,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ACC_FAMILIAR_FAIRY",
+    "label": "Tp Acc Familiar Fairy",
+    "value": 1587,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ACC_FAMILIAR_PUMPKIN",
+    "label": "Tp Acc Familiar Pumpkin",
+    "value": 1588,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FAMILIARFORGE",
+    "label": "Tp Familiarforge",
+    "value": 1589,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ACC_FAMILIAR_CARDINAL",
+    "label": "Tp Acc Familiar Cardinal",
+    "value": 1590,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ACC_FAMILIAR_DRAGON",
+    "label": "Tp Acc Familiar Dragon",
+    "value": 1591,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ACC_FAMILIAR_TIGER",
+    "label": "Tp Acc Familiar Tiger",
+    "value": 1592,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ACC_FAMILIAR_TURTLE",
+    "label": "Tp Acc Familiar Turtle",
+    "value": 1593,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ICEBRAND",
+    "label": "Tp Icebrand",
+    "value": 1594,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FROG",
+    "label": "Tp Frog",
+    "value": 1595,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "BLOOD_RAPIDUS",
+    "label": "Blood Rapidus",
+    "value": 1596,
+    "group": null
+  },
+  {
+    "id": "TP_DEATHHAND",
+    "label": "Tp Deathhand",
+    "value": 1597,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_DRACULAHAND",
+    "label": "Tp Draculahand",
+    "value": 1598,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_POWEROFLIRE",
+    "label": "Tp Poweroflire",
+    "value": 1599,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_NEUTRON_WEAPON2",
+    "label": "Tp Neutron Weapon 2",
+    "value": 1600,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SAVROG_WEAPON2",
+    "label": "Tp Savrog Weapon 2",
+    "value": 1601,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_HYDROSTORM2",
+    "label": "Tp Hydrostorm 2",
+    "value": 1602,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_GRANDCROSS2",
+    "label": "Tp Grandcross 2",
+    "value": 1603,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_GOTH_MISSILE2",
+    "label": "Tp Goth Missile 2",
+    "value": 1604,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_ICEBRAND2",
+    "label": "Tp Icebrand 2",
+    "value": 1605,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_VALMANWAY2",
+    "label": "Tp Valmanway 2",
+    "value": 1606,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_AURABLAST_WEAPON2",
+    "label": "Tp Aurablast Weapon 2",
+    "value": 1607,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SOULSTEAL_WEAPON2",
+    "label": "Tp Soulsteal Weapon 2",
+    "value": 1608,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_DARKRIFT2",
+    "label": "Tp Darkrift 2",
+    "value": 1609,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SWORD_BROTHERS2",
+    "label": "Tp Sword Brothers 2",
+    "value": 1610,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SUMMON_SPIRIT2",
+    "label": "Tp Summon Spirit 2",
+    "value": 1611,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SPIRITTORNADO2",
+    "label": "Tp Spirittornado 2",
+    "value": 1612,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FROG2",
+    "label": "Tp Frog 2",
+    "value": 1613,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_FROG_COUNTER",
+    "label": "Tp Frog Counter",
+    "value": 1614,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_POCKET1",
+    "label": "Tp Pocket 1",
+    "value": 1615,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_POCKET2",
+    "label": "Tp Pocket 2",
+    "value": 1616,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_LAPISTE1",
+    "label": "Tp Lapiste 1",
+    "value": 1617,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_LAPISTE2",
+    "label": "Tp Lapiste 2",
+    "value": 1618,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_RULERSWORD_BODY",
+    "label": "Tp Rulersword Body",
+    "value": 1619,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "LEM_ACC_SABOTEUR",
+    "label": "Lem Acc Saboteur",
+    "value": 1700,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_INFERNO1",
+    "label": "Lem Inferno 1",
+    "value": 1701,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_INFERNO2",
+    "label": "Lem Inferno 2",
+    "value": 1702,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_BANANA1",
+    "label": "Lem Banana 1",
+    "value": 1703,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_BANANA2",
+    "label": "Lem Banana 2",
+    "value": 1704,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_FIBONACCI1",
+    "label": "Lem Fibonacci 1",
+    "value": 1705,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_FIBONACCI2",
+    "label": "Lem Fibonacci 2",
+    "value": 1706,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_PLANETS1",
+    "label": "Lem Planets 1",
+    "value": 1707,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_PLANETS2",
+    "label": "Lem Planets 2",
+    "value": 1708,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_BANANA2_HIDDEN",
+    "label": "Lem Banana 2 Hidden",
+    "value": 1709,
+    "group": "Balatro"
+  },
+  {
+    "id": "BMN000_SCARLET1",
+    "label": "Bmn 000 Scarlet 1",
+    "value": 1800,
+    "group": null
+  },
+  {
+    "id": "BMN001_SCARLET2",
+    "label": "Bmn 001 Scarlet 2",
+    "value": 1801,
+    "group": null
+  },
+  {
+    "id": "BMN002_DUST1",
+    "label": "Bmn 002 Dust 1",
+    "value": 1802,
+    "group": null
+  },
+  {
+    "id": "BMN003_DUST2",
+    "label": "Bmn 003 Dust 2",
+    "value": 1803,
+    "group": null
+  },
+  {
+    "id": "BMN004_AXE1",
+    "label": "Bmn 004 Axe 1",
+    "value": 1804,
+    "group": null
+  },
+  {
+    "id": "BMN005_AXE2",
+    "label": "Bmn 005 Axe 2",
+    "value": 1805,
+    "group": null
+  },
+  {
+    "id": "BMN006_SCREAM1",
+    "label": "Bmn 006 Scream 1",
+    "value": 1806,
+    "group": null
+  },
+  {
+    "id": "BMN007_SCREAM2",
+    "label": "Bmn 007 Scream 2",
+    "value": 1807,
+    "group": null
+  },
+  {
+    "id": "BMN008_BLACKEN1",
+    "label": "Bmn 008 Blacken 1",
+    "value": 1808,
+    "group": null
+  },
+  {
+    "id": "BMN009_BLACKEN2",
+    "label": "Bmn 009 Blacken 2",
+    "value": 1809,
+    "group": null
+  },
+  {
+    "id": "BMN010_FIRE1_FALL",
+    "label": "Bmn 010 Fire 1 Fall",
+    "value": 1810,
+    "group": null
+  },
+  {
+    "id": "BMN011_FIRE2_BALL",
+    "label": "Bmn 011 Fire 2 Ball",
+    "value": 1811,
+    "group": null
+  },
+  {
+    "id": "BMN012_FIRE3_WALL",
+    "label": "Bmn 012 Fire 3 Wall",
+    "value": 1812,
+    "group": null
+  },
+  {
+    "id": "BMN013_FIRE4",
+    "label": "Bmn 013 Fire 4",
+    "value": 1813,
+    "group": null
+  },
+  {
+    "id": "MS_LUNAR1_MIGHT",
+    "label": "Ms Lunar 1 Might",
+    "value": 1814,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_LUNAR2_SIGHT",
+    "label": "Ms Lunar 2 Sight",
+    "value": 1815,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_LUNAR3_BIGHT",
+    "label": "Ms Lunar 3 Bight",
+    "value": 1816,
+    "group": "Moonspell"
+  },
+  {
+    "id": "MS_LUNAR4",
+    "label": "Ms Lunar 4",
+    "value": 1817,
+    "group": "Moonspell"
+  },
+  {
+    "id": "SILVERWIND3",
+    "label": "Silverwind 3",
+    "value": 1818,
+    "group": null
+  },
+  {
+    "id": "PEARLMAGATAMA",
+    "label": "Pearlmagatama",
+    "value": 1819,
+    "group": null
+  },
+  {
+    "id": "BMN_BLOODHEX",
+    "label": "Bmn Bloodhex",
+    "value": 1820,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_SUMMONSKELETONS",
+    "label": "Bmn Summonskeletons",
+    "value": 1821,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BMN_DODECAHEDRON",
+    "label": "Bmn Dodecahedron",
+    "value": 1822,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "BUBBLE_SUPPORT",
+    "label": "Bubble Support",
+    "value": 1823,
+    "group": null
+  },
+  {
+    "id": "BMN_BAALLASTBREATH",
+    "label": "Bmn Baallastbreath",
+    "value": 1824,
+    "group": "Bloodmoon"
+  },
+  {
+    "id": "EME_RAPIER_TECH_01",
+    "label": "Eme Rapier Tech 01",
+    "value": 2361,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_RAPIER_TECH_02",
+    "label": "Eme Rapier Tech 02",
+    "value": 2362,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_RAPIER_TECH_03",
+    "label": "Eme Rapier Tech 03",
+    "value": 2363,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_DUAL_TECH_01",
+    "label": "Eme Dual Tech 01",
+    "value": 2364,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_DUAL_TECH_02",
+    "label": "Eme Dual Tech 02",
+    "value": 2365,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_PUNCH_TECH_01",
+    "label": "Eme Punch Tech 01",
+    "value": 2366,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_PUNCH_TECH_02",
+    "label": "Eme Punch Tech 02",
+    "value": 2367,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_PUNCH_TECH_03",
+    "label": "Eme Punch Tech 03",
+    "value": 2368,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_KICK_TECH_01",
+    "label": "Eme Kick Tech 01",
+    "value": 2369,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_KICK_TECH_02",
+    "label": "Eme Kick Tech 02",
+    "value": 2370,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_CANNON_TECH_01",
+    "label": "Eme Cannon Tech 01",
+    "value": 2371,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_CANNON_TECH_02",
+    "label": "Eme Cannon Tech 02",
+    "value": 2372,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_CANNON_TECH_03",
+    "label": "Eme Cannon Tech 03",
+    "value": 2373,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_PISTOL_TECH_01",
+    "label": "Eme Pistol Tech 01",
+    "value": 2374,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_PISTOL_TECH_02",
+    "label": "Eme Pistol Tech 02",
+    "value": 2375,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_MECH_TECH_01",
+    "label": "Eme Mech Tech 01",
+    "value": 2376,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_MECH_TECH_02",
+    "label": "Eme Mech Tech 02",
+    "value": 2377,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_MECH_TECH_03",
+    "label": "Eme Mech Tech 03",
+    "value": 2378,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_KATANA_TECH_01",
+    "label": "Eme Katana Tech 01",
+    "value": 2379,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_KATANA_TECH_02",
+    "label": "Eme Katana Tech 02",
+    "value": 2380,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_LONGSWORD_TECH_01",
+    "label": "Eme Longsword Tech 01",
+    "value": 2381,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_LONGSWORD_TECH_02",
+    "label": "Eme Longsword Tech 02",
+    "value": 2382,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_LONGSWORD_TECH_03",
+    "label": "Eme Longsword Tech 03",
+    "value": 2383,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_BLOOD_TECH_01",
+    "label": "Eme Blood Tech 01",
+    "value": 2384,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_BLOOD_TECH_02",
+    "label": "Eme Blood Tech 02",
+    "value": 2385,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_SPEAR_TECH_01",
+    "label": "Eme Spear Tech 01",
+    "value": 2386,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_SPEAR_TECH_02",
+    "label": "Eme Spear Tech 02",
+    "value": 2387,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_SPEAR_TECH_03",
+    "label": "Eme Spear Tech 03",
+    "value": 2388,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_AXE_TECH_01",
+    "label": "Eme Axe Tech 01",
+    "value": 2389,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_AXE_TECH_02",
+    "label": "Eme Axe Tech 02",
+    "value": 2390,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_KNIFE_TECH_01",
+    "label": "Eme Knife Tech 01",
+    "value": 2391,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_KNIFE_TECH_02",
+    "label": "Eme Knife Tech 02",
+    "value": 2392,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_GREATSWORD_TECH_01",
+    "label": "Eme Greatsword Tech 01",
+    "value": 2393,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_GREATSWORD_TECH_02",
+    "label": "Eme Greatsword Tech 02",
+    "value": 2394,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_GREATSWORD_TECH_03",
+    "label": "Eme Greatsword Tech 03",
+    "value": 2395,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_MAGIC_TECH_01",
+    "label": "Eme Magic Tech 01",
+    "value": 2396,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_MAGIC_TECH_02",
+    "label": "Eme Magic Tech 02",
+    "value": 2397,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_MAGIC_TECH_03",
+    "label": "Eme Magic Tech 03",
+    "value": 2398,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_MAGIC_TECH_04",
+    "label": "Eme Magic Tech 04",
+    "value": 2399,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_MAGIC_TECH_05",
+    "label": "Eme Magic Tech 05",
+    "value": 2400,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_MAGIC_TECH_06",
+    "label": "Eme Magic Tech 06",
+    "value": 2401,
+    "group": "Emerald Diorama"
+  }
+]

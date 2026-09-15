@@ -1,0 +1,3086 @@
+[
+  {
+    "id": "ReachLV5",
+    "label": "Reach LV 5",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "ReachLV10",
+    "label": "Reach LV 10",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Have6DifferentWeapons",
+    "label": "Have 6 Different Weapons",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "GetFireWandToLevel4",
+    "label": "Get Fire Wand To Level 4",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "GetHolyBookToLevel4",
+    "label": "Get Holy Book To Level 4",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "GetHolyWaterToLevel4",
+    "label": "Get Holy Water To Level 4",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "GetLightningRingToLevel4",
+    "label": "Get Lightning Ring To Level 4",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "GetMagicMissileToLevel7",
+    "label": "Get Magic Missile To Level 7",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "GetPeachoneToLevel7",
+    "label": "Get Peachone To Level 7",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "GetRunetracerToLevel7",
+    "label": "Get Runetracer To Level 7",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Survive1Minute",
+    "label": "Survive 1 Minute",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Survive5MinutesWithDiamond",
+    "label": "Survive 5 Minutes With Diamond",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Survive10Minutes",
+    "label": "Survive 10 Minutes",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Survive20Minutes",
+    "label": "Survive 20 Minutes",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Destroy20Candles",
+    "label": "Destroy 20 Candles",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Eat5PotRoast",
+    "label": "Eat 5 Pot Roast",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindAClover",
+    "label": "Find A Clover",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindAVacuum",
+    "label": "Find A Vacuum",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindAnOrologion",
+    "label": "Find An Orologion",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindARosary",
+    "label": "Find A Rosary",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Defeat5000Enemies",
+    "label": "Defeat 5000 Enemies",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Defeat3000Skeletons",
+    "label": "Defeat 3000 Skeletons",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "DefeatBossMadForest",
+    "label": "Defeat Boss Mad Forest",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "ReachLV20InMadForest",
+    "label": "Reach LV 20 In Mad Forest",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "DefeatBossLibrary",
+    "label": "Defeat Boss Library",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Survive5MinutesWithKnife",
+    "label": "Survive 5 Minutes With Knife",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindAStoneMask",
+    "label": "Find A Stone Mask",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "GetGarlicToLevel7",
+    "label": "Get Garlic To Level 7",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "EvolveWhip",
+    "label": "Evolve Whip",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "EvolveMagicWand",
+    "label": "Evolve Magic Wand",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "EvolveKnife",
+    "label": "Evolve Knife",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "EvolveAxe",
+    "label": "Evolve Axe",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "EvolveCross",
+    "label": "Evolve Cross",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "EvolveKingBible",
+    "label": "Evolve King Bible",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "EvolveFireWand",
+    "label": "Evolve Fire Wand",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "EvolveGarlic",
+    "label": "Evolve Garlic",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "UniteBirds",
+    "label": "Unite Birds",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Recover1000HP",
+    "label": "Recover 1000 HP",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Earn5000CoinsInASingleRun",
+    "label": "Earn 5000 Coins In A Single Run",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Unlock2Hypers",
+    "label": "Unlock 2 Hypers",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Survive20MinutesWithCross",
+    "label": "Survive 20 Minutes With Cross",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Defeat100KEnemies",
+    "label": "Defeat 100 K Enemies",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "EvolveSantaWater",
+    "label": "Evolve Santa Water",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "EvolveLightning",
+    "label": "Evolve Lightning",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "ReachLV100WithMortaccio",
+    "label": "Reach LV 100 With Mortaccio",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Survive30MinutesInGreenAcres",
+    "label": "Survive 30 Minutes In Green Acres",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Survive30MinutesWithAxe",
+    "label": "Survive 30 Minutes With Axe",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Survive20MinutesWithCurse",
+    "label": "Survive 20 Minutes With Curse",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Defeat3000Buers",
+    "label": "Defeat 3000 Buers",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "ReachLV100WithCavallo",
+    "label": "Reach LV 100 With Cavallo",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "ReachLV40InLibrary",
+    "label": "Reach LV 40 In Library",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "DefeatBossPlant",
+    "label": "Defeat Boss Plant",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindMilkyWayMap",
+    "label": "Find Milky Way Map",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindCoffinStage3",
+    "label": "Find Coffin Stage 3",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Survive15MinutesWithSong",
+    "label": "Survive 15 Minutes With Song",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "EvolveSongOfMana",
+    "label": "Evolve Song Of Mana",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "GetPentagramToLevel7",
+    "label": "Get Pentagram To Level 7",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Unlock3Hypers",
+    "label": "Unlock 3 Hypers",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Survive15MinutesInMolise",
+    "label": "Survive 15 Minutes In Molise",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "EvolvePentagram",
+    "label": "Evolve Pentagram",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "See50Items",
+    "label": "See 50 Items",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindCoffinStage1",
+    "label": "Find Coffin Stage 1",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Survive10MinutesWithGuns",
+    "label": "Survive 10 Minutes With Guns",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Survive15MinutesWithGuns",
+    "label": "Survive 15 Minutes With Guns",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "EvolveGuns",
+    "label": "Evolve Guns",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "ReachLV60InDairyPlant",
+    "label": "Reach LV 60 In Dairy Plant",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindSorceressTears",
+    "label": "Find Sorceress Tears",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "DefeatBossTower",
+    "label": "Defeat Boss Tower",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "See60Items",
+    "label": "See 60 Items",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "ReachLV100WithRamba",
+    "label": "Reach LV 100 With Ramba",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Defeat3000Milk",
+    "label": "Defeat 3000 Milk",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "EvolveRunetracer",
+    "label": "Evolve Runetracer",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "See70Items",
+    "label": "See 70 Items",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindRandomazzo",
+    "label": "Find Randomazzo",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "ReachLV99WithGiovanna",
+    "label": "Reach LV 99 With Giovanna",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "ReachLV99WithKroci",
+    "label": "Reach LV 99 With Kroci",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindRandomazzoT06",
+    "label": "Find Randomazzo T 06",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "ReachLV99WithLama",
+    "label": "Reach LV 99 With Lama",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "ReachLV99WithPoppea",
+    "label": "Reach LV 99 With Poppea",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "ReachLV99WithArca",
+    "label": "Reach LV 99 With Arca",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Survive15MinutesWithGatti",
+    "label": "Survive 15 Minutes With Gatti",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindCoffinStage2",
+    "label": "Find Coffin Stage 2",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Defeat3000Hydra",
+    "label": "Defeat 3000 Hydra",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Unlock3Hypers_Correct",
+    "label": "Unlock 3 Hypers_Correct",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Survive30MinutesInBoneZone",
+    "label": "Survive 30 Minutes In Bone Zone",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "ReachLV100WithOsole",
+    "label": "Reach LV 100 With Osole",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "ReachLV99WithImelda",
+    "label": "Reach LV 99 With Imelda",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "ReachLV99WithGennaro",
+    "label": "Reach LV 99 With Gennaro",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindCoffinStage4",
+    "label": "Find Coffin Stage 4",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "ReachLV99WithConcetta",
+    "label": "Reach LV 99 With Concetta",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Survive15MinutesWithShadow",
+    "label": "Survive 15 Minutes With Shadow",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "EvolveGatti",
+    "label": "Evolve Gatti",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "EvolveShadow",
+    "label": "Evolve Shadow",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Survive31MinutesInLibrary",
+    "label": "Survive 31 Minutes In Library",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "See80Items",
+    "label": "See 80 Items",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindMagicBanger",
+    "label": "Find Magic Banger",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Unlock4Hypers",
+    "label": "Unlock 4 Hypers",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Survive15MinutesInMoongolow",
+    "label": "Survive 15 Minutes In Moongolow",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "BuyGlassMask",
+    "label": "Buy Glass Mask",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "ReachLV99WithPasqualina",
+    "label": "Reach LV 99 With Pasqualina",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Survive31MinutesInTower",
+    "label": "Survive 31 Minutes In Tower",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "See90Items",
+    "label": "See 90 Items",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindYellowSign",
+    "label": "Find Yellow Sign",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "ObtainTheInfiniteCorridor",
+    "label": "Obtain The Infinite Corridor",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "ObtainTheCrimsonShroud",
+    "label": "Obtain The Crimson Shroud",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "ReachLV99WithAntonio",
+    "label": "Reach LV 99 With Antonio",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Survive31MinutesInForest",
+    "label": "Survive 31 Minutes In Forest",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Have6Evolutions",
+    "label": "Have 6 Evolutions",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "GetTorroneToLevel9",
+    "label": "Get Torrone To Level 9",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindYellowSignS5",
+    "label": "Find Yellow Sign S 5",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindCoffinStage5",
+    "label": "Find Coffin Stage 5",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Survive15MinutesWithWind",
+    "label": "Survive 15 Minutes With Wind",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "EvolveWind",
+    "label": "Evolve Wind",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "DefeatBossChapel",
+    "label": "Defeat Boss Chapel",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Defeat6000StageKillers",
+    "label": "Defeat 6000 Stage Killers",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "ReachLV99WithPorta",
+    "label": "Reach LV 99 With Porta",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Survive31MinutesInDairyPlant",
+    "label": "Survive 31 Minutes In Dairy Plant",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "See100Items",
+    "label": "See 100 Items",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "ReachLV100WithAmbrojoe",
+    "label": "Reach LV 100 With Ambrojoe",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindGrimoire",
+    "label": "Find Grimoire",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindGouda",
+    "label": "Find Gouda",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindGGospel",
+    "label": "Find G Gospel",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "DefeatBossChapel2",
+    "label": "Defeat Boss Chapel 2",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Unlock5Hypers",
+    "label": "Unlock 5 Hypers",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Survive15MinutesInBossRash",
+    "label": "Survive 15 Minutes In Boss Rash",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "ReachLV99WithDommario",
+    "label": "Reach LV 99 With Dommario",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "ReachLV99WithPugnala",
+    "label": "Reach LV 99 With Pugnala",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "ReachLV99WithChristine",
+    "label": "Reach LV 99 With Christine",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindForbiddenScroll",
+    "label": "Find Forbidden Scroll",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "CompleteCollection",
+    "label": "Complete Collection",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Defeat100kWithSigma",
+    "label": "Defeat 100k With Sigma",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "ReachLV99WithClerici",
+    "label": "Reach LV 99 With Clerici",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "ReachLV99WithPoe",
+    "label": "Reach LV 99 With Poe",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "GalloDivano",
+    "label": "Gallo Divano",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "EvolveBracelet",
+    "label": "Evolve Bracelet",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "EvolveAll",
+    "label": "Evolve All",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "ObtainAllRelics",
+    "label": "Obtain All Relics",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "ObtainSeventhTrumpet",
+    "label": "Obtain Seventh Trumpet",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "ObtainGraciasMirror",
+    "label": "Obtain Gracias Mirror",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "GreatestJubilee",
+    "label": "Greatest Jubilee",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Banish10Items",
+    "label": "Banish 10 Items",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "ReachLV80InverseTower",
+    "label": "Reach LV 80 Inverse Tower",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Unlock20BasePowerUps",
+    "label": "Unlock 20 Base Power Ups",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "MOON01_FindCoffin",
+    "label": "MOON 01_Find Coffin",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "MOON02_Survive15Miang",
+    "label": "MOON 02_Survive 15 Miang",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "MOON03_EvolveSilverWind",
+    "label": "MOON 03_Evolve Silver Wind",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "MOON04_Survive15Menya",
+    "label": "MOON 04_Survive 15 Menya",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "MOON05_EvolveFourSeasons",
+    "label": "MOON 05_Evolve Four Seasons",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "MOON06_Survive15Syuuto",
+    "label": "MOON 06_Survive 15 Syuuto",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "MOON07_EvolveSummonNight",
+    "label": "MOON 07_Evolve Summon Night",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "MOON08_Survive15BabiOnna",
+    "label": "MOON 08_Survive 15 Babi Onna",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "MOON09_EvolveMirageRobe",
+    "label": "MOON 09_Evolve Mirage Robe",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "MOON10_Survive15McCoy",
+    "label": "MOON 10_Survive 15 Mc Coy",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "MOON11_Defeat100kVanya",
+    "label": "MOON 11_Defeat 100k Vanya",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "MOON12_Defeat100kVadjouel",
+    "label": "MOON 12_Defeat 100k Vadjouel",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "MOON13_Defeat6kWater",
+    "label": "MOON 13_Defeat 6k Water",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "MOON14_FindNightSword",
+    "label": "MOON 14_Find Night Sword",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "MOON15_EvolveNightSword",
+    "label": "MOON 15_Evolve Night Sword",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "MOON16_DefeatBossRuins",
+    "label": "MOON 16_Defeat Boss Ruins",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "MOON17_EvolveBubbles",
+    "label": "MOON 17_Evolve Bubbles",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "ReachLV80InverseForest",
+    "label": "Reach LV 80 Inverse Forest",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindChaosMalachite",
+    "label": "Find Chaos Malachite",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindApoplexy",
+    "label": "Find Apoplexy",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Banish20Items",
+    "label": "Banish 20 Items",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FOSC01_FindCoffin",
+    "label": "FOSC 01_Find Coffin",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FOSC02_Survive15Eleanor",
+    "label": "FOSC 02_Survive 15 Eleanor",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FOSC03_GetStreamToLevel6",
+    "label": "FOSC 03_Get Stream To Level 6",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FOSC04_GetStrikeToLevel6",
+    "label": "FOSC 04_Get Strike To Level 6",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FOSC05_UniteSpells",
+    "label": "FOSC 05_Unite Spells",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FOSC06_Survive15Viktor",
+    "label": "FOSC 06_Survive 15 Viktor",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FOSC07_EvolveEskizzibur",
+    "label": "FOSC 07_Evolve Eskizzibur",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FOSC08_Survive15Keira",
+    "label": "FOSC 08_Survive 15 Keira",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FOSC09_EvolveFlashArrow",
+    "label": "FOSC 09_Evolve Flash Arrow",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FOSC10_BreakSeal1",
+    "label": "FOSC 10_Break Seal 1",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FOSC11_BreakSeal2",
+    "label": "FOSC 11_Break Seal 2",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FOSC12_BreakSeal3",
+    "label": "FOSC 12_Break Seal 3",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FOSC13_Survive15Luminaire",
+    "label": "FOSC 13_Survive 15 Luminaire",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FOSC14_EvolvePrismatic",
+    "label": "FOSC 14_Evolve Prismatic",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FOSC15_Survive15Genevieve",
+    "label": "FOSC 15_Survive 15 Genevieve",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FOSC16_EvolveShadow",
+    "label": "FOSC 16_Evolve Shadow",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FOSC17_Defeat100kGenevieve",
+    "label": "FOSC 17_Defeat 100k Genevieve",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FOSC18_Defeat6kFairy",
+    "label": "FOSC 18_Defeat 6k Fairy",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FOSC19_Defeat6kHorror",
+    "label": "FOSC 19_Defeat 6k Horror",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FOSC20_DefeatBossLake",
+    "label": "FOSC 20_Defeat Boss Lake",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FOSC21_DefeatBossAbyss",
+    "label": "FOSC 21_Defeat Boss Abyss",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "ReachLV80InverseLibrary",
+    "label": "Reach LV 80 Inverse Library",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindChaosRosalia",
+    "label": "Find Chaos Rosalia",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindTrisection",
+    "label": "Find Trisection",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "MOON18_FindMap_Moonspell",
+    "label": "MOON 18_Find Map_Moonspell",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FOSC22_FindMap_Foscari",
+    "label": "FOSC 22_Find Map_Foscari",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindMap_AstralStair",
+    "label": "Find Map_Astral Stair",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindManyOrologions",
+    "label": "Find Many Orologions",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "GetGlassFandangoToLevel7",
+    "label": "Get Glass Fandango To Level 7",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "EvolveGlassFandango",
+    "label": "Evolve Glass Fandango",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "SurviveUntilTheEndOfWhiteout",
+    "label": "Survive Until The End Of Whiteout",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindAntidote",
+    "label": "Find Antidote",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindChaosAltemanna",
+    "label": "Find Chaos Altemanna",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindAtlas",
+    "label": "Find Atlas",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "CHAL01_FindCoffin",
+    "label": "CHAL 01_Find Coffin",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "CHAL02_Survive15Red",
+    "label": "CHAL 02_Survive 15 Red",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "CHAL03_EvolveReport",
+    "label": "CHAL 03_Evolve Report",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "CHAL04_Survive15Purple",
+    "label": "CHAL 04_Survive 15 Purple",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "CHAL05_EvolveTongue",
+    "label": "CHAL 05_Evolve Tongue",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "CHAL06_Survive15Orange",
+    "label": "CHAL 06_Survive 15 Orange",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "CHAL07_EvolveSwipe",
+    "label": "CHAL 07_Evolve Swipe",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "CHAL08_ReachLv50Pink",
+    "label": "CHAL 08_Reach Lv 50 Pink",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "CHAL09_EvolveSamples",
+    "label": "CHAL 09_Evolve Samples",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "CHAL10_Survive15Green",
+    "label": "CHAL 10_Survive 15 Green",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "CHAL11_EvolveVent",
+    "label": "CHAL 11_Evolve Vent",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "CHAL12_GetMedicalToLevel7",
+    "label": "CHAL 12_Get Medical To Level 7",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "CHAL13_EvolveMedical",
+    "label": "CHAL 13_Evolve Medical",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "CHAL14_KillOneWithYellow",
+    "label": "CHAL 14_Kill One With Yellow",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "CHAL15_ReachLv50Blue",
+    "label": "CHAL 15_Reach Lv 50 Blue",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "CHAL16_EvolveGarbage",
+    "label": "CHAL 16_Evolve Garbage",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "CHAL17_Defeat6000Cute",
+    "label": "CHAL 17_Defeat 6000 Cute",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "CHAL18_Defeat100kPurple",
+    "label": "CHAL 18_Defeat 100k Purple",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "CHAL19_DefeatBoss25",
+    "label": "CHAL 19_Defeat Boss 25",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "CHAL20_FindMap",
+    "label": "CHAL 20_Find Map",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "DefeatManyBats",
+    "label": "Defeat Many Bats",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindManyGoldenFinger",
+    "label": "Find Many Golden Finger",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "GetPhas3rToLevel7",
+    "label": "Get Phas 3r To Level 7",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "EvolvePhas3r",
+    "label": "Evolve Phas 3r",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Survive20MinutesInSpace54",
+    "label": "Survive 20 Minutes In Space 54",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindBraveStory",
+    "label": "Find Brave Story",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "EvolveBattilia",
+    "label": "Evolve Battilia",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Banish40Items",
+    "label": "Banish 40 Items",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "CompleteAdv_AGarlicParadise",
+    "label": "Complete Adv_A Garlic Paradise",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "CompleteAdv_WorldOfLightAndDark",
+    "label": "Complete Adv_World Of Light And Dark",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "MOON19_CompleteAdv",
+    "label": "MOON 19_Complete Adv",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FOSC23_CompleteAdv",
+    "label": "FOSC 23_Complete Adv",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "CHAL21_CompleteAdv",
+    "label": "CHAL 21_Complete Adv",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "CompleteAdv_OdeToCastlevania",
+    "label": "Complete Adv_Ode To Castlevania",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindManyRosaries",
+    "label": "Find Many Rosaries",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "GetJavelinToLevel7",
+    "label": "Get Javelin To Level 7",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "EvolveJavelin",
+    "label": "Evolve Javelin",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Survive20MinutesInLaborratory",
+    "label": "Survive 20 Minutes In Laborratory",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindAnArmaDio",
+    "label": "Find An Arma Dio",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "HitManyEnemiesWithTrain",
+    "label": "Hit Many Enemies With Train",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FB_01_Find__Coffin",
+    "label": "FB_01_Find__Coffin",
+    "value": null,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_02_SurvivLong",
+    "label": "FB_02_Surviv Long",
+    "value": null,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_03_EvolveLong",
+    "label": "FB_03_Evolve Long",
+    "value": null,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_04_SurvivShort",
+    "label": "FB_04_Surviv Short",
+    "value": null,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_05_EvolveShort",
+    "label": "FB_05_Evolve Short",
+    "value": null,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_06_SurvivSpread",
+    "label": "FB_06_Surviv Spread",
+    "value": null,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_07_EvolveSpread",
+    "label": "FB_07_Evolve Spread",
+    "value": null,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_08_SurvivLaser",
+    "label": "FB_08_Surviv Laser",
+    "value": null,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_09_EvolveLaser",
+    "label": "FB_09_Evolve Laser",
+    "value": null,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_10_Find__Coffin",
+    "label": "FB_10_Find__Coffin",
+    "value": null,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_11_SurvivFire",
+    "label": "FB_11_Surviv Fire",
+    "value": null,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_12_EvolveFire",
+    "label": "FB_12_Evolve Fire",
+    "value": null,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_13_SurvivSonic",
+    "label": "FB_13_Surviv Sonic",
+    "value": null,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_14_EvolveSonic",
+    "label": "FB_14_Evolve Sonic",
+    "value": null,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_15_SurvivCross",
+    "label": "FB_15_Surviv Cross",
+    "value": null,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_16_EvolveCross",
+    "label": "FB_16_Evolve Cross",
+    "value": null,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_17_Find__Barrier",
+    "label": "FB_17_Find__Barrier",
+    "value": null,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_18_SurvivPrism",
+    "label": "FB_18_Surviv Prism",
+    "value": null,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_19_EvolvePrism",
+    "label": "FB_19_Evolve Prism",
+    "value": null,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_20_Find__Rapid",
+    "label": "FB_20_Find__Rapid",
+    "value": null,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_21_SurvivHoming",
+    "label": "FB_21_Surviv Homing",
+    "value": null,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_22_EvolveHoming",
+    "label": "FB_22_Evolve Homing",
+    "value": null,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_23_Find__Grenade",
+    "label": "FB_23_Find__Grenade",
+    "value": null,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_24_SurvivMines",
+    "label": "FB_24_Surviv Mines",
+    "value": null,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_25_EvolveMines",
+    "label": "FB_25_Evolve Mines",
+    "value": null,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_26_DefeatSpecial",
+    "label": "FB_26_Defeat Special",
+    "value": null,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_27_SurvivClaw",
+    "label": "FB_27_Surviv Claw",
+    "value": null,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_28_EvolveClaw",
+    "label": "FB_28_Evolve Claw",
+    "value": null,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_29_DefeatBoss",
+    "label": "FB_29_Defeat Boss",
+    "value": null,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "FB_30_Find__Map",
+    "label": "FB_30_Find__Map",
+    "value": null,
+    "group": "Operation Guns"
+  },
+  {
+    "id": "CastForbiddenBox",
+    "label": "Cast Forbidden Box",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "ObtainDarkasso",
+    "label": "Obtain Darkasso",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Dark_06Darkasso",
+    "label": "Dark_06 Darkasso",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Dark_01SpaceDude",
+    "label": "Dark_01 Space Dude",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Dark_10Santa",
+    "label": "Dark_10 Santa",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Dark_12Shemoon",
+    "label": "Dark_12 Shemoon",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Dark_21Robert",
+    "label": "Dark_21 Robert",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "TP_Leon_FindCoffin1",
+    "label": "TP_Leon_Find Coffin 1",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Sonia_HeartRefresh",
+    "label": "TP_Sonia_Heart Refresh",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Trevor_Boss1",
+    "label": "TP_Trevor_Boss 1",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Sypha_EvoDragonwater",
+    "label": "TP_Sypha_Evo Dragonwater",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Grant_Boss2",
+    "label": "TP_Grant_Boss 2",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Alucard_Boss3",
+    "label": "TP_Alucard_Boss 3",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Hector_KarmaCoins",
+    "label": "TP_Hector_Karma Coins",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Christopher_EvoSworb",
+    "label": "TP_Christopher_Evo Sworb",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Simon_EvoLemuria",
+    "label": "TP_Simon_Evo Lemuria",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Juste_EvoCurse",
+    "label": "TP_Juste_Evo Curse",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Julius_FindCoffin2",
+    "label": "TP_Julius_Find Coffin 2",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Yoko_Boss4",
+    "label": "TP_Yoko_Boss 4",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Soma_Boss5",
+    "label": "TP_Soma_Boss 5",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Jonhathan_EvoRPG",
+    "label": "TP_Jonhathan_Evo RPG",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Charlotte_Mirrors",
+    "label": "TP_Charlotte_Mirrors",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_John_EvoSpells",
+    "label": "TP_John_Evo Spells",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Eric_EvoJavelin",
+    "label": "TP_Eric_Evo Javelin",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Shanoa_EvoTwo",
+    "label": "TP_Shanoa_Evo Two",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Maria_unlock",
+    "label": "TP_Maria_unlock",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Richter_EvoBeasts",
+    "label": "TP_Richter_Evo Beasts",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Dracula_FindCoffin3",
+    "label": "TP_Dracula_Find Coffin 3",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Elizabeth",
+    "label": "TP_Elizabeth",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Shaft",
+    "label": "TP_Shaft",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Lisa",
+    "label": "TP_Lisa",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Quincy",
+    "label": "TP_Quincy",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Mina",
+    "label": "TP_Mina",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Vincent",
+    "label": "TP_Vincent",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Celia",
+    "label": "TP_Celia",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Sara",
+    "label": "TP_Sara",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Rinaldo",
+    "label": "TP_Rinaldo",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Maxim",
+    "label": "TP_Maxim",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Albus",
+    "label": "TP_Albus",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Isaac",
+    "label": "TP_Isaac",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Julia",
+    "label": "TP_Julia",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_StGermain",
+    "label": "TP_St Germain",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Nathan",
+    "label": "TP_Nathan",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Reinhardt_FindCoffin4",
+    "label": "TP_Reinhardt_Find Coffin 4",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Henry",
+    "label": "TP_Henry",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Carrie",
+    "label": "TP_Carrie",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Cornell",
+    "label": "TP_Cornell",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Selector_MorningStar",
+    "label": "TP_Selector_Morning Star",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Selector_SpectralSword",
+    "label": "TP_Selector_Spectral Sword",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Selector_CoatOfArms",
+    "label": "TP_Selector_Coat Of Arms",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Selector_Spellbook",
+    "label": "TP_Selector_Spellbook",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Selector_Diabologue",
+    "label": "TP_Selector_Diabologue",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Teleport1",
+    "label": "TP_Teleport 1",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Teleport2",
+    "label": "TP_Teleport 2",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Teleport3",
+    "label": "TP_Teleport 3",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Teleport4",
+    "label": "TP_Teleport 4",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Teleport5",
+    "label": "TP_Teleport 5",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Teleport6",
+    "label": "TP_Teleport 6",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_WHIP_1",
+    "label": "TP_Weapon_WHIP_1",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_WHIP_2",
+    "label": "TP_Weapon_WHIP_2",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_WHIP_3",
+    "label": "TP_Weapon_WHIP_3",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_WHIP_4",
+    "label": "TP_Weapon_WHIP_4",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_WHIP_5",
+    "label": "TP_Weapon_WHIP_5",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_WHIP_6",
+    "label": "TP_Weapon_WHIP_6",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_WHIP_7",
+    "label": "TP_Weapon_WHIP_7",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_WHIP_8",
+    "label": "TP_Weapon_WHIP_8",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_PROJECTILE_1",
+    "label": "TP_Weapon_PROJECTILE_1",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_PROJECTILE_2",
+    "label": "TP_Weapon_PROJECTILE_2",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_PROJECTILE_3",
+    "label": "TP_Weapon_PROJECTILE_3",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_PROJECTILE_4",
+    "label": "TP_Weapon_PROJECTILE_4",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_PROJECTILE_5",
+    "label": "TP_Weapon_PROJECTILE_5",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_PROJECTILE_6",
+    "label": "TP_Weapon_PROJECTILE_6",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_PROJECTILE_7",
+    "label": "TP_Weapon_PROJECTILE_7",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_PROJECTILE_8",
+    "label": "TP_Weapon_PROJECTILE_8",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_SPELL_1",
+    "label": "TP_Weapon_SPELL_1",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_SPELL_2",
+    "label": "TP_Weapon_SPELL_2",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_SPELL_3",
+    "label": "TP_Weapon_SPELL_3",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_SPELL_4",
+    "label": "TP_Weapon_SPELL_4",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_SPELL_5",
+    "label": "TP_Weapon_SPELL_5",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_SPELL_6",
+    "label": "TP_Weapon_SPELL_6",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_SPELL_7",
+    "label": "TP_Weapon_SPELL_7",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_SPELL_8",
+    "label": "TP_Weapon_SPELL_8",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_WEAPON_1",
+    "label": "TP_Weapon_WEAPON_1",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_WEAPON_2",
+    "label": "TP_Weapon_WEAPON_2",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_WEAPON_3",
+    "label": "TP_Weapon_WEAPON_3",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_WEAPON_4",
+    "label": "TP_Weapon_WEAPON_4",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_WEAPON_5",
+    "label": "TP_Weapon_WEAPON_5",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_WEAPON_6",
+    "label": "TP_Weapon_WEAPON_6",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_WEAPON_7",
+    "label": "TP_Weapon_WEAPON_7",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_WEAPON_8",
+    "label": "TP_Weapon_WEAPON_8",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_GLYPH_1",
+    "label": "TP_Weapon_GLYPH_1",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_GLYPH_2",
+    "label": "TP_Weapon_GLYPH_2",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_GLYPH_3",
+    "label": "TP_Weapon_GLYPH_3",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_GLYPH_4",
+    "label": "TP_Weapon_GLYPH_4",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_GLYPH_5",
+    "label": "TP_Weapon_GLYPH_5",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_GLYPH_6",
+    "label": "TP_Weapon_GLYPH_6",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_GLYPH_7",
+    "label": "TP_Weapon_GLYPH_7",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_GLYPH_8",
+    "label": "TP_Weapon_GLYPH_8",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_GLYPH_9",
+    "label": "TP_Weapon_GLYPH_9",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_GLYPH_10",
+    "label": "TP_Weapon_GLYPH_10",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_GLYPH_11",
+    "label": "TP_Weapon_GLYPH_11",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Weapon_GLYPH_12",
+    "label": "TP_Weapon_GLYPH_12",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Relic_LibrarianCard",
+    "label": "TP_Relic_Librarian Card",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Relic_BlackDisk",
+    "label": "TP_Relic_Black Disk",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Relic_PileOfSecrets",
+    "label": "TP_Relic_Pile Of Secrets",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Relic_CastleMap",
+    "label": "TP_Relic_Castle Map",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Lisa_WineGlass",
+    "label": "TP_Lisa_Wine Glass",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Shaft_Light",
+    "label": "TP_Shaft_Light",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Elizabeth_Dark",
+    "label": "TP_Elizabeth_Dark",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Vincent_Spells",
+    "label": "TP_Vincent_Spells",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Mina_Shield",
+    "label": "TP_Mina_Shield",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Albus_Confodere",
+    "label": "TP_Albus_Confodere",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Barlowe_Spite",
+    "label": "TP_Barlowe_Spite",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Isaac_Mace",
+    "label": "TP_Isaac_Mace",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_SaintGermain_Chauve",
+    "label": "TP_Saint Germain_Chauve",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Julia_Energy",
+    "label": "TP_Julia_Energy",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Sara_AlchemyWhip",
+    "label": "TP_Sara_Alchemy Whip",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Rinaldo_Flail",
+    "label": "TP_Rinaldo_Flail",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Quincy_PlatinumWhip",
+    "label": "TP_Quincy_Platinum Whip",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Maxim_HolyWhip",
+    "label": "TP_Maxim_Holy Whip",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Nathan_SonicWhip",
+    "label": "TP_Nathan_Sonic Whip",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Henry_Slash",
+    "label": "TP_Henry_Slash",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Cornell_Gun",
+    "label": "TP_Cornell_Gun",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Carrie_Custos",
+    "label": "TP_Carrie_Custos",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Selector_Candybox",
+    "label": "TP_Selector_Candybox",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Hyper_Castle",
+    "label": "TP_Hyper_Castle",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Selector_FamiliarForge",
+    "label": "TP_Selector_Familiar Forge",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "TP_Relic_EbonyCrimsonStone",
+    "label": "TP_Relic_Ebony Crimson Stone",
+    "value": null,
+    "group": "Ode to Castlevania"
+  },
+  {
+    "id": "FindAParmAegis",
+    "label": "Find A Parm Aegis",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindManyChickens",
+    "label": "Find Many Chickens",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindChickenClock",
+    "label": "Find Chicken Clock",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Defeat0EnemiesInCoop",
+    "label": "Defeat 0 Enemies In Coop",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "EvolveOfGaea",
+    "label": "Evolve Of Gaea",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Dark_02Gazebo",
+    "label": "Dark_02 Gazebo",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Dark_03Gazebo",
+    "label": "Dark_03 Gazebo",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Banish80Items",
+    "label": "Banish 80 Items",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "CompleteAdv_ToEndAnIceAge",
+    "label": "Complete Adv_To End An Ice Age",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "EvolveShawlOfGaea",
+    "label": "Evolve Shawl Of Gaea",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "EME_FindEmeraldDisk",
+    "label": "EME_Find Emerald Disk",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_FindCoffin1",
+    "label": "EME_Find Coffin 1",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_GetRapierToLV6",
+    "label": "EME_Get Rapier To LV 6",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_AllAttacksRapier",
+    "label": "EME_All Attacks Rapier",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_GetDualSwordsToLV6",
+    "label": "EME_Get Dual Swords To LV 6",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_AllAttacksDualSwords",
+    "label": "EME_All Attacks Dual Swords",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_GetPunchToLV6",
+    "label": "EME_Get Punch To LV 6",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_AllAttacksPunch",
+    "label": "EME_All Attacks Punch",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_GetKickToLV6",
+    "label": "EME_Get Kick To LV 6",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_AllAttacksKick",
+    "label": "EME_All Attacks Kick",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_GetCannonToLV6",
+    "label": "EME_Get Cannon To LV 6",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_AllAttacksCannon",
+    "label": "EME_All Attacks Cannon",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_GetPistolToLV6",
+    "label": "EME_Get Pistol To LV 6",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_AllAttacksPistol",
+    "label": "EME_All Attacks Pistol",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_GetMechToLV6",
+    "label": "EME_Get Mech To LV 6",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_AllAttacksMech",
+    "label": "EME_All Attacks Mech",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_GetKatanaToLV6",
+    "label": "EME_Get Katana To LV 6",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_AllAttacksKatana",
+    "label": "EME_All Attacks Katana",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_GetSpiritRingToLV6",
+    "label": "EME_Get Spirit Ring To LV 6",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_EvolveMagic",
+    "label": "EME_Evolve Magic",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_FindCoffin2",
+    "label": "EME_Find Coffin 2",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_GetLongSwordToLV6",
+    "label": "EME_Get Long Sword To LV 6",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_AllAttacksLongSword",
+    "label": "EME_All Attacks Long Sword",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_GetBloodToLV6",
+    "label": "EME_Get Blood To LV 6",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_AllAttacksBlood",
+    "label": "EME_All Attacks Blood",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_AllAttacksSpear",
+    "label": "EME_All Attacks Spear",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_AllAttacksGreatSword",
+    "label": "EME_All Attacks Great Sword",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_AllAttacksAxe",
+    "label": "EME_All Attacks Axe",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_AllAttacksKnife",
+    "label": "EME_All Attacks Knife",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_DefeatBoss25m",
+    "label": "EME_Defeat Boss 25m",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_DefeatBoss1Inverse",
+    "label": "EME_Defeat Boss 1 Inverse",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_DefeatBoss2Inverse",
+    "label": "EME_Defeat Boss 2 Inverse",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_DefeatBoss3Inverse",
+    "label": "EME_Defeat Boss 3 Inverse",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_DefeatBoss4Inverse",
+    "label": "EME_Defeat Boss 4 Inverse",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_DefeatBoss5Inverse",
+    "label": "EME_Defeat Boss 5 Inverse",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_DefeatBoss6Inverse",
+    "label": "EME_Defeat Boss 6 Inverse",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_MechSkinT",
+    "label": "EME_Mech Skin T",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_MechSkinM",
+    "label": "EME_Mech Skin M",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_MechDefeatAllBosses",
+    "label": "EME_Mech Defeat All Bosses",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_MechDefeatAllBossesInverse",
+    "label": "EME_Mech Defeat All Bosses Inverse",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "EME_EvolveSecretWeapon",
+    "label": "EME_Evolve Secret Weapon",
+    "value": null,
+    "group": "Emerald Diorama"
+  },
+  {
+    "id": "FindManyClovers",
+    "label": "Find Many Clovers",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "GetMagiStoneToLevel7",
+    "label": "Get Magi Stone To Level 7",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "EvolveMagiStone",
+    "label": "Evolve Magi Stone",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Survive20minutesInWestwoods",
+    "label": "Survive 20minutes In Westwoods",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindMasquerade",
+    "label": "Find Masquerade",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Dark_13Chula",
+    "label": "Dark_13 Chula",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "DefeatShootingEnemies",
+    "label": "Defeat Shooting Enemies",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "EvolveAmmoAppalate",
+    "label": "Evolve Ammo Appalate",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Dark_05Appunta",
+    "label": "Dark_05 Appunta",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "ReachLV80InverseWarehouse",
+    "label": "Reach LV 80 Inverse Warehouse",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindChaosLazulia",
+    "label": "Find Chaos Lazulia",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindRecycle",
+    "label": "Find Recycle",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "EvolveOfGaea_Fix",
+    "label": "Evolve Of Gaea_Fix",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindKaromasMana",
+    "label": "Find Karomas Mana",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Dark_18Challenge",
+    "label": "Dark_18 Challenge",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "LEM_FindJokerDisc",
+    "label": "LEM_Find Joker Disc",
+    "value": null,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_FindCoffin1",
+    "label": "LEM_Find Coffin 1",
+    "value": null,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_HighScore",
+    "label": "LEM_High Score",
+    "value": null,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_GetInfernolatroToLevel6",
+    "label": "LEM_Get Infernolatro To Level 6",
+    "value": null,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_EvolveInfernolatro",
+    "label": "LEM_Evolve Infernolatro",
+    "value": null,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_GetFibonacciToLevel6",
+    "label": "LEM_Get Fibonacci To Level 6",
+    "value": null,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_EvolveFibonacci",
+    "label": "LEM_Evolve Fibonacci",
+    "value": null,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_GetGrosMichelToLevel6",
+    "label": "LEM_Get Gros Michel To Level 6",
+    "value": null,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_EvolveGrosMichel",
+    "label": "LEM_Evolve Gros Michel",
+    "value": null,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_GetRichRocketToLevel6",
+    "label": "LEM_Get Rich Rocket To Level 6",
+    "value": null,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_EvolveRichRocket",
+    "label": "LEM_Evolve Rich Rocket",
+    "value": null,
+    "group": "Balatro"
+  },
+  {
+    "id": "LEM_DefeatBoss",
+    "label": "LEM_Defeat Boss",
+    "value": null,
+    "group": "Balatro"
+  },
+  {
+    "id": "Dark_19Challenge",
+    "label": "Dark_19 Challenge",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "FindManyVacuums",
+    "label": "Find Many Vacuums",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "EvolvePenshin",
+    "label": "Evolve Penshin",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Survive20minutesInLycaeum",
+    "label": "Survive 20minutes In Lycaeum",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Dark_08ParaKooleo",
+    "label": "Dark_08 Para Kooleo",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "BuyGreenEyesVizard",
+    "label": "Buy Green Eyes Vizard",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "BuySurvarocchi",
+    "label": "Buy Survarocchi",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "DefeatBatDragons",
+    "label": "Defeat Bat Dragons",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "EvolveUnearthlyBolt",
+    "label": "Evolve Unearthly Bolt",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "Dark_00Troubler",
+    "label": "Dark_00 Troubler",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "MOON19_GetLunarMightToLevel6",
+    "label": "MOON 19_Get Lunar Might To Level 6",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "MOON20_GetLunarBightToLevel6",
+    "label": "MOON 20_Get Lunar Bight To Level 6",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "MOON21_GetLunarSightToLevel6",
+    "label": "MOON 21_Get Lunar Sight To Level 6",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "MOON22_UniteLunarWeapons",
+    "label": "MOON 22_Unite Lunar Weapons",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "MOON23_ReachLevel80WithGekkojin",
+    "label": "MOON 23_Reach Level 80 With Gekkojin",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "MOON24_FindPearlMagatama",
+    "label": "MOON 24_Find Pearl Magatama",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "MOON25_EvolveFestiveWinds",
+    "label": "MOON 25_Evolve Festive Winds",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "BMN01_FindCoffinMalice",
+    "label": "BMN 01_Find Coffin Malice",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "BMN02_Survive15Malice",
+    "label": "BMN 02_Survive 15 Malice",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "BMN03_EvolveScarletNeedle",
+    "label": "BMN 03_Evolve Scarlet Needle",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "BMN04_Survive15Calogero",
+    "label": "BMN 04_Survive 15 Calogero",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "BMN05_EvolveAshella",
+    "label": "BMN 05_Evolve Ashella",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "BMN06_Survive15Ashtart",
+    "label": "BMN 06_Survive 15 Ashtart",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "BMN07_EvolveIncineration",
+    "label": "BMN 07_Evolve Incineration",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "BMN10_Survive15Sargon",
+    "label": "BMN 10_Survive 15 Sargon",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "BMN11_GetFireBallToLevel6",
+    "label": "BMN 11_Get Fire Ball To Level 6",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "BMN12_GetFireWallToLevel6",
+    "label": "BMN 12_Get Fire Wall To Level 6",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "BMN13_UniteFire",
+    "label": "BMN 13_Unite Fire",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "BMN14_GetMiseryToLevel9",
+    "label": "BMN 14_Get Misery To Level 9",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "BMN15_Die7TimesWithFool",
+    "label": "BMN 15_Die 7 Times With Fool",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "BMN16_GetScreamsToLevel7",
+    "label": "BMN 16_Get Screams To Level 7",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "BMN17_EvolveScreamsOfTheVoi",
+    "label": "BMN 17_Evolve Screams Of The Voi",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "BMN18_Defeat6000Witches",
+    "label": "BMN 18_Defeat 6000 Witches",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "BMN19_DefeatAllBosses",
+    "label": "BMN 19_Defeat All Bosses",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "BMN20_BreakStatue",
+    "label": "BMN 20_Break Statue",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "BMN21_DefeatBaal",
+    "label": "BMN 21_Defeat Baal",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "BMN22_Survive15BaalThasar",
+    "label": "BMN 22_Survive 15 Baal Thasar",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "BMN23_EvolveBlackenFirmam",
+    "label": "BMN 23_Evolve Blacken Firmam",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "BMN24_25MinuteBoss",
+    "label": "BMN 24_25 Minute Boss",
+    "value": null,
+    "group": null
+  },
+  {
+    "id": "BMN25_FindMap_Bloodmoon",
+    "label": "BMN 25_Find Map_Bloodmoon",
+    "value": null,
+    "group": null
+  }
+]

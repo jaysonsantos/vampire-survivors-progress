@@ -1,0 +1,56 @@
+# Hooks run with `prek run --all-files`. The tools come from flake.nix, so every
+# hook is `language: system`.
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v6.0.0
+    hooks:
+      - id: check-merge-conflict
+      - id: end-of-file-fixer
+      - id: trailing-whitespace
+      - id: check-yaml
+      - id: check-json
+        # biome.jsonc and tsconfig.json allow comments, which check-json rejects.
+        exclude: ^(biome\.jsonc|tsconfig\.json)$
+      - id: check-added-large-files
+
+  - repo: local
+    hooks:
+      - id: biome
+        name: biome
+        entry: biome check --write --no-errors-on-unmatched
+        language: system
+        types_or: [ts, javascript, json, svelte]
+        exclude: ^frontend/src/lib/generated/
+
+      - id: typos
+        name: typos
+        entry: typos --write-changes
+        language: system
+        types: [text]
+        exclude: ^(pnpm-lock\.yaml|frontend/src/lib/generated/)
+
+      - id: nixfmt
+        name: nixfmt
+        entry: nixfmt
+        language: system
+        files: \.nix$
+
+      - id: shellcheck
+        name: shellcheck
+        entry: shellcheck
+        language: system
+        types: [shell]
+
+      - id: typecheck
+        name: svelte-check
+        entry: pnpm run typecheck
+        language: system
+        pass_filenames: false
+        files: \.(ts|svelte|json)$
+
+      - id: unit-tests
+        name: node --test
+        entry: pnpm run test
+        language: system
+        pass_filenames: false
+        files: \.ts$
