@@ -27,7 +27,8 @@ repos:
         entry: typos --write-changes
         language: system
         types: [text]
-        exclude: ^(pnpm-lock\.yaml|frontend/src/lib/generated/)
+        # The sample save holds game identifiers, which are not words.
+        exclude: ^(pnpm-lock\.yaml|frontend/src/lib/generated/|frontend/static/sample-save\.json)
 
       - id: nixfmt
         name: nixfmt
